@@ -3239,16 +3239,16 @@ plan:
       verseBG: Psalms.103
       verseYV: PSA.103
 
-  - index: 275 <===
+  - index: 275
     verses:
     - titleCh: 哥林多後書 5.11-7.4
       titleEn: 2 Corinthians 5.11-7.4
       verseBG: 2 Corinthians.5.11-7.4
       verseYV: 2CO.5
-    - titleCh: 詩篇 22
-      titleEn: Psalms 22
-      verseBG: Psalms.22
-      verseYV: PSA.22
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
 
   - index: 276
     verses:
@@ -3256,10 +3256,10 @@ plan:
       titleEn: 2 Corinthians 7.5-16
       verseBG: 2 Corinthians.7.5-16
       verseYV: 2CO.7
-    - titleCh: 詩篇 23
-      titleEn: Psalms 23
-      verseBG: Psalms.23
-      verseYV: PSA.23
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
 
   - index: 277
     verses:
@@ -3267,10 +3267,10 @@ plan:
       titleEn: 2 Corinthians 8-9
       verseBG: 2 Corinthians.8-9
       verseYV: 2CO.8
-    - titleCh: 詩篇 24
-      titleEn: Psalms 24
-      verseBG: Psalms.24
-      verseYV: PSA.24
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
 
   - index: 278
     verses:
@@ -3278,10 +3278,10 @@ plan:
       titleEn: 2 Corinthians 10-11
       verseBG: 2 Corinthians.10-11
       verseYV: 2CO.10
-    - titleCh: 詩篇 25
-      titleEn: Psalms 25
-      verseBG: Psalms.25
-      verseYV: PSA.25
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
 
   - index: 279
     verses:
@@ -3289,10 +3289,10 @@ plan:
       titleEn: 2 Corinthians 12-13
       verseBG: 2 Corinthians.12-13
       verseYV: 2CO.12
-    - titleCh: 詩篇 26
-      titleEn: Psalms 26
-      verseBG: Psalms.26
-      verseYV: PSA.26
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
 
   - index: 280
     verses:
