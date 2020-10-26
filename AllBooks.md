@@ -4890,7 +4890,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書4:7-5:10&qs_version=CUVMPT">哥林多後書4:7-5:10</a> - <a href="https://bibleplan.github.io/daily/wk40-day1-daily.html">暫時與永恆</a></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書4:7-5:1&qs_version=CUVMPT">哥林多後書4:7-5:1</a> - <a href="https://bibleplan.github.io/daily/wk40-day1-daily.html">暫時與永恆</a></summary>
   <ul>
     <li>保羅的生命的榜樣是這樣的：身上常帶著基督的死，卻顯明基督復活的生命；外體雖然毀壞，內心卻一天新似一天；顧念看不見的永遠的榮耀，輕看所能看見的暫時的苦楚，因為這地上的帳篷雖然拆毀，卻得以穿上屬天的房屋。</li>
     <li>基督的門徒要立定心志、為主而活、討主喜悅，將榮耀歸給神。</li>
