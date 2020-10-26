@@ -3296,25 +3296,25 @@ plan:
 
   - index: 280
     verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 27
-      titleEn: Psalms 27
-      verseBG: Psalms.27
-      verseYV: PSA.27
-
-  - index: 281
-    verses:
     - titleCh: 加拉太書 1-2
       titleEn: Galatians 1-2
       verseBG: Galatians.1-2
       verseYV: GAL.1
-    - titleCh: 詩篇 28
-      titleEn: Psalms 28
-      verseBG: Psalms.28
-      verseYV: PSA.28
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 281
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
 
   - index: 282
     verses:
@@ -3322,10 +3322,10 @@ plan:
       titleEn: Galatians 3.1-4.20
       verseBG: Galatians.3.1-4.20
       verseYV: GAL.3
-    - titleCh: 詩篇 29
-      titleEn: Psalms 29
-      verseBG: Psalms.29
-      verseYV: PSA.29
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
 
   - index: 283
     verses:
@@ -3333,10 +3333,10 @@ plan:
       titleEn: Galatians 4.21-5.12
       verseBG: Galatians.4.21-5.12
       verseYV: GAL.4
-    - titleCh: 詩篇 30
-      titleEn: Psalms 30
-      verseBG: Psalms.30
-      verseYV: PSA.30
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
 
   - index: 284
     verses:
@@ -3344,10 +3344,10 @@ plan:
       titleEn: Galatians 5.13-6.18
       verseBG: Galatians.5.13-6.18
       verseYV: GAL.5
-    - titleCh: 詩篇 31
-      titleEn: Psalms 31
-      verseBG: Psalms.31
-      verseYV: PSA.31
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
 
   - index: 285
     verses:
@@ -3355,10 +3355,10 @@ plan:
       titleEn: Ephesians 1
       verseBG: Ephesians.1
       verseYV: EPH.1
-    - titleCh: 詩篇 32
-      titleEn: Psalms 32
-      verseBG: Psalms.32
-      verseYV: PSA.32
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
 
   - index: 286
     verses:
@@ -3366,32 +3366,32 @@ plan:
       titleEn: Ephesians 2
       verseBG: Ephesians.2
       verseYV: EPH.2
-    - titleCh: 詩篇 33
-      titleEn: Psalms 33
-      verseBG: Psalms.33
-      verseYV: PSA.33
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
 
   - index: 287
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 34
-      titleEn: Psalms 34
-      verseBG: Psalms.34
-      verseYV: PSA.34
-
-  - index: 288
     verses:
     - titleCh: 以弗所書 3.1-4.16
       titleEn: Ephesians 3.1-4.16
       verseBG: Ephesians.3.1-4.16
       verseYV: EPH.3
-    - titleCh: 詩篇 35
-      titleEn: Psalms 35
-      verseBG: Psalms.35
-      verseYV: PSA.35
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+
+  - index: 288
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
 
   - index: 289
     verses:
@@ -3399,10 +3399,10 @@ plan:
       titleEn: Ephesians 4.17-6.9
       verseBG: Ephesians.4.17-6.9
       verseYV: EPH.4
-    - titleCh: 詩篇 36
-      titleEn: Psalms 36
-      verseBG: Psalms.36
-      verseYV: PSA.36
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
 
   - index: 290
     verses:
@@ -3410,10 +3410,10 @@ plan:
       titleEn: Ephesians 6.10-24
       verseBG: Ephesians.6.10-24
       verseYV: EPH.6
-    - titleCh: 詩篇 37
-      titleEn: Psalms 37
-      verseBG: Psalms.37
-      verseYV: PSA.37
+    - titleCh: 詩篇 119:1-16
+      titleEn: Psalms 119:1-16
+      verseBG: Psalms.119:1-16
+      verseYV: PSA.119:1-16
 
   - index: 291
     verses:
@@ -3421,10 +3421,10 @@ plan:
       titleEn: Philippians 1.1-26
       verseBG: Philippians.1.1-26
       verseYV: PHP.1
-    - titleCh: 詩篇 38
-      titleEn: Psalms 38
-      verseBG: Psalms.38
-      verseYV: PSA.38
+    - titleCh: 詩篇 119:17-32
+      titleEn: Psalms 119:17-32
+      verseBG: Psalms.119:17-32
+      verseYV: PSA.119:17-32
 
   - index: 292
     verses:
@@ -3432,10 +3432,10 @@ plan:
       titleEn: Philippians 1.27-2.30
       verseBG: Philippians.1.27-2.30
       verseYV: PHP.1
-    - titleCh: 詩篇 39
-      titleEn: Psalms 39
-      verseBG: Psalms.39
-      verseYV: PSA.39
+    - titleCh: 詩篇 119:33-48
+      titleEn: Psalms 119:33-48
+      verseBG: Psalms.119:33-48
+      verseYV: PSA.119:33-48
 
   - index: 293
     verses:
@@ -3443,32 +3443,32 @@ plan:
       titleEn: Philippians 3.1-4.3
       verseBG: Philippians.3.1-4.3
       verseYV: PHP.3
-    - titleCh: 詩篇 40
-      titleEn: Psalms 40
-      verseBG: Psalms.40
-      verseYV: PSA.40
+    - titleCh: 詩篇 119:49-64
+      titleEn: Psalms 119:49-64
+      verseBG: Psalms.119:49-64
+      verseYV: PSA.119:49-64
 
   - index: 294
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 41
-      titleEn: Psalms 41
-      verseBG: Psalms.41
-      verseYV: PSA.41
-
-  - index: 295
     verses:
     - titleCh: 腓立比書 4.4-23
       titleEn: Philippians 4.4-23
       verseBG: Philippians.4.4-23
       verseYV: PHP.4
-    - titleCh: 詩篇 42
-      titleEn: Psalms 42
-      verseBG: Psalms.42
-      verseYV: PSA.42
+    - titleCh: 詩篇 119:65-80
+      titleEn: Psalms 119:65-80
+      verseBG: Psalms.119:65-80
+      verseYV: PSA.119:65-80
+
+  - index: 295
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119:81-96
+      titleEn: Psalms 119:81-96
+      verseBG: Psalms.119:81-96
+      verseYV: PSA.119:81-96
 
   - index: 296
     verses:
@@ -3476,10 +3476,10 @@ plan:
       titleEn: Colossians 1.1-2.5
       verseBG: Colossians.1.1-2.5
       verseYV: COL.1
-    - titleCh: 詩篇 43
-      titleEn: Psalms 43
-      verseBG: Psalms.43
-      verseYV: PSA.43
+    - titleCh: 詩篇 119:97-112
+      titleEn: Psalms 119:97-112
+      verseBG: Psalms.119:97-112
+      verseYV: PSA.119:97-112
 
   - index: 297
     verses:
@@ -3487,10 +3487,10 @@ plan:
       titleEn: Colossians 2.6-3.11
       verseBG: Colossians.2.6-3.11
       verseYV: COL.2
-    - titleCh: 詩篇 44
-      titleEn: Psalms 44
-      verseBG: Psalms.44
-      verseYV: PSA.44
+    - titleCh: 詩篇 119:113-128
+      titleEn: Psalms 119:113-128
+      verseBG: Psalms.119:113-128
+      verseYV: PSA.119:113-128
 
   - index: 298
     verses:
@@ -3498,10 +3498,10 @@ plan:
       titleEn: Colossians 3.12-4.18
       verseBG: Colossians.3.12-4.18
       verseYV: COL.3
-    - titleCh: 詩篇 45
-      titleEn: Psalms 45
-      verseBG: Psalms.45
-      verseYV: PSA.45
+    - titleCh: 詩篇 119:129-144
+      titleEn: Psalms 119:129-144
+      verseBG: Psalms.119:129-144
+      verseYV: PSA.119:129-144
 
   - index: 299
     verses:
@@ -3509,10 +3509,10 @@ plan:
       titleEn: 1 Thessalonians 1
       verseBG: 1 Thessalonians.1
       verseYV: 1TH.1
-    - titleCh: 詩篇 46
-      titleEn: Psalms 46
-      verseBG: Psalms.46
-      verseYV: PSA.46
+    - titleCh: 詩篇 119:145-160
+      titleEn: Psalms 119:145-160
+      verseBG: Psalms.119:145-160
+      verseYV: PSA.119:145-160
 
   - index: 300
     verses:
@@ -3520,32 +3520,32 @@ plan:
       titleEn: 1 Thessalonians 2.1-16
       verseBG: 1 Thessalonians.2.1-16
       verseYV: 1TH.2
-    - titleCh: 詩篇 47
-      titleEn: Psalms 47
-      verseBG: Psalms.47
-      verseYV: PSA.47
+    - titleCh: 詩篇 119:161-176
+      titleEn: Psalms 119:161-176
+      verseBG: Psalms.119:161-176
+      verseYV: PSA.119:161-176
 
   - index: 301
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 48
-      titleEn: Psalms 48
-      verseBG: Psalms.48
-      verseYV: PSA.48
-
-  - index: 302
     verses:
     - titleCh: 帖撒羅尼迦前書 2.17-3.13
       titleEn: 1 Thessalonians 2.17-3.13
       verseBG: 1 Thessalonians.2.17-3.13
       verseYV: 1TH.2
-    - titleCh: 詩篇 49
-      titleEn: Psalms 49
-      verseBG: Psalms.49
-      verseYV: PSA.49
+    - titleCh: 詩篇 120
+      titleEn: Psalms 120
+      verseBG: Psalms.120
+      verseYV: PSA.120
+
+  - index: 302
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 121
+      titleEn: Psalms 121
+      verseBG: Psalms.121
+      verseYV: PSA.121
 
   - index: 303
     verses:
@@ -3553,10 +3553,10 @@ plan:
       titleEn: 1 Thessalonians 4.1-12
       verseBG: 1 Thessalonians.4.1-12
       verseYV: 1TH.4
-    - titleCh: 詩篇 50
-      titleEn: Psalms 50
-      verseBG: Psalms.50
-      verseYV: PSA.50
+    - titleCh: 詩篇 122
+      titleEn: Psalms 122
+      verseBG: Psalms.122
+      verseYV: PSA.122
 
   - index: 304
     verses:
@@ -3564,10 +3564,10 @@ plan:
       titleEn: 1 Thessalonians 4.13-5.11
       verseBG: 1 Thessalonians.4.13-5.11
       verseYV: 1TH.4
-    - titleCh: 詩篇 51
-      titleEn: Psalms 51
-      verseBG: Psalms.51
-      verseYV: PSA.51
+    - titleCh: 詩篇 123
+      titleEn: Psalms 123
+      verseBG: Psalms.123
+      verseYV: PSA.123
 
   - index: 305
     verses:
@@ -3575,10 +3575,10 @@ plan:
       titleEn: 1 Thessalonians 5.12-28
       verseBG: 1 Thessalonians.5.12-28
       verseYV: 1TH.5
-    - titleCh: 詩篇 52
-      titleEn: Psalms 52
-      verseBG: Psalms.52
-      verseYV: PSA.52
+    - titleCh: 詩篇 124
+      titleEn: Psalms 124
+      verseBG: Psalms.124
+      verseYV: PSA.124
 
   - index: 306
     verses:
@@ -3586,10 +3586,10 @@ plan:
       titleEn: 2 Thessalonians 1
       verseBG: 2 Thessalonians.1
       verseYV: 2TH.1
-    - titleCh: 詩篇 53
-      titleEn: Psalms 53
-      verseBG: Psalms.53
-      verseYV: PSA.53
+    - titleCh: 詩篇 125
+      titleEn: Psalms 125
+      verseBG: Psalms.125
+      verseYV: PSA.125
 
   - index: 307
     verses:
@@ -3597,32 +3597,32 @@ plan:
       titleEn: 2 Thessalonians 2.1-12
       verseBG: 2 Thessalonians.2.1-12
       verseYV: 2TH.2
-    - titleCh: 詩篇 54
-      titleEn: Psalms 54
-      verseBG: Psalms.54
-      verseYV: PSA.54
+    - titleCh: 詩篇 126
+      titleEn: Psalms 126
+      verseBG: Psalms.126
+      verseYV: PSA.126
 
   - index: 308
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 55
-      titleEn: Psalms 55
-      verseBG: Psalms.55
-      verseYV: PSA.55
-
-  - index: 309
     verses:
     - titleCh: 帖撒羅尼迦後書 2.13-3.18
       titleEn: 2 Thessalonians 2.13-3.18
       verseBG: 2 Thessalonians.2.13-3.18
       verseYV: 2TH.2
-    - titleCh: 詩篇 56
-      titleEn: Psalms 56
-      verseBG: Psalms.56
-      verseYV: PSA.56
+    - titleCh: 詩篇 127
+      titleEn: Psalms 127
+      verseBG: Psalms.127
+      verseYV: PSA.127
+
+  - index: 309
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 128
+      titleEn: Psalms 128
+      verseBG: Psalms.128
+      verseYV: PSA.128
 
   - index: 310
     verses:
@@ -3630,10 +3630,10 @@ plan:
       titleEn: 1 Timothy 1
       verseBG: 1 Timothy.1
       verseYV: 1TI.1
-    - titleCh: 詩篇 57
-      titleEn: Psalms 57
-      verseBG: Psalms.57
-      verseYV: PSA.57
+    - titleCh: 詩篇 129
+      titleEn: Psalms 129
+      verseBG: Psalms.129
+      verseYV: PSA.129
 
   - index: 311
     verses:
@@ -3641,10 +3641,10 @@ plan:
       titleEn: 1 Timothy 2
       verseBG: 1 Timothy.2
       verseYV: 1TI.2
-    - titleCh: 詩篇 58
-      titleEn: Psalms 58
-      verseBG: Psalms.58
-      verseYV: PSA.58
+    - titleCh: 詩篇 130
+      titleEn: Psalms 130
+      verseBG: Psalms.130
+      verseYV: PSA.130
 
   - index: 312
     verses:
@@ -3652,10 +3652,10 @@ plan:
       titleEn: 1 Timothy 3.1-13
       verseBG: 1 Timothy.3.1-13
       verseYV: 1TI.3
-    - titleCh: 詩篇 59
-      titleEn: Psalms 59
-      verseBG: Psalms.59
-      verseYV: PSA.59
+    - titleCh: 詩篇 131
+      titleEn: Psalms 131
+      verseBG: Psalms.131
+      verseYV: PSA.131
 
   - index: 313
     verses:
@@ -3663,10 +3663,10 @@ plan:
       titleEn: 1 Timothy 3.14-4.16
       verseBG: 1 Timothy.3.14-4.16
       verseYV: 1TI.3
-    - titleCh: 詩篇 60
-      titleEn: Psalms 60
-      verseBG: Psalms.60
-      verseYV: PSA.60
+    - titleCh: 詩篇 132
+      titleEn: Psalms 132
+      verseBG: Psalms.132
+      verseYV: PSA.132
 
   - index: 314
     verses:
@@ -3674,32 +3674,32 @@ plan:
       titleEn: 1 Timothy 5.1-6.2b
       verseBG: 1 Timothy.5.1-6.2b
       verseYV: 1TI.5
-    - titleCh: 詩篇 61
-      titleEn: Psalms 61
-      verseBG: Psalms.61
-      verseYV: PSA.61
+    - titleCh: 詩篇 133
+      titleEn: Psalms 133
+      verseBG: Psalms.133
+      verseYV: PSA.133
 
   - index: 315
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 62
-      titleEn: Psalms 62
-      verseBG: Psalms.62
-      verseYV: PSA.62
-
-  - index: 316
     verses:
     - titleCh: 提摩太前書 6.2c-21
       titleEn: 1 Timothy 6.2c-21
       verseBG: 1 Timothy.6.2c-21
       verseYV: 1TI.6
-    - titleCh: 詩篇 63
-      titleEn: Psalms 63
-      verseBG: Psalms.63
-      verseYV: PSA.63
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
+
+  - index: 316
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
 
   - index: 317
     verses:
@@ -3707,10 +3707,10 @@ plan:
       titleEn: 2 Timothy 1.1-2.13
       verseBG: 2 Timothy.1.1-2.13
       verseYV: 2TI.1
-    - titleCh: 詩篇 64
-      titleEn: Psalms 64
-      verseBG: Psalms.64
-      verseYV: PSA.64
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
 
   - index: 318
     verses:
