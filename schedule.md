@@ -3010,9 +3010,9 @@ plan:
 
   - index: 274
     verses:
-    - titleCh: 哥林多後書 4.7-5.1
-      titleEn: 2 Corinthians 4.7-5.1
-      verseBG: 2 Corinthians.4.7-5.1
+    - titleCh: 哥林多後書 4.7-5.10
+      titleEn: 2 Corinthians 4.7-5.10
+      verseBG: 2 Corinthians.4.7-5.10
       verseYV: 2CO.4
     - titleCh: 詩篇 21
       titleEn: Psalms 21
