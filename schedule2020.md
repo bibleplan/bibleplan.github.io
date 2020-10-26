@@ -3718,10 +3718,10 @@ plan:
       titleEn: 2 Timothy 2.14-3.9
       verseBG: 2 Timothy.2.14-3.9
       verseYV: 2TI.2
-    - titleCh: 詩篇 65
-      titleEn: Psalms 65
-      verseBG: Psalms.65
-      verseYV: PSA.65
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
 
   - index: 319
     verses:
@@ -3729,10 +3729,10 @@ plan:
       titleEn: 2 Timothy 3.10-4.22
       verseBG: 2 Timothy.3.10-4.22
       verseYV: 2TI.3
-    - titleCh: 詩篇 66
-      titleEn: Psalms 66
-      verseBG: Psalms.66
-      verseYV: PSA.66
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
 
   - index: 320
     verses:
@@ -3740,10 +3740,10 @@ plan:
       titleEn: Titus 1-2
       verseBG: Titus.1-2
       verseYV: TIT.1
-    - titleCh: 詩篇 67
-      titleEn: Psalms 67
-      verseBG: Psalms.67
-      verseYV: PSA.67
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
 
   - index: 321
     verses:
@@ -3751,32 +3751,32 @@ plan:
       titleEn: Titus 3
       verseBG: Titus.3
       verseYV: TIT.3
-    - titleCh: 詩篇 68
-      titleEn: Psalms 68
-      verseBG: Psalms.68
-      verseYV: PSA.68
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
 
   - index: 322
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 69
-      titleEn: Psalms 69
-      verseBG: Psalms.69
-      verseYV: PSA.69
-
-  - index: 323
     verses:
     - titleCh: 腓利門書 1
       titleEn: Philemon 1
       verseBG: Philemon.1
       verseYV: PHM.1
-    - titleCh: 詩篇 70
-      titleEn: Psalms 70
-      verseBG: Psalms.70
-      verseYV: PSA.70
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+
+  - index: 323
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
 
   - index: 324
     verses:
@@ -3784,10 +3784,10 @@ plan:
       titleEn: Hebrews 1
       verseBG: Hebrews.1
       verseYV: HEB.1
-    - titleCh: 詩篇 71
-      titleEn: Psalms 71
-      verseBG: Psalms.71
-      verseYV: PSA.71
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
 
   - index: 325
     verses:
@@ -3795,10 +3795,10 @@ plan:
       titleEn: Hebrews 2
       verseBG: Hebrews.2
       verseYV: HEB.2
-    - titleCh: 詩篇 72
-      titleEn: Psalms 72
-      verseBG: Psalms.72
-      verseYV: PSA.72
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
 
   - index: 326
     verses:
@@ -3806,10 +3806,10 @@ plan:
       titleEn: Hebrews 3.1-4.13
       verseBG: Hebrews.3.1-4.13
       verseYV: HEB.3
-    - titleCh: 詩篇 73
-      titleEn: Psalms 73
-      verseBG: Psalms.73
-      verseYV: PSA.73
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
 
   - index: 327
     verses:
@@ -3817,10 +3817,10 @@ plan:
       titleEn: Hebrews 4.14-6.20
       verseBG: Hebrews.4.14-6.20
       verseYV: HEB.4
-    - titleCh: 詩篇 74
-      titleEn: Psalms 74
-      verseBG: Psalms.74
-      verseYV: PSA.74
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
 
   - index: 328
     verses:
@@ -3828,32 +3828,32 @@ plan:
       titleEn: Hebrews 7
       verseBG: Hebrews.7
       verseYV: HEB.7
-    - titleCh: 詩篇 75
-      titleEn: Psalms 75
-      verseBG: Psalms.75
-      verseYV: PSA.75
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
 
   - index: 329
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 76
-      titleEn: Psalms 76
-      verseBG: Psalms.76
-      verseYV: PSA.76
-
-  - index: 330
     verses:
     - titleCh: 希伯來書 8
       titleEn: Hebrews 8
       verseBG: Hebrews.8
       verseYV: HEB.8
-    - titleCh: 詩篇 77
-      titleEn: Psalms 77
-      verseBG: Psalms.77
-      verseYV: PSA.77
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
+
+  - index: 330
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
 
   - index: 331
     verses:
@@ -3861,10 +3861,10 @@ plan:
       titleEn: Hebrews 9.1-10.18
       verseBG: Hebrews.9.1-10.18
       verseYV: HEB.9
-    - titleCh: 詩篇 78
-      titleEn: Psalms 78
-      verseBG: Psalms.78
-      verseYV: PSA.78
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
 
   - index: 332
     verses:
@@ -3872,10 +3872,10 @@ plan:
       titleEn: Hebrews 10.19-39
       verseBG: Hebrews.10.19-39
       verseYV: HEB.10
-    - titleCh: 詩篇 79
-      titleEn: Psalms 79
-      verseBG: Psalms.79
-      verseYV: PSA.79
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Proverbs.1
+      verseYV: PRO.1
 
   - index: 333
     verses:
@@ -3883,10 +3883,10 @@ plan:
       titleEn: Hebrews 11
       verseBG: Hebrews.11
       verseYV: HEB.11
-    - titleCh: 詩篇 80
-      titleEn: Psalms 80
-      verseBG: Psalms.80
-      verseYV: PSA.80
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
 
   - index: 334
     verses:
@@ -3894,10 +3894,10 @@ plan:
       titleEn: Hebrews 12
       verseBG: Hebrews.12
       verseYV: HEB.12
-    - titleCh: 詩篇 81
-      titleEn: Psalms 81
-      verseBG: Psalms.81
-      verseYV: PSA.81
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
 
   - index: 335
     verses:
@@ -3905,9 +3905,9 @@ plan:
       titleEn: Hebrews 13
       verseBG: Hebrews.13
       verseYV: HEB.13
-    - titleCh: 詩篇 82
-      titleEn: Psalms 82
-      verseBG: Psalms.82
-      verseYV: PSA.82
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
 
 ---
