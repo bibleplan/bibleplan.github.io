@@ -4163,136 +4163,136 @@ plan:
       verseBG: Proverbs.27
       verseYV: PRO.27
 
-  - index: 382
+  - index: 359
     verses:
     - titleCh: 撒母耳記下 8-9
       titleEn: 2 Samuel.8-9
       verseBG: 2 Samuel.8-9
       verseYV: 2SA.8
-    - titleCh: 詩篇 119:161-176
-      titleEn: Psalms 119:161-176
-      verseBG: Psalms.119:161-176
-      verseYV: PSA.119:161-176
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
 
-  - index: 383
+  - index: 360
     verses:
     - titleCh: 撒母耳記下 10-11
       titleEn: 2 Samuel.10-11
       verseBG: 2 Samuel.10-11
       verseYV: 2SA.10
-    - titleCh: 詩篇 120
-      titleEn: Psalms 120
-      verseBG: Psalms.120
-      verseYV: PSA.120
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
 
-  - index: 384
+  - index: 361
     verses:
     - titleCh: 撒母耳記下 12
       titleEn: 2 Samuel.12
       verseBG: 2 Samuel.12
       verseYV: 2SA.12
-    - titleCh: 詩篇 121
-      titleEn: Psalms 121
-      verseBG: Psalms.121
-      verseYV: PSA.121
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
 
-  - index: 386
+  - index: 362
     verses:
     - titleCh: 撒母耳記下 13-14
       titleEn: 2 Samuel.13-14
       verseBG: 2 Samuel.13-14
       verseYV: 2SA.13
-    - titleCh: 詩篇 123
-      titleEn: Psalms 123
-      verseBG: Psalms.123
-      verseYV: PSA.123
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
 
-  - index: 387
+  - index: 363
     verses:
     - titleCh: 撒母耳記下 15-16
       titleEn: 2 Samuel.15-16
       verseBG: 2 Samuel.15-16
       verseYV: 2SA.15
-    - titleCh: 詩篇 124
-      titleEn: Psalms 124
-      verseBG: Psalms.124
-      verseYV: PSA.124
+    - titleCh: 箴言 32
+      titleEn: Proverbs 32
+      verseBG: Proverbs.32
+      verseYV: PRO.32
 
-  - index: 388
+  - index: 364
     verses:
     - titleCh: 撒母耳記下 17-18
       titleEn: 2 Samuel.17-18
       verseBG: 2 Samuel.17-18
       verseYV: 2SA.17
-    - titleCh: 詩篇 125
-      titleEn: Psalms 125
-      verseBG: Psalms.125
-      verseYV: PSA.125
+    - titleCh: 箴言 33
+      titleEn: Proverbs 33
+      verseBG: Proverbs.33
+      verseYV: PRO.33
 
-  - index: 389
-    verses:
-    - titleCh: 撒母耳記下 19-20
-      titleEn: 2 Samuel.19-20
-      verseBG: 2 Samuel.19-20
-      verseYV: 2SA.19
-    - titleCh: 詩篇 126
-      titleEn: Psalms 126
-      verseBG: Psalms.126
-      verseYV: PSA.126
-
-  - index: 390
-    verses:
-    - titleCh: 撒母耳記下 21
-      titleEn: 2 Samuel.21
-      verseBG: 2 Samuel.21
-      verseYV: 2SA.21
-    - titleCh: 詩篇 127
-      titleEn: Psalms 127
-      verseBG: Psalms.127
-      verseYV: PSA.127
-
-  - index: 391
-    verses:
-    - titleCh: 撒母耳記下 22.1-23.7
-      titleEn: 2 Samuel.22.1-23.7
-      verseBG: 2 Samuel.22.1-23.7
-      verseYV: 2SA.22
-    - titleCh: 詩篇 128
-      titleEn: Psalms 128
-      verseBG: Psalms.128
-      verseYV: PSA.128
-
-  - index: 392
+  - index: 365
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 129
-      titleEn: Psalms 129
-      verseBG: Psalms.129
-      verseYV: PSA.129
+    - titleCh: 箴言 34
+      titleEn: Proverbs 34
+      verseBG: Proverbs.34
+      verseYV: PRO.34
 
-  - index: 393
+  - index: 366
+    verses:
+    - titleCh: 撒母耳記下 19-20
+      titleEn: 2 Samuel.19-20
+      verseBG: 2 Samuel.19-20
+      verseYV: 2SA.19
+    - titleCh: 箴言 35
+      titleEn: Proverbs 35
+      verseBG: Proverbs.35
+      verseYV: PRO.35
+
+  - index: 367
+    verses:
+    - titleCh: 撒母耳記下 21
+      titleEn: 2 Samuel.21
+      verseBG: 2 Samuel.21
+      verseYV: 2SA.21
+    - titleCh: 箴言 36
+      titleEn: Proverbs 36
+      verseBG: Proverbs.36
+      verseYV: PRO.36
+
+  - index: 368
+    verses:
+    - titleCh: 撒母耳記下 22.1-23.7
+      titleEn: 2 Samuel.22.1-23.7
+      verseBG: 2 Samuel.22.1-23.7
+      verseYV: 2SA.22
+    - titleCh: 箴言 37
+      titleEn: Proverbs 37
+      verseBG: Proverbs.37
+      verseYV: PRO.37
+
+  - index: 369
     verses:
     - titleCh: 撒母耳記下 23.8-39
       titleEn: 2 Samuel.23.8-39
       verseBG: 2 Samuel.23.8-39
       verseYV: 2SA.23
-    - titleCh: 詩篇 130
-      titleEn: Psalms 130
-      verseBG: Psalms.130
-      verseYV: PSA.130
+    - titleCh: 箴言 38
+      titleEn: Proverbs 38
+      verseBG: Proverbs.38
+      verseYV: PRO.38
 
-  - index: 394
+  - index: 370
     verses:
     - titleCh: 撒母耳記下 24
       titleEn: 2 Samuel.24
       verseBG: 2 Samuel.24
       verseYV: 2SA.24
-    - titleCh: 詩篇 131
-      titleEn: Psalms 131
-      verseBG: Psalms.131
-      verseYV: PSA.131
+    - titleCh: 箴言 39
+      titleEn: Proverbs 39
+      verseBG: Proverbs.39
+      verseYV: PRO.39
 
 ---
