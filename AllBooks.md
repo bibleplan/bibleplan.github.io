@@ -5357,7 +5357,7 @@ layout: post
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書12&qs_version=CUVMPT">希伯來書12</a> - <a href="https://bibleplan.github.io/daily/wk48-day5-daily.html">神的管教</a></summary>
   <ul>
    <li>神對所有兒女都有管教。</li>
-   <li>地上的父親隨己意管教我們，但是天父管教我們是為了讓我們的益處，使我們在祂的聖潔上有份。</li>
+   <li>地上的父親隨己意管教我們，但是天父管教我們是為了讓我們得益處，使我們在祂的聖潔上有份。</li>
    <li>我們要追求與眾人和睦，並要追求聖潔，非聖潔沒有人能見主。</li>
    <li>我們既得了不能震動的國，就當感恩，照神所喜悅的，用虔誠、敬畏的心侍奉神，因為我們的神乃是烈火。</li>
   </ul>
