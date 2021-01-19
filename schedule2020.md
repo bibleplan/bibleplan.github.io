@@ -4213,10 +4213,10 @@ plan:
       titleEn: 2 Samuel.15-16
       verseBG: 2 Samuel.15-16
       verseYV: 2SA.15
-    - titleCh: 箴言 32
-      titleEn: Proverbs 32
-      verseBG: Proverbs.32
-      verseYV: PRO.32
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
 
   - index: 364
     verses:
@@ -4224,10 +4224,10 @@ plan:
       titleEn: 2 Samuel.17-18
       verseBG: 2 Samuel.17-18
       verseYV: 2SA.17
-    - titleCh: 箴言 33
-      titleEn: Proverbs 33
-      verseBG: Proverbs.33
-      verseYV: PRO.33
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
 
   - index: 365
     verses:
@@ -4235,10 +4235,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 箴言 34
-      titleEn: Proverbs 34
-      verseBG: Proverbs.34
-      verseYV: PRO.34
+    - titleCh: 詩篇 3
+      titleEn: Psalms 3
+      verseBG: Psalms.3
+      verseYV: PSA.3
 
   - index: 366
     verses:
@@ -4246,10 +4246,10 @@ plan:
       titleEn: 2 Samuel.19-20
       verseBG: 2 Samuel.19-20
       verseYV: 2SA.19
-    - titleCh: 箴言 35
-      titleEn: Proverbs 35
-      verseBG: Proverbs.35
-      verseYV: PRO.35
+    - titleCh: 詩篇 4
+      titleEn: Psalms 4
+      verseBG: Psalms.4
+      verseYV: PSA.4
 
   - index: 367
     verses:
@@ -4257,10 +4257,10 @@ plan:
       titleEn: 2 Samuel.21
       verseBG: 2 Samuel.21
       verseYV: 2SA.21
-    - titleCh: 箴言 36
-      titleEn: Proverbs 36
-      verseBG: Proverbs.36
-      verseYV: PRO.36
+    - titleCh: 詩篇 5
+      titleEn: Psalms 5
+      verseBG: Psalms.5
+      verseYV: PSA.5
 
   - index: 368
     verses:
@@ -4268,10 +4268,10 @@ plan:
       titleEn: 2 Samuel.22.1-23.7
       verseBG: 2 Samuel.22.1-23.7
       verseYV: 2SA.22
-    - titleCh: 箴言 37
-      titleEn: Proverbs 37
-      verseBG: Proverbs.37
-      verseYV: PRO.37
+    - titleCh: 詩篇 6
+      titleEn: Psalms 6
+      verseBG: Psalms.6
+      verseYV: PSA.6
 
   - index: 369
     verses:
@@ -4279,10 +4279,10 @@ plan:
       titleEn: 2 Samuel.23.8-39
       verseBG: 2 Samuel.23.8-39
       verseYV: 2SA.23
-    - titleCh: 箴言 38
-      titleEn: Proverbs 38
-      verseBG: Proverbs.38
-      verseYV: PRO.38
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
 
   - index: 370
     verses:
@@ -4290,9 +4290,9 @@ plan:
       titleEn: 2 Samuel.24
       verseBG: 2 Samuel.24
       verseYV: 2SA.24
-    - titleCh: 箴言 39
-      titleEn: Proverbs 39
-      verseBG: Proverbs.39
-      verseYV: PRO.39
+    - titleCh: 詩篇 8
+      titleEn: Psalms 8
+      verseBG: Psalms.8
+      verseYV: PSA.8
 
 ---
