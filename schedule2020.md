@@ -4625,4 +4625,235 @@ plan:
       verseBG: Psalms.38
       verseYV: PSA.38
 
+  - index: 421
+    verses:
+    - titleCh: 列王紀下 22.1-23.35
+      titleEn: 2 Kings.22.1-23.35
+      verseBG: 2 Kings.22.1-23.35
+      verseYV: 2KI.22
+    - titleCh: 詩篇 39
+      titleEn: Psalms 39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+
+  - index: 422
+    verses:
+    - titleCh: 列王紀下 23.36-25.3
+      titleEn: 2 Kings.23.36-25.3
+      verseBG: 2 Kings.23.36-25.3
+      verseYV: 2KI.23
+    - titleCh: 詩篇 40
+      titleEn: Psalms 40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+
+  - index: 423
+    verses:
+    - titleCh: 歷代志上 1-2
+      titleEn: 1 Chronicles.1-2
+      verseBG: 1 Chronicles.1-2
+      verseYV: 1CH.1
+    - titleCh: 詩篇 41
+      titleEn: Psalms 41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+
+  - index: 424
+    verses:
+    - titleCh: 歷代志上 3-4
+      titleEn: 1 Chronicles.3-4
+      verseBG: 1 Chronicles.3-4
+      verseYV: 1CH.3
+    - titleCh: 詩篇 42
+      titleEn: Psalms 42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+
+  - index: 425
+    verses:
+    - titleCh: 歷代志上 5-6
+      titleEn: 1 Chronicles.5-6
+      verseBG: 1 Chronicles.5-6
+      verseYV: 1CH.5
+    - titleCh: 詩篇 43
+      titleEn: Psalms 43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+
+  - index: 426
+    verses:
+    - titleCh: 歷代志上 7-8
+      titleEn: 1 Chronicles.7-8
+      verseBG: 1 Chronicles.7-8
+      verseYV: 1CH.7
+    - titleCh: 詩篇 44
+      titleEn: Psalms 44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+
+  - index: 427
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 45
+      titleEn: Psalms 45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+
+  - index: 428
+    verses:
+    - titleCh: 歷代志上 9
+      titleEn: 1 Chronicles.9
+      verseBG: 1 Chronicles.9
+      verseYV: 1CH.9
+    - titleCh: 詩篇 46
+      titleEn: Psalms 46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+
+  - index: 429
+    verses:
+    - titleCh: 歷代志上 10
+      titleEn: 1 Chronicles.10
+      verseBG: 1 Chronicles.10
+      verseYV: 1CH.10
+    - titleCh: 詩篇 47
+      titleEn: Psalms 47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+
+  - index: 430
+    verses:
+    - titleCh: 歷代志上 11-12
+      titleEn: 1 Chronicles.11-12
+      verseBG: 1 Chronicles.11-12
+      verseYV: 1CH.11
+    - titleCh: 詩篇 48
+      titleEn: Psalms 48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+
+  - index: 431
+    verses:
+    - titleCh: 歷代志上 13-14
+      titleEn: 1 Chronicles.13-14
+      verseBG: 1 Chronicles.13-14
+      verseYV: 1CH.13
+    - titleCh: 詩篇 49
+      titleEn: Psalms 49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+
+  - index: 432
+    verses:
+    - titleCh: 歷代志上 15-16
+      titleEn: 1 Chronicles.15-16
+      verseBG: 1 Chronicles.15-16
+      verseYV: 1CH.15
+    - titleCh: 詩篇 50
+      titleEn: Psalms 50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+
+  - index: 433
+    verses:
+    - titleCh: 歷代志上 17
+      titleEn: 1 Chronicles.17
+      verseBG: 1 Chronicles.17
+      verseYV: 1CH.17
+    - titleCh: 詩篇 51
+      titleEn: Psalms 51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+
+  - index: 434
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 435
+    verses:
+    - titleCh: 歷代志上 18-19
+      titleEn: 1 Chronicles.18-19
+      verseBG: 1 Chronicles.18-19
+      verseYV: 1CH.18
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 436
+    verses:
+    - titleCh: 歷代志上 20-21
+      titleEn: 1 Chronicles.20.1-22.1
+      verseBG: 1 Chronicles.20-21
+      verseYV: 1CH.20
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
+  - index: 437
+    verses:
+    - titleCh: 歷代志上 22
+      titleEn: 1 Chronicles.22.2-19
+      verseBG: 1 Chronicles.22
+      verseYV: 1CH.22
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+
+  - index: 438
+    verses:
+    - titleCh: 歷代志上 23-24
+      titleEn: 1 Chronicles.23-24
+      verseBG: 1 Chronicles.23-24
+      verseYV: 1CH.23
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 439
+    verses:
+    - titleCh: 歷代志上 25-26
+      titleEn: 1 Chronicles.25-26
+      verseBG: 1 Chronicles.25-26
+      verseYV: 1CH.25
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
+  - index: 440
+    verses:
+    - titleCh: 歷代志上 27-28
+      titleEn: 1 Chronicles.27-28
+      verseBG: 1 Chronicles.27-28
+      verseYV: 1CH.27
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+
+  - index: 441
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+
 ---
