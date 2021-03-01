@@ -4638,9 +4638,9 @@ plan:
 
   - index: 422
     verses:
-    - titleCh: 列王紀下 23.36-25.3
-      titleEn: 2 Kings.23.36-25.3
-      verseBG: 2 Kings.23.36-25.3
+    - titleCh: 列王紀下 23.36-25.30
+      titleEn: 2 Kings.23.36-25.30
+      verseBG: 2 Kings.23.36-25.30
       verseYV: 2KI.23
     - titleCh: 詩篇 40
       titleEn: Psalms 40
