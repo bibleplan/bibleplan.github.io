@@ -4933,4 +4933,81 @@ plan:
       verseBG: Psalms.66
       verseYV: PSA.66
 
+  - index: 449
+    verses:
+    - titleCh: 歷代志下 9
+      titleEn: 2 Chronicles.9
+      verseBG: 2 Chronicles.9
+      verseYV: 2CH.9
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 450
+    verses:
+    - titleCh: 歷代志下 10-12
+      titleEn: 2 Chronicles.10-12
+      verseBG: 2 Chronicles.10-12
+      verseYV: 2CH.10
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
+  - index: 451
+    verses:
+    - titleCh: 歷代志下 13
+      titleEn: 2 Chronicles.13
+      verseBG: 2 Chronicles.13
+      verseYV: 2CH.13
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 452
+    verses:
+    - titleCh: 歷代志下 14-16
+      titleEn: 2 Chronicles.14-16
+      verseBG: 2 Chronicles.14-16
+      verseYV: 2CH.14
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
+  - index: 453
+    verses:
+    - titleCh: 歷代志下 17-18
+      titleEn: 2 Chronicles.17-18
+      verseBG: 2 Chronicles.17-18
+      verseYV: 2CH.17
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+
+  - index: 454
+    verses:
+    - titleCh: 歷代志下 19-20
+      titleEn: 2 Chronicles.19-20
+      verseBG: 2 Chronicles.19-20
+      verseYV: 2CH.19
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
+  - index: 455
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
 ---
