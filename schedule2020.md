@@ -5241,4 +5241,81 @@ plan:
       verseBG: Psalms.94
       verseYV: PSA.94
 
+  - index: 477
+    verses:
+    - titleCh: 尼希米記 9
+      titleEn: Nehemiah.9
+      verseBG: Nehemiah.9
+      verseYV: NEH.9
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+
+  - index: 478
+    verses:
+    - titleCh: 尼希米記 10
+      titleEn: Nehemiah.10
+      verseBG: Nehemiah.10
+      verseYV: NEH.10
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+
+  - index: 479
+    verses:
+    - titleCh: 尼希米記 11-12
+      titleEn: Nehemiah.11-12
+      verseBG: Nehemiah.11-12
+      verseYV: NEH.11
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 480
+    verses:
+    - titleCh: 尼希米記 13
+      titleEn: Nehemiah.13
+      verseBG: Nehemiah.13
+      verseYV: NEH.13
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 481
+    verses:
+    - titleCh: 以斯帖記 1.1-2.18
+      titleEn: Esther.1.1-2.18
+      verseBG: Esther.1.1-2.18
+      verseYV: EST.1
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 482
+    verses:
+    - titleCh: 以斯帖記 2.19-3.15
+      titleEn: Esther.2.19-3.15
+      verseBG: Esther.2.19-3.15
+      verseYV: EST.2
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 483
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
 ---
