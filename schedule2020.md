@@ -5164,4 +5164,81 @@ plan:
       verseBG: Psalms.87
       verseYV: PSA.87
 
+  - index: 470
+    verses:
+    - titleCh: 以斯拉記 9-10
+      titleEn: Ezra.9-10
+      verseBG: Ezra.9-10
+      verseYV: EZR.9
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+
+  - index: 471
+    verses:
+    - titleCh: 尼希米記 1-2
+      titleEn: Nehemiah.1-2
+      verseBG: Nehemiah.1-2
+      verseYV: NEH.1
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+
+  - index: 472
+    verses:
+    - titleCh: 尼希米記 3-4
+      titleEn: Nehemiah.3-4
+      verseBG: Nehemiah.3-4
+      verseYV: NEH.3
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+
+  - index: 473
+    verses:
+    - titleCh: 尼希米記 5-6
+      titleEn: Nehemiah.5-6
+      verseBG: Nehemiah.5-6
+      verseYV: NEH.5
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+
+  - index: 474
+    verses:
+    - titleCh: 尼希米記 7
+      titleEn: Nehemiah.7
+      verseBG: Nehemiah.7
+      verseYV: NEH.7
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+
+  - index: 475
+    verses:
+    - titleCh: 尼希米記 8
+      titleEn: Nehemiah.8
+      verseBG: Nehemiah.8
+      verseYV: NEH.8
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+
+  - index: 476
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+
 ---
