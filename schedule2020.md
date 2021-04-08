@@ -5318,4 +5318,81 @@ plan:
       verseBG: Psalms.101
       verseYV: PSA.101
 
+  - index: 484
+    verses:
+    - titleCh: 以斯帖記 4-5
+      titleEn: Esther.4-5
+      verseBG: Esther.4-5
+      verseYV: EST.4
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+
+  - index: 485
+    verses:
+    - titleCh: 以斯帖記 6-7
+      titleEn: Esther.6-7
+      verseBG: Esther.6-7
+      verseYV: EST.6
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 486
+    verses:
+    - titleCh: 以斯帖記 8
+      titleEn: Esther.8
+      verseBG: Esther.8
+      verseYV: EST.8
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 487
+    verses:
+    - titleCh: 以斯帖記 9-10
+      titleEn: Esther.9-10
+      verseBG: Esther.9-10
+      verseYV: EST.9
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
+  - index: 488
+    verses:
+    - titleCh: 以賽亞書 1.1-2.5
+      titleEn: Isaiah.1.1-2.5
+      verseBG: Isaiah.1.1-2.5
+      verseYV: ISA.1
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
+  - index: 489
+    verses:
+    - titleCh: 以賽亞書 2.6-4.1
+      titleEn: Isaiah.2.6-4.1
+      verseBG: Isaiah.2.6-4.1
+      verseYV: ISA.2
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 490
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
 ---
