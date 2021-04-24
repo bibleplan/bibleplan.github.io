@@ -5395,4 +5395,81 @@ plan:
       verseBG: Psalms.108
       verseYV: PSA.108
 
+  - index: 491
+    verses:
+    - titleCh: 雅各書 3.1-4.12
+      titleEn: James 3.1-4.12
+      verseBG: James.3.1-4.12
+      verseYV: JAS.3
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 492
+    verses:
+    - titleCh: 雅各書 4.13-5.20
+      titleEn: James 4.13-5.20
+      verseBG: James.4.13-5.20
+      verseYV: JAS.4
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+
+  - index: 493
+    verses:
+    - titleCh: 彼得前書 1.1-12
+      titleEn: 1 Peter 1.1-12
+      verseBG: 1 Peter.1.1-12
+      verseYV: 1PE.1
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 494
+    verses:
+    - titleCh: 彼得前書 1.13-2.10
+      titleEn: 1 Peter 1.13-2.10
+      verseBG: 1 Peter.1.13-2.10
+      verseYV: 1PE.1
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+
+  - index: 495
+    verses:
+    - titleCh: 彼得前書 3.8-4.11
+      titleEn: 1 Peter 3.8-4.11
+      verseBG: 1 Peter.3.8-4.11
+      verseYV: 1PE.3
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+ 
+  - index: 496
+    verses:
+    - titleCh: 彼得前書 4.12-5.14
+      titleEn: 1 Peter 4.12-5.14
+      verseBG: 1 Peter.4.12-5.14
+      verseYV: 1PE.4
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114 
+      
+  - index: 497
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
 ---
