@@ -5364,10 +5364,10 @@ plan:
 
   - index: 488
     verses:
-    - titleCh: 以賽亞書 1.1-2.5
-      titleEn: Isaiah.1.1-2.5
-      verseBG: Isaiah.1.1-2.5
-      verseYV: ISA.1
+    - titleCh: 雅各書 1.1-18
+      titleEn: James 1.1-18
+      verseBG: James.1.1-18
+      verseYV: JAS.1
     - titleCh: 詩篇 106
       titleEn: Psalms 106
       verseBG: Psalms.106
@@ -5375,10 +5375,10 @@ plan:
 
   - index: 489
     verses:
-    - titleCh: 以賽亞書 2.6-4.1
-      titleEn: Isaiah.2.6-4.1
-      verseBG: Isaiah.2.6-4.1
-      verseYV: ISA.2
+    - titleCh: 雅各書 1.19-2.26
+      titleEn: James 1.19-2.26
+      verseBG: James.1.19-2.26
+      verseYV: JAS.1
     - titleCh: 詩篇 107
       titleEn: Psalms 107
       verseBG: Psalms.107
