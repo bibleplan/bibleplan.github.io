@@ -5857,4 +5857,81 @@ plan:
       verseBG: Psalms.140
       verseYV: PSA.140
 
+  - index: 532
+    verses:
+    - titleCh: 傳道書 5-8
+      titleEn: Ecclesiastes 5-8
+      verseBG: Ecclesiastes.5-8
+      verseYV: ECC.5
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+
+  - index: 533
+    verses:
+    - titleCh: 傳道書 9-12
+      titleEn: Ecclesiastes 9-12
+      verseBG: Ecclesiastes.9-12
+      verseYV: ECC.9
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
+
+  - index: 534
+    verses:
+    - titleCh: 雅歌 1.1-3.5
+      titleEn: The Song of Songs 1.1-3.5
+      verseBG: Songs.1.1-3.5
+      verseYV: SON.1
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
+
+  - index: 535
+    verses:
+    - titleCh: 雅歌 3.6-6.3
+      titleEn: The Song of Songs 3.6-6.3
+      verseBG: Songs.3.6-6.3
+      verseYV: SON.3.6-11
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+
+  - index: 536
+    verses:
+    - titleCh: 雅歌 6.4-8.14
+      titleEn: The Song of Songs 6.4-8.14
+      verseBG: Songs.6.4-8.14
+      verseYV: SON.6.4-13
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+
+  - index: 537
+    verses:
+    - titleCh: 以賽亞書 1.1-2.5
+      titleEn: Isaiah.1.1-2.5
+      verseBG: Isaiah.1.1-2.5
+      verseYV: ISA.1
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+
+  - index: 538
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
+
 ---
