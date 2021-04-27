@@ -5780,4 +5780,81 @@ plan:
       verseBG: Psalms.133
       verseYV: PSA.133
 
+  - index: 525
+    verses:
+    - titleCh: 約伯記 29-31
+      titleEn: Job 29-31
+      verseBG: Job.29-31
+      verseYV: JOB.29
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
+
+  - index: 526
+    verses:
+    - titleCh: 約伯記 32-34
+      titleEn: Job 32-34
+      verseBG: Job.32-34
+      verseYV: JOB.32
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
+
+  - index: 527
+    verses:
+    - titleCh: 約伯記 35-37
+      titleEn: Job 35-37
+      verseBG: Job.35-37
+      verseYV: JOB.35
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
+
+  - index: 528
+    verses:
+    - titleCh: 約伯記 38.1-40.5
+      titleEn: Job 38.1-40.5
+      verseBG: Job.38.1-40.5
+      verseYV: JOB.38
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
+
+  - index: 529
+    verses:
+    - titleCh: 約伯記 40.6-42.17
+      titleEn: Job 40.6-42.17
+      verseBG: Job.40.6-42.17
+      verseYV: JOB.40.6-24
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
+
+  - index: 530
+    verses:
+    - titleCh: 傳道書 1-4
+      titleEn: Ecclesiastes 1-4
+      verseBG: Ecclesiastes.1-4
+      verseYV: ECC.1
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
+
+  - index: 531
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
+
 ---
