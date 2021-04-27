@@ -5703,4 +5703,81 @@ plan:
       verseBG: Psalms.126
       verseYV: PSA.126
 
+  - index: 518
+    verses:
+    - titleCh: 約伯記 15-17
+      titleEn: Job 15-17
+      verseBG: Job.15-17
+      verseYV: JOB.15
+    - titleCh: 詩篇 127
+      titleEn: Psalms 127
+      verseBG: Psalms.127
+      verseYV: PSA.127
+
+  - index: 519
+    verses:
+    - titleCh: 約伯記 18-19
+      titleEn: Job 18-19
+      verseBG: Job.18-19
+      verseYV: JOB.18
+    - titleCh: 詩篇 128
+      titleEn: Psalms 128
+      verseBG: Psalms.128
+      verseYV: PSA.128
+
+  - index: 520
+    verses:
+    - titleCh: 約伯記 20-21
+      titleEn: Job 20-21
+      verseBG: Job.20-21
+      verseYV: JOB.20
+    - titleCh: 詩篇 129
+      titleEn: Psalms 129
+      verseBG: Psalms.129
+      verseYV: PSA.129
+
+  - index: 521
+    verses:
+    - titleCh: 約伯記 22-24
+      titleEn: Job 22-24
+      verseBG: Job.22-24
+      verseYV: JOB.22
+    - titleCh: 詩篇 130
+      titleEn: Psalms 130
+      verseBG: Psalms.130
+      verseYV: PSA.130
+
+  - index: 522
+    verses:
+    - titleCh: 約伯記 25-26
+      titleEn: Job 25-26
+      verseBG: Job.25-26
+      verseYV: JOB.25
+    - titleCh: 詩篇 131
+      titleEn: Psalms 131
+      verseBG: Psalms.131
+      verseYV: PSA.131
+
+  - index: 523
+    verses:
+    - titleCh: 約伯記 27-28
+      titleEn: Job 27-28
+      verseBG: Job.27-28
+      verseYV: JOB.27
+    - titleCh: 詩篇 132
+      titleEn: Psalms 132
+      verseBG: Psalms.132
+      verseYV: PSA.132
+
+  - index: 524
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 133
+      titleEn: Psalms 133
+      verseBG: Psalms.133
+      verseYV: PSA.133
+
 ---
