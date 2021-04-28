@@ -5934,4 +5934,235 @@ plan:
       verseBG: Psalms.147
       verseYV: PSA.147
 
+  - index: 539
+    verses:
+    - titleCh: 以賽亞書 2.6-4.1
+      titleEn: Isaiah.2.6-4.1
+      verseBG: Isaiah.2.6-4.1
+      verseYV: ISA.2
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
+
+  - index: 540
+    verses:
+    - titleCh: 以賽亞書 4.2-5.30
+      titleEn: Isaiah.4.2-5.30
+      verseBG: Isaiah.4.2-5.30
+      verseYV: ISA.4
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
+
+  - index: 541
+    verses:
+    - titleCh: 以賽亞書 6
+      titleEn: Isaiah.6
+      verseBG: Isaiah.6
+      verseYV: ISA.6
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
+
+  - index: 542
+    verses:
+    - titleCh: 以賽亞書 7-8
+      titleEn: Isaiah.7-8
+      verseBG: Isaiah.7-8
+      verseYV: ISA.7
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Proverbs.1
+      verseYV: PRO.1
+
+  - index: 543
+    verses:
+    - titleCh: 以賽亞書 9-10
+      titleEn: Isaiah.9-10
+      verseBG: Isaiah.9-10
+      verseYV: ISA.9
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
+
+  - index: 544
+    verses:
+    - titleCh: 以賽亞書 11-12
+      titleEn: Isaiah.11-12
+      verseBG: Isaiah.11-12
+      verseYV: ISA.11
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
+
+  - index: 545
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
+
+  - index: 546
+    verses:
+    - titleCh: 以賽亞書 13.1-14.27
+      titleEn: Isaiah.13.1-14.27
+      verseBG: Isaiah.13.1-14.27
+      verseYV: ISA.13
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+
+  - index: 547
+    verses:
+    - titleCh: 以賽亞書 14.28-17.14
+      titleEn: Isaiah.14.28-17.14
+      verseBG: Isaiah.14.28-17.14
+      verseYV: ISA.14
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+
+  - index: 548
+    verses:
+    - titleCh: 以賽亞書 18-20
+      titleEn: Isaiah.18-20
+      verseBG: Isaiah.18-20
+      verseYV: ISA.18
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+
+  - index: 549
+    verses:
+    - titleCh: 以賽亞書 21-23
+      titleEn: Isaiah.21-23
+      verseBG: Isaiah.21-23
+      verseYV: ISA.21
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
+
+  - index: 550
+    verses:
+    - titleCh: 以賽亞書 24-25
+      titleEn: Isaiah.24-25
+      verseBG: Isaiah.24-25
+      verseYV: ISA.24
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+
+  - index: 551
+    verses:
+    - titleCh: 以賽亞書 26-27
+      titleEn: Isaiah.26-27
+      verseBG: Isaiah.26-27
+      verseYV: ISA.26
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+
+  - index: 552
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+
+  - index: 553
+    verses:
+    - titleCh: 以賽亞書 28-29
+      titleEn: Isaiah.28-29
+      verseBG: Isaiah.28-29
+      verseYV: ISA.28
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+
+  - index: 554
+    verses:
+    - titleCh: 以賽亞書 30-31
+      titleEn: Isaiah.30-31
+      verseBG: Isaiah.30-31
+      verseYV: ISA.30
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
+
+  - index: 555
+    verses:
+    - titleCh: 以賽亞書 32-33
+      titleEn: Isaiah.32-33
+      verseBG: Isaiah.32-33
+      verseYV: ISA.32
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
+
+  - index: 556
+    verses:
+    - titleCh: 以賽亞書 34-35
+      titleEn: Isaiah.34-35
+      verseBG: Isaiah.34-35
+      verseYV: ISA.34
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
+
+  - index: 557
+    verses:
+    - titleCh: 以賽亞書 36-37
+      titleEn: Isaiah.36-37
+      verseBG: Isaiah.36-37
+      verseYV: ISA.36
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+
+  - index: 558
+    verses:
+    - titleCh: 以賽亞書 38-39
+      titleEn: Isaiah.38-39
+      verseBG: Isaiah.38-39
+      verseYV: ISA.38
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+
+  - index: 559
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Provebs.18
+      verseYV: PRO.18
+
 ---
