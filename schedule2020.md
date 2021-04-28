@@ -6242,4 +6242,158 @@ plan:
       verseBG: Provebs.25
       verseYV: PRO.25
 
+  - index: 567
+    verses:
+    - titleCh: 以賽亞書 48
+      titleEn: Isaiah.48
+      verseBG: Isaiah.48
+      verseYV: ISA.48
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Provebs.26
+      verseYV: PRO.26
+
+  - index: 568
+    verses:
+    - titleCh: 以賽亞書 49-50
+      titleEn: Isaiah.49-50
+      verseBG: Isaiah.49-50
+      verseYV: ISA.49
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Provebs.27
+      verseYV: PRO.27
+
+  - index: 569
+    verses:
+    - titleCh: 以賽亞書 51.1-52.12
+      titleEn: Isaiah.51.1-52.12
+      verseBG: Isaiah.51.1-52.12
+      verseYV: ISA.51
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Provebs.28
+      verseYV: PRO.28
+
+  - index: 570
+    verses:
+    - titleCh: 以賽亞書 52.13-53.12
+      titleEn: Isaiah.52.13-53.12
+      verseBG: Isaiah.52.13-53.12
+      verseYV: ISA.52
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Provebs.29
+      verseYV: PRO.29
+
+  - index: 571
+    verses:
+    - titleCh: 以賽亞書 54-55
+      titleEn: Isaiah.54-55
+      verseBG: Isaiah.54-55
+      verseYV: ISA.54
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Provebs.30
+      verseYV: PRO.30
+
+  - index: 572
+    verses:
+    - titleCh: 以賽亞書 56-57
+      titleEn: Isaiah.56-57
+      verseBG: Isaiah.56-57
+      verseYV: ISA.56
+    - titleCh: 詩篇 31
+      titleEn: Psalms 31
+      verseBG: Psalms.31
+      verseYV: PSA.31
+
+  - index: 573
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
+
+  - index: 574
+    verses:
+    - titleCh: 以賽亞書 58-59
+      titleEn: Isaiah.58-59
+      verseBG: Isaiah.58-59
+      verseYV: ISA.58
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
+
+  - index: 575
+    verses:
+    - titleCh: 以賽亞書 60-61
+      titleEn: Isaiah.60-61
+      verseBG: Isaiah.60-61
+      verseYV: ISA.60
+    - titleCh: 詩篇 3
+      titleEn: Psalms 3
+      verseBG: Psalms.3
+      verseYV: PSA.3
+
+  - index: 576
+    verses:
+    - titleCh: 以賽亞書 62.1-63.6
+      titleEn: Isaiah.62.1-63.6
+      verseBG: Isaiah.62.1-63.6
+      verseYV: ISA.62
+    - titleCh: 詩篇 4
+      titleEn: Psalms 4
+      verseBG: Psalms.4
+      verseYV: PSA.4
+
+  - index: 577
+    verses:
+    - titleCh: 以賽亞書 63.7-64.12
+      titleEn: Isaiah.63.7-64.12
+      verseBG: Isaiah.63.7-64.12
+      verseYV: ISA.63
+    - titleCh: 詩篇 5
+      titleEn: Psalms 5
+      verseBG: Psalms.5
+      verseYV: PSA.5
+
+  - index: 578
+    verses:
+    - titleCh: 以賽亞書 65.1-16
+      titleEn: Isaiah.65.1-16
+      verseBG: Isaiah.65.1-16
+      verseYV: ISA.65
+    - titleCh: 詩篇 6
+      titleEn: Psalms 6
+      verseBG: Psalms.6
+      verseYV: PSA.6
+
+  - index: 579
+    verses:
+    - titleCh: 以賽亞書 65.17-66.24
+      titleEn: Isaiah.65.17-66.24
+      verseBG: Isaiah.65.17-66.24
+      verseYV: ISA.65
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
+
+  - index: 580
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 8
+      titleEn: Psalms 8
+      verseBG: Psalms.8
+      verseYV: PSA.8
+
 ---
