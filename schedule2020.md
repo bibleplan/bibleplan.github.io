@@ -6165,4 +6165,81 @@ plan:
       verseBG: Provebs.18
       verseYV: PRO.18
 
+  - index: 560
+    verses:
+    - titleCh: 以賽亞書 40.1-11
+      titleEn: Isaiah.40.1-11
+      verseBG: Isaiah.40.1-11
+      verseYV: ISA.40
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Provebs.19
+      verseYV: PRO.19
+
+  - index: 561
+    verses:
+    - titleCh: 以賽亞書 40.12-41.29
+      titleEn: Isaiah.40.12-41.29
+      verseBG: Isaiah.40.12-41.29
+      verseYV: ISA.40
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Provebs.20
+      verseYV: PRO.20
+
+  - index: 562
+    verses:
+    - titleCh: 以賽亞書 42-43
+      titleEn: Isaiah.42-43
+      verseBG: Isaiah.42-43
+      verseYV: ISA.42
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Provebs.21
+      verseYV: PRO.21
+
+  - index: 563
+    verses:
+    - titleCh: 以賽亞書 44.1-23
+      titleEn: Isaiah.44.1-23
+      verseBG: Isaiah.44.1-23
+      verseYV: ISA.44
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Provebs.22
+      verseYV: PRO.22
+
+  - index: 564
+    verses:
+    - titleCh: 以賽亞書 44.24-45.25
+      titleEn: Isaiah.44.24-45.25
+      verseBG: Isaiah.44.24-45.25
+      verseYV: ISA.44
+    - titleCh: 詩篇 23
+      titleEn: Psalms 23
+      verseBG: Psalms.23
+      verseYV: PSA.23
+
+  - index: 565
+    verses:
+    - titleCh: 以賽亞書 46-47
+      titleEn: Isaiah.46-47
+      verseBG: Isaiah.46-47
+      verseYV: ISA.46
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Provebs.24
+      verseYV: PRO.24
+
+  - index: 566
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Provebs.25
+      verseYV: PRO.25
+
 ---
