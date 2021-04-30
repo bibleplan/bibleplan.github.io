@@ -6396,4 +6396,82 @@ plan:
       verseBG: Psalms.8
       verseYV: PSA.8
 
+  - index: 581
+    verses:
+    - titleCh: 耶利米書 1
+      titleEn: Jeremiah.1
+      verseBG: Jeremiah.1
+      verseYV: JER.1
+    - titleCh: 詩篇 9
+      titleEn: Psalms 9
+      verseBG: Psalms.9
+      verseYV: PSA.9
+
+  - index: 582
+    verses:
+    - titleCh: 耶利米書 2.1-3.5
+      titleEn: Jeremiah.2.1-3.5
+      verseBG: Jeremiah.2.1-3.5
+      verseYV: JER.2
+    - titleCh: 詩篇 10
+      titleEn: Psalms 10
+      verseBG: Psalms.10
+      verseYV: PSA.10
+
+  - index: 583
+    verses:
+    - titleCh: 耶利米書 3.6-4.4
+      titleEn: Jeremiah.3.6-4.4
+      verseBG: Jeremiah.3.6-4.4
+      verseYV: JER.3
+    - titleCh: 詩篇 11
+      titleEn: Psalms 11
+      verseBG: Psalms.11
+      verseYV: PSA.11
+
+  - index: 584
+    verses:
+    - titleCh: 耶利米書 4.5-5.31
+      titleEn: Jeremiah.4.5-5.31
+      verseBG: Jeremiah.4.5-5.31
+      verseYV: JER.4
+    - titleCh: 詩篇 12
+      titleEn: Psalms 12
+      verseBG: Psalms.12
+      verseYV: PSA.12
+  
+  - index: 585
+    verses:
+    - titleCh: 耶利米書 6
+      titleEn: Jeremiah.6
+      verseBG: Jeremiah.6
+      verseYV: JER.6
+    - titleCh: 詩篇 13
+      titleEn: Psalms 13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+
+  - index: 586
+    verses:
+    - titleCh: 耶利米書 7.1-8.17
+      titleEn: Jeremiah.7.1-8.17
+      verseBG: Jeremiah.7.1-8.17
+      verseYV: JER.7
+    - titleCh: 詩篇 14
+      titleEn: Psalms 14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+
+
+  - index: 587
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 15
+      titleEn: Psalms 15
+      verseBG: Psalms.15
+      verseYV: PSA.15
+
 ---
