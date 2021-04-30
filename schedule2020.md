@@ -6474,4 +6474,158 @@ plan:
       verseBG: Psalms.15
       verseYV: PSA.15
 
+  - index: 588
+    verses:
+    - titleCh: 耶利米書 8.18-10.25
+      titleEn: Jeremiah.8.18-10.25
+      verseBG: Jeremiah.8.18-10.25
+      verseYV: JER.8
+    - titleCh: 詩篇 16
+      titleEn: Psalms 16
+      verseBG: Psalms.16
+      verseYV: PSA.16
+
+  - index: 589
+    verses:
+    - titleCh: 耶利米書 11-12
+      titleEn: Jeremiah.11-12
+      verseBG: Jeremiah.11-12
+      verseYV: JER.11
+    - titleCh: 詩篇 17
+      titleEn: Psalms 17
+      verseBG: Psalms.17
+      verseYV: PSA.17
+
+  - index: 590
+    verses:
+    - titleCh: 耶利米書 13
+      titleEn: Jeremiah.13
+      verseBG: Jeremiah.13
+      verseYV: JER.13
+    - titleCh: 詩篇 18
+      titleEn: Psalms 18
+      verseBG: Psalms.18
+      verseYV: PSA.18
+
+  - index: 591
+    verses:
+    - titleCh: 耶利米書 14-15
+      titleEn: Jeremiah.14-15
+      verseBG: Jeremiah.14-15
+      verseYV: JER.14
+    - titleCh: 詩篇 19
+      titleEn: Psalms 19
+      verseBG: Psalms.19
+      verseYV: PSA.19
+
+  - index: 592
+    verses:
+    - titleCh: 耶利米書 16-17
+      titleEn: Jeremiah.16-17
+      verseBG: Jeremiah.16-17
+      verseYV: JER.16
+    - titleCh: 詩篇 20
+      titleEn: Psalms 20
+      verseBG: Psalms.20
+      verseYV: PSA.20
+
+  - index: 593
+    verses:
+    - titleCh: 耶利米書 18-19
+      titleEn: Jeremiah.18-19
+      verseBG: Jeremiah.18-19
+      verseYV: JER.18
+    - titleCh: 詩篇 21
+      titleEn: Psalms 21
+      verseBG: Psalms.21
+      verseYV: PSA.21
+
+  - index: 594
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 22
+      titleEn: Psalms 22
+      verseBG: Psalms.22
+      verseYV: PSA.22
+
+  - index: 595
+    verses:
+    - titleCh: 耶利米書 20
+      titleEn: Jeremiah.20
+      verseBG: Jeremiah.20
+      verseYV: JER.20
+    - titleCh: 詩篇 23
+      titleEn: Psalms 23
+      verseBG: Psalms.23
+      verseYV: PSA.23
+
+  - index: 596
+    verses:
+    - titleCh: 耶利米書 21-22
+      titleEn: Jeremiah.21-22
+      verseBG: Jeremiah.21-22
+      verseYV: JER.21
+    - titleCh: 詩篇 24
+      titleEn: Psalms 24
+      verseBG: Psalms.24
+      verseYV: PSA.24
+
+  - index: 597
+    verses:
+    - titleCh: 耶利米書 23-24
+      titleEn: Jeremiah.23-24
+      verseBG: Jeremiah.23-24
+      verseYV: JER.23
+    - titleCh: 詩篇 25
+      titleEn: Psalms 25
+      verseBG: Psalms.25
+      verseYV: PSA.25
+
+  - index: 598
+    verses:
+    - titleCh: 耶利米書 25
+      titleEn: Jeremiah.25
+      verseBG: Jeremiah.25
+      verseYV: JER.25
+    - titleCh: 詩篇 26
+      titleEn: Psalms 26
+      verseBG: Psalms.26
+      verseYV: PSA.26
+
+  - index: 599
+    verses:
+    - titleCh: 耶利米書 26
+      titleEn: Jeremiah.26
+      verseBG: Jeremiah.26
+      verseYV: JER.26
+    - titleCh: 詩篇 27
+      titleEn: Psalms 27
+      verseBG: Psalms.27
+      verseYV: PSA.27
+
+  - index: 600
+    verses:
+    - titleCh: 耶利米書 27-28
+      titleEn: Jeremiah.27-28
+      verseBG: Jeremiah.27-28
+      verseYV: JER.27
+    - titleCh: 詩篇 28
+      titleEn: Psalms 28
+      verseBG: Psalms.28
+      verseYV: PSA.28
+
+  - index: 601
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 29
+      titleEn: Psalms 29
+      verseBG: Psalms.29
+      verseYV: PSA.29
+
 ---
