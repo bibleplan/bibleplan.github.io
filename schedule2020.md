@@ -6554,7 +6554,7 @@ plan:
   - index: 595
     verses:
     - titleCh: 耶利米書 20
-      titleEn: Jeremiah.20
+      titleEn: Jeremiah 20
       verseBG: Jeremiah.20
       verseYV: JER.20
     - titleCh: 詩篇 23
@@ -6565,7 +6565,7 @@ plan:
   - index: 596
     verses:
     - titleCh: 耶利米書 21-22
-      titleEn: Jeremiah.21-22
+      titleEn: Jeremiah 21-22
       verseBG: Jeremiah.21-22
       verseYV: JER.21
     - titleCh: 詩篇 24
@@ -6576,7 +6576,7 @@ plan:
   - index: 597
     verses:
     - titleCh: 耶利米書 23-24
-      titleEn: Jeremiah.23-24
+      titleEn: Jeremiah 23-24
       verseBG: Jeremiah.23-24
       verseYV: JER.23
     - titleCh: 詩篇 25
@@ -6587,7 +6587,7 @@ plan:
   - index: 598
     verses:
     - titleCh: 耶利米書 25
-      titleEn: Jeremiah.25
+      titleEn: Jeremiah 25
       verseBG: Jeremiah.25
       verseYV: JER.25
     - titleCh: 詩篇 26
@@ -6598,7 +6598,7 @@ plan:
   - index: 599
     verses:
     - titleCh: 耶利米書 26
-      titleEn: Jeremiah.26
+      titleEn: Jeremiah 26
       verseBG: Jeremiah.26
       verseYV: JER.26
     - titleCh: 詩篇 27
@@ -6609,7 +6609,7 @@ plan:
   - index: 600
     verses:
     - titleCh: 耶利米書 27-28
-      titleEn: Jeremiah.27-28
+      titleEn: Jeremiah 27-28
       verseBG: Jeremiah.27-28
       verseYV: JER.27
     - titleCh: 詩篇 28
