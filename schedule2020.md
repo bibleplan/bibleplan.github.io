@@ -5522,10 +5522,10 @@ plan:
       titleEn: 1 John.1.1-2.2
       verseBG: 1 John.1.1-2.2
       verseYV: 1JN.1 
-    - titleCh: 詩篇 119:16-32
-      titleEn: Psalms 119:16-32
-      verseBG: Psalms.119:16-32
-      verseYV: PSA.119:16-32
+    - titleCh: 詩篇 119:17-32
+      titleEn: Psalms 119:17-32
+      verseBG: Psalms.119:17-32
+      verseYV: PSA.119:17-32
       
   - index: 503
     verses:
@@ -5588,10 +5588,10 @@ plan:
       titleEn: 2 John.1
       verseBG: 2 John.1
       verseYV: 2JN.1
-    - titleCh: 詩篇 119:112-128
-      titleEn: Psalms 119:112-128
-      verseBG: Psalms.119:112-128
-      verseYV: PSA.119:112-128
+    - titleCh: 詩篇 119:113-128
+      titleEn: Psalms 119:113-128
+      verseBG: Psalms.119:113-128
+      verseYV: PSA.119:113-128
 
   - index: 509
     verses:
