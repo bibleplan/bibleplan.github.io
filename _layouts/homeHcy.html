@@ -1,0 +1,73 @@
+---
+layout: post
+title: {{ site.name }}
+language: "Chinese"
+---
+
+
+<div id="home">  
+ <h1>最新文章</h1>
+  <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>
+   
+  <ul class="posts">
+
+    {%- assign today = site.time | date: "%Y-%m-%d"  -%}
+    {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
+    {%- assign showPosts = 0 -%}
+   
+    {%- for post in chnPosts limit:90 -%}
+      
+      {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
+      
+      {%- if post.categories contains "weekly" -%}
+         <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+   
+      {%- else -%}
+         {%- if today >= postDate and showPosts <= 10 -%}
+            {%- assign isTemp = post.title | slice: -4,3 -%}
+            {%- unless isTemp == "待更新" -%}
+             <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {%- assign showPosts = showPosts | plus: 1 -%}
+ 
+            {%- if post.categories contains "daily" -%}
+             {%- if today == postDate -%}
+               {%- assign todayPost = post -%} 
+             {%- endif -%}
+             <p></p>
+           {%- endif -%}
+          {%- endunless -%}
+        {%- endif -%}
+      {%- endif -%}
+   {%- endfor -%} </ul>
+ 
+ <h1>分類文章</h1>
+ <ul>
+  <li><a href="/all.html">導讀文章 - 按週</a></li>
+  <li><a href="/AllBooks.html">導讀文章 - 按書卷</a></li>
+  <li><a href="/sharing.html">讀經分享 <code>小錢</code></a></li>
+  <li><a href="/sharing-zl.html">每日靈修 <code>Zhuolin</code></a></li>
+  <li><a href="/PrayerAmidstPandemic.html">瘟疫中的禱告 <code>Zhuolin</code></a></li>
+ </ul>
+
+  <hr> 
+
+  <div id="today"></div>
+  <h1>今日讀經内容</h1>
+  <h2>{{ todayPost.title }}</h2>
+  <p class="meta">{{ todayPost.date | date: "%B %d, %Y" }}</p>
+  {{ todayPost.content }}
+    
+  {%- assign sharings = site.posts | where: "categories", "sharing" -%}
+  {%- assign pageDate = todayPost.date | date: "%Y-%m-%d" -%}
+  
+  <ul> 
+  {%- for post in sharings -%}
+    {%- if post.date == pageDate -%}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+</div>
+
+
+
