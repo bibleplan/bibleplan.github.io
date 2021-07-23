@@ -15,7 +15,7 @@ github:
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 timezone: America/New_York    
