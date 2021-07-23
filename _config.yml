@@ -10,7 +10,7 @@ repo: https://github.com/bibleplan/bibleplan.github.io
 lang: zh-Hant
 
 github:
-  is_project_page: true
+  is_project_page: false
   
 # Build settings
 markdown: kramdown
