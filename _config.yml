@@ -10,12 +10,12 @@ repo: https://github.com/bibleplan/bibleplan.github.io
 lang: zh-Hant
 
 github:
-  is_project_page: false
+  is_project_page: true
   
 # Build settings
 markdown: kramdown
 
-remote_theme: pages-themes/cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 timezone: America/New_York    
