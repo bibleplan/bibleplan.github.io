@@ -6215,10 +6215,10 @@ plan:
       titleEn: Isaiah.44.24-45.25
       verseBG: Isaiah.44.24-45.25
       verseYV: ISA.44
-    - titleCh: 詩篇 23
-      titleEn: Psalms 23
-      verseBG: Psalms.23
-      verseYV: PSA.23
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Provebs.23
+      verseYV: PRO.23
 
   - index: 565
     verses:
