@@ -6303,10 +6303,10 @@ plan:
       titleEn: Isaiah.56-57
       verseBG: Isaiah.56-57
       verseYV: ISA.56
-    - titleCh: 詩篇 31
-      titleEn: Psalms 31
-      verseBG: Psalms.31
-      verseYV: PSA.31
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Provebs.31
+      verseYV: PRO.31
 
   - index: 573
     verses:
