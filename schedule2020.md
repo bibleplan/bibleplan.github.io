@@ -6628,4 +6628,81 @@ plan:
       verseBG: Psalms.29
       verseYV: PSA.29
 
+  - index: 602
+    verses:
+    - titleCh: 耶利米書 29
+      titleEn: Jeremiah.29
+      verseBG: Jeremiah.29
+      verseYV: JER.29
+    - titleCh: 詩篇 30
+      titleEn: Psalms 30
+      verseBG: Psalms.30
+      verseYV: PSA.30
+
+  - index: 603
+    verses:
+    - titleCh: 耶利米書 30-31
+      titleEn: Jeremiah.30-31
+      verseBG: Jeremiah.30-31
+      verseYV: JER.30
+    - titleCh: 詩篇 31
+      titleEn: Psalms 31
+      verseBG: Psalms.31
+      verseYV: PSA.31
+
+  - index: 604
+    verses:
+    - titleCh: 耶利米書 32-33
+      titleEn: Jeremiah.32-33
+      verseBG: Jeremiah.32-33
+      verseYV: JER.32
+    - titleCh: 詩篇 32
+      titleEn: Psalms 32
+      verseBG: Psalms.32
+      verseYV: PSA.32
+
+  - index: 605
+    verses:
+    - titleCh: 耶利米書 34-35
+      titleEn: Jeremiah.34-35
+      verseBG: Jeremiah.34-35
+      verseYV: JER.34
+    - titleCh: 詩篇 33
+      titleEn: Psalms 33
+      verseBG: Psalms.33
+      verseYV: PSA.33
+
+  - index: 606
+    verses:
+    - titleCh: 耶利米書 36
+      titleEn: Jeremiah.36
+      verseBG: Jeremiah.36
+      verseYV: JER.36
+    - titleCh: 詩篇 34
+      titleEn: Psalms 34
+      verseBG: Psalms.34
+      verseYV: PSA.34
+
+  - index: 607
+    verses:
+    - titleCh: 耶利米書 37-38
+      titleEn: Jeremiah.37-38
+      verseBG: Jeremiah.37-38
+      verseYV: JER.37
+    - titleCh: 詩篇 35
+      titleEn: Psalms 35
+      verseBG: Psalms.35
+      verseYV: PSA.35
+
+  - index: 608
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 36
+      titleEn: Psalms 36
+      verseBG: Psalms.36
+      verseYV: PSA.36
+
 ---
