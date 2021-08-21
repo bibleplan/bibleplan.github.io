@@ -6705,4 +6705,81 @@ plan:
       verseBG: Psalms.36
       verseYV: PSA.36
 
+  - index: 609
+    verses:
+    - titleCh: 耶利米書 39.1-41.15
+      titleEn: Jeremiah.39.1-41.15
+      verseBG: Jeremiah.39.1-41.15
+      verseYV: JER.39
+    - titleCh: 詩篇 37
+      titleEn: Psalms 37
+      verseBG: Psalms.37
+      verseYV: PSA.37
+
+  - index: 610
+    verses:
+    - titleCh: 耶利米書 41.16-43.13
+      titleEn: Jeremiah.41.16-43.13
+      verseBG: Jeremiah.41.16-43.13
+      verseYV: JER.41
+    - titleCh: 詩篇 38
+      titleEn: Psalms 38
+      verseBG: Psalms.38
+      verseYV: PSA.38
+
+  - index: 611
+    verses:
+    - titleCh: 耶利米書 44-45
+      titleEn: Jeremiah.44-45
+      verseBG: Jeremiah.44-45
+      verseYV: JER.44
+    - titleCh: 詩篇 39
+      titleEn: Psalms 39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+
+  - index: 612
+    verses:
+    - titleCh: 耶利米書 46
+      titleEn: Jeremiah.46
+      verseBG: Jeremiah.46
+      verseYV: JER.46
+    - titleCh: 詩篇 40
+      titleEn: Psalms 40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+
+  - index: 613
+    verses:
+    - titleCh: 耶利米書 47-48
+      titleEn: Jeremiah.47-48
+      verseBG: Jeremiah.47-48
+      verseYV: JER.47
+    - titleCh: 詩篇 41
+      titleEn: Psalms 41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+
+  - index: 614
+    verses:
+    - titleCh: 耶利米書 49
+      titleEn: Jeremiah.49
+      verseBG: Jeremiah.49
+      verseYV: JER.49
+    - titleCh: 詩篇 42
+      titleEn: Psalms 42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+
+  - index: 615
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 43
+      titleEn: Psalms 43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+
 ---
