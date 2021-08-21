@@ -3239,7 +3239,7 @@ plan:
       verseBG: Psalms.103
       verseYV: PSA.103
 
-  - index: 275
+  - index: 295
     verses:
     - titleCh: 哥林多後書 5.11-7.4
       titleEn: 2 Corinthians 5.11-7.4
@@ -3250,7 +3250,7 @@ plan:
       verseBG: Psalms.104
       verseYV: PSA.104
 
-  - index: 276
+  - index: 296
     verses:
     - titleCh: 哥林多後書 7.5-16
       titleEn: 2 Corinthians 7.5-16
@@ -3261,7 +3261,7 @@ plan:
       verseBG: Psalms.105
       verseYV: PSA.105
 
-  - index: 277
+  - index: 297
     verses:
     - titleCh: 哥林多後書 8-9
       titleEn: 2 Corinthians 8-9
@@ -3272,7 +3272,7 @@ plan:
       verseBG: Psalms.106
       verseYV: PSA.106
 
-  - index: 278
+  - index: 298
     verses:
     - titleCh: 哥林多後書 10-11
       titleEn: 2 Corinthians 10-11
@@ -3283,7 +3283,7 @@ plan:
       verseBG: Psalms.107
       verseYV: PSA.107
 
-  - index: 279
+  - index: 299
     verses:
     - titleCh: 哥林多後書 12-13
       titleEn: 2 Corinthians 12-13
@@ -3294,7 +3294,7 @@ plan:
       verseBG: Psalms.108
       verseYV: PSA.108
 
-  - index: 280
+  - index: 300
     verses:
     - titleCh: 加拉太書 1-2
       titleEn: Galatians 1-2
@@ -3305,7 +3305,7 @@ plan:
       verseBG: Psalms.109
       verseYV: PSA.109
 
-  - index: 281
+  - index: 301
     verses:
     - titleCh:  
       titleEn: 
@@ -3316,7 +3316,7 @@ plan:
       verseBG: Psalms.110
       verseYV: PSA.110
 
-  - index: 282
+  - index: 302
     verses:
     - titleCh: 加拉太書 3.1-4.20
       titleEn: Galatians 3.1-4.20
@@ -3327,7 +3327,7 @@ plan:
       verseBG: Psalms.111
       verseYV: PSA.111
 
-  - index: 283
+  - index: 303
     verses:
     - titleCh: 加拉太書 4.21-5.12
       titleEn: Galatians 4.21-5.12
@@ -3338,7 +3338,7 @@ plan:
       verseBG: Psalms.112
       verseYV: PSA.112
 
-  - index: 284
+  - index: 304
     verses:
     - titleCh: 加拉太書 5.13-6.18
       titleEn: Galatians 5.13-6.18
@@ -3349,7 +3349,7 @@ plan:
       verseBG: Psalms.113
       verseYV: PSA.113
 
-  - index: 285
+  - index: 305
     verses:
     - titleCh: 以弗所書 1
       titleEn: Ephesians 1
@@ -3360,7 +3360,7 @@ plan:
       verseBG: Psalms.114
       verseYV: PSA.114
 
-  - index: 286
+  - index: 306
     verses:
     - titleCh: 以弗所書 2
       titleEn: Ephesians 2
@@ -3371,7 +3371,7 @@ plan:
       verseBG: Psalms.115
       verseYV: PSA.115
 
-  - index: 287
+  - index: 307
     verses:
     - titleCh: 以弗所書 3.1-4.16
       titleEn: Ephesians 3.1-4.16
@@ -3382,7 +3382,7 @@ plan:
       verseBG: Psalms.116
       verseYV: PSA.116
 
-  - index: 288
+  - index: 308
     verses:
     - titleCh:  
       titleEn: 
@@ -3393,7 +3393,7 @@ plan:
       verseBG: Psalms.117
       verseYV: PSA.117
 
-  - index: 289
+  - index: 309
     verses:
     - titleCh: 以弗所書 4.17-6.9
       titleEn: Ephesians 4.17-6.9
@@ -3404,7 +3404,7 @@ plan:
       verseBG: Psalms.118
       verseYV: PSA.118
 
-  - index: 290
+  - index: 310
     verses:
     - titleCh: 以弗所書 6.10-24
       titleEn: Ephesians 6.10-24
@@ -3415,7 +3415,7 @@ plan:
       verseBG: Psalms.119:1-16
       verseYV: PSA.119:1-16
 
-  - index: 291
+  - index: 311
     verses:
     - titleCh: 腓立比書 1.1-26
       titleEn: Philippians 1.1-26
@@ -3426,7 +3426,7 @@ plan:
       verseBG: Psalms.119:17-32
       verseYV: PSA.119:17-32
 
-  - index: 292
+  - index: 312
     verses:
     - titleCh: 腓立比書 1.27-2.30
       titleEn: Philippians 1.27-2.30
@@ -3437,7 +3437,7 @@ plan:
       verseBG: Psalms.119:33-48
       verseYV: PSA.119:33-48
 
-  - index: 293
+  - index: 313
     verses:
     - titleCh: 腓立比書 3.1-4.3
       titleEn: Philippians 3.1-4.3
@@ -3448,7 +3448,7 @@ plan:
       verseBG: Psalms.119:49-64
       verseYV: PSA.119:49-64
 
-  - index: 294
+  - index: 314
     verses:
     - titleCh: 腓立比書 4.4-23
       titleEn: Philippians 4.4-23
@@ -3459,7 +3459,7 @@ plan:
       verseBG: Psalms.119:65-80
       verseYV: PSA.119:65-80
 
-  - index: 295
+  - index: 315
     verses:
     - titleCh:  
       titleEn: 
@@ -3470,7 +3470,7 @@ plan:
       verseBG: Psalms.119:81-96
       verseYV: PSA.119:81-96
 
-  - index: 296
+  - index: 316
     verses:
     - titleCh: 歌羅西書 1.1-2.5
       titleEn: Colossians 1.1-2.5
@@ -3481,7 +3481,7 @@ plan:
       verseBG: Psalms.119:97-112
       verseYV: PSA.119:97-112
 
-  - index: 297
+  - index: 317
     verses:
     - titleCh: 歌羅西書 2.6-3.11
       titleEn: Colossians 2.6-3.11
@@ -3492,7 +3492,7 @@ plan:
       verseBG: Psalms.119:113-128
       verseYV: PSA.119:113-128
 
-  - index: 298
+  - index: 318
     verses:
     - titleCh: 歌羅西書 3.12-4.18
       titleEn: Colossians 3.12-4.18
@@ -3503,7 +3503,7 @@ plan:
       verseBG: Psalms.119:129-144
       verseYV: PSA.119:129-144
 
-  - index: 299
+  - index: 319
     verses:
     - titleCh: 帖撒羅尼迦前書 1
       titleEn: 1 Thessalonians 1
@@ -3514,7 +3514,7 @@ plan:
       verseBG: Psalms.119:145-160
       verseYV: PSA.119:145-160
 
-  - index: 300
+  - index: 320
     verses:
     - titleCh: 帖撒羅尼迦前書 2.1-16
       titleEn: 1 Thessalonians 2.1-16
@@ -3525,7 +3525,7 @@ plan:
       verseBG: Psalms.119:161-176
       verseYV: PSA.119:161-176
 
-  - index: 301
+  - index: 321
     verses:
     - titleCh: 帖撒羅尼迦前書 2.17-3.13
       titleEn: 1 Thessalonians 2.17-3.13
@@ -3536,7 +3536,7 @@ plan:
       verseBG: Psalms.120
       verseYV: PSA.120
 
-  - index: 302
+  - index: 322
     verses:
     - titleCh:  
       titleEn: 
@@ -3547,7 +3547,7 @@ plan:
       verseBG: Psalms.121
       verseYV: PSA.121
 
-  - index: 303
+  - index: 323
     verses:
     - titleCh: 帖撒羅尼迦前書 4.1-12
       titleEn: 1 Thessalonians 4.1-12
@@ -3558,7 +3558,7 @@ plan:
       verseBG: Psalms.122
       verseYV: PSA.122
 
-  - index: 304
+  - index: 324
     verses:
     - titleCh: 帖撒羅尼迦前書 4.13-5.11
       titleEn: 1 Thessalonians 4.13-5.11
@@ -3569,7 +3569,7 @@ plan:
       verseBG: Psalms.123
       verseYV: PSA.123
 
-  - index: 305
+  - index: 325
     verses:
     - titleCh: 帖撒羅尼迦前書 5.12-28
       titleEn: 1 Thessalonians 5.12-28
@@ -3580,7 +3580,7 @@ plan:
       verseBG: Psalms.124
       verseYV: PSA.124
 
-  - index: 306
+  - index: 326
     verses:
     - titleCh: 帖撒羅尼迦後書 1
       titleEn: 2 Thessalonians 1
@@ -3591,7 +3591,7 @@ plan:
       verseBG: Psalms.125
       verseYV: PSA.125
 
-  - index: 307
+  - index: 327
     verses:
     - titleCh: 帖撒羅尼迦後書 2.1-12
       titleEn: 2 Thessalonians 2.1-12
@@ -3602,7 +3602,7 @@ plan:
       verseBG: Psalms.126
       verseYV: PSA.126
 
-  - index: 308
+  - index: 328
     verses:
     - titleCh: 帖撒羅尼迦後書 2.13-3.18
       titleEn: 2 Thessalonians 2.13-3.18
@@ -3613,7 +3613,7 @@ plan:
       verseBG: Psalms.127
       verseYV: PSA.127
 
-  - index: 309
+  - index: 329
     verses:
     - titleCh:  
       titleEn: 
@@ -3624,7 +3624,7 @@ plan:
       verseBG: Psalms.128
       verseYV: PSA.128
 
-  - index: 310
+  - index: 330
     verses:
     - titleCh: 提摩太前書 1
       titleEn: 1 Timothy 1
@@ -3635,7 +3635,7 @@ plan:
       verseBG: Psalms.129
       verseYV: PSA.129
 
-  - index: 311
+  - index: 331
     verses:
     - titleCh: 提摩太前書 2
       titleEn: 1 Timothy 2
@@ -3646,7 +3646,7 @@ plan:
       verseBG: Psalms.130
       verseYV: PSA.130
 
-  - index: 312
+  - index: 332
     verses:
     - titleCh: 提摩太前書 3.1-13
       titleEn: 1 Timothy 3.1-13
@@ -3657,7 +3657,7 @@ plan:
       verseBG: Psalms.131
       verseYV: PSA.131
 
-  - index: 313
+  - index: 333
     verses:
     - titleCh: 提摩太前書 3.14-4.16
       titleEn: 1 Timothy 3.14-4.16
@@ -3668,7 +3668,7 @@ plan:
       verseBG: Psalms.132
       verseYV: PSA.132
 
-  - index: 314
+  - index: 334
     verses:
     - titleCh: 提摩太前書 5.1-6.2b
       titleEn: 1 Timothy 5.1-6.2b
@@ -3679,7 +3679,7 @@ plan:
       verseBG: Psalms.133
       verseYV: PSA.133
 
-  - index: 315
+  - index: 335
     verses:
     - titleCh: 提摩太前書 6.2c-21
       titleEn: 1 Timothy 6.2c-21
@@ -3690,7 +3690,7 @@ plan:
       verseBG: Psalms.134
       verseYV: PSA.134
 
-  - index: 316
+  - index: 336
     verses:
     - titleCh:  
       titleEn: 
@@ -3701,7 +3701,7 @@ plan:
       verseBG: Psalms.135
       verseYV: PSA.135
 
-  - index: 317
+  - index: 337
     verses:
     - titleCh: 提摩太後書 1.1-2.13
       titleEn: 2 Timothy 1.1-2.13
@@ -3712,7 +3712,7 @@ plan:
       verseBG: Psalms.136
       verseYV: PSA.136
 
-  - index: 318
+  - index: 338
     verses:
     - titleCh: 提摩太後書 2.14-3.9
       titleEn: 2 Timothy 2.14-3.9
@@ -3723,7 +3723,7 @@ plan:
       verseBG: Psalms.137
       verseYV: PSA.137
 
-  - index: 319
+  - index: 339
     verses:
     - titleCh: 提摩太後書 3.10-4.22
       titleEn: 2 Timothy 3.10-4.22
@@ -3734,7 +3734,7 @@ plan:
       verseBG: Psalms.138
       verseYV: PSA.138
 
-  - index: 320
+  - index: 340
     verses:
     - titleCh: 提多書 1-2
       titleEn: Titus 1-2
@@ -3745,7 +3745,7 @@ plan:
       verseBG: Psalms.139
       verseYV: PSA.139
 
-  - index: 321
+  - index: 341
     verses:
     - titleCh: 提多書 3
       titleEn: Titus 3
@@ -3756,7 +3756,7 @@ plan:
       verseBG: Psalms.140
       verseYV: PSA.140
 
-  - index: 322
+  - index: 342
     verses:
     - titleCh: 腓利門書 1
       titleEn: Philemon 1
@@ -3767,7 +3767,7 @@ plan:
       verseBG: Psalms.141
       verseYV: PSA.141
 
-  - index: 323
+  - index: 343
     verses:
     - titleCh:  
       titleEn: 
@@ -3778,7 +3778,7 @@ plan:
       verseBG: Psalms.142
       verseYV: PSA.142
 
-  - index: 324
+  - index: 344
     verses:
     - titleCh: 希伯來書 1
       titleEn: Hebrews 1
@@ -3789,7 +3789,7 @@ plan:
       verseBG: Psalms.143
       verseYV: PSA.143
 
-  - index: 325
+  - index: 345
     verses:
     - titleCh: 希伯來書 2
       titleEn: Hebrews 2
@@ -3800,7 +3800,7 @@ plan:
       verseBG: Psalms.144
       verseYV: PSA.144
 
-  - index: 326
+  - index: 346
     verses:
     - titleCh: 希伯來書 3.1-4.13
       titleEn: Hebrews 3.1-4.13
@@ -3811,7 +3811,7 @@ plan:
       verseBG: Psalms.145
       verseYV: PSA.145
 
-  - index: 327
+  - index: 347
     verses:
     - titleCh: 希伯來書 4.14-6.20
       titleEn: Hebrews 4.14-6.20
@@ -3822,7 +3822,7 @@ plan:
       verseBG: Psalms.146
       verseYV: PSA.146
 
-  - index: 328
+  - index: 348
     verses:
     - titleCh: 希伯來書 7
       titleEn: Hebrews 7
@@ -3833,7 +3833,7 @@ plan:
       verseBG: Psalms.147
       verseYV: PSA.147
 
-  - index: 329
+  - index: 349
     verses:
     - titleCh: 希伯來書 8
       titleEn: Hebrews 8
@@ -3844,7 +3844,7 @@ plan:
       verseBG: Psalms.148
       verseYV: PSA.148
 
-  - index: 330
+  - index: 350
     verses:
     - titleCh:  
       titleEn: 
@@ -3855,7 +3855,7 @@ plan:
       verseBG: Psalms.149
       verseYV: PSA.149
 
-  - index: 331
+  - index: 351
     verses:
     - titleCh: 希伯來書 9.1-10.18
       titleEn: Hebrews 9.1-10.18
@@ -3866,7 +3866,7 @@ plan:
       verseBG: Psalms.150
       verseYV: PSA.150
 
-  - index: 332
+  - index: 352
     verses:
     - titleCh: 希伯來書 10.19-39
       titleEn: Hebrews 10.19-39
@@ -3877,7 +3877,7 @@ plan:
       verseBG: Proverbs.1
       verseYV: PRO.1
 
-  - index: 333
+  - index: 353
     verses:
     - titleCh: 希伯來書 11
       titleEn: Hebrews 11
@@ -3888,7 +3888,7 @@ plan:
       verseBG: Proverbs.2
       verseYV: PRO.2
 
-  - index: 334
+  - index: 354
     verses:
     - titleCh: 希伯來書 12
       titleEn: Hebrews 12
@@ -3899,7 +3899,7 @@ plan:
       verseBG: Proverbs.3
       verseYV: PRO.3
 
-  - index: 335
+  - index: 355
     verses:
     - titleCh: 希伯來書 13
       titleEn: Hebrews 13
@@ -3910,7 +3910,7 @@ plan:
       verseBG: Proverbs.4
       verseYV: PRO.4
 
-  - index: 336
+  - index: 356
     verses:
     - titleCh: 撒母耳記上 1.1-2.11
       titleEn: 1 Samuel.1.1-2.11
@@ -3921,7 +3921,7 @@ plan:
       verseBG: Proverbs.5
       verseYV: PRO.5
 
-  - index: 337
+  - index: 357
     verses:
     - titleCh: 
       titleEn: 
@@ -3932,7 +3932,7 @@ plan:
       verseBG: Proverbs.6
       verseYV: PRO.6
       
-  - index: 338
+  - index: 358
     verses:
     - titleCh: 撒母耳記上 2.12-4.1a
       titleEn: 1 Samuel.2.12-4.1a
@@ -3943,7 +3943,7 @@ plan:
       verseBG: Proverbs.7
       verseYV: PRO.7
 
-  - index: 339
+  - index: 359
     verses:
     - titleCh: 撒母耳記上 4.1b-5.12
       titleEn: 1 Samuel.4.1b-5.12
@@ -3954,7 +3954,7 @@ plan:
       verseBG: Proverbs.8
       verseYV: PRO.8
 
-  - index: 340
+  - index: 360
     verses:
     - titleCh: 撒母耳記上 6-7
       titleEn: 1 Samuel.6-7
