@@ -6782,4 +6782,81 @@ plan:
       verseBG: Psalms.43
       verseYV: PSA.43
 
+  - index: 616
+    verses:
+    - titleCh: 耶利米書 50
+      titleEn: Jeremiah.50
+      verseBG: Jeremiah.50
+      verseYV: JER.50
+    - titleCh: 詩篇 44
+      titleEn: Psalms 44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+
+  - index: 617
+    verses:
+    - titleCh: 耶利米書 51
+      titleEn: Jeremiah.51
+      verseBG: Jeremiah.51
+      verseYV: JER.51
+    - titleCh: 詩篇 45
+      titleEn: Psalms 45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+
+  - index: 618
+    verses:
+    - titleCh: 耶利米書 52
+      titleEn: Jeremiah.52
+      verseBG: Jeremiah.52
+      verseYV: JER.52
+    - titleCh: 詩篇 46
+      titleEn: Psalms 46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+
+  - index: 619
+    verses:
+    - titleCh: 耶利米哀歌 1
+      titleEn: Lamentations.1
+      verseBG: Lamentations.1
+      verseYV: LAM.1
+    - titleCh: 詩篇 47
+      titleEn: Psalms 47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+
+  - index: 620
+    verses:
+    - titleCh: 耶利米哀歌 2
+      titleEn: Lamentations.2
+      verseBG: Lamentations.2
+      verseYV: LAM.2
+    - titleCh: 詩篇 48
+      titleEn: Psalms 48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+
+  - index: 621
+    verses:
+    - titleCh: 耶利米哀歌 3
+      titleEn: Lamentations.3
+      verseBG: Lamentations.3
+      verseYV: LAM.3
+    - titleCh: 詩篇 49
+      titleEn: Psalms 49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+
+  - index: 622
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 50
+      titleEn: Psalms 50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+
 ---
