@@ -6859,4 +6859,81 @@ plan:
       verseBG: Psalms.50
       verseYV: PSA.50
 
+  - index: 623
+    verses:
+    - titleCh: 耶利米哀歌 4
+      titleEn: Lamentations.4
+      verseBG: Lamentations.4
+      verseYV: LAM.4
+    - titleCh: 詩篇 51
+      titleEn: Psalms 51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+
+  - index: 624
+    verses:
+    - titleCh: 耶利米哀歌 5
+      titleEn: Lamentations.5
+      verseBG: Lamentations.5
+      verseYV: LAM.5
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 625
+    verses:
+    - titleCh: 以西結書 1
+      titleEn: Ezekiel.1
+      verseBG: Ezekiel.1
+      verseYV: EZK.1
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 626
+    verses:
+    - titleCh: 以西結書 2-3
+      titleEn: Ezekiel.2-3
+      verseBG: Ezekiel.2-3
+      verseYV: EZK.2
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
+  - index: 627
+    verses:
+    - titleCh: 以西結書 4
+      titleEn: Ezekiel.4
+      verseBG: Ezekiel.4
+      verseYV: EZK.4
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 628
+    verses:
+    - titleCh: 以西結書 5-7
+      titleEn: Ezekiel.5-7
+      verseBG: Ezekiel.5-7
+      verseYV: EZK.5
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 629
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
 ---
