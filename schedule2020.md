@@ -7090,4 +7090,81 @@ plan:
       verseBG: Psalms.71
       verseYV: PSA.71
 
+  - index: 646
+    verses:
+    - titleCh: 以西結書 26-27
+      titleEn: Ezekiel.26-27
+      verseBG: Ezekiel.26-27
+      verseYV: EZK.26
+    - titleCh: 詩篇 12
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
+  - index: 647
+    verses:
+    - titleCh: 以西結書 28
+      titleEn: Ezekiel.28
+      verseBG: Ezekiel.28
+      verseYV: EZK.28
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
+  - index: 648
+    verses:
+    - titleCh: 以西結書 29-30
+      titleEn: Ezekiel.29-30
+      verseBG: Ezekiel.29-30
+      verseYV: EZK.29
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+
+  - index: 649
+    verses:
+    - titleCh: 以西結書 31-32
+      titleEn: Ezekiel.31-32
+      verseBG: Ezekiel.31-32
+      verseYV: EZK.31
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+
+  - index: 650
+    verses:
+    - titleCh: 以西結書 33
+      titleEn: Ezekiel.33
+      verseBG: Ezekiel.33
+      verseYV: EZK.33
+    - titleCh: 詩篇 76
+      titleEn: Psalms 76
+      verseBG: Psalms.76
+      verseYV: PSA.76
+
+  - index: 651
+    verses:
+    - titleCh: 以西結書 34
+      titleEn: Ezekiel.34
+      verseBG: Ezekiel.34
+      verseYV: EZK.34
+    - titleCh: 詩篇 77
+      titleEn: Psalms 77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+
+  - index: 652
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 78
+      titleEn: Psalms 78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+
 ---
