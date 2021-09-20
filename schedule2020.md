@@ -7167,4 +7167,312 @@ plan:
       verseBG: Psalms.78
       verseYV: PSA.78
 
+  - index: 653
+    verses:
+    - titleCh: 以西結書 35.1-36.15
+      titleEn: Ezekiel.35.1-36.15
+      verseBG: Ezekiel.35.1-36.15
+      verseYV: EZK.35
+    - titleCh: 詩篇 79
+      titleEn: Psalms 79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+
+  - index: 654
+    verses:
+    - titleCh: 以西結書 36.16-37.28
+      titleEn: Ezekiel.36.16-37.28
+      verseBG: Ezekiel.36.16-37.28
+      verseYV: EZK.36
+    - titleCh: 詩篇 80
+      titleEn: Psalms 80
+      verseBG: Psalms.80
+      verseYV: PSA.80
+
+  - index: 655
+    verses:
+    - titleCh: 以西結書 38-39
+      titleEn: Ezekiel.38-39
+      verseBG: Ezekiel.38-39
+      verseYV: EZK.38
+    - titleCh: 詩篇 81
+      titleEn: Psalms 81
+      verseBG: Psalms.81
+      verseYV: PSA.81
+
+  - index: 656
+    verses:
+    - titleCh: 以西結書 40
+      titleEn: Ezekiel.40
+      verseBG: Ezekiel.40
+      verseYV: EZK.40
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+
+  - index: 657
+    verses:
+    - titleCh: 以西結書 41-42
+      titleEn: Ezekiel.41-42
+      verseBG: Ezekiel.41-42
+      verseYV: EZK.41
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
+
+  - index: 658
+    verses:
+    - titleCh: 以西結書 43-44
+      titleEn: Ezekiel.43-44
+      verseBG: Ezekiel.43-44
+      verseYV: EZK.43
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+
+  - index: 609
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
+
+  - index: 610
+    verses:
+    - titleCh: 以西結書 45-46
+      titleEn: Ezekiel.45-46
+      verseBG: Ezekiel.45-46
+      verseYV: EZK.45
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
+
+  - index: 611
+    verses:
+    - titleCh: 以西結書 47-48
+      titleEn: Ezekiel.47-48
+      verseBG: Ezekiel.47-48
+      verseYV: EZK.47
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
+
+  - index: 612
+    verses:
+    - titleCh: 但以理書 1
+      titleEn: Daniel.1
+      verseBG: Daniel.1
+      verseYV: DAN.1
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+
+  - index: 613
+    verses:
+    - titleCh: 但以理書 2
+      titleEn: Daniel.2
+      verseBG: Daniel.2
+      verseYV: DAN.2
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+
+  - index: 614
+    verses:
+    - titleCh: 但以理書 3
+      titleEn: Daniel.3
+      verseBG: Daniel.3
+      verseYV: DAN.3
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+
+  - index: 615
+    verses:
+    - titleCh: 但以理書 4
+      titleEn: Daniel.4
+      verseBG: Daniel.4
+      verseYV: DAN.4
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+
+  - index: 616
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+
+  - index: 617
+    verses:
+    - titleCh: 但以理書 5
+      titleEn: Daniel.5
+      verseBG: Daniel.5
+      verseYV: DAN.5
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+
+  - index: 618
+    verses:
+    - titleCh: 但以理書 6
+      titleEn: Daniel.6
+      verseBG: Daniel.6
+      verseYV: DAN.6
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+
+  - index: 619
+    verses:
+    - titleCh: 但以理書 7-9
+      titleEn: Daniel.7-9
+      verseBG: Daniel.7-9
+      verseYV: DAN.7
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+
+  - index: 620
+    verses:
+    - titleCh: 但以理書 10.1-12.4
+      titleEn: Daniel.10.1-12.4
+      verseBG: Daniel.10.1-12.4
+      verseYV: DAN.10
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+
+  - index: 621
+    verses:
+    - titleCh: 但以理書 12.5-13
+      titleEn: Daniel.12.5-13
+      verseBG: Daniel.12.5-13
+      verseYV: DAN.12
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 622
+    verses:
+    - titleCh: 何西阿書 1-2
+      titleEn: Hosea.1-2
+      verseBG: Hosea.1-2
+      verseYV: HOS.1
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 623
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 624
+    verses:
+    - titleCh: 何西阿書 3.1-5.7
+      titleEn: Hosea.3.1-5.7
+      verseBG: Hosea.3.1-5.7
+      verseYV: HOS.3
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 625
+    verses:
+    - titleCh: 何西阿書 5.8-7.16
+      titleEn: Hosea.5.8-7.16
+      verseBG: Hosea.5.8-7.16
+      verseYV: HOS.5
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
+  - index: 626
+    verses:
+    - titleCh: 何西阿書 8.1-9.9
+      titleEn: Hosea.8.1-9.9
+      verseBG: Hosea.8.1-9.9
+      verseYV: HOS.8
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+
+  - index: 627
+    verses:
+    - titleCh: 何西阿書 9.10-10.15
+      titleEn: Hosea.9.10-10.15
+      verseBG: Hosea.9.10-10.15
+      verseYV: HOS.9
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 628
+    verses:
+    - titleCh: 何西阿書 11.1-11
+      titleEn: Hosea.11.1-11
+      verseBG: Hosea.11.1-11
+      verseYV: HOS.11
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 629
+    verses:
+    - titleCh: 何西阿書 11.12-13.16
+      titleEn: Hosea.11.12-13.16
+      verseBG: Hosea.11.12-13.16
+      verseYV: HOS.11
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
+  - index: 630
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
 ---
