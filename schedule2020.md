@@ -7096,7 +7096,7 @@ plan:
       titleEn: Ezekiel.26-27
       verseBG: Ezekiel.26-27
       verseYV: EZK.26
-    - titleCh: 詩篇 12
+    - titleCh: 詩篇 72
       titleEn: Psalms 72
       verseBG: Psalms.72
       verseYV: PSA.72
