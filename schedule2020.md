@@ -7553,4 +7553,81 @@ plan:
       verseBG: Psalms.113
       verseYV: PSA.113
   
- ---
+  - index: 638
+    verses:
+    - titleCh: 阿摩司書 7
+      titleEn: Amos.7
+      verseBG: Amos.7
+      verseYV: AMO.7
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
+
+  - index: 639
+    verses:
+    - titleCh: 阿摩司書 8-9
+      titleEn: Amos.8-9
+      verseBG: Amos.8-9
+      verseYV: AMO.8
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
+  - index: 640
+    verses:
+    - titleCh: 俄巴底亞書 1
+      titleEn: Obadiah.1
+      verseBG: Obadiah.1
+      verseYV: OBA.1
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+
+  - index: 641
+    verses:
+    - titleCh: 約拿書 1-4
+      titleEn: Jonah.1-4
+      verseBG: Jonah.1-4
+      verseYV: JON.1
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+
+  - index: 642
+    verses:
+    - titleCh: 彌迦書 1-3
+      titleEn: Micah.1-3
+      verseBG: Micah.1-3
+      verseYV: MIC.1
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+
+  - index: 643
+    verses:
+    - titleCh: 彌迦書 4-5
+      titleEn: Micah.4-5
+      verseBG: Micah.4-5
+      verseYV: MIC.4
+    - titleCh: 詩篇 119:1-16
+      titleEn: Psalms 119:1-16
+      verseBG: Psalms.119:1-16
+      verseYV: PSA.119:1-16
+
+
+  - index: 644
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119:17-32
+      titleEn: Psalms 119:17-32
+      verseBG: Psalms.119:17-32
+      verseYV: PSA.119:17-32
+---
