@@ -7475,4 +7475,82 @@ plan:
       verseBG: Psalms.106
       verseYV: PSA.106
 
----
+  - index: 631
+    verses:
+    - titleCh: 何西阿書 14
+      titleEn: Hosea.14
+      verseBG: Hosea.14
+      verseYV: HOS.14
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 632
+    verses:
+    - titleCh: 約珥書 1-2
+      titleEn: Joel.1-2
+      verseBG: Joel.1-2
+      verseYV: JOL.1
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
+  - index: 633
+    verses:
+    - titleCh: 約珥書 3
+      titleEn: Joel.3
+      verseBG: Joel.3
+      verseYV: JOL.3
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 634
+    verses:
+    - titleCh: 阿摩司書 1-2
+      titleEn: Amos.1-2
+      verseBG: Amos.1-2
+      verseYV: AMO.1
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+
+  - index: 635
+    verses:
+    - titleCh: 阿摩司書 3-4
+      titleEn: Amos.3-4
+      verseBG: Amos.3-4
+      verseYV: AMO.3
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 636
+    verses:
+    - titleCh: 阿摩司書 5-6
+      titleEn: Amos.5-6
+      verseBG: Amos.5-6
+      verseYV: AMO.5
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+
+
+  - index: 637
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+  
+ ---
