@@ -7659,10 +7659,10 @@ plan:
       titleEn: Habakkuk.1-3
       verseBG: Habakkuk.1-3
       verseYV: HAB.1
-    - titleCh: 詩篇 119:49-64
-      titleEn: Psalms 119:49-64
-      verseBG: Psalms.119:49-64
-      verseYV: PSA.119:49-64
+    - titleCh: 詩篇 119:65-80
+      titleEn: Psalms 119:65-80
+      verseBG: Psalms.119:65-80
+      verseYV: PSA.119:65-80
 
   - index: 648
     verses:
@@ -7670,10 +7670,10 @@ plan:
       titleEn: Zephaniah.1
       verseBG: Zephaniah.1
       verseYV: ZEP.1
-    - titleCh: 詩篇 119:65-80
-      titleEn: Psalms 119:65-80
-      verseBG: Psalms.119:65-80
-      verseYV: PSA.119:65-80
+    - titleCh: 詩篇 119:81-96
+      titleEn: Psalms 119:81-96
+      verseBG: Psalms.119:81-96
+      verseYV: PSA.119:81-96
 
   - index: 649
     verses:
@@ -7681,10 +7681,10 @@ plan:
       titleEn: Zephaniah.2-3
       verseBG: Zephaniah.2-3
       verseYV: ZEP.2
-    - titleCh: 詩篇 119:81-96
-      titleEn: Psalms 119:81-96
-      verseBG: Psalms.119:81-96
-      verseYV: PSA.119:81-96
+    - titleCh: 詩篇 119:97-112
+      titleEn: Psalms 119:97-112
+      verseBG: Psalms.119:97-112
+      verseYV: PSA.119:97-112
 
   - index: 650
     verses:
@@ -7692,10 +7692,10 @@ plan:
       titleEn: Haggai.1-2
       verseBG: Haggai.1-2
       verseYV: HAG.1
-    - titleCh: 詩篇 119:97-112
-      titleEn: Psalms 119:97-112
-      verseBG: Psalms.119:97-112
-      verseYV: PSA.119:97-112
+    - titleCh: 詩篇 119:113-128
+      titleEn: Psalms 119:113-128
+      verseBG: Psalms.119:113-128
+      verseYV: PSA.119:113-128
 
   - index: 651
     verses:
@@ -7703,10 +7703,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 119:113-128
-      titleEn: Psalms 119:113-128
-      verseBG: Psalms.119:113-128
-      verseYV: PSA.119:113-128
+    - titleCh: 詩篇 119:129-144
+      titleEn: Psalms 119:129-144
+      verseBG: Psalms.119:129-144
+      verseYV: PSA.119:129-144
 
   - index: 652
     verses:
@@ -7714,10 +7714,10 @@ plan:
       titleEn: Zechariah.1-2
       verseBG: Zechariah.1-2
       verseYV: ZEC.1
-    - titleCh: 詩篇 119:129-144
-      titleEn: Psalms 119:129-144
-      verseBG: Psalms.119:129-144
-      verseYV: PSA.119:129-144
+    - titleCh: 詩篇 119:145-160
+      titleEn: Psalms 119:145-160
+      verseBG: Psalms.119:145-160
+      verseYV: PSA.119:145-160
 
   - index: 653
     verses:
@@ -7725,10 +7725,10 @@ plan:
       titleEn: Zechariah.3-6
       verseBG: Zechariah.3-6
       verseYV: ZEC.3
-    - titleCh: 詩篇 119:145-160
-      titleEn: Psalms 119:145-160
-      verseBG: Psalms.119:145-160
-      verseYV: PSA.119:145-160
+    - titleCh: 詩篇 119:161-176
+      titleEn: Psalms 119:161-176
+      verseBG: Psalms.119:161-176
+      verseYV: PSA.119:161-176
 
   - index: 654
     verses:
@@ -7736,10 +7736,10 @@ plan:
       titleEn: Zechariah.7-8
       verseBG: Zechariah.7-8
       verseYV: ZEC.7
-    - titleCh: 詩篇 119:161-176
-      titleEn: Psalms 119:161-176
-      verseBG: Psalms.119:161-176
-      verseYV: PSA.119:161-176
+    - titleCh: 詩篇 120
+      titleEn: Psalms 120
+      verseBG: Psalms.120
+      verseYV: PSA.120
 
   - index: 655
     verses:
@@ -7747,10 +7747,10 @@ plan:
       titleEn: Zechariah.9-11
       verseBG: Zechariah.9-11
       verseYV: ZEC.9
-    - titleCh: 詩篇 120
-      titleEn: Psalms 120
-      verseBG: Psalms.120
-      verseYV: PSA.120
+    - titleCh: 詩篇 121
+      titleEn: Psalms 121
+      verseBG: Psalms.121
+      verseYV: PSA.121
 
   - index: 656
     verses:
@@ -7758,10 +7758,10 @@ plan:
       titleEn: Zechariah.12-14
       verseBG: Zechariah.12-14
       verseYV: ZEC.12
-    - titleCh: 詩篇 121
-      titleEn: Psalms 121
-      verseBG: Psalms.121
-      verseYV: PSA.121
+    - titleCh: 詩篇 122
+      titleEn: Psalms 122
+      verseBG: Psalms.122
+      verseYV: PSA.122
 
   - index: 657
     verses:
@@ -7769,10 +7769,10 @@ plan:
       titleEn: Malachi.1.1-3.5
       verseBG: Malachi.1.1-3.5
       verseYV: MAL.1
-    - titleCh: 詩篇 122
-      titleEn: Psalms 122
-      verseBG: Psalms.122
-      verseYV: PSA.122
+    - titleCh: 詩篇 123
+      titleEn: Psalms 123
+      verseBG: Psalms.123
+      verseYV: PSA.123
 
   - index: 658
     verses:
@@ -7780,10 +7780,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 123
-      titleEn: Psalms 123
-      verseBG: Psalms.123
-      verseYV: PSA.123
+    - titleCh: 詩篇 124
+      titleEn: Psalms 124
+      verseBG: Psalms.124
+      verseYV: PSA.124
 
   - index: 659
     verses:
@@ -7791,10 +7791,10 @@ plan:
       titleEn: Malachi.3.6-4.6
       verseBG: Malachi.3.6-4.6
       verseYV: MAL.3
-    - titleCh: 詩篇 124
-      titleEn: Psalms 124
-      verseBG: Psalms.124
-      verseYV: PSA.124
+    - titleCh: 詩篇 125
+      titleEn: Psalms 125
+      verseBG: Psalms.125
+      verseYV: PSA.125
 
   - index: 660
     verses:
@@ -7802,10 +7802,10 @@ plan:
       titleEn: Revelation.1
       verseBG: Revelation.1
       verseYV: REV.1
-    - titleCh: 詩篇 125
-      titleEn: Psalms 125
-      verseBG: Psalms.125
-      verseYV: PSA.125
+    - titleCh: 詩篇 126
+      titleEn: Psalms 126
+      verseBG: Psalms.126
+      verseYV: PSA.126
 
   - index: 661
     verses:
@@ -7813,10 +7813,10 @@ plan:
       titleEn: Revelation.2-3
       verseBG: Revelation.2-3
       verseYV: REV.2-3
-    - titleCh: 詩篇 126
-      titleEn: Psalms 126
-      verseBG: Psalms.126
-      verseYV: PSA.126
+    - titleCh: 詩篇 127
+      titleEn: Psalms 127
+      verseBG: Psalms.127
+      verseYV: PSA.127
 
   - index: 662
     verses:
@@ -7824,10 +7824,10 @@ plan:
       titleEn: Revelation.4-5
       verseBG: Revelation.4-5
       verseYV: REV.4
-    - titleCh: 詩篇 127
-      titleEn: Psalms 127
-      verseBG: Psalms.127
-      verseYV: PSA.127
+    - titleCh: 詩篇 128
+      titleEn: Psalms 128
+      verseBG: Psalms.128
+      verseYV: PSA.128
 
   - index: 663
     verses:
@@ -7835,10 +7835,10 @@ plan:
       titleEn: Revelation.6
       verseBG: Revelation.6
       verseYV: REV.6
-    - titleCh: 詩篇 128
-      titleEn: Psalms 128
-      verseBG: Psalms.128
-      verseYV: PSA.128
+    - titleCh: 詩篇 129
+      titleEn: Psalms 129
+      verseBG: Psalms.129
+      verseYV: PSA.129
 
   - index: 664
     verses:
@@ -7846,10 +7846,10 @@ plan:
       titleEn: Revelation.7.1-8.5
       verseBG: Revelation.7.1-8.5
       verseYV: REV.7
-    - titleCh: 詩篇 129
-      titleEn: Psalms 129
-      verseBG: Psalms.129
-      verseYV: PSA.129
+    - titleCh: 詩篇 130
+      titleEn: Psalms 130
+      verseBG: Psalms.130
+      verseYV: PSA.130
 
   - index: 665
     verses:
@@ -7857,10 +7857,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 130
-      titleEn: Psalms 130
-      verseBG: Psalms.130
-      verseYV: PSA.130
+    - titleCh: 詩篇 131
+      titleEn: Psalms 131
+      verseBG: Psalms.131
+      verseYV: PSA.131
 
   - index: 666
     verses:
@@ -7868,10 +7868,10 @@ plan:
       titleEn: Revelation.8.6-9.21
       verseBG: Revelation.8.6-9.21
       verseYV: REV.8
-    - titleCh: 詩篇 131
-      titleEn: Psalms 131
-      verseBG: Psalms.131
-      verseYV: PSA.131
+    - titleCh: 詩篇 132
+      titleEn: Psalms 132
+      verseBG: Psalms.132
+      verseYV: PSA.132
 
   - index: 667
     verses:
@@ -7879,10 +7879,10 @@ plan:
       titleEn: Revelation.10-11
       verseBG: Revelation.10-11
       verseYV: REV.10
-    - titleCh: 詩篇 132
-      titleEn: Psalms 132
-      verseBG: Psalms.132
-      verseYV: PSA.132
+    - titleCh: 詩篇 133
+      titleEn: Psalms 133
+      verseBG: Psalms.133
+      verseYV: PSA.133
 
   - index: 668
     verses:
@@ -7890,10 +7890,10 @@ plan:
       titleEn: Revelation.12
       verseBG: Revelation.12
       verseYV: REV.12
-    - titleCh: 詩篇 133
-      titleEn: Psalms 133
-      verseBG: Psalms.133
-      verseYV: PSA.133
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
 
   - index: 669
     verses:
@@ -7901,10 +7901,10 @@ plan:
       titleEn: Revelation.13
       verseBG: Revelation.13
       verseYV: REV.13
-    - titleCh: 詩篇 134
-      titleEn: Psalms 134
-      verseBG: Psalms.134
-      verseYV: PSA.134
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
 
   - index: 670
     verses:
@@ -7912,10 +7912,10 @@ plan:
       titleEn: Revelation.14
       verseBG: Revelation.14
       verseYV: REV.14
-    - titleCh: 詩篇 135
-      titleEn: Psalms 135
-      verseBG: Psalms.135
-      verseYV: PSA.135
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
 
   - index: 671
     verses:
@@ -7923,10 +7923,10 @@ plan:
       titleEn: Revelation.15-16
       verseBG: Revelation.15-16
       verseYV: REV.15
-    - titleCh: 詩篇 136
-      titleEn: Psalms 136
-      verseBG: Psalms.136
-      verseYV: PSA.136
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
 
   - index: 672
     verses:
@@ -7934,10 +7934,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 137
-      titleEn: Psalms 137
-      verseBG: Psalms.137
-      verseYV: PSA.137
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
 
   - index: 673
     verses:
@@ -7945,10 +7945,10 @@ plan:
       titleEn: Revelation.17
       verseBG: Revelation.17
       verseYV: REV.17
-    - titleCh: 詩篇 138
-      titleEn: Psalms 138
-      verseBG: Psalms.138
-      verseYV: PSA.138
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
 
   - index: 674
     verses:
@@ -7956,10 +7956,10 @@ plan:
       titleEn: Revelation.18.1-19.10
       verseBG: Revelation.18.1-19.10
       verseYV: REV.18
-    - titleCh: 詩篇 139
-      titleEn: Psalms 139
-      verseBG: Psalms.139
-      verseYV: PSA.139
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
 
   - index: 675
     verses:
@@ -7967,10 +7967,10 @@ plan:
       titleEn: Revelation.19.11-20.15
       verseBG: Revelation.19.11-20.15
       verseYV: REV.19
-    - titleCh: 詩篇 140
-      titleEn: Psalms 140
-      verseBG: Psalms.140
-      verseYV: PSA.140
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
 
   - index: 676
     verses:
@@ -7978,10 +7978,10 @@ plan:
       titleEn: Revelation.21.1-22.11
       verseBG: Revelation.21.1-22.11
       verseYV: REV.21
-    - titleCh: 詩篇 141
-      titleEn: Psalms 141
-      verseBG: Psalms.141
-      verseYV: PSA.141
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
 
   - index: 677
     verses:
@@ -7989,9 +7989,9 @@ plan:
       titleEn: Revelation.22.12-21
       verseBG: Revelation.22.12-21
       verseYV: REV.22.12-21
-    - titleCh: 詩篇 142
-      titleEn: Psalms 142
-      verseBG: Psalms.142
-      verseYV: PSA.142
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
 
 ---
