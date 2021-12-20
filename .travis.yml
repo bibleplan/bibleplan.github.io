@@ -47,3 +47,8 @@ jobs:
     - stage: Test
       script:
         bundle exec rake proof_external
+
+language: ruby
+rvm:
+  - 2.3
+script: "bundle exec jekyll build"
