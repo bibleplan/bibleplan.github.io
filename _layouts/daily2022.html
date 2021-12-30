@@ -1,0 +1,89 @@
+---
+layout: post
+title: {{ site.name }}
+---
+
+
+{%- if page.dayNum == 1 -%}
+  {%- assign prevWeekNum = page.weekNum | minus:"1" -%}
+  {%- assign prevDayNum = 7 -%}
+  {%- assign nextWeekNum = page.weekNum -%}
+  {%- assign nextDayNum = page.dayNum | plus:"1" -%}
+{%- elsif page.dayNum == 7 -%}
+  {%- assign nextWeekNum = page.weekNum | plus:"1" -%}
+  {%- assign nextDayNum = 1 -%}
+  {%- assign prevWeekNum = page.weekNum -%}
+  {%- assign prevDayNum = page.dayNum | minus:"1" -%}
+{%- else -%}
+  {%- assign prevWeekNum = page.weekNum -%}
+  {%- assign prevDayNum = page.dayNum | minus:"1" -%}
+  {%- assign nextWeekNum = page.weekNum -%}
+  {%- assign nextDayNum = page.dayNum | plus:"1" -%}
+{%- endif -%}
+
+{%- assign prevDay = "/daily/2022/wk" | append:prevWeekNum | append:"-day" | append:prevDayNum | append:"-daily.html" -%}
+{%- assign nextDay = "/daily/2022/wk" | append:nextWeekNum | append:"-day" | append:nextDayNum | append:"-daily.html" -%}
+{%- assign weekly = "/guide/2022/wk" | append:page.weekNum | append:".html" -%}
+{%- assign enUrl = "/en/2022" | append : page.permalink -%}
+
+{%- capture linksTable -%}
+<table style="width:100%; display: table;">
+  <thead>
+  <tr>
+    {%- assign pageExists = site.posts | where: "url", prevDay | size -%}
+    {%- if pageExists > 0 -%}
+      <th><a href="{{ prevDay }}">《上一日</a></th>
+    {%- else -%}
+      <th>《上一日</th>
+    {%- endif -%}
+    {%- assign pageExists = site.posts | where: "url", weekly | size -%}
+    {%- if pageExists > 0 -%}
+      <th><a href="{{ weekly }}">本週</a></th>
+    {%- endif -%}
+    {%- assign pageExists = site.posts | where: "url", nextDay | size -%}
+    {%- if pageExists > 0 -%}
+      <th><a href="{{ nextDay }}">下一日》</a></th>
+    {%- else -%}
+      <th>下一日》</th>
+    {%- endif -%}
+  </tr>
+  </thead>
+</table>
+{%- endcapture -%}
+
+<p>
+    {{ linksTable }}
+<p>
+
+<div id="dailyContent">
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
+
+{{ content }}
+
+{%- assign pageDate = page.date | "%Y-%m-%d" -%}
+{%- assign sharings = site.posts | where: "categories", "sharing" -%}
+{%- assign sharingsThisWeek = sharings | where: "weekNum", page.weekNum -%} 
+{%- assign sharingsThisWeek = sharingsThisWeek | where: "cycle", page.cycle -%} 
+  
+  <ul>
+{%- for post in sharingsThisWeek -%}
+  {%- assign isTemp = post.title | slice: -4,3 -%}
+  {%- if post.date == pageDate and isTemp != "待更新" -%}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {%- if post.categories contains "Zhuolin" -%}
+      {%- assign showWordPress = 1 -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+  
+</ul>
+</div>
+
+{% comment %} 
+{%- include disqus.html -%}
+{% endcomment %} 
+
+
+{{ linksTable }}
+
