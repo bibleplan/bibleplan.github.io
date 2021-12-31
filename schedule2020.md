@@ -7994,4 +7994,26 @@ plan:
       verseBG: Psalms.143
       verseYV: PSA.143
 
+  - index: 678
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+
+  - index: 679
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+
 ---
