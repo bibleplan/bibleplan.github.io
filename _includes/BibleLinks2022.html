@@ -1,0 +1,83 @@
+{%- comment -%}
+================================================
+// Get the Bible reading schedule from Schedule
+// Generate the Bible links here on top of daily reading guide
+================================================
+{%- endcomment -%}
+
+{%- assign schedulePage = site.pages | where: "layout", "schedule2022" -%}
+{%- assign index = page.weekNum | times:7 -%}
+{%- assign index = index | minus:8 | plus: page.dayNum -%}
+
+{%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
+{%- if dailySchedule -%}
+  
+  {%- assign verse1 = dailySchedule.verses[0].titleCh -%}
+  {%- assign bgV1 = dailySchedule.verses[0].verseBG -%}
+  {%- assign yvV1 = dailySchedule.verses[0].verseYV -%}
+  {%- assign verse2 = dailySchedule.verses[1].titleCh -%}
+  {%- assign bgV2 = dailySchedule.verses[1].verseBG -%}
+  {%- assign yvV2 = dailySchedule.verses[1].verseYV -%}
+
+  {%- assign verseEn1 = dailySchedule.verses[0].titleEn -%}
+  {%- assign verseEn2 = dailySchedule.verses[1].titleEn -%}
+ 
+  {%- assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" -%}
+  {%- assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPS" -%}
+  {%- assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:verseEn1 | append: "&version=NIV" -%}
+  {%- assign yvLink1 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV1 -%}
+  {%- assign yvLink3 = "https://www.bible.com/bible/111/" | append:yvV1 -%}
+
+  {%- assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPT" -%}
+  {%- assign bgLink5 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPS" -%}
+  {%- assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:verseEn2 | append: "&version=NIV" -%}
+  {%- assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 -%}
+  {%- assign yvLink4 = "https://www.bible.com/bible/111/" | append:yvV2 -%}
+
+{%- endif -%}
+
+{% if page.language == "English" %}
+<h3>Scripture Reading</h3>
+<ul>
+  {%- if verse1.size > 0 -%}
+    <li><a href="{{ bgLink3 }}">{{ verseEn1 }}</a> | <a href="{{ yvLink3 }}">[YouVersion]</a></li>
+  {%- endif -%}
+  {%- if verse2.size > 0 -%}
+    <li><a href="{{ bgLink6 }}">{{ verseEn2 }}</a> | <a href="{{ yvLink4 }}">[YouVersion]</a></li>
+  {%- endif -%}
+</ul>
+
+{% else %}
+
+
+<h3>讀經：</h3>
+  {% if verse1 %}
+
+<table>
+  <tr>
+    <td colspan="3"><a href="{{ bgLink1 }}"><b>{{ verse1 }}</b>【繁體】</a></td>
+      </tr>
+      <tr>
+        <td><a href="{{ bgLink2 }}">【简体】</a></td>
+        <td><a href="{{ bgLink3 }}">【NIV】</a></td>
+        <td><a href="{{ yvLink1 }}">【YouVersion】</a></td>
+      </tr>
+</table>
+
+  {% endif %}
+
+
+  {% if verse2 %}
+<table>
+      <tr>
+        <td colspan="3"><a href="{{ bgLink4 }}"><b>{{ verse2 }}</b>【繁體】</a>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="{{ bgLink5 }}">【简体】</a></td>
+        <td><a href="{{ bgLink6 }}">【NIV】</a></td>
+        <td colspan="2"><a href="{{ yvLink2 }}">【YouVersion】</a></td>
+      </tr>
+</table>
+  {% endif %}
+{% endif %}

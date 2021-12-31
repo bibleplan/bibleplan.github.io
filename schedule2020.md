@@ -3,7 +3,7 @@ layout: schedule2020
 plan:
   name: "「從聖經看屬靈生命」"
   startDate: "01-06-2020"
-  totalDays: 730
+  totalDays: 740
   days: 
   - index: 1
     verses:
@@ -7993,5 +7993,27 @@ plan:
       titleEn: Psalms 143
       verseBG: Psalms.143
       verseYV: PSA.143
+
+  - index: 678
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+
+  - index: 679
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
 
 ---

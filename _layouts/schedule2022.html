@@ -1,0 +1,39 @@
+---
+layout: post
+plan: "「從聖經看屬靈生命」"
+---
+
+<h2>「從聖經看屬靈生命」讀經計劃</h2>
+<h3> 2022-2023</h3>
+
+{%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
+{%- assign yvLink = "https://www.bible.com/zh-TW/bible/46/" -%}
+
+{%- assign bgLink1 = bgLink | append:bgV1 | append: "&version=CUVMPT" -%}
+{%- assign bgLink2 = bgLink| append:bgV1 | append: "&version=CUVMPS" -%}
+{%- assign bgLink3 = bgLink | append:bgV1 | append: "&version=NIV" -%}
+{%- assign yvLink1 = yvLink | append:yvV1 | append: ".CUNP" -%}
+
+{%- assign bgLink4 = bgLink | append:bgV2 | append: "&version=CUVMPT" -%}
+{%- assign bgLink5 = bgLink | append:bgV2 | append: "&version=CUVMPS" -%}
+{%- assign bgLink6 = bgLink | append:bgV2 | append: "&version=NIV" -%}
+{%- assign yvLink2 = yvLink | append:yvV2 | append: ".CUNP" -%}
+
+<ul>
+{%- for day in page.plan.days -%}
+<li> 第 {{ day.index }} 日
+  <ul>
+  {%- for verse in day.verses -%}
+    {%- if verse.titleCh.size > 0 -%}
+    <li> <a href="{{ bgLink | append: verse.verseBG | append: '&version=CUVMPT' }}">{{ verse.titleCh }}</a> | 
+      <a href="{{ bgLink | append: verse.verseYV | append: '&version=CUVMPS' }}">[YouVersion]</a>
+    </li>
+    {%- endif -%}
+  {%- endfor -%}
+  </ul>
+</li>
+{%- endfor -%}
+</ul>
+ 
+
+
