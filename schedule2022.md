@@ -1,9 +1,9 @@
 ---
-layout: schedule2020
+layout: schedule2022
 plan:
   name: "「從聖經看屬靈生命」"
-  startDate: "01-06-2020"
-  totalDays: 740
+  startDate: "01-03-2022"
+  totalDays: 700
   days: 
   - index: 1
     verses:
