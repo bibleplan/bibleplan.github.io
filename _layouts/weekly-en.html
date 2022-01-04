@@ -24,8 +24,8 @@ language: English
 {%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" -%}
 
-{%- if cycle == 2020 -%}
-  {%- assign thisWeek = thisWeek | where_exp: "item", "item.cycle == 2020" -%}
+{%- if cycle > 0 -%}
+  {%- assign thisWeek = thisWeek | where_exp: "item", "item.cycle == cycle" -%}
 {%- endif -%}
 
 <p>
