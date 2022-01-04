@@ -8,12 +8,12 @@ language: English
 {%- assign lastWeek = page.weekNum | minus:"1" -%}
 {%- assign nextWeek = page.weekNum | plus:"1" -%}
 
-{%- if cycle == 2020 -%}
-  {%- assign lastLink = "/en/guide/2020/wk" | append:lastWeek | append:".html" -%}
-  {%- assign nextLink = "/en/guide/2020/wk" | append:nextWeek | append:".html" -%}
-{%- else -%}
+{%- if cycle == blank -%}
   {%- assign lastLink = "/en/guide/wk" | append:lastWeek | append:".html" -%}
   {%- assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html" -%}
+{%- else -%}
+  {%- assign lastLink = "/en/guide/" | append:cycle | append:"/wk" | append:lastWeek | append:".html" -%}
+  {%- assign nextLink = "/en/guide/" | append:cycle | append:"/wk" | append:nextWeek | append:".html" -%}
 {%- endif -%}
 
 {%- assign filter = page.weekNum -%}
