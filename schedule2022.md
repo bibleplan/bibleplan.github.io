@@ -172,9 +172,9 @@ plan:
 
   - index: 16
     verses:
-    - titleCh: 馬太福音 23-24
-      titleEn: Matthew 23-24
-      verseBG: Matthew.23-24
+    - titleCh: 馬太福音 23
+      titleEn: Matthew 23
+      verseBG: Matthew.23
       verseYV: MAT.23
     - titleCh: 詩篇 16
       titleEn: Psalms 16
@@ -183,10 +183,10 @@ plan:
 
   - index: 17
     verses:
-    - titleCh: 馬太福音 25
-      titleEn: Matthew 25
-      verseBG: Matthew.25
-      verseYV: MAT.25
+    - titleCh: 馬太福音 24-25
+      titleEn: Matthew 24-25
+      verseBG: Matthew.24-25
+      verseYV: MAT.24
     - titleCh: 詩篇 17
       titleEn: Psalms 17
       verseBG: Psalms.17
