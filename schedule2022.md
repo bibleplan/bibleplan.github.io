@@ -172,9 +172,9 @@ plan:
 
   - index: 16
     verses:
-    - titleCh: 馬太福音 23-24
-      titleEn: Matthew 23-24
-      verseBG: Matthew.23-24
+    - titleCh: 馬太福音 23
+      titleEn: Matthew 23
+      verseBG: Matthew.23
       verseYV: MAT.23
     - titleCh: 詩篇 16
       titleEn: Psalms 16
@@ -183,10 +183,10 @@ plan:
 
   - index: 17
     verses:
-    - titleCh: 馬太福音 25
-      titleEn: Matthew 25
-      verseBG: Matthew.25
-      verseYV: MAT.25
+    - titleCh: 馬太福音 24-25
+      titleEn: Matthew 24-25
+      verseBG: Matthew.24-25
+      verseYV: MAT.24
     - titleCh: 詩篇 17
       titleEn: Psalms 17
       verseBG: Psalms.17
@@ -884,5 +884,379 @@ plan:
       titleEn: Psalms 80
       verseBG: Psalms.80
       verseYV: PSA.80
+
+  - index: 81
+    verses:
+    - titleCh: 創世記 1.1-2.3
+      titleEn: Genesis 1.1-2.3
+      verseBG: Genesis.1.1-2.3
+      verseYV: GEN.1
+    - titleCh: 詩篇 81
+      titleEn: Psalms 81
+      verseBG: Psalms.81
+      verseYV: PSA.81
+
+  - index: 82
+    verses:
+    - titleCh: 創世記 2.4-4.26
+      titleEn: Genesis 2.4-4.26
+      verseBG: Genesis.2.4-4.26
+      verseYV: GEN.2
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+
+  - index: 83
+    verses:
+    - titleCh: 創世記 5.1-6.8
+      titleEn: Genesis 5.1-6.8
+      verseBG: Genesis.5.1-6.8
+      verseYV: GEN.5
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
+
+  - index: 84
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+
+  - index: 85
+    verses:
+    - titleCh: 創世記 6.9-9.29
+      titleEn: Genesis 6.9-9.29
+      verseBG: Genesis.6.9-9.29
+      verseYV: GEN.6
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
+
+  - index: 86
+    verses:
+    - titleCh: 創世記 10.1-11.9
+      titleEn: Genesis 10.1-11.9
+      verseBG: Genesis.10.1-11.9
+      verseYV: GEN.10
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
+
+  - index: 87
+    verses:
+    - titleCh: 創世記 11.10-26
+      titleEn: Genesis 11.10-26
+      verseBG: Genesis.11.10-26
+      verseYV: GEN.11
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
+
+  - index: 88
+    verses:
+    - titleCh: 創世記 11.27-12.20
+      titleEn: Genesis 11.27-12.20
+      verseBG: Genesis.11.27-12.20
+      verseYV: GEN.11
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+
+  - index: 89
+    verses:
+    - titleCh: 創世記 13-14
+      titleEn: Genesis 13-14
+      verseBG: Genesis.13-14
+      verseYV: GEN.13
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+
+  - index: 90
+    verses:
+    - titleCh: 創世記 15-16
+      titleEn: Genesis 15-16
+      verseBG: Genesis.15-16
+      verseYV: GEN.15
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+
+  - index: 91
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+
+  - index: 92
+    verses:
+    - titleCh: 創世記 17
+      titleEn: Genesis 17
+      verseBG: Genesis.17
+      verseYV: GEN.17
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+
+  - index: 93
+    verses:
+    - titleCh: 創世記 18.1-15
+      titleEn: Genesis 18.1-15
+      verseBG: Genesis.18.1-15
+      verseYV: GEN.18
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+
+  - index: 94
+    verses:
+    - titleCh: 創世記 18.16-19.38
+      titleEn: Genesis 18.16-19.38
+      verseBG: Genesis.18.16-19.38
+      verseYV: GEN.18
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+
+  - index: 95
+    verses:
+    - titleCh: 創世記 20-21
+      titleEn: Genesis 20-21
+      verseBG: Genesis.20-21
+      verseYV: GEN.20
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+
+  - index: 96
+    verses:
+    - titleCh: 創世記 22-23
+      titleEn: Genesis 22-23
+      verseBG: Genesis.22-23
+      verseYV: GEN.22
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+
+  - index: 97
+    verses:
+    - titleCh: 創世記 24-25.11
+      titleEn: Genesis 24-25.11
+      verseBG: Genesis.24-25.11
+      verseYV: GEN.24
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 98
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 99
+    verses:
+    - titleCh: 創世記 25.12-18
+      titleEn: Genesis 25.12-18
+      verseBG: Genesis.25.12-18
+      verseYV: GEN.25
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 100
+    verses:
+    - titleCh: 創世記 25.19-26.35
+      titleEn: Genesis 25.19-26.35
+      verseBG: Genesis.25.19-26.35
+      verseYV: GEN.25
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 101
+    verses:
+    - titleCh: 創世記 27-28
+      titleEn: Genesis 27-28
+      verseBG: Genesis.27-28
+      verseYV: GEN.27
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
+  - index: 102
+    verses:
+    - titleCh: 創世記 29-31
+      titleEn: Genesis 29-31
+      verseBG: Genesis.29-31
+      verseYV: GEN.29
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+
+  - index: 103
+    verses:
+    - titleCh: 創世記 32-33
+      titleEn: Genesis 32-33
+      verseBG: Genesis.32-33
+      verseYV: GEN.32
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 104
+    verses:
+    - titleCh: 創世記 34-35
+      titleEn: Genesis 34-35
+      verseBG: Genesis.34-35
+      verseYV: GEN.34
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 105
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
+  - index: 106
+    verses:
+    - titleCh: 創世記 36.1-37.1
+      titleEn: Genesis 36.1-37.1
+      verseBG: Genesis.36.1-37.1
+      verseYV: GEN.36
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
+  - index: 107
+    verses:
+    - titleCh: 創世記 37.2-38.30
+      titleEn: Genesis 37.2-38.30
+      verseBG: Genesis.37.2-38.30
+      verseYV: GEN.37
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 108
+    verses:
+    - titleCh: 創世記 39-40
+      titleEn: Genesis 39-40
+      verseBG: Genesis.39-40
+      verseYV: GEN.39
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
+  - index: 109
+    verses:
+    - titleCh: 創世記 41-42
+      titleEn: Genesis 41-42
+      verseBG: Genesis.41-42
+      verseYV: GEN.41
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 110
+    verses:
+    - titleCh: 創世記 43-44
+      titleEn: Genesis 43-44
+      verseBG: Genesis.43-44
+      verseYV: GEN.43
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+
+  - index: 111
+    verses:
+    - titleCh: 創世記 45-46
+      titleEn: Genesis 45-46
+      verseBG: Genesis.45-46
+      verseYV: GEN.45
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 112
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+
+  - index: 113
+    verses:
+    - titleCh: 創世記 47-48
+      titleEn: Genesis 47-48
+      verseBG: Genesis.47-48
+      verseYV: GEN.47
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+
+  - index: 114
+    verses:
+    - titleCh: 創世記 49-50
+      titleEn: Genesis 49-50
+      verseBG: Genesis.49-50
+      verseYV: GEN.49
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
 
 ---
