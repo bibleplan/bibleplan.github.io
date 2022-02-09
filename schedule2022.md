@@ -2854,4 +2854,48 @@ plan:
       verseBG: Psalms.68
       verseYV: PSA.68
 
+  - index: 259
+    verses:
+    - titleCh: 使徒行傳  22.30-24.27
+      titleEn: Acts 22.30-24.27
+      verseBG: Acts.22.30-24.27
+      verseYV: ACT.22
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 260
+    verses:
+    - titleCh: 使徒行傳 25-26
+      titleEn: Acts 25-26
+      verseBG: Acts.25-26
+      verseYV: ACT.25
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
+  - index: 261
+    verses:
+    - titleCh: 使徒行傳 27.1-28.16
+      titleEn: Acts 27.1-28.16
+      verseBG: Acts.27.1-28.16
+      verseYV: ACT.27
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+
+  - index: 262
+    verses:
+    - titleCh: 使徒行傳  28.17-30
+      titleEn: Acts 28.17-30
+      verseBG: Acts.28.17-30
+      verseYV: ACT.28
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
 ---
