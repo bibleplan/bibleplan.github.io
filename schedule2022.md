@@ -2667,4 +2667,191 @@ plan:
       verseBG: Psalms.51
       verseYV: PSA.51
 
+  - index: 243
+    verses:
+    - titleCh: 使徒行傳 1
+      titleEn: Acts 1
+      verseBG: Acts.1
+      verseYV: ACT.1
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 244
+    verses:
+    - titleCh: 使徒行傳 2
+      titleEn: Acts 2
+      verseBG: Acts.2
+      verseYV: ACT.2
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 245
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
+  - index: 246
+    verses:
+    - titleCh: 使徒行傳 3-4
+      titleEn: Acts 3-4
+      verseBG: Acts.3-4
+      verseYV: ACT.3
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+
+  - index: 247
+    verses:
+    - titleCh: 使徒行傳 5.1-6.7
+      titleEn: Acts 5.1-6.7
+      verseBG: Acts.5.1-6.7
+      verseYV: ACT.5
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 248
+    verses:
+    - titleCh: 使徒行傳 6.8-7.60
+      titleEn: Acts 6.8-7.60
+      verseBG: Acts.6.8-7.60
+      verseYV: ACT.6
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
+  - index: 249
+    verses:
+    - titleCh: 使徒行傳 8.1-9.31
+      titleEn: Acts 8.1-9.31
+      verseBG: Acts.8.1-9.31
+      verseYV: ACT.8
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+
+  - index: 250
+    verses:
+    - titleCh: 使徒行傳  9.32-10.48
+      titleEn: Acts 9.32-10.48
+      verseBG: Acts.9.32-10.48
+      verseYV: ACT.9
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+
+  - index: 251
+    verses:
+    - titleCh: 使徒行傳 11-12
+      titleEn: Acts 11-12
+      verseBG: Acts.11-12
+      verseYV: ACT.11
+    - titleCh: 詩篇 60
+      titleEn: Psalms 60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+
+  - index: 251
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 61
+      titleEn: Psalms 61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+
+  - index: 252
+    verses:
+    - titleCh: 使徒行傳 13
+      titleEn: Acts 13
+      verseBG: Acts.13
+      verseYV: ACT.13
+    - titleCh: 詩篇 62
+      titleEn: Psalms 62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+
+  - index: 253
+    verses:
+    - titleCh: 使徒行傳  14.1-16.5
+      titleEn: Acts 14.1-16.5
+      verseBG: Acts.14.1-16.5
+      verseYV: ACT.14
+    - titleCh: 詩篇 63
+      titleEn: Psalms 63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+
+  - index: 254
+    verses:
+    - titleCh: 使徒行傳  16.6-17.34
+      titleEn: Acts 16.6-17.34
+      verseBG: Acts.16.6-17.34
+      verseYV: ACT.16
+    - titleCh: 詩篇 64
+      titleEn: Psalms 64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+
+  - index: 255
+    verses:
+    - titleCh: 使徒行傳  18.1-19.20
+      titleEn: Acts 18.1-19.20
+      verseBG: Acts.18.1-19.20
+      verseYV: ACT.18
+    - titleCh: 詩篇 65
+      titleEn: Psalms 65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+
+  - index: 256
+    verses:
+    - titleCh: 使徒行傳  19.21-20.38
+      titleEn: Acts 19.21-20.38
+      verseBG: Acts.19.21-20.38
+      verseYV: ACT.19
+    - titleCh: 詩篇 66
+      titleEn: Psalms 66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+
+  - index: 257
+    verses:
+    - titleCh: 使徒行傳  21.1-22.29
+      titleEn: Acts 21.1-22.29
+      verseBG: Acts.21.1-22.29
+      verseYV: ACT.21
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 258
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
 ---
