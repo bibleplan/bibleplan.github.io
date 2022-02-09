@@ -1259,4 +1259,367 @@ plan:
       verseBG: Psalms.114
       verseYV: PSA.114
 
+  - index: 115
+    verses:
+    - titleCh: 出埃及記  1-2
+      titleEn: Exodus 1-2
+      verseBG: Exodus.1-2
+      verseYV: EXO.1
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
+  - index: 116
+    verses:
+    - titleCh: 出埃及記   3-4
+      titleEn: Exodus  3-4
+      verseBG: Exodus. 3-4
+      verseYV: EXO. 3
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+
+  - index: 117
+    verses:
+    - titleCh: 出埃及記  5.1-6.27
+      titleEn: Exodus 5.1-6.27
+      verseBG: Exodus.5.1-6.27
+      verseYV: EXO.5
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+
+  - index: 118
+    verses:
+    - titleCh: 出埃及記  6.28-9.35
+      titleEn: Exodus 6.28-9.35
+      verseBG: Exodus.6.28-9.35
+      verseYV: EXO.6
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+
+  - index: 119
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119:1-16
+      titleEn: Psalms 119:1-16
+      verseBG: Psalms.119:1-16
+      verseYV: PSA.119:1-16
+
+  - index: 120
+    verses:
+    - titleCh: 出埃及記  10-11
+      titleEn: Exodus 10-11
+      verseBG: Exodus.10-11
+      verseYV: EXO.10
+    - titleCh: 詩篇 119:17-32
+      titleEn: Psalms 119:17-32
+      verseBG: Psalms.119:17-32
+      verseYV: PSA.119:17-32
+
+  - index: 121
+    verses:
+    - titleCh: 出埃及記  12.1-30
+      titleEn: Exodus 12.1-30
+      verseBG: Exodus.12.1-30
+      verseYV: EXO.12
+    - titleCh: 詩篇 119:33-48
+      titleEn: Psalms 119:33-48
+      verseBG: Psalms.119:33-48
+      verseYV: PSA.119:33-48
+
+  - index: 122
+    verses:
+    - titleCh: 出埃及記  12.31-14.31
+      titleEn: Exodus 12.31-14.31
+      verseBG: Exodus.12.31-14.31
+      verseYV: EXO.12
+    - titleCh: 詩篇 119:49-64
+      titleEn: Psalms 119:49-64
+      verseBG: Psalms.119:49-64
+      verseYV: PSA.119:49-64
+
+  - index: 123
+    verses:
+    - titleCh: 出埃及記  15.1-21
+      titleEn: Exodus 15.1-21
+      verseBG: Exodus.15.1-21
+      verseYV: EXO.15
+    - titleCh: 詩篇 119:65-80
+      titleEn: Psalms 119:65-80
+      verseBG: Psalms.119:65-80
+      verseYV: PSA.119:65-80
+
+  - index: 124
+    verses:
+    - titleCh: 出埃及記  15.22-17.7
+      titleEn: Exodus 15.22-17.7
+      verseBG: Exodus.15.22-17.7
+      verseYV: EXO.15
+    - titleCh: 詩篇 119:81-96
+      titleEn: Psalms 119:81-96
+      verseBG: Psalms.119:81-96
+      verseYV: PSA.119:81-96
+
+  - index: 125
+    verses:
+    - titleCh: 出埃及記  17.8-18.27
+      titleEn: Exodus 17.8-18.27
+      verseBG: Exodus.17.8-18.27
+      verseYV: EXO.17
+    - titleCh: 詩篇 119:97-112
+      titleEn: Psalms 119:97-112
+      verseBG: Psalms.119:97-112
+      verseYV: PSA.119:97-112
+
+  - index: 126
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119:113-128
+      titleEn: Psalms 119:113-128
+      verseBG: Psalms.119:113-128
+      verseYV: PSA.119:113-128
+
+  - index: 127
+    verses:
+    - titleCh: 出埃及記  19-20
+      titleEn: Exodus 19-20
+      verseBG: Exodus.19-20
+      verseYV: EXO.19
+    - titleCh: 詩篇 119:129-144
+      titleEn: Psalms 119:129-144
+      verseBG: Psalms.119:129-144
+      verseYV: PSA.119:129-144
+
+  - index: 128
+    verses:
+    - titleCh: 出埃及記  21-23
+      titleEn: Exodus 21-23
+      verseBG: Exodus.21-23
+      verseYV: EXO.21
+    - titleCh: 詩篇 119:145-160
+      titleEn: Psalms 119:145-160
+      verseBG: Psalms.119:145-160
+      verseYV: PSA.119:145-160
+
+  - index: 129
+    verses:
+    - titleCh: 出埃及記  24.1-11
+      titleEn: Exodus 24.1-11
+      verseBG: Exodus.24.1-11
+      verseYV: EXO.24
+    - titleCh: 詩篇 119:161-176
+      titleEn: Psalms 119:161-176
+      verseBG: Psalms.119:161-176
+      verseYV: PSA.119:161-176
+
+  - index: 130
+    verses:
+    - titleCh: 出埃及記  24.12-25.40
+      titleEn: Exodus 24.12-25.40
+      verseBG: Exodus.24.12-25.40
+      verseYV: EXO.24
+    - titleCh: 詩篇 120
+      titleEn: Psalms 120
+      verseBG: Psalms.120
+      verseYV: PSA.120
+
+  - index: 131
+    verses:
+    - titleCh: 出埃及記  26-27
+      titleEn: Exodus 26-27
+      verseBG: Exodus.26-27
+      verseYV: EXO.26
+    - titleCh: 詩篇 121
+      titleEn: Psalms 121
+      verseBG: Psalms.121
+      verseYV: PSA.121
+
+  - index: 132
+    verses:
+    - titleCh: 出埃及記  28-29
+      titleEn: Exodus 28-29
+      verseBG: Exodus.28-29
+      verseYV: EXO.28
+    - titleCh: 詩篇 122
+      titleEn: Psalms 122
+      verseBG: Psalms.122
+      verseYV: PSA.122
+
+  - index: 133
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 123
+      titleEn: Psalms 123
+      verseBG: Psalms.123
+      verseYV: PSA.123
+
+  - index: 134
+    verses:
+    - titleCh: 出埃及記  30-31
+      titleEn: Exodus 30-31
+      verseBG: Exodus.30-31
+      verseYV: EXO.30
+    - titleCh: 詩篇 124
+      titleEn: Psalms 124
+      verseBG: Psalms.124
+      verseYV: PSA.124
+
+  - index: 135
+    verses:
+    - titleCh: 出埃及記  32-33
+      titleEn: Exodus 32-33
+      verseBG: Exodus.32-33
+      verseYV: EXO.32
+    - titleCh: 詩篇 125
+      titleEn: Psalms 125
+      verseBG: Psalms.125
+      verseYV: PSA.125
+
+  - index: 136
+    verses:
+    - titleCh: 出埃及記  34
+      titleEn: Exodus 34
+      verseBG: Exodus.34
+      verseYV: EXO.34
+    - titleCh: 詩篇 126
+      titleEn: Psalms 126
+      verseBG: Psalms.126
+      verseYV: PSA.126
+
+  - index: 137
+    verses:
+    - titleCh: 出埃及記  35-36
+      titleEn: Exodus 35-36
+      verseBG: Exodus.35-36
+      verseYV: EXO.35
+    - titleCh: 詩篇 127
+      titleEn: Psalms 127
+      verseBG: Psalms.127
+      verseYV: PSA.127
+
+  - index: 138
+    verses:
+    - titleCh: 出埃及記  37-38
+      titleEn: Exodus 37-38
+      verseBG: Exodus.37-38
+      verseYV: EXO.37
+    - titleCh: 詩篇 128
+      titleEn: Psalms 128
+      verseBG: Psalms.128
+      verseYV: PSA.128
+
+  - index: 139
+    verses:
+    - titleCh: 出埃及記  39
+      titleEn: Exodus 39
+      verseBG: Exodus.39
+      verseYV: EXO.39
+    - titleCh: 詩篇 129
+      titleEn: Psalms 129
+      verseBG: Psalms.129
+      verseYV: PSA.129
+
+  - index: 140
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 130
+      titleEn: Psalms 130
+      verseBG: Psalms.130
+      verseYV: PSA.130
+
+  - index: 141
+    verses:
+    - titleCh: 出埃及記  40
+      titleEn: Exodus 40
+      verseBG: Exodus.40
+      verseYV: EXO.40
+    - titleCh: 詩篇 131
+      titleEn: Psalms 131
+      verseBG: Psalms.131
+      verseYV: PSA.131
+
+  - index: 142
+    verses:
+    - titleCh: 利未記  1-2
+      titleEn: Leviticus 1-2
+      verseBG: Leviticus.1-2
+      verseYV: LEV.1
+    - titleCh: 詩篇 132
+      titleEn: Psalms 132
+      verseBG: Psalms.132
+      verseYV: PSA.132
+
+  - index: 143
+    verses:
+    - titleCh: 利未記  3
+      titleEn: Leviticus 3
+      verseBG: Leviticus.3
+      verseYV: LEV.3
+    - titleCh: 詩篇 133
+      titleEn: Psalms 133
+      verseBG: Psalms.133
+      verseYV: PSA.133
+
+  - index: 144
+    verses:
+    - titleCh: 利未記  4.1-5.13
+      titleEn: Leviticus 4.1-5.13
+      verseBG: Leviticus.4.1-5.13
+      verseYV: LEV.4
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
+
+  - index: 145
+    verses:
+    - titleCh: 利未記  5.14-6.7
+      titleEn: Leviticus 5.14-6.7
+      verseBG: Leviticus.5.14-6.7
+      verseYV: LEV.5
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
+
+  - index: 146
+    verses:
+    - titleCh: 利未記  6.8-7.38
+      titleEn: Leviticus 6.8-7.38
+      verseBG: Leviticus.6.8-7.38
+      verseYV: LEV.6
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
+
+  - index: 147
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
+
 ---
