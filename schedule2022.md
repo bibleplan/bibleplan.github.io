@@ -2766,7 +2766,7 @@ plan:
       verseBG: Psalms.60
       verseYV: PSA.60
 
-  - index: 251
+  - index: 252
     verses:
     - titleCh: 
       titleEn: 
@@ -2777,7 +2777,7 @@ plan:
       verseBG: Psalms.61
       verseYV: PSA.61
 
-  - index: 252
+  - index: 253
     verses:
     - titleCh: 使徒行傳 13
       titleEn: Acts 13
@@ -2788,7 +2788,7 @@ plan:
       verseBG: Psalms.62
       verseYV: PSA.62
 
-  - index: 253
+  - index: 254
     verses:
     - titleCh: 使徒行傳  14.1-16.5
       titleEn: Acts 14.1-16.5
@@ -2799,7 +2799,7 @@ plan:
       verseBG: Psalms.63
       verseYV: PSA.63
 
-  - index: 254
+  - index: 255
     verses:
     - titleCh: 使徒行傳  16.6-17.34
       titleEn: Acts 16.6-17.34
@@ -2810,7 +2810,7 @@ plan:
       verseBG: Psalms.64
       verseYV: PSA.64
 
-  - index: 255
+  - index: 256
     verses:
     - titleCh: 使徒行傳  18.1-19.20
       titleEn: Acts 18.1-19.20
@@ -2821,7 +2821,7 @@ plan:
       verseBG: Psalms.65
       verseYV: PSA.65
 
-  - index: 256
+  - index: 257
     verses:
     - titleCh: 使徒行傳  19.21-20.38
       titleEn: Acts 19.21-20.38
@@ -2832,7 +2832,7 @@ plan:
       verseBG: Psalms.66
       verseYV: PSA.66
 
-  - index: 257
+  - index: 258
     verses:
     - titleCh: 使徒行傳  21.1-22.29
       titleEn: Acts 21.1-22.29
@@ -2843,7 +2843,7 @@ plan:
       verseBG: Psalms.67
       verseYV: PSA.67
 
-  - index: 258
+  - index: 259
     verses:
     - titleCh:  
       titleEn: 
@@ -2854,7 +2854,7 @@ plan:
       verseBG: Psalms.68
       verseYV: PSA.68
 
-  - index: 259
+  - index: 260
     verses:
     - titleCh: 使徒行傳  22.30-24.27
       titleEn: Acts 22.30-24.27
@@ -2865,7 +2865,7 @@ plan:
       verseBG: Psalms.69
       verseYV: PSA.69
 
-  - index: 260
+  - index: 261
     verses:
     - titleCh: 使徒行傳 25-26
       titleEn: Acts 25-26
@@ -2876,7 +2876,7 @@ plan:
       verseBG: Psalms.70
       verseYV: PSA.70
 
-  - index: 261
+  - index: 262
     verses:
     - titleCh: 使徒行傳 27.1-28.16
       titleEn: Acts 27.1-28.16
@@ -2887,7 +2887,7 @@ plan:
       verseBG: Psalms.71
       verseYV: PSA.71
 
-  - index: 262
+  - index: 263
     verses:
     - titleCh: 使徒行傳  28.17-30
       titleEn: Acts 28.17-30
@@ -2897,5 +2897,38 @@ plan:
       titleEn: Psalms 72
       verseBG: Psalms.72
       verseYV: PSA.72
+
+  - index: 264
+    verses:
+    - titleCh: 羅馬書 1.1-17
+      titleEn: Romans 1.1-17
+      verseBG: Romans.1.1-17
+      verseYV: ROM.1
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
+  - index: 265
+    verses:
+    - titleCh: 羅馬書 1.18-2.29
+      titleEn: Romans 1.18-2.29
+      verseBG: Romans.1.18-2.29
+      verseYV: ROM.1
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+
+  - index: 266
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
 
 ---
