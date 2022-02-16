@@ -3910,4 +3910,26 @@ plan:
       verseBG: Proverbs.4
       verseYV: PRO.4
 
+  - index: 356
+    verses:
+    - titleCh: 約伯記 1-2
+      titleEn: Job 1-2
+      verseBG: Job.1-2
+      verseYV: JOB.1
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+
+  - index: 357
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+
 ---
