@@ -3932,4 +3932,70 @@ plan:
       verseBG: Proverbs.6
       verseYV: PRO.6
 
+  - index: 358
+    verses:
+    - titleCh: 約伯記 3
+      titleEn: Job 3
+      verseBG: Job.3
+      verseYV: JOB.3
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+
+  - index: 359
+    verses:
+    - titleCh: 約伯記 4-7
+      titleEn: Job 4-7
+      verseBG: Job.4-7
+      verseYV: JOB.4
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
+
+  - index: 360
+    verses:
+    - titleCh: 約伯記 8-10
+      titleEn: Job 8-10
+      verseBG: Job.8-10
+      verseYV: JOB.8
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+
+  - index: 361
+    verses:
+    - titleCh: 約伯記 11-12
+      titleEn: Job 11-12
+      verseBG: Job.11-12
+      verseYV: JOB.11
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+
+  - index: 362
+    verses:
+    - titleCh: 約伯記 13-14
+      titleEn: Job 13-14
+      verseBG: Job.13-14
+      verseYV: JOB.13
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+
+  - index: 363
+    verses:
+    - titleCh: 約伯記 15-17
+      titleEn: Job 15-17
+      verseBG: Job.15-17
+      verseYV: JOB.15
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+
 ---
