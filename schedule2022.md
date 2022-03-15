@@ -887,10 +887,10 @@ plan:
 
   - index: 81
     verses:
-    - titleCh: 創世記 1.1-2.3
-      titleEn: Genesis 1.1-2.3
-      verseBG: Genesis.1.1-2.3
-      verseYV: GEN.1
+    - titleCh: 約翰福音 21
+      titleEn: John.21
+      verseBG: John.21
+      verseYV: JHN.21
     - titleCh: 詩篇 81
       titleEn: Psalms 81
       verseBG: Psalms.81
@@ -898,10 +898,10 @@ plan:
 
   - index: 82
     verses:
-    - titleCh: 創世記 2.4-4.26
-      titleEn: Genesis 2.4-4.26
-      verseBG: Genesis.2.4-4.26
-      verseYV: GEN.2
+    - titleCh: 創世記 1.1-2.3
+      titleEn: Genesis 1.1-2.3
+      verseBG: Genesis.1.1-2.3
+      verseYV: GEN.1
     - titleCh: 詩篇 82
       titleEn: Psalms 82
       verseBG: Psalms.82
@@ -909,10 +909,10 @@ plan:
 
   - index: 83
     verses:
-    - titleCh: 創世記 5.1-6.8
-      titleEn: Genesis 5.1-6.8
-      verseBG: Genesis.5.1-6.8
-      verseYV: GEN.5
+    - titleCh: 創世記 2.4-4.26
+      titleEn: Genesis 2.4-4.26
+      verseBG: Genesis.2.4-4.26
+      verseYV: GEN.2
     - titleCh: 詩篇 83
       titleEn: Psalms 83
       verseBG: Psalms.83
@@ -931,10 +931,10 @@ plan:
 
   - index: 85
     verses:
-    - titleCh: 創世記 6.9-9.29
-      titleEn: Genesis 6.9-9.29
-      verseBG: Genesis.6.9-9.29
-      verseYV: GEN.6
+    - titleCh: 創世記 5.1-6.8
+      titleEn: Genesis 5.1-6.8
+      verseBG: Genesis.5.1-6.8
+      verseYV: GEN.5
     - titleCh: 詩篇 85
       titleEn: Psalms 85
       verseBG: Psalms.85
@@ -942,10 +942,10 @@ plan:
 
   - index: 86
     verses:
-    - titleCh: 創世記 10.1-11.9
-      titleEn: Genesis 10.1-11.9
-      verseBG: Genesis.10.1-11.9
-      verseYV: GEN.10
+    - titleCh: 創世記 6.9-9.29
+      titleEn: Genesis 6.9-9.29
+      verseBG: Genesis.6.9-9.29
+      verseYV: GEN.6
     - titleCh: 詩篇 86
       titleEn: Psalms 86
       verseBG: Psalms.86
@@ -953,10 +953,10 @@ plan:
 
   - index: 87
     verses:
-    - titleCh: 創世記 11.10-26
-      titleEn: Genesis 11.10-26
-      verseBG: Genesis.11.10-26
-      verseYV: GEN.11
+    - titleCh: 創世記 10.1-11.9
+      titleEn: Genesis 10.1-11.9
+      verseBG: Genesis.10.1-11.9
+      verseYV: GEN.10
     - titleCh: 詩篇 87
       titleEn: Psalms 87
       verseBG: Psalms.87
@@ -964,9 +964,9 @@ plan:
 
   - index: 88
     verses:
-    - titleCh: 創世記 11.27-12.20
-      titleEn: Genesis 11.27-12.20
-      verseBG: Genesis.11.27-12.20
+    - titleCh: 創世記 11.10-26
+      titleEn: Genesis 11.10-26
+      verseBG: Genesis.11.10-26
       verseYV: GEN.11
     - titleCh: 詩篇 88
       titleEn: Psalms 88
@@ -975,10 +975,10 @@ plan:
 
   - index: 89
     verses:
-    - titleCh: 創世記 13-14
-      titleEn: Genesis 13-14
-      verseBG: Genesis.13-14
-      verseYV: GEN.13
+    - titleCh: 創世記 11.27-12.20
+      titleEn: Genesis 11.27-12.20
+      verseBG: Genesis.11.27-12.20
+      verseYV: GEN.11
     - titleCh: 詩篇 89
       titleEn: Psalms 89
       verseBG: Psalms.89
@@ -986,10 +986,10 @@ plan:
 
   - index: 90
     verses:
-    - titleCh: 創世記 15-16
-      titleEn: Genesis 15-16
-      verseBG: Genesis.15-16
-      verseYV: GEN.15
+    - titleCh: 創世記 13-14
+      titleEn: Genesis 13-14
+      verseBG: Genesis.13-14
+      verseYV: GEN.13
     - titleCh: 詩篇 90
       titleEn: Psalms 90
       verseBG: Psalms.90
@@ -1005,6 +1005,17 @@ plan:
       titleEn: Psalms 91
       verseBG: Psalms.91
       verseYV: PSA.91
+
+  - index: 92
+    verses:
+    - titleCh: 創世記 15-16
+      titleEn: Genesis 15-16
+      verseBG: Genesis.15-16
+      verseYV: GEN.15
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
 
   - index: 92
     verses:
