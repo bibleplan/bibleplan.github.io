@@ -1017,16 +1017,16 @@ plan:
       verseBG: Psalms.92
       verseYV: PSA.92
 
-  - index: 92
+  - index: 93
     verses:
     - titleCh: 創世記 17
       titleEn: Genesis 17
       verseBG: Genesis.17
       verseYV: GEN.17
-    - titleCh: 詩篇 92
-      titleEn: Psalms 92
-      verseBG: Psalms.92
-      verseYV: PSA.92
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
 
   - index: 93
     verses:
