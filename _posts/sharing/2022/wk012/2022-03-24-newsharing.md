@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2022-03-24
-title: "新增靈修與親子導讀：簡介"
+title: "新增靈修與親子導讀簡介"
 categories: sharing Zhuolin
 weekNum: 12
 dayNum: 4
