@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2022-03-24
-title: "親子導讀：2022.3.24"
+title: "親子導讀"
 categories: sharing Zhuolin
 weekNum: 12
 dayNum: 4
