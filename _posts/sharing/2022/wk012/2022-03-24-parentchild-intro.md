@@ -1,4 +1,14 @@
-親子導讀簡介
+---
+layout: sharing
+date: 2022-03-24
+title: "親子導讀：簡介"
+categories: sharing Zhuolin
+weekNum: 12
+dayNum: 4
+permalink: /sharing/zhuolin/2022/wk12-day4-parentchild-intro.html
+author: Zhuolin
+cycle: 2022
+---
 
 建議：
 
