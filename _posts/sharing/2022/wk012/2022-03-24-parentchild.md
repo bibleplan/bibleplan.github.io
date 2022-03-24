@@ -1,5 +1,14 @@
-親子導讀 創世紀1:1-2:3
-2022.3.24
+---
+layout: sharing
+date: 2022-03-24
+title: "親子導讀：2022.3.24"
+categories: sharing Zhuolin
+weekNum: 12
+dayNum: 4
+permalink: /sharing/zhuolin/2022/wk12-day4-parentchild.html
+author: Zhuolin
+cycle: 2022
+---
 
 1. 打印經文。
 2. 一起禱告開始
