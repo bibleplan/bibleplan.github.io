@@ -1,4 +1,14 @@
-新增靈修與親子導讀
+---
+layout: sharing
+date: 2022-03-24
+title: "新增靈修與親子導讀：簡介"
+categories: sharing Zhuolin
+weekNum: 12
+dayNum: 4
+permalink: /sharing/zhuolin/2022/wk12-day4-newsharing.html
+author: Zhuolin
+cycle: 2022
+---
 
 感謝主，2018-2019 兩年，我們剛剛開始兩年讀經計劃的時候，得蒙神的恩典保守和豐豐厚厚的供應和遮蓋，我得以完成兩年讀經和紀錄每日靈修心得。如今又是兩年過去，神帶領我進入不同的領地，但是祂的話依然是隨時的幫助，在我軟弱的時候給我盼望，在我困惑的時候給我等候的勇氣，在我經過挑戰的時候再次讓我體會祂同在的應許如何真實。
 
