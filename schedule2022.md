@@ -953,10 +953,10 @@ plan:
 
   - index: 87
     verses:
-    - titleCh: 創世記 11.10-26
-      titleEn: Genesis 11.10-26
-      verseBG: Genesis.11.10-26
-      verseYV: GEN.11
+    - titleCh: 創世記 11.10-32
+      titleEn: Genesis 11.10-32
+      verseBG: Genesis.11.10-32
+      verseYV: GEN.11.10-32
     - titleCh: 詩篇 87
       titleEn: Psalms 87
       verseBG: Psalms.87
@@ -964,10 +964,10 @@ plan:
 
   - index: 88
     verses:
-    - titleCh: 創世記 11.27-12.20
-      titleEn: Genesis 11.27-12.20
-      verseBG: Genesis.11.27-12.20
-      verseYV: GEN.11
+    - titleCh: 創世記 12
+      titleEn: Genesis 12
+      verseBG: Genesis.12
+      verseYV: GEN.12
     - titleCh: 詩篇 88
       titleEn: Psalms 88
       verseBG: Psalms.88
