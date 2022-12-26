@@ -3987,6 +3987,17 @@ plan:
       verseBG: Proverbs.11
       verseYV: PRO.11
 
+
+    verses:
+    - titleCh: 約伯記 13-14
+      titleEn: Job 13-14
+      verseBG: Job.13-14
+      verseYV: JOB.13
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+
   - index: 363
     verses:
     - titleCh: 約伯記 15-17
@@ -3997,5 +4008,137 @@ plan:
       titleEn: Proverbs 12
       verseBG: Proverbs.12
       verseYV: PRO.12
+
+  - index: 364
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+
+  - index: 365
+    verses:
+    - titleCh: 約伯記 18-19
+      titleEn: Job 18-19
+      verseBG: Job.18-19
+      verseYV: JOB.18
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
+
+  - index: 366
+    verses:
+    - titleCh: 約伯記 20-21
+      titleEn: Job 20-21
+      verseBG: Job.20-21
+      verseYV: JOB.20
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
+
+  - index: 367
+    verses:
+    - titleCh: 約伯記 22-24
+      titleEn: Job 22-24
+      verseBG: Job.22-24
+      verseYV: JOB.22
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
+
+  - index: 368
+    verses:
+    - titleCh: 約伯記 25-26
+      titleEn: Job 25-26
+      verseBG: Job.25-26
+      verseYV: JOB.25
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+
+  - index: 369
+    verses:
+    - titleCh: 約伯記 27-28
+      titleEn: Job 27-28
+      verseBG: Job.27-28
+      verseYV: JOB.27
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+
+  - index: 370
+    verses:
+    - titleCh: 約伯記 29-31
+      titleEn: Job 29-31
+      verseBG: Job.29-31
+      verseYV: JOB.29
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
+
+  - index: 371
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
+
+  - index: 372
+    verses:
+    - titleCh: 約伯記 32-34
+      titleEn: Job 32-34
+      verseBG: Job.32-34
+      verseYV: JOB.32
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
+
+  - index: 373
+    verses:
+    - titleCh: 約伯記 35-37
+      titleEn: Job 35-37
+      verseBG: Job.35-37
+      verseYV: JOB.35
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
+
+  - index: 374
+    verses:
+    - titleCh: 約伯記 38.1-40.5
+      titleEn: Job 38.1-40.5
+      verseBG: Job.38.1-40.5
+      verseYV: JOB.38
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
+
+  - index: 375
+    verses:
+    - titleCh: 約伯記 40.6-42.17
+      titleEn: Job 40.6-42.17
+      verseBG: Job.40.6-42.17
+      verseYV: JOB.40.6-24
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
 
 ---
