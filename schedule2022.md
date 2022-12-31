@@ -4483,4 +4483,81 @@ plan:
       verseBG: Psalms.24
       verseYV: PSA.24
 
+  - index: 406
+    verses:
+    - titleCh: 撒母耳記下 21
+      titleEn: 2 Samuel.21
+      verseBG: 2 Samuel.21
+      verseYV: 2SA.21
+    - titleCh: 詩篇 25
+      titleEn: Psalms 25
+      verseBG: Psalms.25
+      verseYV: PSA.25
+
+  - index: 407
+    verses:
+    - titleCh: 撒母耳記下 22.1-23.7
+      titleEn: 2 Samuel.22.1-23.7
+      verseBG: 2 Samuel.22.1-23.7
+      verseYV: 2SA.22
+    - titleCh: 詩篇 26
+      titleEn: Psalms 26
+      verseBG: Psalms.26
+      verseYV: PSA.26
+
+  - index: 408
+    verses:
+    - titleCh: 撒母耳記下 23.8-39
+      titleEn: 2 Samuel.23.8-39
+      verseBG: 2 Samuel.23.8-39
+      verseYV: 2SA.23
+    - titleCh: 詩篇 27
+      titleEn: Psalms 27
+      verseBG: Psalms.27
+      verseYV: PSA.27
+
+  - index: 409
+    verses:
+    - titleCh: 撒母耳記下 24
+      titleEn: 2 Samuel.24
+      verseBG: 2 Samuel.24
+      verseYV: 2SA.24
+    - titleCh: 詩篇 28
+      titleEn: Psalms 28
+      verseBG: Psalms.28
+      verseYV: PSA.28
+
+  - index: 410
+    verses:
+    - titleCh: 列王紀上 1-2
+      titleEn: 1 Kings.1-2
+      verseBG: 1 Kings.1-2
+      verseYV: 1KI.1
+    - titleCh: 詩篇 29
+      titleEn: Psalms 29
+      verseBG: Psalms.29
+      verseYV: PSA.29
+
+  - index: 411
+    verses:
+    - titleCh: 列王紀上 3-4
+      titleEn: 1 Kings.3-4
+      verseBG: 1 Kings.3-4
+      verseYV: 1KI.3
+    - titleCh: 詩篇 30
+      titleEn: Psalms 30
+      verseBG: Psalms.30
+      verseYV: PSA.30
+
+  - index: 412
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 31
+      titleEn: Psalms 31
+      verseBG: Psalms.31
+      verseYV: PSA.31
+
 ---
