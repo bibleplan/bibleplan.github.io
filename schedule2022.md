@@ -4141,4 +4141,38 @@ plan:
       verseBG: Proverbs.23
       verseYV: PRO.23
 
+  - index: 376
+    verses:
+    - titleCh: 撒母耳記上 1.1-2.11
+      titleEn: 1 Samuel.1.1-2.11
+      verseBG: 1 Samuel.1.1-2.11
+      verseYV: 1SA.1
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
+
+  - index: 377
+    verses:
+    - titleCh: 撒母耳記上 2.12-4.1a
+      titleEn: 1 Samuel.2.12-4.1a
+      verseBG: 1 Samuel.2.12-4.1a
+      verseYV: 1SA.2
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
+
+
+  - index: 377
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
+
 ---
