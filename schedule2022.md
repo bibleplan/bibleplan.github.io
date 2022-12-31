@@ -4015,10 +4015,10 @@ plan:
       titleEn:
       verseBG:
       verseYV:
-    - titleCh: 箴言 12
-      titleEn: Proverbs 12
-      verseBG: Proverbs.12
-      verseYV: PRO.12
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
 
   - index: 365
     verses:
@@ -4026,10 +4026,10 @@ plan:
       titleEn: Job 18-19
       verseBG: Job.18-19
       verseYV: JOB.18
-    - titleCh: 箴言 13
-      titleEn: Proverbs 13
-      verseBG: Proverbs.13
-      verseYV: PRO.13
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
 
   - index: 366
     verses:
@@ -4037,10 +4037,10 @@ plan:
       titleEn: Job 20-21
       verseBG: Job.20-21
       verseYV: JOB.20
-    - titleCh: 箴言 14
-      titleEn: Proverbs 14
-      verseBG: Proverbs.14
-      verseYV: PRO.14
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
 
   - index: 367
     verses:
@@ -4048,10 +4048,10 @@ plan:
       titleEn: Job 22-24
       verseBG: Job.22-24
       verseYV: JOB.22
-    - titleCh: 箴言 15
-      titleEn: Proverbs 15
-      verseBG: Proverbs.15
-      verseYV: PRO.15
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
 
   - index: 368
     verses:
@@ -4059,10 +4059,10 @@ plan:
       titleEn: Job 25-26
       verseBG: Job.25-26
       verseYV: JOB.25
-    - titleCh: 箴言 16
-      titleEn: Proverbs 16
-      verseBG: Proverbs.16
-      verseYV: PRO.16
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
 
   - index: 369
     verses:
@@ -4070,10 +4070,10 @@ plan:
       titleEn: Job 27-28
       verseBG: Job.27-28
       verseYV: JOB.27
-    - titleCh: 箴言 17
-      titleEn: Proverbs 17
-      verseBG: Proverbs.17
-      verseYV: PRO.17
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
 
   - index: 370
     verses:
@@ -4081,10 +4081,10 @@ plan:
       titleEn: Job 29-31
       verseBG: Job.29-31
       verseYV: JOB.29
-    - titleCh: 箴言 18
-      titleEn: Proverbs 18
-      verseBG: Proverbs.18
-      verseYV: PRO.18
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
 
   - index: 371
     verses:
@@ -4092,10 +4092,10 @@ plan:
       titleEn:
       verseBG:
       verseYV:
-    - titleCh: 箴言 19
-      titleEn: Proverbs 19
-      verseBG: Proverbs.19
-      verseYV: PRO.19
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
 
   - index: 372
     verses:
@@ -4103,10 +4103,10 @@ plan:
       titleEn: Job 32-34
       verseBG: Job.32-34
       verseYV: JOB.32
-    - titleCh: 箴言 20
-      titleEn: Proverbs 20
-      verseBG: Proverbs.20
-      verseYV: PRO.20
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
 
   - index: 373
     verses:
@@ -4114,10 +4114,10 @@ plan:
       titleEn: Job 35-37
       verseBG: Job.35-37
       verseYV: JOB.35
-    - titleCh: 箴言 21
-      titleEn: Proverbs 21
-      verseBG: Proverbs.21
-      verseYV: PRO.21
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
 
   - index: 374
     verses:
@@ -4125,10 +4125,10 @@ plan:
       titleEn: Job 38.1-40.5
       verseBG: Job.38.1-40.5
       verseYV: JOB.38
-    - titleCh: 箴言 22
-      titleEn: Proverbs 22
-      verseBG: Proverbs.22
-      verseYV: PRO.22
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
 
   - index: 375
     verses:
@@ -4136,10 +4136,10 @@ plan:
       titleEn: Job 40.6-42.17
       verseBG: Job.40.6-42.17
       verseYV: JOB.40.6-24
-    - titleCh: 箴言 23
-      titleEn: Proverbs 23
-      verseBG: Proverbs.23
-      verseYV: PRO.23
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
 
   - index: 376
     verses:
@@ -4147,10 +4147,10 @@ plan:
       titleEn: 1 Samuel.1.1-2.11
       verseBG: 1 Samuel.1.1-2.11
       verseYV: 1SA.1
-    - titleCh: 箴言 24
-      titleEn: Proverbs 24
-      verseBG: Proverbs.24
-      verseYV: PRO.24
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
 
   - index: 377
     verses:
@@ -4158,10 +4158,10 @@ plan:
       titleEn: 1 Samuel.2.12-4.1a
       verseBG: 1 Samuel.2.12-4.1a
       verseYV: 1SA.2
-    - titleCh: 箴言 25
-      titleEn: Proverbs 25
-      verseBG: Proverbs.25
-      verseYV: PRO.25
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
 
 
   - index: 377
@@ -4170,9 +4170,86 @@ plan:
       titleEn:
       verseBG:
       verseYV:
-    - titleCh: 箴言 26
-      titleEn: Proverbs 26
-      verseBG: Proverbs.26
-      verseYV: PRO.26
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Proverbs.27
+      verseYV: PRO.27
+
+  - index: 378
+    verses:
+    - titleCh: 撒母耳記上 4.1b-5.12
+      titleEn: 1 Samuel.4.1b-5.12
+      verseBG: 1 Samuel.4.1b-5.12
+      verseYV: 1SA.4
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
+
+  - index: 379
+    verses:
+    - titleCh: 撒母耳記上 6-7
+      titleEn: 1 Samuel.6-7
+      verseBG: 1 Samuel.6-7
+      verseYV: 1SA.6
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
+
+  - index: 380
+    verses:
+    - titleCh: 撒母耳記上 8-9
+      titleEn: 1 Samuel.8-9
+      verseBG: 1 Samuel.8-9
+      verseYV: 1SA.8
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
+
+  - index: 381
+    verses:
+    - titleCh: 撒母耳記上 10-12
+      titleEn: 1 Samuel.10-12
+      verseBG: 1 Samuel.10-12
+      verseYV: 1SA.10
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
+
+  - index: 382
+    verses:
+    - titleCh: 撒母耳記上 13.1-14.48
+      titleEn: 1 Samuel.13.1-14.48
+      verseBG: 1 Samuel.13.1-14.48
+      verseYV: 1SA.13
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
+
+  - index: 383
+    verses:
+    - titleCh: 撒母耳記上 14.49-15.35
+      titleEn: 1 Samuel.14.49-15.35
+      verseBG: 1 Samuel.14.49-15.35
+      verseYV: 1SA.14
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
+
+  - index: 384
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 3
+      titleEn: Psalms 3
+      verseBG: Psalms.3
+      verseYV: PSA.3
 
 ---
