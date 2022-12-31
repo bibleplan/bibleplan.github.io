@@ -4400,10 +4400,87 @@ plan:
     - titleCh: 
       titleEn: 
       verseBG: 
-      verseYV: 
+      verseYV:
     - titleCh: 詩篇 17
       titleEn: Psalms 17
       verseBG: Psalms.17
       verseYV: PSA.17
+
+  - index: 399
+    verses:
+    - titleCh: 撒母耳記下 10-11
+      titleEn: 2 Samuel.10-11
+      verseBG: 2 Samuel.10-11
+      verseYV: 2SA.10
+    - titleCh: 詩篇 18
+      titleEn: Psalms 18
+      verseBG: Psalms.18
+      verseYV: PSA.18
+
+  - index: 400
+    verses:
+    - titleCh: 撒母耳記下 12
+      titleEn: 2 Samuel.12
+      verseBG: 2 Samuel.12
+      verseYV: 2SA.12
+    - titleCh: 詩篇 19
+      titleEn: Psalms 19
+      verseBG: Psalms.19
+      verseYV: PSA.19
+
+  - index: 401
+    verses:
+    - titleCh: 撒母耳記下 13-14
+      titleEn: 2 Samuel.13-14
+      verseBG: 2 Samuel.13-14
+      verseYV: 2SA.13
+    - titleCh: 詩篇 20
+      titleEn: Psalms 20
+      verseBG: Psalms.20
+      verseYV: PSA.20
+
+  - index: 402
+    verses:
+    - titleCh: 撒母耳記下 15-16
+      titleEn: 2 Samuel.15-16
+      verseBG: 2 Samuel.15-16
+      verseYV: 2SA.15
+    - titleCh: 詩篇 21
+      titleEn: Psalms 21
+      verseBG: Psalms.21
+      verseYV: PSA.21
+
+  - index: 403
+    verses:
+    - titleCh: 撒母耳記下 17-18
+      titleEn: 2 Samuel.17-18
+      verseBG: 2 Samuel.17-18
+      verseYV: 2SA.17
+    - titleCh: 詩篇 22
+      titleEn: Psalms 22
+      verseBG: Psalms.22
+      verseYV: PSA.22
+
+  - index: 404
+    verses:
+    - titleCh: 撒母耳記下 19-20
+      titleEn: 2 Samuel.19-20
+      verseBG: 2 Samuel.19-20
+      verseYV: 2SA.19
+    - titleCh: 詩篇 23
+      titleEn: Psalms 23
+      verseBG: Psalms.23
+      verseYV: PSA.23
+
+  - index: 405
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 24
+      titleEn: Psalms 24
+      verseBG: Psalms.24
+      verseYV: PSA.24
 
 ---
