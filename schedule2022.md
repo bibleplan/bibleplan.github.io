@@ -4252,4 +4252,158 @@ plan:
       verseBG: Psalms.3
       verseYV: PSA.3
 
+  - index: 385
+    verses:
+    - titleCh: 撒母耳記上 16-17
+      titleEn: 1 Samuel.16-17
+      verseBG: 1 Samuel.16-17
+      verseYV: 1SA.16
+    - titleCh: 詩篇 4
+      titleEn: Psalms 4
+      verseBG: Psalms.4
+      verseYV: PSA.4
+
+  - index: 386
+    verses:
+    - titleCh: 撒母耳記上 18-19
+      titleEn: 1 Samuel.18-19
+      verseBG: 1 Samuel.18-19
+      verseYV: 1SA.18
+    - titleCh: 詩篇 5
+      titleEn: Psalms 5
+      verseBG: Psalms.5
+      verseYV: PSA.5
+
+  - index: 387
+    verses:
+    - titleCh: 撒母耳記上 20-21
+      titleEn: 1 Samuel.20-21
+      verseBG: 1 Samuel.20-21
+      verseYV: 1SA.20
+    - titleCh: 詩篇 6
+      titleEn: Psalms 6
+      verseBG: Psalms.6
+      verseYV: PSA.6
+
+  - index: 388
+    verses:
+    - titleCh: 撒母耳記上 22-23
+      titleEn: 1 Samuel.22-23
+      verseBG: 1 Samuel.22-23
+      verseYV: 1SA.22
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
+
+  - index: 389
+    verses:
+    - titleCh: 撒母耳記上 24-25
+      titleEn: 1 Samuel.24-25
+      verseBG: 1 Samuel.24-25
+      verseYV: 1SA.24
+    - titleCh: 詩篇 8
+      titleEn: Psalms 8
+      verseBG: Psalms.8
+      verseYV: PSA.8
+
+  - index: 390
+    verses:
+    - titleCh: 撒母耳記上 26-27
+      titleEn: 1 Samuel.26-27
+      verseBG: 1 Samuel.26-27
+      verseYV: 1SA.26
+    - titleCh: 詩篇 9
+      titleEn: Psalms 9
+      verseBG: Psalms.9
+      verseYV: PSA.9
+
+  - index: 391
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 10
+      titleEn: Psalms 10
+      verseBG: Psalms.10
+      verseYV: PSA.10
+
+  - index: 392
+    verses:
+    - titleCh: 撒母耳記上 28-29
+      titleEn: 1 Samuel.28-29
+      verseBG: 1 Samuel.28-29
+      verseYV: 1SA.28
+    - titleCh: 詩篇 11
+      titleEn: Psalms 11
+      verseBG: Psalms.11
+      verseYV: PSA.11
+
+  - index: 393
+    verses:
+    - titleCh: 撒母耳記上 30-31
+      titleEn: 1 Samuel.30-31
+      verseBG: 1 Samuel.30-31
+      verseYV: 1SA.30
+    - titleCh: 詩篇 12
+      titleEn: Psalms 12
+      verseBG: Psalms.12
+      verseYV: PSA.12
+
+  - index: 394
+    verses:
+    - titleCh: 撒母耳記下 1-2
+      titleEn: 2 Samuel.1-2
+      verseBG: 2 Samuel.1-2
+      verseYV: 2SA.1
+    - titleCh: 詩篇 13
+      titleEn: Psalms 13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+
+  - index: 395
+    verses:
+    - titleCh: 撒母耳記下 3-4
+      titleEn: 2 Samuel.3-4
+      verseBG: 2 Samuel.3-4
+      verseYV: 2SA.3
+    - titleCh: 詩篇 14
+      titleEn: Psalms 14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+
+  - index: 396
+    verses:
+    - titleCh: 撒母耳記下 5-7
+      titleEn: 2 Samuel.5-7
+      verseBG: 2 Samuel.5-7
+      verseYV: 2SA.5
+    - titleCh: 詩篇 15
+      titleEn: Psalms 15
+      verseBG: Psalms.15
+      verseYV: PSA.15
+
+  - index: 397
+    verses:
+    - titleCh: 撒母耳記下 8-9
+      titleEn: 2 Samuel.8-9
+      verseBG: 2 Samuel.8-9
+      verseYV: 2SA.8
+    - titleCh: 詩篇 16
+      titleEn: Psalms 16
+      verseBG: Psalms.16
+      verseYV: PSA.16
+
+  - index: 398
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 17
+      titleEn: Psalms 17
+      verseBG: Psalms.17
+      verseYV: PSA.17
+
 ---
