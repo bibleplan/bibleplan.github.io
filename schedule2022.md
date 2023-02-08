@@ -4559,5 +4559,4 @@ plan:
       titleEn: Psalms 31
       verseBG: Psalms.31
       verseYV: PSA.31
-
 ---
