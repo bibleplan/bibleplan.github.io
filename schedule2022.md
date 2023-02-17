@@ -4560,4 +4560,81 @@ plan:
       verseBG: Psalms.31
       verseYV: PSA.31
 
+  - index: 413
+    verses:
+    - titleCh: 列王紀上 5-6
+      titleEn: 1 Kings.5-6
+      verseBG: 1 Kings.5-6
+      verseYV: 1KI.5
+    - titleCh: 詩篇 32
+      titleEn: Psalms 32
+      verseBG: Psalms.32
+      verseYV: PSA.32
+
+  - index: 414
+    verses:
+    - titleCh: 列王紀上 7
+      titleEn: 1 Kings.7
+      verseBG: 1 Kings.7
+      verseYV: 1KI.7
+    - titleCh: 詩篇 33
+      titleEn: Psalms 33
+      verseBG: Psalms.33
+      verseYV: PSA.33
+
+  - index: 415
+    verses:
+    - titleCh: 列王紀上 8-9
+      titleEn: 1 Kings.8-9
+      verseBG: 1 Kings.8-9
+      verseYV: 1KI.8
+    - titleCh: 詩篇 34
+      titleEn: Psalms 34
+      verseBG: Psalms.34
+      verseYV: PSA.34
+
+  - index: 416
+    verses:
+    - titleCh: 列王紀上 10-11
+      titleEn: 1 Kings.10-11
+      verseBG: 1 Kings.10-11
+      verseYV: 1KI.10
+    - titleCh: 詩篇 35
+      titleEn: Psalms 35
+      verseBG: Psalms.35
+      verseYV: PSA.35
+
+  - index: 417
+    verses:
+    - titleCh: 列王紀上 12-13
+      titleEn: 1 Kings.12-13
+      verseBG: 1 Kings.12-13
+      verseYV: 1KI.12
+    - titleCh: 詩篇 36
+      titleEn: Psalms 36
+      verseBG: Psalms.36
+      verseYV: PSA.36
+
+  - index: 418
+    verses:
+    - titleCh: 列王紀上 14
+      titleEn: 1 Kings.14
+      verseBG: 1 Kings.14
+      verseYV: 1KI.14
+    - titleCh: 詩篇 37
+      titleEn: Psalms 37
+      verseBG: Psalms.37
+      verseYV: PSA.37
+
+  - index: 419
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 38
+      titleEn: Psalms 38
+      verseBG: Psalms.38
+      verseYV: PSA.38
+
 ---
