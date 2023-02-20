@@ -1,7 +1,7 @@
 ---
 layout: schedule2022
 plan:
-  name: "「從聖經看屬靈生命」"
+  name: "「每日讀經 與主同行」"
   startDate: "01-03-2022"
   totalDays: 700
   days: 
