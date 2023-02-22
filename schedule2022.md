@@ -4637,4 +4637,81 @@ plan:
       verseBG: Psalms.38
       verseYV: PSA.38
 
+  - index: 420
+    verses:
+    - titleCh: 列王紀上 15.1-16.20
+      titleEn: 1 Kings.15.1-16.20
+      verseBG: 1 Kings.15.1-16.20
+      verseYV: 1KI.15
+    - titleCh: 詩篇 39
+      titleEn: Psalms 39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+
+  - index: 421
+    verses:
+    - titleCh: 列王紀上 16.21-17.24
+      titleEn: 1 Kings.16.21-17.24
+      verseBG: 1 Kings.16.21-17.24
+      verseYV: 1KI.16
+    - titleCh: 詩篇 40
+      titleEn: Psalms 40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+
+  - index: 422
+    verses:
+    - titleCh: 列王紀上 18-19
+      titleEn: 1 Kings.18-19
+      verseBG: 1 Kings.18-19
+      verseYV: 1KI.18
+    - titleCh: 詩篇 41
+      titleEn: Psalms 41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+
+  - index: 423
+    verses:
+    - titleCh: 列王紀上 20-21
+      titleEn: 1 Kings.20-21
+      verseBG: 1 Kings.20-21
+      verseYV: 1KI.20
+    - titleCh: 詩篇 42
+      titleEn: Psalms 42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+
+  - index: 424
+    verses:
+    - titleCh: 列王紀上 22
+      titleEn: 1 Kings.22
+      verseBG: 1 Kings.22
+      verseYV: 1KI.22
+    - titleCh: 詩篇 43
+      titleEn: Psalms 43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+
+  - index: 425
+    verses:
+    - titleCh: 列王紀下 1-2
+      titleEn: 2 Kings.1-2
+      verseBG: 2 Kings.1-2
+      verseYV: 2KI.1
+    - titleCh: 詩篇 44
+      titleEn: Psalms 44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+
+  - index: 426
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 45
+      titleEn: Psalms 45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+
 ---
