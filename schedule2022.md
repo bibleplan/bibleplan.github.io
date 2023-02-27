@@ -4714,4 +4714,158 @@ plan:
       verseBG: Psalms.45
       verseYV: PSA.45
 
+  - index: 427
+    verses:
+    - titleCh: 列王紀下 3-4
+      titleEn: 2 Kings.3-4
+      verseBG: 2 Kings.3-4
+      verseYV: 2KI.3
+    - titleCh: 詩篇 46
+      titleEn: Psalms 46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+
+  - index: 428
+    verses:
+    - titleCh: 列王紀下 5-6
+      titleEn: 2 Kings.5-6
+      verseBG: 2 Kings.5-6
+      verseYV: 2KI.5
+    - titleCh: 詩篇 47
+      titleEn: Psalms 47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+
+  - index: 429
+    verses:
+    - titleCh: 列王紀下 7-8
+      titleEn: 2 Kings.7-8
+      verseBG: 2 Kings.7-8
+      verseYV: 2KI.7
+    - titleCh: 詩篇 48
+      titleEn: Psalms 48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+
+  - index: 430
+    verses:
+    - titleCh: 列王紀下 9-10
+      titleEn: 2 Kings.9-10
+      verseBG: 2 Kings.9-10
+      verseYV: 2KI.9
+    - titleCh: 詩篇 49
+      titleEn: Psalms 49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+
+  - index: 431
+    verses:
+    - titleCh: 列王紀下 11-12
+      titleEn: 2 Kings.11-12
+      verseBG: 2 Kings.11-12
+      verseYV: 2KI.11
+    - titleCh: 詩篇 50
+      titleEn: Psalms 50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+
+  - index: 432
+    verses:
+    - titleCh: 列王紀下 13-14
+      titleEn: 2 Kings.13-14
+      verseBG: 2 Kings.13-14
+      verseYV: 2KI.13
+    - titleCh: 詩篇 51
+      titleEn: Psalms 51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+
+  - index: 433
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 434
+    verses:
+    - titleCh: 列王紀下 15-16
+      titleEn: 2 Kings.15-16
+      verseBG: 2 Kings.15-16
+      verseYV: 2KI.15
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 435
+    verses:
+    - titleCh: 列王紀下 17
+      titleEn: 2 Kings.17
+      verseBG: 2 Kings.17
+      verseYV: 2KI.17
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
+  - index: 436
+    verses:
+    - titleCh: 列王紀下 18
+      titleEn: 2 Kings.18
+      verseBG: 2 Kings.18
+      verseYV: 2KI.18
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+
+  - index: 437
+    verses:
+    - titleCh: 列王紀下 19-20
+      titleEn: 2 Kings.19-20
+      verseBG: 2 Kings.19-20
+      verseYV: 2KI.19
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 438
+    verses:
+    - titleCh: 列王紀下 21
+      titleEn: 2 Kings.21
+      verseBG: 2 Kings.21
+      verseYV: 2KI.21
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
+  - index: 439
+    verses:
+    - titleCh: 列王紀下 22.1-23.35
+      titleEn: 2 Kings.22.1-23.35
+      verseBG: 2 Kings.22.1-23.35
+      verseYV: 2KI.22
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+
+  - index: 440
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+
 ---
