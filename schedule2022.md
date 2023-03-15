@@ -4945,4 +4945,158 @@ plan:
       verseBG: Psalms.66
       verseYV: PSA.66
 
+  - index: 448
+    verses:
+    - titleCh: 歷代志上 10
+      titleEn: 1 Chronicles.10
+      verseBG: 1 Chronicles.10
+      verseYV: 1CH.10
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 449
+    verses:
+    - titleCh: 歷代志上 11-12
+      titleEn: 1 Chronicles.11-12
+      verseBG: 1 Chronicles.11-12
+      verseYV: 1CH.11
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
+  - index: 450
+    verses:
+    - titleCh: 歷代志上 13-14
+      titleEn: 1 Chronicles.13-14
+      verseBG: 1 Chronicles.13-14
+      verseYV: 1CH.13
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 451
+    verses:
+    - titleCh: 歷代志上 15-16
+      titleEn: 1 Chronicles.15-16
+      verseBG: 1 Chronicles.15-16
+      verseYV: 1CH.15
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
+  - index: 452
+    verses:
+    - titleCh: 歷代志上 17
+      titleEn: 1 Chronicles.17
+      verseBG: 1 Chronicles.17
+      verseYV: 1CH.17
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+
+  - index: 453
+    verses:
+    - titleCh: 歷代志上 18-19
+      titleEn: 1 Chronicles.18-19
+      verseBG: 1 Chronicles.18-19
+      verseYV: 1CH.18
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
+  - index: 454
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
+  - index: 455
+    verses:
+    - titleCh: 歷代志上 20-21
+      titleEn: 1 Chronicles.20.1-22.1
+      verseBG: 1 Chronicles.20-21
+      verseYV: 1CH.20
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+
+  - index: 456
+    verses:
+    - titleCh: 歷代志上 22
+      titleEn: 1 Chronicles.22.2-19
+      verseBG: 1 Chronicles.22
+      verseYV: 1CH.22
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+
+  - index: 457
+    verses:
+    - titleCh: 歷代志上 23-24
+      titleEn: 1 Chronicles.23-24
+      verseBG: 1 Chronicles.23-24
+      verseYV: 1CH.23
+    - titleCh: 詩篇 76
+      titleEn: Psalms 76
+      verseBG: Psalms.76
+      verseYV: PSA.6
+
+  - index: 458
+    verses:
+    - titleCh: 歷代志上 25-26
+      titleEn: 1 Chronicles.25-26
+      verseBG: 1 Chronicles.25-26
+      verseYV: 1CH.25
+    - titleCh: 詩篇 77
+      titleEn: Psalms 77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+
+  - index: 459
+    verses:
+    - titleCh: 歷代志上 27-28
+      titleEn: 1 Chronicles.27-28
+      verseBG: 1 Chronicles.27-28
+      verseYV: 1CH.27
+    - titleCh: 詩篇 78
+      titleEn: Psalms 78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+
+  - index: 460
+    verses:
+    - titleCh: 歷代志上 29
+      titleEn: 1 Chronicles.29
+      verseBG: 1 Chronicles.29
+      verseYV: 1CH.29
+    - titleCh: 詩篇 79
+      titleEn: Psalms 79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+
+  - index: 461
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 80
+      titleEn: Psalms 80
+      verseBG: Psalms.80
+      verseYV: PSA.80
+
 ---
