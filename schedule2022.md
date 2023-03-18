@@ -5099,4 +5099,158 @@ plan:
       verseBG: Psalms.80
       verseYV: PSA.80
 
+  - index: 462
+    verses:
+    - titleCh: 歷代志下 1-2
+      titleEn: 2 Chronicles.1-2
+      verseBG: 2 Chronicles.1-2
+      verseYV: 2CH.1
+    - titleCh: 詩篇 81
+      titleEn: Psalms 81
+      verseBG: Psalms.81
+      verseYV: PSA.81
+
+  - index: 463
+    verses:
+    - titleCh: 歷代志下 3.1-5.1
+      titleEn: 2 Chronicles.3.1-5.1
+      verseBG: 2 Chronicles.3.1-5.1
+      verseYV: 2CH.3
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+
+  - index: 464
+    verses:
+    - titleCh: 歷代志下 5.2-6.42
+      titleEn: 2 Chronicles.5.2-6.42
+      verseBG: 2 Chronicles.5.2-6.42
+      verseYV: 2CH.5
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
+
+  - index: 465
+    verses:
+    - titleCh: 歷代志下 7
+      titleEn: 2 Chronicles.7
+      verseBG: 2 Chronicles.7
+      verseYV: 2CH.7
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+
+  - index: 466
+    verses:
+    - titleCh: 歷代志下 8
+      titleEn: 2 Chronicles.8
+      verseBG: 2 Chronicles.8
+      verseYV: 2CH.8
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
+
+  - index: 467
+    verses:
+    - titleCh: 歷代志下 9
+      titleEn: 2 Chronicles.9
+      verseBG: 2 Chronicles.9
+      verseYV: 2CH.9
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
+
+  - index: 468
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
+
+  - index: 469
+    verses:
+    - titleCh: 歷代志下 10-12
+      titleEn: 2 Chronicles.10-12
+      verseBG: 2 Chronicles.10-12
+      verseYV: 2CH.10
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+
+  - index: 470
+    verses:
+    - titleCh: 歷代志下 13
+      titleEn: 2 Chronicles.13
+      verseBG: 2 Chronicles.13
+      verseYV: 2CH.13
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+
+  - index: 471
+    verses:
+    - titleCh: 歷代志下 14-16
+      titleEn: 2 Chronicles.14-16
+      verseBG: 2 Chronicles.14-16
+      verseYV: 2CH.14
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+
+  - index: 472
+    verses:
+    - titleCh: 歷代志下 17-18
+      titleEn: 2 Chronicles.17-18
+      verseBG: 2 Chronicles.17-18
+      verseYV: 2CH.17
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+
+  - index: 473
+    verses:
+    - titleCh: 歷代志下 19-20
+      titleEn: 2 Chronicles.19-20
+      verseBG: 2 Chronicles.19-20
+      verseYV: 2CH.19
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+
+  - index: 474
+    verses:
+    - titleCh: 歷代志下 21-22
+      titleEn: 2 Chronicles.21-22
+      verseBG: 2 Chronicles.21-22
+      verseYV: 2CH.21
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+
+  - index: 475
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+
 ---
