@@ -5253,4 +5253,81 @@ plan:
       verseBG: Psalms.94
       verseYV: PSA.94
 
+  - index: 476
+    verses:
+    - titleCh: 歷代志下 23-24
+      titleEn: 2 Chronicles.23-24
+      verseBG: 2 Chronicles.23-24
+      verseYV: 2CH.23
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+
+  - index: 477
+    verses:
+    - titleCh: 歷代志下 25-26
+      titleEn: 2 Chronicles.25-26
+      verseBG: 2 Chronicles.25-26
+      verseYV: 2CH.25
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+
+  - index: 478
+    verses:
+    - titleCh: 歷代志下 27-28
+      titleEn: 2 Chronicles.27-28
+      verseBG: 2 Chronicles.27-28
+      verseYV: 2CH.27
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 479
+    verses:
+    - titleCh: 歷代志下 29-30
+      titleEn: 2 Chronicles.29-30
+      verseBG: 2 Chronicles.29-30
+      verseYV: 2CH.29
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 480
+    verses:
+    - titleCh: 歷代志下 31-32
+      titleEn: 2 Chronicles.31-32
+      verseBG: 2 Chronicles.31-32
+      verseYV: 2CH.31
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 481
+    verses:
+    - titleCh: 歷代志下 33-34
+      titleEn: 2 Chronicles.33-34
+      verseBG: 2 Chronicles.33-34
+      verseYV: 2CH.33
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 482
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
 ---
