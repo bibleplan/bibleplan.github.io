@@ -5330,4 +5330,81 @@ plan:
       verseBG: Psalms.101
       verseYV: PSA.101
 
+  - index: 483
+    verses:
+    - titleCh: 歷代志下 35-36
+      titleEn: 2 Chronicles.35-36
+      verseBG: 2 Chronicles.35-36
+      verseYV: 2CH.35
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+
+  - index: 484
+    verses:
+    - titleCh: 以斯拉記 1-2
+      titleEn: Ezra.1-2
+      verseBG: Ezra.1-2
+      verseYV: EZR.1
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 485
+    verses:
+    - titleCh: 以斯拉記 3-4
+      titleEn: Ezra.3-4
+      verseBG: Ezra.3-4
+      verseYV: EZR.3
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 486
+    verses:
+    - titleCh: 以斯拉記 5-6
+      titleEn: Ezra.5-6
+      verseBG: Ezra.5-6
+      verseYV: EZR.5
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
+  - index: 487
+    verses:
+    - titleCh: 以斯拉記 7-8
+      titleEn: Ezra.7-8
+      verseBG: Ezra.7-8
+      verseYV: EZR.7
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
+  - index: 488
+    verses:
+    - titleCh: 以斯拉記 9-10
+      titleEn: Ezra.9-10
+      verseBG: Ezra.9-10
+      verseYV: EZR.9
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 489
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
 ---
