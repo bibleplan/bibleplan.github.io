@@ -5178,10 +5178,10 @@ plan:
 
   - index: 469
     verses:
-    - titleCh: 歷代志下 10-12
-      titleEn: 2 Chronicles.10-12
-      verseBG: 2 Chronicles.10-12
-      verseYV: 2CH.10
+    - titleCh: 傳道書 1-4
+      titleEn: Ecclesiastes 1-4
+      verseBG: Ecclesiastes.1-4
+      verseYV: ECC.1
     - titleCh: 詩篇 88
       titleEn: Psalms 88
       verseBG: Psalms.88
@@ -5189,10 +5189,10 @@ plan:
 
   - index: 470
     verses:
-    - titleCh: 歷代志下 13
-      titleEn: 2 Chronicles.13
-      verseBG: 2 Chronicles.13
-      verseYV: 2CH.13
+    - titleCh: 傳道書 5-8
+      titleEn: Ecclesiastes 5-8
+      verseBG: Ecclesiastes.5-8
+      verseYV: ECC.5
     - titleCh: 詩篇 89
       titleEn: Psalms 89
       verseBG: Psalms.89
@@ -5200,21 +5200,21 @@ plan:
 
   - index: 471
     verses:
-    - titleCh: 歷代志下 14-16
-      titleEn: 2 Chronicles.14-16
-      verseBG: 2 Chronicles.14-16
-      verseYV: 2CH.14
+    - titleCh: 傳道書 9-12
+      titleEn: Ecclesiastes 9-12
+      verseBG: Ecclesiastes.9-12
+      verseYV: ECC.9
     - titleCh: 詩篇 90
       titleEn: Psalms 90
       verseBG: Psalms.90
       verseYV: PSA.90
-
+      
   - index: 472
     verses:
-    - titleCh: 歷代志下 17-18
-      titleEn: 2 Chronicles.17-18
-      verseBG: 2 Chronicles.17-18
-      verseYV: 2CH.17
+    - titleCh: 雅歌 1.1-3.5
+      titleEn: The Song of Songs 1.1-3.5
+      verseBG: Songs.1.1-3.5
+      verseYV: SON.1
     - titleCh: 詩篇 91
       titleEn: Psalms 91
       verseBG: Psalms.91
@@ -5222,10 +5222,10 @@ plan:
 
   - index: 473
     verses:
-    - titleCh: 歷代志下 19-20
-      titleEn: 2 Chronicles.19-20
-      verseBG: 2 Chronicles.19-20
-      verseYV: 2CH.19
+    - titleCh: 雅歌 3.6-6.3
+      titleEn: The Song of Songs 3.6-6.3
+      verseBG: Songs.3.6-6.3
+      verseYV: SON.3.6-11
     - titleCh: 詩篇 92
       titleEn: Psalms 92
       verseBG: Psalms.92
@@ -5233,10 +5233,10 @@ plan:
 
   - index: 474
     verses:
-    - titleCh: 歷代志下 21-22
-      titleEn: 2 Chronicles.21-22
-      verseBG: 2 Chronicles.21-22
-      verseYV: 2CH.21
+    - titleCh: 雅歌 6.4-8.14
+      titleEn: The Song of Songs 6.4-8.14
+      verseBG: Songs.6.4-8.14
+      verseYV: SON.6.4-13
     - titleCh: 詩篇 93
       titleEn: Psalms 93
       verseBG: Psalms.93
@@ -5244,10 +5244,10 @@ plan:
 
   - index: 475
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
     - titleCh: 詩篇 94
       titleEn: Psalms 94
       verseBG: Psalms.94
@@ -5255,10 +5255,10 @@ plan:
 
   - index: 476
     verses:
-    - titleCh: 歷代志下 23-24
-      titleEn: 2 Chronicles.23-24
-      verseBG: 2 Chronicles.23-24
-      verseYV: 2CH.23
+    - titleCh: 歷代志下 10-12
+      titleEn: 2 Chronicles.10-12
+      verseBG: 2 Chronicles.10-12
+      verseYV: 2CH.10
     - titleCh: 詩篇 95
       titleEn: Psalms 95
       verseBG: Psalms.95
@@ -5266,10 +5266,10 @@ plan:
 
   - index: 477
     verses:
-    - titleCh: 歷代志下 25-26
-      titleEn: 2 Chronicles.25-26
-      verseBG: 2 Chronicles.25-26
-      verseYV: 2CH.25
+    - titleCh: 歷代志下 13
+      titleEn: 2 Chronicles.13
+      verseBG: 2 Chronicles.13
+      verseYV: 2CH.13
     - titleCh: 詩篇 96
       titleEn: Psalms 96
       verseBG: Psalms.96
@@ -5277,10 +5277,10 @@ plan:
 
   - index: 478
     verses:
-    - titleCh: 歷代志下 27-28
-      titleEn: 2 Chronicles.27-28
-      verseBG: 2 Chronicles.27-28
-      verseYV: 2CH.27
+    - titleCh: 歷代志下 14-16
+      titleEn: 2 Chronicles.14-16
+      verseBG: 2 Chronicles.14-16
+      verseYV: 2CH.14
     - titleCh: 詩篇 97
       titleEn: Psalms 97
       verseBG: Psalms.97
@@ -5288,10 +5288,10 @@ plan:
 
   - index: 479
     verses:
-    - titleCh: 歷代志下 29-30
-      titleEn: 2 Chronicles.29-30
-      verseBG: 2 Chronicles.29-30
-      verseYV: 2CH.29
+    - titleCh: 歷代志下 17-18
+      titleEn: 2 Chronicles.17-18
+      verseBG: 2 Chronicles.17-18
+      verseYV: 2CH.17
     - titleCh: 詩篇 98
       titleEn: Psalms 98
       verseBG: Psalms.98
@@ -5299,10 +5299,10 @@ plan:
 
   - index: 480
     verses:
-    - titleCh: 歷代志下 31-32
-      titleEn: 2 Chronicles.31-32
-      verseBG: 2 Chronicles.31-32
-      verseYV: 2CH.31
+    - titleCh: 歷代志下 19-20
+      titleEn: 2 Chronicles.19-20
+      verseBG: 2 Chronicles.19-20
+      verseYV: 2CH.19
     - titleCh: 詩篇 99
       titleEn: Psalms 99
       verseBG: Psalms.99
@@ -5310,10 +5310,10 @@ plan:
 
   - index: 481
     verses:
-    - titleCh: 歷代志下 33-34
-      titleEn: 2 Chronicles.33-34
-      verseBG: 2 Chronicles.33-34
-      verseYV: 2CH.33
+    - titleCh: 歷代志下 21-22
+      titleEn: 2 Chronicles.21-22
+      verseBG: 2 Chronicles.21-22
+      verseYV: 2CH.21
     - titleCh: 詩篇 100
       titleEn: Psalms 100
       verseBG: Psalms.100
@@ -5332,16 +5332,369 @@ plan:
 
   - index: 483
     verses:
-    - titleCh: 歷代志下 35-36
-      titleEn: 2 Chronicles.35-36
-      verseBG: 2 Chronicles.35-36
-      verseYV: 2CH.35
+    - titleCh: 歷代志下 23-24
+      titleEn: 2 Chronicles.23-24
+      verseBG: 2 Chronicles.23-24
+      verseYV: 2CH.23
     - titleCh: 詩篇 102
       titleEn: Psalms 102
       verseBG: Psalms.102
       verseYV: PSA.102
 
   - index: 484
+    verses:
+    - titleCh: 俄巴底亞書 1
+      titleEn: Obadiah.1
+      verseBG: Obadiah.1
+      verseYV: OBA.1
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 485
+    verses:
+    - titleCh: 歷代志下 25-26
+      titleEn: 2 Chronicles.25-26
+      verseBG: 2 Chronicles.25-26
+      verseYV: 2CH.25
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 486
+    verses:
+    - titleCh: 約拿書 1-4
+      titleEn: Jonah.1-4
+      verseBG: Jonah.1-4
+      verseYV: JON.1
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 487
+    verses:
+    - titleCh: 以賽亞書 1.1-2.5
+      titleEn: Isaiah.1.1-2.5
+      verseBG: Isaiah.1.1-2.5
+      verseYV: ISA.1
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 488
+    verses:
+    - titleCh: 以賽亞書 2.6-4.1
+      titleEn: Isaiah.2.6-4.1
+      verseBG: Isaiah.2.6-4.1
+      verseYV: ISA.2
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
+  - index: 489
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 490
+    verses:
+    - titleCh: 以賽亞書 4.2-5.30
+      titleEn: Isaiah.4.2-5.30
+      verseBG: Isaiah.4.2-5.30
+      verseYV: ISA.4
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+
+  - index: 491
+    verses:
+    - titleCh: 以賽亞書 6
+      titleEn: Isaiah.6
+      verseBG: Isaiah.6
+      verseYV: ISA.6
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 492
+    verses:
+    - titleCh: 以賽亞書 7-8
+      titleEn: Isaiah.7-8
+      verseBG: Isaiah.7-8
+      verseYV: ISA.7
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+
+  - index: 493
+    verses:
+    - titleCh: 阿摩司書 1-2
+      titleEn: Amos.1-2
+      verseBG: Amos.1-2
+      verseYV: AMO.1
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+
+  - index: 494
+    verses:
+    - titleCh: 阿摩司書 3-4
+      titleEn: Amos.3-4
+      verseBG: Amos.3-4
+      verseYV: AMO.3
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
+
+  - index: 495
+    verses:
+    - titleCh: 阿摩司書 5-6
+      titleEn: Amos.5-6
+      verseBG: Amos.5-6
+      verseYV: AMO.5
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
+
+  - index: 496
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+  
+  - index: 497
+    verses:
+    - titleCh: 阿摩司書 7
+      titleEn: Amos.7
+      verseBG: Amos.7
+      verseYV: AMO.7
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+
+  - index: 498
+    verses:
+    - titleCh: 阿摩司書 8-9
+      titleEn: Amos.8-9
+      verseBG: Amos.8-9
+      verseYV: AMO.8
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+
+  - index: 499
+    verses:
+    - titleCh: 以賽亞書 9-10
+      titleEn: Isaiah.9-10
+      verseBG: Isaiah.9-10
+      verseYV: ISA.9
+    - titleCh: 詩篇 119:1-16
+      titleEn: Psalms 119:1-16
+      verseBG: Psalms.119:1-16
+      verseYV: PSA.119:1-16
+
+  - index: 500
+    verses:
+    - titleCh: 以賽亞書 11-12
+      titleEn: Isaiah.11-12
+      verseBG: Isaiah.11-12
+      verseYV: ISA.11
+    - titleCh: 詩篇 119:17-32
+      titleEn: Psalms 119:17-32
+      verseBG: Psalms.119:17-32
+      verseYV: PSA.119:17-32
+
+  - index: 501
+    verses:
+    - titleCh: 彌迦書 1-3
+      titleEn: Micah.1-3
+      verseBG: Micah.1-3
+      verseYV: MIC.1
+    - titleCh: 詩篇 119:33-48
+      titleEn: Psalms 119:33-48
+      verseBG: Psalms.119:33-48
+      verseYV: PSA.119:33-48
+
+  - index: 502
+    verses:
+    - titleCh: 彌迦書 4-5
+      titleEn: Micah.4-5
+      verseBG: Micah.4-5
+      verseYV: MIC.4
+    - titleCh: 詩篇 119:49-64
+      titleEn: Psalms 119:49-64
+      verseBG: Psalms.119:49-64
+      verseYV: PSA.119:49-64
+
+  - index: 503
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119:49-64
+      titleEn: Psalms 119:49-64
+      verseBG: Psalms.119:49-64
+      verseYV: PSA.119:65-80
+
+  - index: 546
+    verses:
+    - titleCh: 以賽亞書 13.1-14.27
+      titleEn: Isaiah.13.1-14.27
+      verseBG: Isaiah.13.1-14.27
+      verseYV: ISA.13
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+
+  - index: 547
+    verses:
+    - titleCh: 以賽亞書 14.28-17.14
+      titleEn: Isaiah.14.28-17.14
+      verseBG: Isaiah.14.28-17.14
+      verseYV: ISA.14
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+
+  - index: 548
+    verses:
+    - titleCh: 以賽亞書 18-20
+      titleEn: Isaiah.18-20
+      verseBG: Isaiah.18-20
+      verseYV: ISA.18
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+
+  - index: 549
+    verses:
+    - titleCh: 以賽亞書 21-23
+      titleEn: Isaiah.21-23
+      verseBG: Isaiah.21-23
+      verseYV: ISA.21
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
+
+  - index: 550
+    verses:
+    - titleCh: 以賽亞書 24-25
+      titleEn: Isaiah.24-25
+      verseBG: Isaiah.24-25
+      verseYV: ISA.24
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+
+  - index: 551
+    verses:
+    - titleCh: 以賽亞書 26-27
+      titleEn: Isaiah.26-27
+      verseBG: Isaiah.26-27
+      verseYV: ISA.26
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+
+  - index: 499
+    verses:
+    - titleCh: 歷代志下 27-28
+      titleEn: 2 Chronicles.27-28
+      verseBG: 2 Chronicles.27-28
+      verseYV: 2CH.27
+    - titleCh: 詩篇 119.1-16
+      titleEn: Psalms 119.1-16
+      verseBG: Psalms.119.1-16
+      verseYV: PSA.119.1-16
+
+  - index: 500
+    verses:
+    - titleCh: 歷代志下 29-30
+      titleEn: 2 Chronicles.29-30
+      verseBG: 2 Chronicles.29-30
+      verseYV: 2CH.29
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
+  - index: 487
+    verses:
+    - titleCh: 歷代志下 31-32
+      titleEn: 2 Chronicles.31-32
+      verseBG: 2 Chronicles.31-32
+      verseYV: 2CH.31
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
+  - index: 488
+    verses:
+    - titleCh: 歷代志下 33-34
+      titleEn: 2 Chronicles.33-34
+      verseBG: 2 Chronicles.33-34
+      verseYV: 2CH.33
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 489
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
+  - index: 490
+    verses:
+    - titleCh: 歷代志下 35-36
+      titleEn: 2 Chronicles.35-36
+      verseBG: 2 Chronicles.35-36
+      verseYV: 2CH.35
+    - titleCh: 詩篇 100
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 491
     verses:
     - titleCh: 以斯拉記 1-2
       titleEn: Ezra.1-2
