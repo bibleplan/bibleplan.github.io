@@ -5678,10 +5678,10 @@ plan:
       titleEn: Hosea.1-2
       verseBG: Hosea.1-2
       verseYV: HOS.1
-    - titleCh: 詩篇 122
-      titleEn: Psalms 122
-      verseBG: Psalms.122
-      verseYV: PSA.122
+    - titleCh: 詩篇 123
+      titleEn: Psalms 123
+      verseBG: Psalms.123
+      verseYV: PSA.123
 
   - index: 623
     verses:
