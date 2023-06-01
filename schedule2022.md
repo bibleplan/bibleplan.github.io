@@ -5473,7 +5473,6 @@ plan:
       verseBG: Psalms.114
       verseYV: PSA.114
 
-
   - index: 496
     verses:
     - titleCh: 
@@ -5672,7 +5671,7 @@ plan:
       verseBG: Psalms.122
       verseYV: PSA.122
       
-  - index: 622
+  - index: 514
     verses:
     - titleCh: 何西阿書 1-2
       titleEn: Hosea.1-2
@@ -5683,269 +5682,269 @@ plan:
       verseBG: Psalms.123
       verseYV: PSA.123
 
-  - index: 623
+  - index: 515
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 123
-      titleEn: Psalms 123
-      verseBG: Psalms.123
-      verseYV: PSA.123
-
-  - index: 624
-    verses:
-    - titleCh: 何西阿書 3.1-5.7
-      titleEn: Hosea.3.1-5.7
-      verseBG: Hosea.3.1-5.7
-      verseYV: HOS.3
     - titleCh: 詩篇 124
       titleEn: Psalms 124
       verseBG: Psalms.124
       verseYV: PSA.124
 
-  - index: 625
+  - index: 516
+    verses:
+    - titleCh: 何西阿書 3.1-5.7
+      titleEn: Hosea.3.1-5.7
+      verseBG: Hosea.3.1-5.7
+      verseYV: HOS.3
+    - titleCh: 詩篇 125
+      titleEn: Psalms 125
+      verseBG: Psalms.125
+      verseYV: PSA.125
+
+  - index: 517
     verses:
     - titleCh: 何西阿書 5.8-7.16
       titleEn: Hosea.5.8-7.16
       verseBG: Hosea.5.8-7.16
       verseYV: HOS.5
-    - titleCh: 詩篇 101
-      titleEn: Psalms 101
-      verseBG: Psalms.101
-      verseYV: PSA.101
+    - titleCh: 詩篇 126
+      titleEn: Psalms 126
+      verseBG: Psalms.126
+      verseYV: PSA.126
 
-  - index: 626
+  - index: 518
     verses:
     - titleCh: 何西阿書 8.1-9.9
       titleEn: Hosea.8.1-9.9
       verseBG: Hosea.8.1-9.9
       verseYV: HOS.8
-    - titleCh: 詩篇 102
-      titleEn: Psalms 102
-      verseBG: Psalms.102
-      verseYV: PSA.102
+    - titleCh: 詩篇 127
+      titleEn: Psalms 127
+      verseBG: Psalms.127
+      verseYV: PSA.127
 
-  - index: 627
+  - index: 519
     verses:
     - titleCh: 何西阿書 9.10-10.15
       titleEn: Hosea.9.10-10.15
       verseBG: Hosea.9.10-10.15
       verseYV: HOS.9
-    - titleCh: 詩篇 103
-      titleEn: Psalms 103
-      verseBG: Psalms.103
-      verseYV: PSA.103
+    - titleCh: 詩篇 128
+      titleEn: Psalms 128
+      verseBG: Psalms.128
+      verseYV: PSA.128
 
-  - index: 628
+  - index: 520
     verses:
     - titleCh: 何西阿書 11.1-11
       titleEn: Hosea.11.1-11
       verseBG: Hosea.11.1-11
       verseYV: HOS.11
-    - titleCh: 詩篇 104
-      titleEn: Psalms 104
-      verseBG: Psalms.104
-      verseYV: PSA.104
+    - titleCh: 詩篇 129
+      titleEn: Psalms 129
+      verseBG: Psalms.129
+      verseYV: PSA.129
 
-  - index: 629
+  - index: 521
     verses:
     - titleCh: 何西阿書 11.12-13.16
       titleEn: Hosea.11.12-13.16
       verseBG: Hosea.11.12-13.16
       verseYV: HOS.11
-    - titleCh: 詩篇 105
-      titleEn: Psalms 105
-      verseBG: Psalms.105
-      verseYV: PSA.105
+    - titleCh: 詩篇 130
+      titleEn: Psalms 130
+      verseBG: Psalms.130
+      verseYV: PSA.130
 
-  - index: 631
+  - index: 522
     verses:
     - titleCh: 何西阿書 14
       titleEn: Hosea.14
       verseBG: Hosea.14
       verseYV: HOS.14
-    - titleCh: 詩篇 107
-      titleEn: Psalms 107
-      verseBG: Psalms.107
-      verseYV: PSA.107
+    - titleCh: 詩篇 131
+      titleEn: Psalms 131
+      verseBG: Psalms.131
+      verseYV: PSA.131
 
-  - index: 553
+  - index: 523
     verses:
     - titleCh: 以賽亞書 28-29
       titleEn: Isaiah.28-29
       verseBG: Isaiah.28-29
       verseYV: ISA.28
-    - titleCh: 箴言 12
-      titleEn: Proverbs 12
-      verseBG: Proverbs.12
-      verseYV: PRO.12
+    - titleCh: 詩篇 132
+      titleEn: Psalms 132
+      verseBG: Psalms.132
+      verseYV: PSA.132
 
-  - index: 554
+  - index: 524
     verses:
     - titleCh: 以賽亞書 30-31
       titleEn: Isaiah.30-31
       verseBG: Isaiah.30-31
       verseYV: ISA.30
-    - titleCh: 箴言 13
-      titleEn: Proverbs 13
-      verseBG: Proverbs.13
-      verseYV: PRO.13
+    - titleCh: 詩篇 133
+      titleEn: Psalms 133
+      verseBG: Psalms.133
+      verseYV: PSA.133
 
-  - index: 555
+  - index: 525
     verses:
     - titleCh: 以賽亞書 32-33
       titleEn: Isaiah.32-33
       verseBG: Isaiah.32-33
       verseYV: ISA.32
-    - titleCh: 箴言 14
-      titleEn: Proverbs 14
-      verseBG: Proverbs.14
-      verseYV: PRO.14
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
 
-  - index: 556
+  - index: 526
     verses:
     - titleCh: 以賽亞書 34-35
       titleEn: Isaiah.34-35
       verseBG: Isaiah.34-35
       verseYV: ISA.34
-    - titleCh: 箴言 15
-      titleEn: Proverbs 15
-      verseBG: Proverbs.15
-      verseYV: PRO.15
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
 
-  - index: 557
+  - index: 527
     verses:
     - titleCh: 以賽亞書 36-37
       titleEn: Isaiah.36-37
       verseBG: Isaiah.36-37
       verseYV: ISA.36
-    - titleCh: 箴言 16
-      titleEn: Proverbs 16
-      verseBG: Proverbs.16
-      verseYV: PRO.16
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
 
-  - index: 558
+  - index: 528
     verses:
     - titleCh: 以賽亞書 38-39
       titleEn: Isaiah.38-39
       verseBG: Isaiah.38-39
       verseYV: ISA.38
-    - titleCh: 箴言 17
-      titleEn: Proverbs 17
-      verseBG: Proverbs.17
-      verseYV: PRO.17
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
 
-  - index: 559
+  - index: 529
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 箴言 18
-      titleEn: Proverbs 18
-      verseBG: Provebs.18
-      verseYV: PRO.18
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
 
-  - index: 560
+  - index: 530
     verses:
     - titleCh: 以賽亞書 40.1-11
       titleEn: Isaiah.40.1-11
       verseBG: Isaiah.40.1-11
       verseYV: ISA.40
-    - titleCh: 箴言 19
-      titleEn: Proverbs 19
-      verseBG: Provebs.19
-      verseYV: PRO.19
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
 
-  - index: 561
+  - index: 531
     verses:
     - titleCh: 以賽亞書 40.12-41.29
       titleEn: Isaiah.40.12-41.29
       verseBG: Isaiah.40.12-41.29
       verseYV: ISA.40
-    - titleCh: 箴言 20
-      titleEn: Proverbs 20
-      verseBG: Provebs.20
-      verseYV: PRO.20
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
 
-  - index: 562
+  - index: 532
     verses:
     - titleCh: 以賽亞書 42-43
       titleEn: Isaiah.42-43
       verseBG: Isaiah.42-43
       verseYV: ISA.42
-    - titleCh: 箴言 21
-      titleEn: Proverbs 21
-      verseBG: Provebs.21
-      verseYV: PRO.21
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
 
-  - index: 563
+  - index: 533
     verses:
     - titleCh: 以賽亞書 44.1-23
       titleEn: Isaiah.44.1-23
       verseBG: Isaiah.44.1-23
       verseYV: ISA.44
-    - titleCh: 箴言 22
-      titleEn: Proverbs 22
-      verseBG: Provebs.22
-      verseYV: PRO.22
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
 
-  - index: 564
+  - index: 534
     verses:
     - titleCh: 以賽亞書 44.24-45.25
       titleEn: Isaiah.44.24-45.25
       verseBG: Isaiah.44.24-45.25
       verseYV: ISA.44
-    - titleCh: 箴言 23
-      titleEn: Proverbs 23
-      verseBG: Provebs.23
-      verseYV: PRO.23
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
 
-  - index: 565
+  - index: 535
     verses:
     - titleCh: 以賽亞書 46-47
       titleEn: Isaiah.46-47
       verseBG: Isaiah.46-47
       verseYV: ISA.46
-    - titleCh: 箴言 24
-      titleEn: Proverbs 24
-      verseBG: Provebs.24
-      verseYV: PRO.24
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
 
-  - index: 566
+  - index: 536
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 箴言 25
-      titleEn: Proverbs 25
-      verseBG: Provebs.25
-      verseYV: PRO.25
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
 
-  - index: 567
+  - index: 537
     verses:
     - titleCh: 以賽亞書 48
       titleEn: Isaiah.48
       verseBG: Isaiah.48
       verseYV: ISA.48
-    - titleCh: 箴言 26
-      titleEn: Proverbs 26
-      verseBG: Provebs.26
-      verseYV: PRO.26
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
 
-  - index: 568
+  - index: 538
     verses:
     - titleCh: 以賽亞書 49-50
       titleEn: Isaiah.49-50
       verseBG: Isaiah.49-50
       verseYV: ISA.49
-    - titleCh: 箴言 27
-      titleEn: Proverbs 27
-      verseBG: Provebs.27
-      verseYV: PRO.27
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
 
   - index: 569
     verses:
