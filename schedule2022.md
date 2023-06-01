@@ -5915,10 +5915,10 @@ plan:
 
   - index: 536
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 以賽亞書 48
+      titleEn: Isaiah.48
+      verseBG: Isaiah.48
+      verseYV: ISA.48
     - titleCh: 詩篇 145
       titleEn: Psalms 145
       verseBG: Psalms.145
@@ -5926,14 +5926,14 @@ plan:
 
   - index: 537
     verses:
-    - titleCh: 以賽亞書 48
-      titleEn: Isaiah.48
-      verseBG: Isaiah.48
-      verseYV: ISA.48
-    - titleCh: 詩篇 146
-      titleEn: Psalms 146
-      verseBG: Psalms.146
-      verseYV: PSA.146
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
 
   - index: 538
     verses:
@@ -5941,10 +5941,10 @@ plan:
       titleEn: Isaiah.49-50
       verseBG: Isaiah.49-50
       verseYV: ISA.49
-    - titleCh: 詩篇 147
-      titleEn: Psalms 147
-      verseBG: Psalms.147
-      verseYV: PSA.147
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
 
   - index: 539
     verses:
@@ -5952,10 +5952,10 @@ plan:
       titleEn: Isaiah.51.1-52.12
       verseBG: Isaiah.51.1-52.12
       verseYV: ISA.51
-    - titleCh: 詩篇 148
-      titleEn: Psalms 148
-      verseBG: Psalms.148
-      verseYV: PSA.148
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
 
   - index: 540
     verses:
@@ -5963,10 +5963,10 @@ plan:
       titleEn: Isaiah.52.13-53.12
       verseBG: Isaiah.52.13-53.12
       verseYV: ISA.52
-    - titleCh: 詩篇 149
-      titleEn: Psalms 149
-      verseBG: Psalms.149
-      verseYV: PSA.149
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
 
   - index: 541
     verses:
@@ -5996,7 +5996,7 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 箴言 1
+    - titleCh: 箴言 2
       titleEn: Proverbs 1
       verseBG: Provebs.1
       verseYV: PRO.1
