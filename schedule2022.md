@@ -5678,10 +5678,10 @@ plan:
       titleEn: Hosea.1-2
       verseBG: Hosea.1-2
       verseYV: HOS.1
-    - titleCh: 詩篇 98
-      titleEn: Psalms 98
-      verseBG: Psalms.98
-      verseYV: PSA.98
+    - titleCh: 詩篇 122
+      titleEn: Psalms 122
+      verseBG: Psalms.122
+      verseYV: PSA.122
 
   - index: 623
     verses:
@@ -5689,10 +5689,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 99
-      titleEn: Psalms 99
-      verseBG: Psalms.99
-      verseYV: PSA.99
+    - titleCh: 詩篇 123
+      titleEn: Psalms 123
+      verseBG: Psalms.123
+      verseYV: PSA.123
 
   - index: 624
     verses:
@@ -5700,10 +5700,10 @@ plan:
       titleEn: Hosea.3.1-5.7
       verseBG: Hosea.3.1-5.7
       verseYV: HOS.3
-    - titleCh: 詩篇 100
-      titleEn: Psalms 100
-      verseBG: Psalms.100
-      verseYV: PSA.100
+    - titleCh: 詩篇 124
+      titleEn: Psalms 124
+      verseBG: Psalms.124
+      verseYV: PSA.124
 
   - index: 625
     verses:
