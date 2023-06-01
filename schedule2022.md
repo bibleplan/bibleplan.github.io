@@ -5783,10 +5783,10 @@ plan:
 
   - index: 524
     verses:
-    - titleCh: 以賽亞書 30-31
-      titleEn: Isaiah.30-31
-      verseBG: Isaiah.30-31
-      verseYV: ISA.30
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
     - titleCh: 詩篇 133
       titleEn: Psalms 133
       verseBG: Psalms.133
@@ -5794,10 +5794,10 @@ plan:
 
   - index: 525
     verses:
-    - titleCh: 以賽亞書 32-33
-      titleEn: Isaiah.32-33
-      verseBG: Isaiah.32-33
-      verseYV: ISA.32
+    - titleCh: 以賽亞書 30-31
+      titleEn: Isaiah.30-31
+      verseBG: Isaiah.30-31
+      verseYV: ISA.30
     - titleCh: 詩篇 134
       titleEn: Psalms 134
       verseBG: Psalms.134
@@ -5805,10 +5805,10 @@ plan:
 
   - index: 526
     verses:
-    - titleCh: 以賽亞書 34-35
-      titleEn: Isaiah.34-35
-      verseBG: Isaiah.34-35
-      verseYV: ISA.34
+    - titleCh: 以賽亞書 32-33
+      titleEn: Isaiah.32-33
+      verseBG: Isaiah.32-33
+      verseYV: ISA.32
     - titleCh: 詩篇 135
       titleEn: Psalms 135
       verseBG: Psalms.135
@@ -5816,10 +5816,10 @@ plan:
 
   - index: 527
     verses:
-    - titleCh: 以賽亞書 36-37
-      titleEn: Isaiah.36-37
-      verseBG: Isaiah.36-37
-      verseYV: ISA.36
+    - titleCh: 以賽亞書 34-35
+      titleEn: Isaiah.34-35
+      verseBG: Isaiah.34-35
+      verseYV: ISA.34
     - titleCh: 詩篇 136
       titleEn: Psalms 136
       verseBG: Psalms.136
@@ -5827,10 +5827,10 @@ plan:
 
   - index: 528
     verses:
-    - titleCh: 以賽亞書 38-39
-      titleEn: Isaiah.38-39
-      verseBG: Isaiah.38-39
-      verseYV: ISA.38
+    - titleCh: 以賽亞書 36-37
+      titleEn: Isaiah.36-37
+      verseBG: Isaiah.36-37
+      verseYV: ISA.36
     - titleCh: 詩篇 137
       titleEn: Psalms 137
       verseBG: Psalms.137
@@ -5838,10 +5838,10 @@ plan:
 
   - index: 529
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 以賽亞書 38-39
+      titleEn: Isaiah.38-39
+      verseBG: Isaiah.38-39
+      verseYV: ISA.38
     - titleCh: 詩篇 138
       titleEn: Psalms 138
       verseBG: Psalms.138
@@ -5946,60 +5946,60 @@ plan:
       verseBG: Psalms.147
       verseYV: PSA.147
 
-  - index: 569
+  - index: 539
     verses:
     - titleCh: 以賽亞書 51.1-52.12
       titleEn: Isaiah.51.1-52.12
       verseBG: Isaiah.51.1-52.12
       verseYV: ISA.51
-    - titleCh: 箴言 28
-      titleEn: Proverbs 28
-      verseBG: Provebs.28
-      verseYV: PRO.28
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
 
-  - index: 570
+  - index: 540
     verses:
     - titleCh: 以賽亞書 52.13-53.12
       titleEn: Isaiah.52.13-53.12
       verseBG: Isaiah.52.13-53.12
       verseYV: ISA.52
-    - titleCh: 箴言 29
-      titleEn: Proverbs 29
-      verseBG: Provebs.29
-      verseYV: PRO.29
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
 
-  - index: 571
+  - index: 541
     verses:
     - titleCh: 以賽亞書 54-55
       titleEn: Isaiah.54-55
       verseBG: Isaiah.54-55
       verseYV: ISA.54
-    - titleCh: 箴言 30
-      titleEn: Proverbs 30
-      verseBG: Provebs.30
-      verseYV: PRO.30
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
 
-  - index: 572
+  - index: 542
     verses:
     - titleCh: 以賽亞書 56-57
       titleEn: Isaiah.56-57
       verseBG: Isaiah.56-57
       verseYV: ISA.56
-    - titleCh: 箴言 31
-      titleEn: Proverbs 31
-      verseBG: Provebs.31
-      verseYV: PRO.31
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Provebs.1
+      verseYV: PRO.1
 
-  - index: 573
+  - index: 543
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Provebs.1
+      verseYV: PRO.1
 
   - index: 574
     verses:
