@@ -6089,6 +6089,17 @@ plan:
       verseBG: Provebs.11
       verseYV: PRO.11
 
+  - index: 552
+    verses:
+    - titleCh: 那鴻書 1-3
+      titleEn: Nahum.1-3
+      verseBG: Nahum.1-3
+      verseYV: NAM.1
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Provebs.12
+      verseYV: PRO.12
+
   - index: 488
     verses:
     - titleCh: 歷代志下 33-34
