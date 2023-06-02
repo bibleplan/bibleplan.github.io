@@ -5684,10 +5684,10 @@ plan:
 
   - index: 515
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 何西阿書 3.1-5.7
+      titleEn: Hosea.3.1-5.7
+      verseBG: Hosea.3.1-5.7
+      verseYV: HOS.3
     - titleCh: 詩篇 124
       titleEn: Psalms 124
       verseBG: Psalms.124
