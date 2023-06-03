@@ -5869,7 +5869,7 @@ plan:
       verseBG: Psalms.140
       verseYV: PSA.140
 
-- index: 532
+  - index: 532
     verses:
     - titleCh: 以賽亞書 40.12-41.29
       titleEn: Isaiah.40.12-41.29
