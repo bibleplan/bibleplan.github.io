@@ -5695,10 +5695,10 @@ plan:
 
   - index: 516
     verses:
-    - titleCh: 何西阿書 3.1-5.7
-      titleEn: Hosea.3.1-5.7
-      verseBG: Hosea.3.1-5.7
-      verseYV: HOS.3
+    - titleCh: 何西阿書 5.8-7.16
+      titleEn: Hosea.5.8-7.16
+      verseBG: Hosea.5.8-7.16
+      verseYV: HOS.5
     - titleCh: 詩篇 125
       titleEn: Psalms 125
       verseBG: Psalms.125
@@ -5706,10 +5706,10 @@ plan:
 
   - index: 517
     verses:
-    - titleCh: 何西阿書 5.8-7.16
-      titleEn: Hosea.5.8-7.16
-      verseBG: Hosea.5.8-7.16
-      verseYV: HOS.5
+    - titleCh: 
+      titleEn:
+      verseBG:
+      verseYV:
     - titleCh: 詩篇 126
       titleEn: Psalms 126
       verseBG: Psalms.126
