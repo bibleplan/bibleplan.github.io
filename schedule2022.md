@@ -5860,21 +5860,21 @@ plan:
 
   - index: 531
     verses:
-    - titleCh: 以賽亞書 40.12-41.29
-      titleEn: Isaiah.40.12-41.29
-      verseBG: Isaiah.40.12-41.29
-      verseYV: ISA.40
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
     - titleCh: 詩篇 140
       titleEn: Psalms 140
       verseBG: Psalms.140
       verseYV: PSA.140
 
-  - index: 532
+- index: 532
     verses:
-    - titleCh: 以賽亞書 42-43
-      titleEn: Isaiah.42-43
-      verseBG: Isaiah.42-43
-      verseYV: ISA.42
+    - titleCh: 以賽亞書 40.12-41.29
+      titleEn: Isaiah.40.12-41.29
+      verseBG: Isaiah.40.12-41.29
+      verseYV: ISA.40
     - titleCh: 詩篇 141
       titleEn: Psalms 141
       verseBG: Psalms.141
@@ -5882,10 +5882,10 @@ plan:
 
   - index: 533
     verses:
-    - titleCh: 以賽亞書 44.1-23
-      titleEn: Isaiah.44.1-23
-      verseBG: Isaiah.44.1-23
-      verseYV: ISA.44
+    - titleCh: 以賽亞書 42-43
+      titleEn: Isaiah.42-43
+      verseBG: Isaiah.42-43
+      verseYV: ISA.42
     - titleCh: 詩篇 142
       titleEn: Psalms 142
       verseBG: Psalms.142
@@ -5893,9 +5893,9 @@ plan:
 
   - index: 534
     verses:
-    - titleCh: 以賽亞書 44.24-45.25
-      titleEn: Isaiah.44.24-45.25
-      verseBG: Isaiah.44.24-45.25
+    - titleCh: 以賽亞書 44.1-23
+      titleEn: Isaiah.44.1-23
+      verseBG: Isaiah.44.1-23
       verseYV: ISA.44
     - titleCh: 詩篇 143
       titleEn: Psalms 143
@@ -5904,10 +5904,10 @@ plan:
 
   - index: 535
     verses:
-    - titleCh: 以賽亞書 46-47
-      titleEn: Isaiah.46-47
-      verseBG: Isaiah.46-47
-      verseYV: ISA.46
+    - titleCh: 以賽亞書 44.24-45.25
+      titleEn: Isaiah.44.24-45.25
+      verseBG: Isaiah.44.24-45.25
+      verseYV: ISA.44
     - titleCh: 詩篇 144
       titleEn: Psalms 144
       verseBG: Psalms.144
@@ -5915,16 +5915,27 @@ plan:
 
   - index: 536
     verses:
-    - titleCh: 以賽亞書 48
-      titleEn: Isaiah.48
-      verseBG: Isaiah.48
-      verseYV: ISA.48
+    - titleCh: 以賽亞書 46-47
+      titleEn: Isaiah.46-47
+      verseBG: Isaiah.46-47
+      verseYV: ISA.46
     - titleCh: 詩篇 145
       titleEn: Psalms 145
       verseBG: Psalms.145
       verseYV: PSA.145
 
   - index: 537
+    verses:
+    - titleCh: 以賽亞書 48
+      titleEn: Isaiah.48
+      verseBG: Isaiah.48
+      verseYV: ISA.48
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+
+  - index: 538
     verses:
     - titleCh: 
       titleEn: 
@@ -5935,7 +5946,7 @@ plan:
       verseBG: Psalms.147
       verseYV: PSA.147
 
-  - index: 538
+  - index: 539
     verses:
     - titleCh: 以賽亞書 49-50
       titleEn: Isaiah.49-50
@@ -5946,7 +5957,7 @@ plan:
       verseBG: Psalms.148
       verseYV: PSA.148
 
-  - index: 539
+  - index: 540
     verses:
     - titleCh: 以賽亞書 51.1-52.12
       titleEn: Isaiah.51.1-52.12
@@ -5957,7 +5968,7 @@ plan:
       verseBG: Psalms.149
       verseYV: PSA.149
 
-  - index: 540
+  - index: 541
     verses:
     - titleCh: 以賽亞書 52.13-53.12
       titleEn: Isaiah.52.13-53.12
