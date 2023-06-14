@@ -7189,70 +7189,70 @@ plan:
       verseBG: Psalms.79
       verseYV: PSA.79
 
-  - index: 491
+  - index: 651
     verses:
     - titleCh: 以斯拉記 1-2
       titleEn: Ezra.1-2
       verseBG: Ezra.1-2
       verseYV: EZR.1
-    - titleCh: 詩篇 103
-      titleEn: Psalms 103
-      verseBG: Psalms.103
-      verseYV: PSA.103
+    - titleCh: 詩篇 80
+      titleEn: Psalms 80
+      verseBG: Psalms.80
+      verseYV: PSA.80
 
-  - index: 485
+  - index: 652
     verses:
     - titleCh: 以斯拉記 3-4
       titleEn: Ezra.3-4
       verseBG: Ezra.3-4
       verseYV: EZR.3
-    - titleCh: 詩篇 104
-      titleEn: Psalms 104
-      verseBG: Psalms.104
-      verseYV: PSA.104
+    - titleCh: 詩篇 81
+      titleEn: Psalms 81
+      verseBG: Psalms.81
+      verseYV: PSA.81
 
-  - index: 486
+  - index: 653
     verses:
     - titleCh: 以斯拉記 5-6
       titleEn: Ezra.5-6
       verseBG: Ezra.5-6
       verseYV: EZR.5
-    - titleCh: 詩篇 105
-      titleEn: Psalms 105
-      verseBG: Psalms.105
-      verseYV: PSA.105
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
 
-  - index: 487
+  - index: 654
     verses:
     - titleCh: 以斯拉記 7-8
       titleEn: Ezra.7-8
       verseBG: Ezra.7-8
       verseYV: EZR.7
-    - titleCh: 詩篇 106
-      titleEn: Psalms 106
-      verseBG: Psalms.106
-      verseYV: PSA.106
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
 
-  - index: 488
+  - index: 655
     verses:
     - titleCh: 以斯拉記 9-10
       titleEn: Ezra.9-10
       verseBG: Ezra.9-10
       verseYV: EZR.9
-    - titleCh: 詩篇 107
-      titleEn: Psalms 107
-      verseBG: Psalms.107
-      verseYV: PSA.107
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
 
-  - index: 489
+  - index: 656
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 108
-      titleEn: Psalms 108
-      verseBG: Psalms.108
-      verseYV: PSA.108
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
 
 ---
