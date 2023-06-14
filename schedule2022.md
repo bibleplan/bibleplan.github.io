@@ -7046,6 +7046,149 @@ plan:
       verseBG: Psalms.66
       verseYV: PSA.66
 
+  - index: 638
+    verses:
+    - titleCh: 約珥書 1-2
+      titleEn: Joel.1-2
+      verseBG: Joel.1-2
+      verseYV: JOL.1
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 639
+    verses:
+    - titleCh: 約珥書 3
+      titleEn: Joel.3
+      verseBG: Joel.3
+      verseYV: JOL.3
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
+  - index: 640
+    verses:
+    - titleCh: 但以理書 1
+      titleEn: Daniel.1
+      verseBG: Daniel.1
+      verseYV: DAN.1
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 641
+    verses:
+    - titleCh: 但以理書 2
+      titleEn: Daniel.2
+      verseBG: Daniel.2
+      verseYV: DAN.2
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
+  - index: 642
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+
+  - index: 643
+    verses:
+    - titleCh: 但以理書 3
+      titleEn: Daniel.3
+      verseBG: Daniel.3
+      verseYV: DAN.3
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
+  - index: 644
+    verses:
+    - titleCh: 但以理書 4
+      titleEn: Daniel.4
+      verseBG: Daniel.4
+      verseYV: DAN.4
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
+  - index: 645
+    verses:
+    - titleCh: 但以理書 5
+      titleEn: Daniel.5
+      verseBG: Daniel.5
+      verseYV: DAN.5
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+
+  - index: 646
+    verses:
+    - titleCh: 但以理書 6
+      titleEn: Daniel.6
+      verseBG: Daniel.6
+      verseYV: DAN.6
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+
+  - index: 647
+    verses:
+    - titleCh: 但以理書 7-9
+      titleEn: Daniel.7-9
+      verseBG: Daniel.7-9
+      verseYV: DAN.7
+    - titleCh: 詩篇 76
+      titleEn: Psalms 76
+      verseBG: Psalms.76
+      verseYV: PSA.76
+
+  - index: 648
+    verses:
+    - titleCh: 但以理書 10.1-12.4
+      titleEn: Daniel.10.1-12.4
+      verseBG: Daniel.10.1-12.4
+      verseYV: DAN.10
+    - titleCh: 詩篇 77
+      titleEn: Psalms 77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+
+  - index: 649
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 78
+      titleEn: Psalms 78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+
+  - index: 650
+    verses:
+    - titleCh: 但以理書 12.5-13
+      titleEn: Daniel.12.5-13
+      verseBG: Daniel.12.5-13
+      verseYV: DAN.12
+    - titleCh: 詩篇 79
+      titleEn: Psalms 79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+
   - index: 491
     verses:
     - titleCh: 以斯拉記 1-2
