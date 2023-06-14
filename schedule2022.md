@@ -6661,6 +6661,391 @@ plan:
       verseBG: Psalms.31
       verseYV: PSA.31
 
+  - index: 603
+    verses:
+    - titleCh: 以西結書 1
+      titleEn: Ezekiel.1
+      verseBG: Ezekiel.1
+      verseYV: EZK.1
+    - titleCh: 詩篇 32
+      titleEn: Psalms 32
+      verseBG: Psalms.32
+      verseYV: PSA.32
+
+  - index: 604
+    verses:
+    - titleCh: 以西結書 2-3
+      titleEn: Ezekiel.2-3
+      verseBG: Ezekiel.2-3
+      verseYV: EZK.2
+    - titleCh: 詩篇 33
+      titleEn: Psalms 33
+      verseBG: Psalms.33
+      verseYV: PSA.33
+
+  - index: 605
+    verses:
+    - titleCh: 以西結書 4
+      titleEn: Ezekiel.4
+      verseBG: Ezekiel.4
+      verseYV: EZK.4
+    - titleCh: 詩篇 34
+      titleEn: Psalms 34
+      verseBG: Psalms.34
+      verseYV: PSA.34
+
+  - index: 606
+    verses:
+    - titleCh: 以西結書 5-7
+      titleEn: Ezekiel.5-7
+      verseBG: Ezekiel.5-7
+      verseYV: EZK.5
+    - titleCh: 詩篇 35
+      titleEn: Psalms 35
+      verseBG: Psalms.35
+      verseYV: PSA.35
+
+  - index: 607
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 36
+      titleEn: Psalms 36
+      verseBG: Psalms.36
+      verseYV: PSA.36
+
+  - index: 608
+    verses:
+    - titleCh: 以西結書 8
+      titleEn: Ezekiel.8
+      verseBG: Ezekiel.8
+      verseYV: EZK.8
+    - titleCh: 詩篇 37
+      titleEn: Psalms 37
+      verseBG: Psalms.37
+      verseYV: PSA.37
+
+  - index: 609
+    verses:
+    - titleCh: 以西結書 9-10
+      titleEn: Ezekiel.9-10
+      verseBG: Ezekiel.9-10
+      verseYV: EZK.9
+    - titleCh: 詩篇 38
+      titleEn: Psalms 38
+      verseBG: Psalms.38
+      verseYV: PSA.38
+
+  - index: 610
+    verses:
+    - titleCh: 以西結書 11.1-12.20
+      titleEn: Ezekiel.11.1-12.20
+      verseBG: Ezekiel.11.1-12.20
+      verseYV: EZK.11
+    - titleCh: 詩篇 39
+      titleEn: Psalms 39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+
+  - index: 611
+    verses:
+    - titleCh: 以西結書 12.21-13.23
+      titleEn: Ezekiel.12.21-13.23
+      verseBG: Ezekiel.12.21-13.23
+      verseYV: EZK.12
+    - titleCh: 詩篇 40
+      titleEn: Psalms 40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+
+  - index: 612
+    verses:
+    - titleCh: 以西結書 14
+      titleEn: Ezekiel.14
+      verseBG: Ezekiel.14
+      verseYV: EZK.14
+    - titleCh: 詩篇 41
+      titleEn: Psalms 41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+
+  - index: 613
+    verses:
+    - titleCh: 以西結書 15-16
+      titleEn: Ezekiel.15-16
+      verseBG: Ezekiel.15-16
+      verseYV: EZK.15
+    - titleCh: 詩篇 42
+      titleEn: Psalms 42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+
+  - index: 614
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 43
+      titleEn: Psalms 43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+
+  - index: 615
+    verses:
+    - titleCh: 以西結書 17-18
+      titleEn: Ezekiel.17-18
+      verseBG: Ezekiel.17-18
+      verseYV: EZK.17
+    - titleCh: 詩篇 44
+      titleEn: Psalms 44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+
+  - index: 616
+    verses:
+    - titleCh: 以西結書 19
+      titleEn: Ezekiel.19
+      verseBG: Ezekiel.19
+      verseYV: EZK.19
+    - titleCh: 詩篇 45
+      titleEn: Psalms 45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+
+  - index: 617
+    verses:
+    - titleCh: 以西結書 20
+      titleEn: Ezekiel.20
+      verseBG: Ezekiel.20
+      verseYV: EZK.20
+    - titleCh: 詩篇 46
+      titleEn: Psalms 46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+
+  - index: 618
+    verses:
+    - titleCh: 以西結書 21-22
+      titleEn: Ezekiel.21-22
+      verseBG: Ezekiel.21-22
+      verseYV: EZK.21
+    - titleCh: 詩篇 47
+      titleEn: Psalms 47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+
+  - index: 619
+    verses:
+    - titleCh: 以西結書 23-24
+      titleEn: Ezekiel.23-24
+      verseBG: Ezekiel.23-24
+      verseYV: EZK.23
+    - titleCh: 詩篇 48
+      titleEn: Psalms 48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+
+  - index: 620
+    verses:
+    - titleCh: 以西結書 25
+      titleEn: Ezekiel.25
+      verseBG: Ezekiel.25
+      verseYV: EZK.25
+    - titleCh: 詩篇 49
+      titleEn: Psalms 49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+
+  - index: 621
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 50
+      titleEn: Psalms 50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+
+  - index: 622
+    verses:
+    - titleCh: 以西結書 26-27
+      titleEn: Ezekiel.26-27
+      verseBG: Ezekiel.26-27
+      verseYV: EZK.26
+    - titleCh: 詩篇 51
+      titleEn: Psalms 51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+
+  - index: 623
+    verses:
+    - titleCh: 以西結書 28
+      titleEn: Ezekiel.28
+      verseBG: Ezekiel.28
+      verseYV: EZK.28
+    - titleCh: 詩篇 52
+      titleEn: Psalms 52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+
+  - index: 624
+    verses:
+    - titleCh: 以西結書 29-30
+      titleEn: Ezekiel.29-30
+      verseBG: Ezekiel.29-30
+      verseYV: EZK.29
+    - titleCh: 詩篇 53
+      titleEn: Psalms 53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+
+  - index: 625
+    verses:
+    - titleCh: 以西結書 31-32
+      titleEn: Ezekiel.31-32
+      verseBG: Ezekiel.31-32
+      verseYV: EZK.31
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+
+  - index: 626
+    verses:
+    - titleCh: 以西結書 33
+      titleEn: Ezekiel.33
+      verseBG: Ezekiel.33
+      verseYV: EZK.33
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+
+  - index: 627
+    verses:
+    - titleCh: 以西結書 34
+      titleEn: Ezekiel.34
+      verseBG: Ezekiel.34
+      verseYV: EZK.34
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+
+  - index: 628
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+
+  - index: 629
+    verses:
+    - titleCh: 以西結書 35.1-36.15
+      titleEn: Ezekiel.35.1-36.15
+      verseBG: Ezekiel.35.1-36.15
+      verseYV: EZK.35
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+
+  - index: 630
+    verses:
+    - titleCh: 以西結書 36.16-37.28
+      titleEn: Ezekiel.36.16-37.28
+      verseBG: Ezekiel.36.16-37.28
+      verseYV: EZK.36
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+
+  - index: 631
+    verses:
+    - titleCh: 以西結書 38-39
+      titleEn: Ezekiel.38-39
+      verseBG: Ezekiel.38-39
+      verseYV: EZK.38
+    - titleCh: 詩篇 60
+      titleEn: Psalms 60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+
+  - index: 632
+    verses:
+    - titleCh: 以西結書 40
+      titleEn: Ezekiel.40
+      verseBG: Ezekiel.40
+      verseYV: EZK.40
+    - titleCh: 詩篇 61
+      titleEn: Psalms 61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+
+  - index: 633
+    verses:
+    - titleCh: 以西結書 41-42
+      titleEn: Ezekiel.41-42
+      verseBG: Ezekiel.41-42
+      verseYV: EZK.41
+    - titleCh: 詩篇 62
+      titleEn: Psalms 62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+
+  - index: 634
+    verses:
+    - titleCh: 以西結書 43-44
+      titleEn: Ezekiel.43-44
+      verseBG: Ezekiel.43-44
+      verseYV: EZK.43
+    - titleCh: 詩篇 63
+      titleEn: Psalms 63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+
+  - index: 635
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 64
+      titleEn: Psalms 64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+
+  - index: 636
+    verses:
+    - titleCh: 以西結書 45-46
+      titleEn: Ezekiel.45-46
+      verseBG: Ezekiel.45-46
+      verseYV: EZK.45
+    - titleCh: 詩篇 65
+      titleEn: Psalms 65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+
+  - index: 637
+    verses:
+    - titleCh: 以西結書 47-48
+      titleEn: Ezekiel.47-48
+      verseBG: Ezekiel.47-48
+      verseYV: EZK.47
+    - titleCh: 詩篇 66
+      titleEn: Psalms 66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+
   - index: 491
     verses:
     - titleCh: 以斯拉記 1-2
