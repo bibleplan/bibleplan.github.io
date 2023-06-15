@@ -7255,4 +7255,312 @@ plan:
       verseBG: Psalms.85
       verseYV: PSA.85
 
+  - index: 657
+    verses:
+    - titleCh: 哈該書 1-2
+      titleEn: Haggai.1-2
+      verseBG: Haggai.1-2
+      verseYV: HAG.1
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
+
+  - index: 658
+    verses:
+    - titleCh: 撒迦利亞書 1-2
+      titleEn: Zechariah.1-2
+      verseBG: Zechariah.1-2
+      verseYV: ZEC.1
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
+
+  - index: 659
+    verses:
+    - titleCh: 撒迦利亞書 3-6
+      titleEn: Zechariah.3-6
+      verseBG: Zechariah.3-6
+      verseYV: ZEC.3
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+
+  - index: 660
+    verses:
+    - titleCh: 撒迦利亞書 7-8
+      titleEn: Zechariah.7-8
+      verseBG: Zechariah.7-8
+      verseYV: ZEC.7
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+
+  - index: 661
+    verses:
+    - titleCh: 撒迦利亞書 9-11
+      titleEn: Zechariah.9-11
+      verseBG: Zechariah.9-11
+      verseYV: ZEC.9
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+
+  - index: 662
+    verses:
+    - titleCh: 撒迦利亞書 12-14
+      titleEn: Zechariah.12-14
+      verseBG: Zechariah.12-14
+      verseYV: ZEC.12
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+
+  - index: 663
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+
+  - index: 664
+    verses:
+    - titleCh: 以斯帖記 1.1-2.18
+      titleEn: Esther.1.1-2.18
+      verseBG: Esther.1.1-2.18
+      verseYV: EST.1
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+
+  - index: 665
+    verses:
+    - titleCh: 以斯帖記 2.19-3.15
+      titleEn: Esther.2.19-3.15
+      verseBG: Esther.2.19-3.15
+      verseYV: EST.2
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+
+  - index: 666
+    verses:
+    - titleCh: 以斯帖記 4-5
+      titleEn: Esther.4-5
+      verseBG: Esther.4-5
+      verseYV: EST.4
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+
+  - index: 667
+    verses:
+    - titleCh: 以斯帖記 6-7
+      titleEn: Esther.6-7
+      verseBG: Esther.6-7
+      verseYV: EST.6
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+
+  - index: 668
+    verses:
+    - titleCh: 以斯帖記 8
+      titleEn: Esther.8
+      verseBG: Esther.8
+      verseYV: EST.8
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+
+  - index: 669
+    verses:
+    - titleCh: 以斯帖記 9-10
+      titleEn: Esther.9-10
+      verseBG: Esther.9-10
+      verseYV: EST.9
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 670
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+
+  - index: 671
+    verses:
+    - titleCh: 尼希米記 1-2
+      titleEn: Nehemiah.1-2
+      verseBG: Nehemiah.1-2
+      verseYV: NEH.1
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+
+  - index: 672
+    verses:
+    - titleCh: 尼希米記 3-4
+      titleEn: Nehemiah.3-4
+      verseBG: Nehemiah.3-4
+      verseYV: NEH.3
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+
+  - index: 673
+    verses:
+    - titleCh: 尼希米記 5-6
+      titleEn: Nehemiah.5-6
+      verseBG: Nehemiah.5-6
+      verseYV: NEH.5
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+
+  - index: 674
+    verses:
+    - titleCh: 尼希米記 7
+      titleEn: Nehemiah.7
+      verseBG: Nehemiah.7
+      verseYV: NEH.7
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+
+  - index: 675
+    verses:
+    - titleCh: 尼希米記 8
+      titleEn: Nehemiah.8
+      verseBG: Nehemiah.8
+      verseYV: NEH.8
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 676
+    verses:
+    - titleCh: 尼希米記 9
+      titleEn: Nehemiah.9
+      verseBG: Nehemiah.9
+      verseYV: NEH.9
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
+  - index: 677
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+
+  - index: 678
+    verses:
+    - titleCh: 尼希米記 10
+      titleEn: Nehemiah.10
+      verseBG: Nehemiah.10
+      verseYV: NEH.10
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+
+  - index: 679
+    verses:
+    - titleCh: 尼希米記 11-12
+      titleEn: Nehemiah.11-12
+      verseBG: Nehemiah.11-12
+      verseYV: NEH.11
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+
+  - index: 680
+    verses:
+    - titleCh: 尼希米記 13
+      titleEn: Nehemiah.13
+      verseBG: Nehemiah.13
+      verseYV: NEH.13
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+
+  - index: 681
+    verses:
+    - titleCh: 瑪拉基書 1.1-3.5
+      titleEn: Malachi.1.1-3.5
+      verseBG: Malachi.1.1-3.5
+      verseYV: MAL.1
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+
+  - index: 682
+    verses:
+    - titleCh: 瑪拉基書 3.6-4.6
+      titleEn: Malachi.3.6-4.6
+      verseBG: Malachi.3.6-4.6
+      verseYV: MAL.3
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 683
+    verses:
+    - titleCh: 雅各書 1.1-18
+      titleEn: James 1.1-18
+      verseBG: James.1.1-18
+      verseYV: JAS.1
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+
+  - index: 684
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+
 ---
