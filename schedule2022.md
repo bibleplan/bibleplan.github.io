@@ -6372,7 +6372,7 @@ plan:
       verseYV: JER.26
     - titleCh: 詩篇 5
       titleEn: Psalms 5
-      verseBG: Psalms.4
+      verseBG: Psalms.5
       verseYV: PSA.5
 
   - index: 577
