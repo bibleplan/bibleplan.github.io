@@ -2,7 +2,7 @@ name: Check Google Drive File
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour on the hour
+    - cron: '0 * 1 1 *'  # Runs every hour on the hour # change to 0 * 1 1 * to disable this yml.
 
 jobs:
   check_drive_file:
