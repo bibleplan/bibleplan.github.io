@@ -44,7 +44,7 @@ def main():
         print(f'https://drive.google.com/file/d/{file_url}')
 	
         # Write the URL to a Markdown file
-        with open('README.md', 'w') as md_file:
+        with open('test_loading.md', 'w') as md_file:
             md_file.write(f'[{file_name}](https://drive.google.com/file/d/{file_url})')
 
 if __name__ == '__main__':
