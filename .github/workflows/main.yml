@@ -16,5 +16,6 @@ jobs:
           echo " <br />$(date)" >> test_loading.md
           git config user.name "ECCRedM-Media"
           git config user.email "ECCRedM-Media@gmail.com"
-          git commit -am "test_loading.md"
+          git add test_loading.md  # Stage the changes
+          git commit -m "Update test_loading.md"  # Use -m to provide a commit message
           git push
