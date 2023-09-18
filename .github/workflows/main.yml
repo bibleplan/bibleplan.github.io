@@ -2,34 +2,14 @@ name: Check Google Drive File
 
 on:
   schedule:
-    - cron: '0 * 1 1 *'  # Runs every hour on the hour # change to 0 * 1 1 * to disable this yml.
+    - cron: '*/6 * * * *' # Runs every hour on the hour
 
 jobs:
-  check_drive_file:
+  update_md_file:
     runs-on: ubuntu-latest
 
-    env:
-      GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'  # Replace '3.x' with your desired Python version
-          
-      - name: Install Dependencies
-        run: |
-          pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-
-      - name: Run Python Script
-        run: |
-          echo "$GOOGLE_DRIVE_CREDENTIALS" > credentials.json
-          python scripts/update_path.py
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS: ./credentials.json
+      - uses: actions/checkout@v2
 
       - name: Commit and Push Changes
         run: |
