@@ -10,7 +10,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
+      
+      - name: Install Dependencies
+        run: |
+          pip install pandas
+          
       - name: Commit and Push Changes
         run: |
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
