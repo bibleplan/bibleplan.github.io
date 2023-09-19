@@ -1,0 +1,21 @@
+name: Check Google Drive File
+
+on:
+  schedule:
+    - cron: '*/6 * * * *' # Runs every hour on the hour
+
+jobs:
+  update_md_file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Commit and Push Changes
+        run: |
+          echo " <br />$(date)" >> test_loading.md
+          git config user.name "ECCRedM-Media"
+          git config user.email "ECCRedM-Media@gmail.com"
+          git add test_loading.md  # Stage the changes
+          git commit -m "Update test_loading.md"  # Use -m to provide a commit message
+          git push

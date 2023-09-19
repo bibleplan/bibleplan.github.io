@@ -1,241 +1,346 @@
-
-function convert()
+function convertToDate()
 {
-    const _NoValue = "_NO_VALUE_"
-    var markup = {
-        date: _NoValue,
-        weekNum: _NoValue,
-        dayNum: _NoValue,
-        bibleVerses: [_NoValue, _NoValue],
-        url: _NoValue,
-        title: _NoValue,        
-        question: _NoValue,
-        GodStories: [ ],
-        myStories: [ ]
-    };
-    
-    var day1 = new Date(2018, 0, 21);
-    var tmpStr = ""; 
-    var tmpPos = -1;
-    var question = "";
-    var readingGodStories = 0;
-    var readingMyStories = 0;
-
-    //Get the original plain text, and break into lines
-    var input = document.getElementById("input");
-    var inputText = input.value; 
-    var inputTextLines = inputText.split("\n");
-
-    //Patter matching for each line
-    for (i = 0; i < inputTextLines.length; i++) { 
-        text = inputTextLines[i];
-
-        //Replace some punctuations
-        text = text.replace(/,/g, "，");
-        text = text.replace(/[?]/g, "？");
-        text = text.replace(/:/g, "：");
-        text = text.replace(/!/g, "！");
-        text = text.replace(/「/g, "`「");
-        text = text.replace(/」/g, "」`");
-        text = text.replace(/;/g, "；");
-
-
-        //== log: write back to the output
-        //document.getElementById("markup").value += text + "\n";
-
-        //Title: e.g. 第 67 週 第 1 天 亞哈斯王
-        if (markup.weekNum == _NoValue) {
-            text = text.replace(/ /g,"");
-            tmpStr = text.slice(0,1);
-            tmpPos = text.search("週第");
-            if (( tmpStr == "第") && (tmpPos > 0) ){
-                markup.weekNum = text.slice(1, tmpPos);
-                markup.dayNum = text.slice(tmpPos+2, text.search("天"));
-                markup.title = text.slice(text.search("天")+1);
-                markup.url = "/daily/2020/wk" + markup.weekNum + "-day" + markup.dayNum + "-daily.html";
-                var newDate = day1.getTime();
-                newDate += ((markup.weekNum-1)*7+(markup.dayNum-1))*24*60*60*1000;
-                day1.setTime(newDate);
-                markup.date =day1.getFullYear() + "-" + (day1.getMonth()+1) + "-" + (day1.getDate()+1);   
-            }
+    var inputText = document.getElementById("input").value;
+    var lines = inputText.split('\n');
+    var language = "language: Chinese";
+    var categoryText = "categories: daily";
+    var layout = "layout: daily"
+    var title = "";
+    var dateText = "";
+	var content = "";
+	var isMetaData = false;
+    var dateInfo
+	
+	for (var i = 0; i < lines.length; i++)
+    {
+		if (lines[i].indexOf("---") >= 0)
+			isMetaData = !isMetaData
+        else if (lines[i].indexOf("language:") >= 0)
+            language = lines[i];
+        else if (lines[i].indexOf("categories:") >= 0)
+            categoryText = lines[i];
+        else if (lines[i].indexOf("layout:") >= 0)
+            layout = lines[i];
+        else if (lines[i].indexOf("date:") >= 0)
+        {
+            dateText = lines[i].substring(6).trim();
+            dateInfo = getDateInfo(dateText)
         }
-        //Question: e.g. 問題:約坦和亞哈斯兩個王有和異同?
-        if (markup.question == _NoValue){
-            if (text.indexOf("問題",0) == 0) {
-                markup.question = text;
-                console.log(question);
-            }
+        else if (lines[i].indexOf("title:") >= 0)
+        {
+            if (lines[i].indexOf("Week") > 0) // English
+                title = lines[i].replaceAll('"', '').split(": ");
+            else if (lines[i].indexOf("每日靈修") > 0)
+                title = lines[i].replaceAll('"', '').split("每日靈修：");
+            else
+                title = lines[i].replaceAll('"', '').split(" ");
+            title = title[title.length - 1];
         }
-
-        //Bible Verses: e.g. 
-        //讀經:歷代志下 27-28
-        if (text.indexOf("讀經：",0) == 0) {
-            readingGodStories = 0;
-            readingMyStories = 0;
+		else if (!isMetaData && lines[i].indexOf("---") < 0)
+        {
+            if (lines[i].indexOf('BibleLinks') >= 0)
+                content += '\r\n{% include BibleLinks' + dateInfo.cycle + '.html %}\r\n'
+            else
+			    content += lines[i] + "\r\n"
         }
+    }
 
-        //God's Stories: e.g. 
-        //默想:神的故事
-        //• 約坦在耶路撒冷做王十六年,行耶和華眼中看為正的事,只是不入耶和華的殿。百姓還行邪僻的事。
-        //• 約坦兒子亞哈斯接續他,在耶路撒冷做王十六年。不像他祖大衛行耶和華眼中看為正的事。
-        //• 耶和華神將亞哈斯交在亞蘭王手裡,亞蘭王打敗他。神又將他交在以色列王手裡,以色列王向他大行戮。
-        //• 亞哈斯王差遣人去見亞述諸王,求他們幫助,亞述王提革拉毗尼色上來,卻沒有幫
-        //助他,反倒欺凌他。
-        //• 亞哈斯王在急難的時候,越發得罪耶和華,祭祀攻擊他的大馬士革之神。
-        if (markup.GodStories.length == 0){
-            if (text.indexOf("默想：神的故事",0) == 0)  {
-                readingGodStories = 1;
-                markup.GodStories[0] = "";
-            }
+    var result = "";
+    var category = categoryText.split(' ')[1]
+    var titleText = "每日靈修：" + title
+    var permalinkRoot = '/sharing/zhuolin/'
+    if (category == "daily" && language.indexOf("English") >= 0)
+    {
+        titleText = '"' + dateInfo.cycle + '-' + (dateInfo.cycle+1) + ' Week ' + dateInfo.numberOfWeek + ' Day ' + dateInfo.numberOfDay + ': ' + title + '"'
+        permalinkRoot = '/en/' + category + '/'
+    } else if (category == "daily" && language.indexOf("Chinese") >= 0) {
+        titleText = '第' + dateInfo.numberOfWeek + '週 第' + dateInfo.numberOfDay + '天 ' + title
+        permalinkRoot = '/' + category + '/'
+    }
 
-        }
+    if (layout.indexOf("daily") >= 0)
+        layout = "layout: daily" + dateInfo.cycle;
 
-        //My Stories: e.g. 
-        //默想:我的故事
-        //• 【價值我定位】約坦在耶和華他神面前行正道,以致日漸強盛。我們如何看待自己所
-        //得的恩賜和生活中的富足強盛?請數算神對我所賜的恩典。
-        //• 【價值定位】亞哈斯王在急難的時候,越發得罪耶和華,祭祀攻擊他的大馬士革之
-        //神。為什麼我們有時候在困難面前會求告神,而有時候卻會更加遠離神?
-        if (markup.myStories.length == 0){
-            if (text.indexOf("默想：我的故事",0) == 0)  {
-                readingMyStories = 1;
-                readingGodStories = 0;
-                markup.myStories[0] = "";
-            }
-        }
+    result += '---\r\n'
+            + "cycle: " + dateInfo.cycle + "\r\n"
+            + layout + "\r\n"
+            + categoryText + "\r\n"
+            + language + "\r\n"
+            + "title: " + titleText + "\r\n"
+            + "date: " + dateInfo.dateText + "\r\n"
+            + "weekNum: " + dateInfo.numberOfWeek + "\r\n"
+            + "dayNum: " + dateInfo.numberOfDay + "\r\n"
+            + "permalink: " + permalinkRoot + dateInfo.cycle + "/wk" + dateInfo.numberOfWeek + "-day" + dateInfo.numberOfDay + "-" + category + ".html\r\n"
+            + "---\r\n"
 
-        if (readingGodStories == 1) {
-            //Add a new line
-            if (text.indexOf("•",0) == 0){
-                tmpPos = markup.GodStories.length;
-                markup.GodStories[tmpPos] = text;
-            }
-            //Append current line
-            else {
-                tmpPos = markup.GodStories.length - 1;
-                markup.GodStories[tmpPos] += text;
-            }
-        }
-
-        if (readingMyStories == 1) {
-            //Add a new line
-            if (text.indexOf("•",0) == 0){
-                tmpPos = markup.myStories.length;
-                markup.myStories[tmpPos] = text;
-            }
-            //Append current line
-            else {
-                tmpPos = markup.myStories.length - 1;
-                markup.myStories[tmpPos] += text;
-            }
-        }
-
-        //The rest can be ignored
-        //讀經:雅歌 7
-        //禱告:
-        //筆記與生活回應:
-
-    } 
-    
-    generateMarkup(markup);
-    console.log(markup);
-
+    document.getElementById("markup").value = result + content;
 }
 
-/*
----
-layout: daily2
-title: "第74周第1天因骄致祸"
-date: 2019-06-17
-categories: daily
-permalink: /daily/wk74-day1-daily.html
-weekNum: 74
-dayNum: 1
----
+function IsDigit(charCode)
+{
+	var charCodeZero = "0".charCodeAt(0);
+	var charCodeNine = "9".charCodeAt(0);
+	return charCode >= charCodeZero && charCode <= charCodeNine;
+}
+function normalize(inputText)
+{
+    var result = useChinesePunctuation(inputText).replace(/周/g, "週").replace(/週圍/g, "周圍");
 
-### 问题：亚述王的骄傲的后果是什么？
- 
-{%- include BibleLinks.html -%}
+    result = useRomanCommaForVerses(result);
+    result = ConvertNumberedList(result);
+	result = result.replace(/^-/gm, "—");
+	var arr = result.split("：");
+	var st = "";
+	for (i = 0; i < arr.length - 1; i++)
+	{
+		if (IsDigit(arr[i].charCodeAt(arr[i].length - 1)) && IsDigit(arr[i+1].charCodeAt(0)))
+		    st += arr[i] + ":";
+		else
+		    st += arr[i] + "：";
+	}
+	result = st + arr[arr.length - 1];
+    if (!document.getElementById("keepSpace").checked)
+		result = result.replace(/ /g, "");
+    result = appendEndingSpaces(result);
 
-### 默想：神的故事
-+ 希西家王十四年，亚述王西拿基立上来攻击犹大的一切坚固城，将城攻取。
-
-### 默想：我的故事
-+ 【价值定位】耶和华说让人记得祂早先所做的，古时所立的，以至于敬畏祂。我们从圣经中可以知道神的作为，也可以纪念耶和华在我们身上的作为而知道神是如何的爱我们。默想神的作为，并向神献上感恩。
-
-### 祷告：
-
-### 笔记与回应：
-*/
-function generateMarkup(markup){
-    var outputMarkup = [];
-    var lineNum = 0;
-
-    //Header
-    /*
-    ---
-    layout: daily2
-    title: "第74週第1天因骄致祸"
-    date: 2019-06-17
-    categories: daily
-    permalink: /daily/wk74-day1-daily.html
-    weekNum: 74
-    dayNum: 1
-    ---
-    */
-    outputMarkup[lineNum++] = "---";
-    outputMarkup[lineNum++] = "layout: daily2";
-    outputMarkup[lineNum++] = "title: 第" + markup.weekNum + "週第" + markup.dayNum + "天 " + markup.title; 
-    outputMarkup[lineNum++] = "date: " + markup.date; 
-    outputMarkup[lineNum++] = "categories: daily"; 
-    outputMarkup[lineNum++] = "permalink: " + markup.url; 
-    outputMarkup[lineNum++] = "weekNum: " + markup.weekNum; 
-    outputMarkup[lineNum++] = "dayNum: " + markup.dayNum; 
-    outputMarkup[lineNum++] = "cycle: 2020"; 
-    outputMarkup[lineNum++] = "---"; 
-    outputMarkup[lineNum++] = ""; 
-
-    //Question
-    //### 问题：亚述王的骄傲的后果是什么？
-    outputMarkup[lineNum++] = "### " + markup.question; //lineNum +=1;
-    outputMarkup[lineNum++] = "";
-    //lineNum++;
-
-    //Bible Verses
-    outputMarkup[lineNum++] = "{%- include BibleLinks2020.html -%}";
-    outputMarkup[lineNum++] = "";
-
-    //God's Stories
-    //### 默想：神的故事
-    //+ 希西家王十四年，亚述王西拿基立上来攻击犹大的一切坚固城，将城攻取。
-    outputMarkup[lineNum++] = "### " + markup.GodStories[0];
-    for (i = 1; i<markup.GodStories.length; i++){
-        outputMarkup[lineNum++] = markup.GodStories[i].replace("•", "+");
-        outputMarkup[lineNum++] = "";
-    }
-    outputMarkup[lineNum++] = "";
-
-    //My Stories
-    //### 默想：我的故事
-    //+ 【价值定位】耶和华说让人记得祂早先所做的，古时所立的，以至于敬畏祂。我们从圣经中可以知道神的作为，也可以纪念耶和华在我们身上的作为而知道神是如何的爱我们。默想神的作为，并向神献上感恩。
-    outputMarkup[lineNum++] = "### " + markup.myStories[0];
-    for (i = 1; i<markup.myStories.length; i++){
-        outputMarkup[lineNum++] = markup.myStories[i].replace("•", "+");
-        outputMarkup[lineNum++] = "";
-    }
-    outputMarkup[lineNum++] = "";
-
-    //The Rest
-    //### 祷告：
-    //### 笔记与回应：
-    outputMarkup[lineNum++] = "### 禱告：";
-    outputMarkup[lineNum++] = "";
-    outputMarkup[lineNum++] = "### 筆記與生活回應：";
-    outputMarkup[lineNum++] = "";
-
-    //Display converted markup text
-    for (i = 0; i < outputMarkup.length; i++) { 
-        document.getElementById("markup").value += outputMarkup[i] + "\n";
-    }
+    return result;
 }
 
+function useChinesePunctuation(inputText)
+{
+	if (document.getElementById("english").checked)
+		return inputText;
+	
+    var result = inputText.replace(/,/g, "，");
+    return result.replace(/[?]/g, "？")
+                .replace(/:/g, "：")
+                .replace(/;/g, "；")
+                .replace(/!/g, "！")
+                .replace(/（/g, "(")
+                .replace(/）/g, ")");
+}
+
+function appendEndingSpaces(txt)
+{
+    var result = "";
+	
+    lines = txt.split("\n");
+    for (i=0; i<lines.length; i++) {
+        result += lines[i];
+    	if (lines[i].length > 0)
+            result += "  ";
+        result += "\r\n";
+    }
+	
+    return result;
+}
+
+function useRomanCommaForVerses(txt)
+{
+    var regex = /[0-9]：[0-9]/g;
+    var result = "";
+
+    do {
+        //console.log("txt: " + inputText);
+        index = txt.search(regex);
+        if (index >= 0) {
+            result += txt.substring(0, index + 1) + ":";
+            //console.log("result: " + result);
+            txt = txt.substring(index + 2);
+        }
+    } while (index >= 0);
+	
+    return result + txt;
+}
+
+function convertBulletPoints()
+{
+    var inputText = document.getElementById("input").value;
+    var result = "";
+    var bullet = "+";
+
+    lines = inputText.split("\n");
+    for (i=0; i<lines.length; i++) {
+        if (lines[i].length > 0) {
+            index = lines[i].indexOf(bullet);
+            line = index >= 0 ? lines[i].substring(index + 1, lines[i].length).trim() : lines[i];
+            result += "    <li>" + line.replace(/[ `]/g, "") + "</li>";
+            if (lines[i].length > 0) result += "\r\n";
+        }
+    }
+
+    document.getElementById("markup").value = result;
+}
+
+function normalizeLineEnding()
+{
+    var inputText = document.getElementById("input").value;
+    var result = "";
+
+    lines = inputText.split("\n");
+    for (i=0; i<lines.length; i++) {
+        result += lines[i];
+        if (lines[i].length > 0)
+            result += "  ";
+        result += "\r\n";
+    }
+
+    document.getElementById("markup").value = result;
+}
+
+function getNumberOfWeek(dateText)
+{
+    var date = new Date(dateText);
+    var time = date.getTime();
+    // Calculate the week number by dividing the time by the number of milliseconds in a week
+    var weekNumber = Math.ceil(((time - new Date(date.getFullYear(), 0, 1).getTime()) / 86400000) / 7);
+    return weekNumber + (date.getFullYear() % 2) * 52;
+}
+
+function getDateInfo(dateText)
+{
+    var date = new Date(dateText.replaceAll('-', '/'));
+    var year = date.getFullYear();
+    var month = date.getMonth();
+    var monthText = month + 1;
+    if (month < 9)
+        monthText = "0" + monthText;
+    var day = date.getDate();
+    var dayText = day;
+    if (day < 10)
+        dayText = "0" + dayText;
+    dateText = year + "-" + monthText + "-" + dayText;
+    var cycle = year - year % 2;
+    var numberOfWeek = getNumberOfWeek(date);
+    var numberOfWeekText = numberOfWeek;
+    if (numberOfWeek < 10)
+	numberOfWeekText = "00" + numberOfWeekText;
+    else if (numberOfWeek < 100)
+	numberOfWeekText = "0" + numberOfWeekText;
+    var numberOfDay = date.getDay();
+    if (numberOfDay == 0)
+        numberOfDay = 7;
+
+    var DateInfo = {
+        dateText: dateText,
+        numberOfWeek: numberOfWeek,
+	numberOfWeekText: numberOfWeekText,
+        numberOfDay: numberOfDay,
+        cycle: cycle
+    }
+
+    return DateInfo;
+}
+
+function getQianBinSharingTemplate()
+{
+    var inputText = document.getElementById("input").value;
+    var dateInfo = getDateInfo(inputText.split(' ')[0]);
+    var title = inputText.split(' ')[1];
+    var result = "---\r\n" +
+                "cycle: " + dateInfo.cycle + "\r\n" +
+                "categories: sharing\r\n" +
+                "layout: sharing\r\n" +
+                "date: " + dateInfo.dateText + "\r\n" +
+                "title: \"神學梳理：" + title + "\"\r\n" +
+                "weekNum: " + dateInfo.numberOfWeek + "\r\n" +
+                "dayNum: " + dateInfo.numberOfDay + "\r\n" +
+                "permalink: /sharing/2022/wk" + dateInfo.numberOfWeek + "-day" + dateInfo.numberOfDay + "-sharing.html\r\n" +
+                "---\r\n" +
+                "\r\n" +
+                "[" + title + "](https://eccseattle.github.io/media/sharing/" + dateInfo.cycle + "/wk" + dateInfo.numberOfWeekText + "/" + dateInfo.dateText + "-bin.m4a)\r\n" +
+                "\r\n" +
+                "`小錢`\r\n" +
+                "\r\n";
+
+    document.getElementById("markup").value = result;
+}
+
+function getZhuolinSharingTemplate()
+{
+    var inputText = document.getElementById("input").value;
+    var firstLine = inputText.split("\n")[0].trim();
+    var dateText = inputText.split("\n")[1].trim();
+    var dt = new Date(dateText.replace(/-/g, "/"));
+    var dayOfWeek = dt.getDay();
+    var day = (dt.getDate() < 10 ? "0" : "") + dt.getDate();
+    var monthNum = dt.getMonth() + 1;
+    var month = (monthNum < 10 ? "0" : "") + monthNum;
+    var title = firstLine.split(' ').slice(-1)[0];
+    var result = "---\r\n";
+    result += "layout: sharing\r\n";
+    result += "date: 2020-" + month + "-" + day + "\r\n";
+    result += "title: \"每日靈修：" + title + "\"\r\n";
+    result += "categories: sharing Zhuolin\r\n";
+    result += "weekNum: \r\n";
+    result += "dayNum: " + dayOfWeek + "\r\n";
+    result += "permalink: /sharing/zhuolin/2020/wk-day" + dayOfWeek + "-sharing.html\r\n";
+    result += "author: Zhuolin\r\n";
+    result += "cycle: 2020\r\n";
+    result += "---\r\n";
+    
+    result += normalize(inputText);
+    result = result.replace(/\(Zhuolin\)/ig, "`Zhuolin`")
+				   .replace(/（Zhuolin）/ig, "`Zhuolin`");
+	if (result.indexOf("`Zhuolin`") < 0)
+		result = result.replace(/^Zhuolin/gm, "`Zhuolin`");
+	
+    document.getElementById("markup").value = result;
+}
+
+function getZhuolinSharingTemplate2()
+{
+    var inputText = document.getElementById("input").value;
+    var dateInfo = getDateInfo(inputText.split(' ')[0]);
+    var title = inputText.split(' ')[1];
+
+	var result = "---\r\n" +
+				"layout: sharing\r\n" +
+				"date: " + dateInfo.dateText + "\r\n" +
+				"title: \"親子導讀：" + title + "\"\r\n" +
+				"categories: sharing Zhuolin\r\n" +
+				"weekNum: " + dateInfo.numberOfWeek + "\r\n" +
+				"dayNum: " + dateInfo.numberOfDay + "\r\n" +
+				"permalink: /sharing/zhuolin/" + dateInfo.cycle + "/wk" + dateInfo.numberOfWeek + "-day" + dateInfo.numberOfDay + "-sharing2.html\r\n" +
+				"author: Zhuolin\r\n" +
+				"cycle: 2022\r\n" +
+				"---\r\n";
+	document.getElementById("markup").value = result;
+}
+
+function getZhuolinSharingTemplate3()
+{
+	var result = "---\r\n" +
+				"layout: sharing\r\n" +
+				"date: 2022-\r\n" +
+				"title: \"親子導讀：\"\r\n" +
+				"categories: sharing Zhuolin\r\n" +
+				"weekNum: \r\n" +
+				"dayNum: \r\n" +
+				"permalink: /sharing/zhuolin/2022/wk-day-sharing3.html\r\n" +
+				"author: Zhuolin\r\n" +
+				"cycle: 2022\r\n" +
+				"---\r\n" +
+				"\r\n" +
+				"1. 打印經文。  \r\n" +
+				"2. 一起禱告開始。  \r\n" +
+				"3. 讓孩子讀，勾畫重點，紀錄下自己想問的問題。  \r\n" +
+				"4. 討論時間，請孩子分享自己的問題。討論、紀錄。經文引導列在下面。  \r\n" +
+				"5. 應用分享（不可缺）。應用部分也列在下面。  \r\n" +
+				"6. 禱告結束。\r\n" +
+				"\r\n" +
+				"#### 今天的經文可以引導的方向：\r\n" +
+				"\r\n" +
+				"\r\n" +
+				"\r\n" +
+				"#### 應用部分\r\n" +
+				"\r\n" +
+				"1. 今天的經文和後面的分享討論，給你印象最深的是哪一點？  \r\n" +
+				"2. 如果反省一下你自己的生命，你認識到你自己的什麼掙扎，是跟沒有意識到與上面的1中所分享的相關的。  \r\n" +
+				"3. 從這一點你有什麼思考？你覺得遇到同樣的掙扎的時候，你可以怎樣提醒自己？\r\n" +
+				"\r\n" +
+				"琢琳\r\n" +
+				"\r\n" +
+				"附：[親子導讀簡介](https://bibleplan.github.io/ParentChild-BibleStudyIntro.html)\r\n";
+	document.getElementById("markup").value = result;
+}
