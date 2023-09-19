@@ -51,15 +51,14 @@ function convertToDate()
     var permalinkRoot = '/sharing/zhuolin/'
     if (category == "daily" && language.indexOf("English") >= 0)
     {
+        layout = "layout: daily-en";
         titleText = '"' + dateInfo.cycle + '-' + (dateInfo.cycle+1) + ' Week ' + dateInfo.numberOfWeek + ' Day ' + dateInfo.numberOfDay + ': ' + title + '"'
         permalinkRoot = '/en/' + category + '/'
     } else if (category == "daily" && language.indexOf("Chinese") >= 0) {
+        layout = "layout: daily" + dateInfo.cycle;
         titleText = '第' + dateInfo.numberOfWeek + '週 第' + dateInfo.numberOfDay + '天 ' + title
         permalinkRoot = '/' + category + '/'
     }
-
-    if (layout.indexOf("daily") >= 0)
-        layout = "layout: daily" + dateInfo.cycle;
 
     result += '---\r\n'
             + "cycle: " + dateInfo.cycle + "\r\n"
