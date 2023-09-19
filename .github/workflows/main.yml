@@ -2,7 +2,7 @@ name: Check Google Drive File
 
 on:
   schedule:
-    - cron: '*/6 * * * *' # Runs every hour on the hour
+    - cron: '*/6 * * * *' # Runs every hour on the hour, to disable, change to 1 1 *
 
 jobs:
   update_md_file:
@@ -13,9 +13,17 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          echo " <br />$(date)" >> test_loading.md
-          git config user.name "ECCRedM-Media"
-          git config user.email "ECCRedM-Media@gmail.com"
-          git add test_loading.md  # Stage the changes
-          git commit -m "Update test_loading.md"  # Use -m to provide a commit message
-          git push
+          wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
+
+          if ! cmp -s xiv.md temp.md; then
+            mv temp.md xiv.md
+            IFS=',' read -r var1 var2 var3 < "xiv.md" #var1 is title, var2 is url, var3 is partial path
+            sed -i 's/"神學梳理："/"神學梳理：$var1"/g' _posts/$var3.md
+            sed -i 's/\[]/[$var1]/g' _posts/$var3.md
+            sed -i 's/.m4a//g' _posts/$var3.md
+            echo ga >> _posts/$var3.md
+            git config user.name "ECCRedM-Media"
+            git config user.email "ECCRedM-Media@gmail.com"
+            git add _posts/$var3.md  # Stage the changes
+            git commit -m "Update _posts/$var3.md"  # Use -m to provide a commit message
+            git push
