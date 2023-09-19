@@ -14,14 +14,14 @@ jobs:
       - name: Commit and Push Changes
         run: |
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
-
+          var3=$(python scripts/check_time.py) 
           if ! cmp -s xiv.md temp.md; then
             mv temp.md xiv.md
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
             git commit -m "Update xiv.md"  # Use -m to provide a commit message            
-            IFS=',' read -r var1 var2 var3 < "xiv.md" #var1 is title, var2 is url, var3 is partial path
+            IFS=',' read -r var1 var2 < "xiv.md" #var1 is title, var2 is url, var3 is partial path
             sed -i "s/主题/${var1%.m4a}/g" "_posts/$var3.md"
             git add "_posts/$var3.md"  # Stage the changes
             git commit -m "Update _posts/$var3.md"  # Use -m to provide a commit message      
