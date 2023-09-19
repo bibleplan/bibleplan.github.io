@@ -7563,5 +7563,235 @@ plan:
       verseBG: Psalms.113
       verseYV: PSA.113
 
+  - index: 685
+    verses:
+    - titleCh: 雅各書 1.19-2.26
+      titleEn: James 1.19-2.26
+      verseBG: James.1.19-2.26
+      verseYV: JAS.1
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
 
+  - index: 686
+    verses:
+    - titleCh: 雅各書 3.1-4.12
+      titleEn: James 3.1-4.12
+      verseBG: James.3.1-4.12
+      verseYV: JAS.3
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
+  - index: 687
+    verses:
+    - titleCh: 雅各書 4.13-5.20
+      titleEn: James 4.13-5.20
+      verseBG: James.4.13-5.20
+      verseYV: JAS.4
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+
+  - index: 688
+    verses:
+    - titleCh: 彼得前書 1.1-12
+      titleEn: 1 Peter 1.1-12
+      verseBG: 1 Peter.1.1-12
+      verseYV: 1PE.1
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+
+  - index: 689
+    verses:
+    - titleCh: 彼得前書 1.13-2.10
+      titleEn: 1 Peter 1.13-2.10
+      verseBG: 1 Peter.1.13-2.10
+      verseYV: 1PE.1
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+
+  - index: 495
+    verses:
+    - titleCh: 彼得前書 2.11-3.7
+      titleEn: 1 Peter 2.11-3.7
+      verseBG: 1 Peter.2.11-3.7
+      verseYV: 1PE.2
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+ 
+  - index: 496
+    verses:
+    - titleCh: 彼得前書 3.8-4.11
+      titleEn: 1 Peter 3.8-4.11
+      verseBG: 1 Peter.3.8-4.11
+      verseYV: 1PE.3
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114 
+      
+  - index: 497
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+
+  - index: 498
+    verses:
+    - titleCh: 彼得前書 4.12-5.14
+      titleEn: 1 Peter 4.12-5.14
+      verseBG: 1 Peter.4.12-5.14
+      verseYV: 1PE.4
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.116 
+
+  - index: 499
+    verses:
+    - titleCh: 彼得後書 1
+      titleEn: 2 Peter 1
+      verseBG: 2 Peter.1
+      verseYV: 2PE.1
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+      
+  - index: 500
+    verses:
+    - titleCh: 彼得後書 2
+      titleEn: 2 Peter 2
+      verseBG: 2 Peter.2
+      verseYV: 2PE.2
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118     
+
+  - index: 501
+    verses:
+    - titleCh: 彼得後書 3
+      titleEn: 2 Peter 3
+      verseBG: 2 Peter.3
+      verseYV: 2PE.3
+    - titleCh: 詩篇 119:1-16
+      titleEn: Psalms 119:1-16
+      verseBG: Psalms.119:1-16
+      verseYV: PSA.119:1-16
+      
+  - index: 502
+    verses:
+    - titleCh: 約翰一書 1.1-2.2
+      titleEn: 1 John.1.1-2.2
+      verseBG: 1 John.1.1-2.2
+      verseYV: 1JN.1 
+    - titleCh: 詩篇 119:17-32
+      titleEn: Psalms 119:17-32
+      verseBG: Psalms.119:17-32
+      verseYV: PSA.119:17-32
+      
+  - index: 503
+    verses:
+    - titleCh: 約翰一書 2.3-27
+      titleEn: 1 John.2.3-27
+      verseBG: 1 John.2.3-27
+      verseYV: 1JN.2
+    - titleCh: 詩篇 119:33-48
+      titleEn: Psalms 119:33-48
+      verseBG: Psalms.119:33-48
+      verseYV: PSA.119:33-48 
+      
+  - index: 504
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119:49-64
+      titleEn: Psalms 119:49-64
+      verseBG: Psalms.119:49-64
+      verseYV: PSA.119:49-64
+      
+  - index: 505
+    verses:
+    - titleCh: 約翰一書 2.28-3.24
+      titleEn: 1 John.2.28-3.24
+      verseBG: 1 John.2.28-3.24
+      verseYV: 1JN.2
+    - titleCh: 詩篇 119:65-80
+      titleEn: Psalms 119:65-80
+      verseBG: Psalms.119:65-80
+      verseYV: PSA.119:65-80
+      
+  - index: 506
+    verses:
+    - titleCh: 約翰一書 4
+      titleEn: 1 John.4
+      verseBG: 1 John.4
+      verseYV: 1JN.4
+    - titleCh: 詩篇 119:81-96
+      titleEn: Psalms 119:81-96
+      verseBG: Psalms.119:81-96
+      verseYV: PSA.119:81-96
+      
+  - index: 507
+    verses:
+    - titleCh: 約翰一書 5
+      titleEn: 1 John.5
+      verseBG: 1 John.5
+      verseYV: 1JN.5
+    - titleCh: 詩篇 119:97-112
+      titleEn: Psalms 119:97-112
+      verseBG: Psalms.119:97-112
+      verseYV: PSA.119:97-112
+      
+  - index: 508
+    verses:
+    - titleCh: 約翰二書 1
+      titleEn: 2 John.1
+      verseBG: 2 John.1
+      verseYV: 2JN.1
+    - titleCh: 詩篇 119:113-128
+      titleEn: Psalms 119:113-128
+      verseBG: Psalms.119:113-128
+      verseYV: PSA.119:113-128
+
+  - index: 509
+    verses:
+    - titleCh: 約翰三書 1
+      titleEn: 3 John.1
+      verseBG: 3 John.1
+      verseYV: 3JN.1
+    - titleCh: 詩篇 119:129-144
+      titleEn: Psalms 119:129-144
+      verseBG: Psalms.119:129-144
+      verseYV: PSA.119:129-144
+
+  - index: 510
+    verses:
+    - titleCh: 猶大書 1
+      titleEn: Jude.1
+      verseBG: Jude.1
+      verseYV: JUD.1
+    - titleCh: 詩篇 119:145-160
+      titleEn: Psalms 119:145-160
+      verseBG: Psalms.119:145-160
+      verseYV: PSA.119:145-160
+      
 ---
