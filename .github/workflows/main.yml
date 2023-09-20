@@ -27,7 +27,7 @@ jobs:
           var3=$(python scripts/check_time.py) 
           echo "python script loaded $var3"
           if ! cmp -s xiv.md temp.md; then
-            echo "temp.md updated"
+            echo "temp.md is new"
             IFS=',' read -r var1 var2 < temp.md
             echo "$var1 is title"
             echo "$var2 is url"
