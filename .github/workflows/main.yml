@@ -25,6 +25,7 @@ jobs:
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
           cat temp.md
           var3=$(python scripts/check_time.py) 
+          echo "python script loaded $var3"
           if ! cmp -s xiv.md temp.md; then
             echo "temp.md updated"
             IFS=',' read -r var1 var2 < temp.md
