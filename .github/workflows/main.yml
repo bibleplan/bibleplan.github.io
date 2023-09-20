@@ -23,9 +23,12 @@ jobs:
       - name: Commit and Push Changes
         run: |
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
+          cat temp.md
           var3=$(python scripts/check_time.py) 
           if ! cmp -s xiv.md temp.md; then
-            mv temp.md xiv.md       
+            echo "temp.md updated"
+            mv temp.md xiv.md     
+            echo "replaced xiv.md with temp.md"
             IFS=',' read -r var1 var2 < "xiv.md" #var1 is title, var2 is url, var3 is partial path
             sed -i "s/主题/${var1%.m4a}/g" "_posts/$var3.md"
             git config user.name "ECCRedM-Media"
