@@ -28,7 +28,8 @@ jobs:
           echo "python script loaded $var3"
           if ! cmp -s xiv.md temp.md; then
             echo "temp.md is new"
-            IFS=',' read -r var1 var2 < temp.md
+            var1=$(sed "s/,.*//g" temp.md)
+            var2=$(sed "s/.*,//g" temp.md)
             echo "$var1 is title"
             echo "$var2 is url"
             echo "$var3 is partial path"
