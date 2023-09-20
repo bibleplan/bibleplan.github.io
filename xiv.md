@@ -1,1 +1,1 @@
-以西結書28 智慧和權力的誘惑.m4a,https://drive.google.com/uc?export=download&id=1vDMIeK_kul_DTBwVxwDeUWpuYC1JnM9S
+以西結書29-30 埃及的海市蜃樓.m4a,https://drive.google.com/uc?export=download&id=1ulg9Get9y4rXEQEtbm-laPjpoK5qohmg
