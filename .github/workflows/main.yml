@@ -39,8 +39,13 @@ jobs:
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
-            git commit -m "Update xiv.md"  # Use -m to provide a commit message     
-            git add "_posts/$var3.md"  # Stage the changes
-            git commit -m "Update _posts/$var3.md"  # Use -m to provide a commit message      
+            git commit -m "Update xiv.md"  # Use -m to provide a commit message
+            echo "commit xiv.md"
             git push
+            echo "push xiv.md change"
+            git add "_posts/$var3.md"  # Stage the changes
+            git commit -m "Update _posts/$var3.md"  # Use -m to provide a commit message    
+            echo "commit post"
+            git push
+            echo "pushed post"
           fi
