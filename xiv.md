@@ -1,1 +1,1 @@
-以西結書29-30 埃及的海市蜃樓.m4a,https://drive.google.com/uc?export=download&id=1ulg9Get9y4rXEQEtbm-laPjpoK5qohmg
+以西結書31-32 謙卑的教訓.m4a,https://drive.google.com/uc?export=download&id=1YqOJZwKxrLi3jk13KIhiErzFSqA9bNze
