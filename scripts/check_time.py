@@ -20,6 +20,12 @@ if current_hour >= 12:
 else:
     load_date = current_day_date
 
+# Check if the calculated load_date is a Sunday
+if datetime.datetime.strptime(load_date, '%Y-%m-%d').weekday() == 6:  # Sunday is 6 in the `weekday()` method
+    # If it's Sunday, add one more day
+    next_day = datetime.datetime.strptime(load_date, '%Y-%m-%d') + datetime.timedelta(days=1)
+    load_date = next_day.strftime('%Y-%m-%d')
+    
 # Load the lookup table (replace 'lookup_table.csv' with the actual file path)
 lookup_table = pd.read_csv('lookup_table.csv', dtype={'item1': str})
 
