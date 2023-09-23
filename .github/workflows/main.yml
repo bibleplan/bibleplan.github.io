@@ -29,13 +29,20 @@ jobs:
           if ! cmp -s xiv.md temp.md; then
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
+            var1=${var1%.m4a}
+            var1=${var1#*[0-9]}
+            var1=${var1#*[0-9]}
+            var1=${var1#*[0-9]}
+            var1=${var1#*[0-9]}
+            var1=${var1#*[0-9]}
+            var1=${var1#*[0-9]}
             var2=$(sed "s/.*,//g" temp.md)
             echo "$var1 is title"
             echo "$var2 is url"
             echo "$var3 is partial path"
             mv temp.md xiv.md     
             echo "replaced xiv.md with temp.md"
-            sed -i "s/主题/${var1%.m4a}/g" "_posts/$var3.md"
+            sed -i "s/主题/$var1/g" "_posts/$var3.md"
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
