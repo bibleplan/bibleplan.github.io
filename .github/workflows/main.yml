@@ -29,8 +29,8 @@ jobs:
           if ! cmp -s xiv.md temp.md; then
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
-            var1=${var1%.m4a}
-            var1=${var1#*[0-9]}
+            var1=${var1%.m4a}  # trim the .m4a in the filename
+            var1=${var1#*[0-9]}  # repeat trimming numbers and anything before numbers, so passage is removed in filename
             var1=${var1#*[0-9]}
             var1=${var1#*[0-9]}
             var1=${var1#*[0-9]}
