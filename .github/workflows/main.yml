@@ -55,4 +55,14 @@ jobs:
             echo "commit post"
             git push
             echo "pushed post"
+          else
+            git config user.name "ECCRedM-Media"
+            git config user.email "ECCRedM-Media@gmail.com"
+            TZ="America/Los_Angeles" date >> pp1
+            echo "no update\n" >> pp1
+            git add pp1
+            git commit -m "Update pp1"  # Use -m to provide a commit message
+            echo "commit pp1"
+            git push
+            echo "push pp1 change"
           fi
