@@ -32,7 +32,7 @@ jobs:
             var1=${var1%.m4a}  # trim the .m4a in the filename
             for ii in {1..9}
             do
-                var1=${var1#*[0-9]}# repeat trimming numbers and anything before numbers, so passage is removed in filename
+                var1=${var1#*[0-9]}
             done
             var2=$(sed "s/.*,//g" temp.md)
             echo "$var1 is title"
