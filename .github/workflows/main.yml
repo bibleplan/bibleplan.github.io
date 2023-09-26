@@ -30,7 +30,7 @@ jobs:
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
             var1=${var1%.m4a}  # trim the .m4a in the filename
-            for ii in {1..9}
+            for ii in {1..15}
             do
                 var1=${var1#*[0-9]}
             done
