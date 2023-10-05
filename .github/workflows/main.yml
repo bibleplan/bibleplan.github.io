@@ -42,7 +42,7 @@ jobs:
             echo "replaced xiv.md with temp.md"
             sed -i "s/\".*\"/\"神學梳理：$var1\"/g" "_posts/$var3.md"
             sed -i "s/\[.*\]/\[$var1\]/g" "_posts/$var3.md" # replace title to filename
-            sed -i "s/(.*)/($var2)/g" "_posts/$var3.md" # replace hyperlink to google drive one
+            sed -i "s/(.*)/($var2){:target=\"_blank\"}/g" "_posts/$var3.md" # replace hyperlink to google drive one
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
