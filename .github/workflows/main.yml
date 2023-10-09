@@ -34,6 +34,7 @@ jobs:
             do
                 var1=${var1#*[0-9]}
             done
+            var1=${var1// /}
             var2=$(sed "s/.*,//g" temp.md)
             echo "$var1 is title"
             echo "$var2 is url"
