@@ -1,1 +1,1 @@
-但以理書3 偶像的火窯.m4a,https://drive.google.com/u/0/uc?id=18QDRGcPawG-wgWVhnv4WARx6IB3vgZ_B&export=download
+但以理書4 驕傲之塔.m4a,https://drive.google.com/u/0/uc?id=1lvzJFQ_rjBEMxSY6bSSPAgQ9FejTSWEj&export=download
