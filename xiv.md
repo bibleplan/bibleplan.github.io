@@ -1,1 +1,1 @@
-以斯拉記5-6 建殿的決定.m4a,https://drive.google.com/u/0/uc?id=1YGce8IYjyWPNzyPYLI_ReRbxRXYU5y9U&export=download
+以斯拉記7-8 耶和華的恩手.m4a,https://drive.google.com/u/0/uc?id=1sKOnTNX64LK_2pomxkdkTt3JhaVDjxOT&export=download
