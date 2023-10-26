@@ -1,1 +1,1 @@
-撒迦利亞書3-5 聖靈和聖言.m4a,https://drive.google.com/u/0/uc?id=1sfUc18aOnQnb4TMaSWke4KkqQWCFy-pB&export=download
+撒迦利亞書7-8 傳統的復興.m4a,https://drive.google.com/u/0/uc?id=1s8dJCU5b76lpiigFcf64c5CECa6GWl8w&export=download
