@@ -1,1 +1,1 @@
-以斯帖記1:1-2:18 被神使用的地方.m4a,https://drive.google.com/u/0/uc?id=1yKwR_hyEb49og_mBaHaqC10bVGu60GM0&export=download
+以斯帖記2:19-3:15 失望背後的用意.m4a,https://drive.google.com/u/0/uc?id=12e3brhLt4P29FfZA2ITSESXvHN1OHEdI&export=download
