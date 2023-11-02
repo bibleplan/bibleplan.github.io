@@ -1,1 +1,1 @@
-以斯帖記4-5 為著現今的機會.m4a,https://drive.google.com/u/0/uc?id=1Qg-nLKLrg1Rg-KbhX4fRFIorLREmPO5c&export=download
+以斯帖記6-7 偶然中的峰迴路轉.m4a,https://drive.google.com/u/0/uc?id=1dVQ8MCL5v0hk25OXoywqV6zsnA54nL3G&export=download
