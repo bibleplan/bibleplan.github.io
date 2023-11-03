@@ -1,1 +1,1 @@
-以斯帖記6-7 偶然中的峰迴路轉.m4a,https://drive.google.com/u/0/uc?id=1dVQ8MCL5v0hk25OXoywqV6zsnA54nL3G&export=download
+以斯帖記8 拯救的實質.m4a,https://drive.google.com/u/0/uc?id=19PJdDhdm6Apy7tPXEhQeyul-qS5kvEDv&export=download
