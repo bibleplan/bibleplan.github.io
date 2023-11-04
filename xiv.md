@@ -1,1 +1,1 @@
-以斯帖記8 拯救的實質.m4a,https://drive.google.com/u/0/uc?id=19PJdDhdm6Apy7tPXEhQeyul-qS5kvEDv&export=download
+以斯帖記9-10 成敗的反轉.m4a,https://drive.google.com/u/0/uc?id=1q6z8_MSe7CfVW9x8KrNkLuvViL3LPWY4&export=download
