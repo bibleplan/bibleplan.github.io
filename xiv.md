@@ -1,1 +1,1 @@
-尼希米記7 心靈的守護.m4a,https://drive.google.com/u/0/uc?id=1VDGaLScH3HAL51vwakx8zVDf6w5H2_7x&export=download
+尼希米記8 理解喜樂順服.m4a,https://drive.google.com/u/0/uc?id=1dWFXvl2WWnGLd-_bKMk1Plc_97aQAIWf&export=download
