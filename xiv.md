@@ -1,1 +1,1 @@
-瑪拉基書3:6-4:6 信實信靠不變的神.m4a,https://drive.google.com/u/0/uc?id=142tSFizhEvRTsPAJs_ztsegFx_YxP1HT&export=download
+雅各書1:1-18 試煉中的禮物.m4a,https://drive.google.com/u/0/uc?id=1dmoka6FXBSOoXZx_sYeXIGr1hTcl2Au-&export=download
