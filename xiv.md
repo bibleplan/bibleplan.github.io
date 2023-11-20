@@ -1,1 +1,1 @@
-雅各書1:1-18 試煉中的禮物.m4a,https://drive.google.com/u/0/uc?id=1dmoka6FXBSOoXZx_sYeXIGr1hTcl2Au-&export=download
+雅各書1:19-2:26 結果子的土壤.m4a,https://drive.google.com/u/0/uc?id=1Z4jqKOn4yMp71qPdWg4FwW2TnXy4S7s1&export=download
