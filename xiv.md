@@ -1,1 +1,1 @@
-雅各書1:19-2:26 結果子的土壤.m4a,https://drive.google.com/u/0/uc?id=1Z4jqKOn4yMp71qPdWg4FwW2TnXy4S7s1&export=download
+雅各書3:1-4:16 舌頭的智慧.m4a,https://drive.google.com/u/0/uc?id=1nOmPt_Qtc_wxxqPit5Hnu0gk4GM9VFsW&export=download
