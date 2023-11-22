@@ -1,1 +1,1 @@
-雅各書3:1-4:16 舌頭的智慧.m4a,https://drive.google.com/u/0/uc?id=1nOmPt_Qtc_wxxqPit5Hnu0gk4GM9VFsW&export=download
+雅各書4:13-5:20 從地上財寶到天上財富.m4a,https://drive.google.com/u/0/uc?id=1nAI5hCz4-VDdKfSXDN_67HP9ia_U-LtX&export=download
