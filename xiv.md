@@ -1,1 +1,1 @@
-彼得前書1:1-12 活潑的盼望.m4a,https://drive.google.com/u/0/uc?id=1Si1j3xfj6u19tO-ezt0DN5zWa7CfUEs6&export=download
+彼得前書1:12-2:10 約束自己的心.m4a,https://drive.google.com/u/0/uc?id=1CUD4Thb5afgGmv-PLUuKaqPWoCz-yQV-&export=download
