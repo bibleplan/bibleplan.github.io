@@ -7624,10 +7624,10 @@ plan:
       titleEn: 1 Peter 2.11-3.7
       verseBG: 1 Peter.2.11-3.7
       verseYV: 1PE.2
-    - titleCh: 詩篇 113
-      titleEn: Psalms 113
-      verseBG: Psalms.113
-      verseYV: PSA.113
+    - titleCh: 詩篇 119:1-16
+      titleEn: Psalms 119:1-16
+      verseBG: Psalms.119:1-16
+      verseYV: PSA.119:1-16
  
   - index: 496
     verses:
@@ -7690,10 +7690,6 @@ plan:
       titleEn: 2 Peter 3
       verseBG: 2 Peter.3
       verseYV: 2PE.3
-    - titleCh: 詩篇 119:1-16
-      titleEn: Psalms 119:1-16
-      verseBG: Psalms.119:1-16
-      verseYV: PSA.119:1-16
       
   - index: 502
     verses:
