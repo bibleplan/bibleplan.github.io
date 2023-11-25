@@ -1,1 +1,1 @@
-彼得前書1:12-2:10 約束自己的心.m4a,https://drive.google.com/u/0/uc?id=1CUD4Thb5afgGmv-PLUuKaqPWoCz-yQV-&export=download
+彼得前書2:11-3:7 寄居者的見證.m4a,https://drive.google.com/u/0/uc?id=1JG-pT0B_wyLW9PQNrehX6cxZWVRZpxLr&export=download
