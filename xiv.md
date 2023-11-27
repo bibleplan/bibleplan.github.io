@@ -1,1 +1,1 @@
-彼得前書2:11-3:7 寄居者的見證.m4a,https://drive.google.com/u/0/uc?id=1JG-pT0B_wyLW9PQNrehX6cxZWVRZpxLr&export=download
+彼得前書 3:8-4:11 黑暗中的明燈.m4a,https://drive.google.com/u/0/uc?id=1lwQeniMB2UUqFKq6ff3oUvmamgOsjymB&export=download
