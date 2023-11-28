@@ -1,1 +1,1 @@
-彼得前書 3:8-4:11 黑暗中的明燈.m4a,https://drive.google.com/u/0/uc?id=1lwQeniMB2UUqFKq6ff3oUvmamgOsjymB&export=download
+彼得前書4:12-5:14 信心的煉淨.m4a,https://drive.google.com/u/0/uc?id=1rPTmDAuLqzLR9h3n3YUvLV4F2me5V0G9&export=download
