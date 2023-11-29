@@ -1,1 +1,1 @@
-彼得前書4:12-5:14 信心的煉淨.m4a,https://drive.google.com/u/0/uc?id=1rPTmDAuLqzLR9h3n3YUvLV4F2me5V0G9&export=download
+彼得後書 1 德行的進步.m4a,https://drive.google.com/u/0/uc?id=1CuVelG8FPlnCExO2VJ6o8Cfj-8GJWTI1&export=download
