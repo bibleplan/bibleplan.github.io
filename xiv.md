@@ -1,1 +1,1 @@
-約翰一書1:1-2:2 與神相交的的生活.m4a,https://drive.google.com/u/0/uc?id=1NxYA7QAi_7luZ6s-WHyESqjd8HRyw5I8&export=download
+約翰一書2:3-2:27 真的認識神.m4a,https://drive.google.com/u/0/uc?id=1IxiuH1Y6lGXXLZHfEMA288lrnYTqqKmC&export=download
