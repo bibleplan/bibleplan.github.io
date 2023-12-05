@@ -1,1 +1,1 @@
-約翰一書2:3-2:27 真的認識神.m4a,https://drive.google.com/u/0/uc?id=1IxiuH1Y6lGXXLZHfEMA288lrnYTqqKmC&export=download
+約翰一書 2:28-3:24 真的愛.m4a,https://drive.google.com/u/0/uc?id=1GtNt8kFGfT1-sP1qwbTqOQhwGkyMUGE9&export=download
