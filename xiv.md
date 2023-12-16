@@ -1,1 +1,1 @@
-啓示錄6 揭開六印.m4a,https://drive.google.com/u/0/uc?id=1seIlOby3G9usLR7Nib_hu8trVrhlqsrj&export=download
+啓示錄7:1-8:5 神的保護.m4a,https://drive.google.com/u/0/uc?id=1b-_eHhbTi0O8HBtLMziE-N9CbyWzdt6j&export=download
