@@ -1,1 +1,1 @@
-啓示錄8:6-9:21 神的審判.m4a,https://drive.google.com/u/0/uc?id=1KR5yI1ZSCVyV_0ODZomd20TDdfwZmPDh&export=download
+啓示錄10-11 兩個異象.m4a,https://drive.google.com/u/0/uc?id=125GM5xnx0sMSupQOUpB3-PqfVtDT56wT&export=download
