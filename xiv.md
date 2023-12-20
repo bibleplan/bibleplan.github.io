@@ -1,1 +1,1 @@
-啓示錄10-11 兩個異象.m4a,https://drive.google.com/u/0/uc?id=125GM5xnx0sMSupQOUpB3-PqfVtDT56wT&export=download
+啓示錄12 對神的子民的逼迫.m4a,https://drive.google.com/u/0/uc?id=1tdWS-_Bzh4CwEqdCwvN57GOMw3QL6kwG&export=download
