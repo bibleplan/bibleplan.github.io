@@ -1,1 +1,1 @@
-啓示錄21:1-22:5 新天新地新耶路撒冷.m4a,https://drive.google.com/u/0/uc?id=1al0yrCqL2-nztq3ELTTmObyFpMLFO0x6&export=download
+啓示錄22:6-21 啟示的意義.m4a,https://drive.google.com/u/0/uc?id=1xIYikYmabNyn3iVerL5viANq98ldJbnY&export=download
