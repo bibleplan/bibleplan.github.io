@@ -1,0 +1,74 @@
+---
+layout: default
+title: {{ site.name }}
+---
+<style>
+.box {
+    padding: 5px;
+    box-shadow: 1px 2px 5px 1px rgba(0,0,0,.16), 1px 2px 3px 1px rgba(0,0,0,.26);
+    margin: 5px 0px 5px 0px;
+}
+
+#navibar {
+    width: 100%;
+    display: table;
+    border-style: none;
+    background-color: ghostwhite;
+    margin: 0px;
+}
+    
+    #navibar td {
+        border-style: none;
+        padding: 10px;
+    }
+</style>
+
+<div id="top"></div>
+<table id="navibar">
+
+{%- if page.language == "English" -%}
+<tr>    
+    <td align="left">
+        <div align="left">
+            <a href="/en">Home</a>
+        </div>
+    </td>
+    <td align="right">
+  {%- assign chUrl = page.url | replace_first: "/en/", "/" -%}
+  <div id="language" align="right">
+    <a href="{{ chUrl }}">中文</a> | English
+  </div>
+
+{%- else -%}
+
+<tr>    
+    <td align="left">
+        <div align="left">
+            <a href="/">主頁</a> | <a href="https://bibleplan.github.io/schedule2022.html">讀經日程</a>
+        </div>
+    </td>
+    <td align="right">
+  {%- assign enUrl = page.url | prepend: "/en" -%}
+
+  {%- assign enPost = site.posts | where_exp: "item", "item.url == enUrl" -%}
+  {%- assign enPage = site.pages | where_exp: "item", "item.url == enUrl" -%}
+  {%- assign ifExist = enPost.size | plus: enPage.size -%}
+  {%- if ifExist > 0 -%}
+    中文 | <a href="{{ enUrl }}">English</a>
+  {%- else -%}
+    中文 | English
+  {%- endif -%}
+
+
+{%- endif -%}
+
+    </td>
+    </tr>    
+</table>
+
+<p>
+{{ content }}
+
+<p></p>
+
+{%- include analytics.html -%}
