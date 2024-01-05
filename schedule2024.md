@@ -665,4 +665,224 @@ plan:
       verseBG: Psalms.60
       verseYV: PSA.60
 
+  - index: 61
+    verses:
+    - titleCh: 利未記  1-2
+      titleEn: Leviticus 1-2
+      verseBG: Leviticus.1-2
+      verseYV: LEV.1
+    - titleCh: 詩篇 61
+      titleEn: Psalms 61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+
+  - index: 62
+    verses:
+    - titleCh: 利未記  3
+      titleEn: Leviticus 3
+      verseBG: Leviticus.3
+      verseYV: LEV.3
+    - titleCh: 詩篇 62
+      titleEn: Psalms 62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+
+  - index: 63
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 63
+      titleEn: Psalms 63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+
+  - index: 64
+    verses:
+    - titleCh: 利未記  4.1-5.13
+      titleEn: Leviticus 4.1-5.13
+      verseBG: Leviticus.4.1-5.13
+      verseYV: LEV.4
+    - titleCh: 詩篇 64
+      titleEn: Psalms 64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+
+  - index: 65
+    verses:
+    - titleCh: 利未記  5.14-6.7
+      titleEn: Leviticus 5.14-6.7
+      verseBG: Leviticus.5.14-6.7
+      verseYV: LEV.5
+    - titleCh: 詩篇 65
+      titleEn: Psalms 65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+
+  - index: 66
+    verses:
+    - titleCh: 利未記  6.8-7.38
+      titleEn: Leviticus 6.8-7.38
+      verseBG: Leviticus.6.8-7.38
+      verseYV: LEV.6
+    - titleCh: 詩篇 66
+      titleEn: Psalms 66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+
+  - index: 67
+    verses:
+    - titleCh: 利未記  8-9
+      titleEn: Leviticus 8-9
+      verseBG: Leviticus.8-9
+      verseYV: LEV.8
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+
+  - index: 68
+    verses:
+    - titleCh: 利未記  10
+      titleEn: Leviticus 10
+      verseBG: Leviticus.10
+      verseYV: LEV.10
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+
+  - index: 69
+    verses:
+    - titleCh: 利未記  11-12
+      titleEn: Leviticus 11-12
+      verseBG: Leviticus.11-12
+      verseYV: LEV.11
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+
+  - index: 70
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+
+  - index: 71
+    verses:
+    - titleCh: 利未記  13-14
+      titleEn: Leviticus 13-14
+      verseBG: Leviticus.13-14
+      verseYV: LEV.13
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+
+  - index: 72
+    verses:
+    - titleCh: 利未記  15-16
+      titleEn: Leviticus 15-16
+      verseBG: Leviticus.15-16
+      verseYV: LEV.15
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+
+  - index: 73
+    verses:
+    - titleCh: 利未記  17-18
+      titleEn: Leviticus 17-18
+      verseBG: Leviticus.17-18
+      verseYV: LEV.17
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+
+  - index: 74
+    verses:
+    - titleCh: 利未記  19-20
+      titleEn: Leviticus 19-20
+      verseBG: Leviticus.19-20
+      verseYV: LEV.19
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+
+  - index: 75
+    verses:
+    - titleCh: 利未記  21-22
+      titleEn: Leviticus 21-22
+      verseBG: Leviticus.21-22
+      verseYV: LEV.21
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+
+  - index: 76
+    verses:
+    - titleCh: 利未記  23.1-24.9
+      titleEn: Leviticus 23.1-24.9
+      verseBG: Leviticus.23.1-24.9
+      verseYV: LEV.23
+    - titleCh: 詩篇 76
+      titleEn: Psalms 76
+      verseBG: Psalms.76
+      verseYV: PSA.76
+
+  - index: 77
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 77
+      titleEn: Psalms 77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+
+  - index: 78
+    verses:
+    - titleCh: 利未記  24.10-25.55
+      titleEn: Leviticus 24.10-25.55
+      verseBG: Leviticus.24.10-25.55
+      verseYV: LEV.24
+    - titleCh: 詩篇 78
+      titleEn: Psalms 78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+
+  - index: 79
+    verses:
+    - titleCh: 利未記  26
+      titleEn: Leviticus 26
+      verseBG: Leviticus.26
+      verseYV: LEV.26
+    - titleCh: 詩篇 79
+      titleEn: Psalms 79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+
+  - index: 80
+    verses:
+    - titleCh: 利未記  27
+      titleEn: Leviticus 27
+      verseBG: Leviticus.27
+      verseYV: LEV.27
+    - titleCh: 詩篇 80
+      titleEn: Psalms 80
+      verseBG: Psalms.80
+      verseYV: PSA.80
+ 
 ---
