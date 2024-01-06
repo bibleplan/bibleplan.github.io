@@ -61,6 +61,7 @@ jobs:
             git config user.email "ECCRedM-Media@gmail.com"
             TZ="America/Los_Angeles" date >> pp1
             echo "no update" >> pp1
+            if [ -e "pp1" ] && [ "$(wc -l < "pp1")" -gt 1000 ]; then tail -n +501 "pp1" > "pp1.tmp" && mv "pp1.tmp" "pp1" && echo "Removed the first 500 rows from pp1."; else echo "pp1 does not exist or has 1000 or fewer rows. No changes needed."; fi
             git add pp1
             git commit -m "Update pp1"  # Use -m to provide a commit message
             echo "commit pp1"
