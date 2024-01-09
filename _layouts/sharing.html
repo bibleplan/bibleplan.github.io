@@ -10,6 +10,8 @@ title: {{ site.name }}
 
 <h3><a href="{{ dailyPage.url }}">{{ dailyPage.title }}</a></h3>
 
+{%- if page.cycle == 2024 -%}
+  {%- include BibleLinks2024.html -%}
 {%- if page.cycle == 2022 -%}
   {%- include BibleLinks2022.html -%}
 {%- else -%}
