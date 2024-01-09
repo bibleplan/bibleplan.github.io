@@ -12,13 +12,15 @@ title: {{ site.name }}
 
 {%- if page.cycle == 2024 -%}
   {%- include BibleLinks2024.html -%}
-{%- if page.cycle == 2022 -%}
-  {%- include BibleLinks2022.html -%}
 {%- else -%}
-  {%- if page.cycle == 2020 -%}
-    {%- include BibleLinks2020.html -%}
+  {%- if page.cycle == 2022 -%}
+    {%- include BibleLinks2022.html -%}
   {%- else -%}
-    {%- include BibleLinks.html -%}
+    {%- if page.cycle == 2020 -%}
+      {%- include BibleLinks2020.html -%}
+    {%- else -%}
+      {%- include BibleLinks.html -%}
+    {%- endif -%}
   {%- endif -%}
 {%- endif -%}
 
