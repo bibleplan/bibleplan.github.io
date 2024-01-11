@@ -6,21 +6,21 @@ layout: post
 # 聖經各書卷 (不含智慧書)
 <details><summary style="text-decoration: underline; color: #1E6BB8;">創世記</summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day4-daily.html">開天闢地</a> (展開)</summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day4-daily.html">開天闢地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
     <li>創 1:1–2:3 是創世記的開篇，是本書其他部分的序曲。</li>
     <li>神在六天中以話語創造世界；神看一切為好；神按自己的形象造男造女；神在第七天安息，並將這一天定為聖日。</li>
    </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記2:4-4:26&qs_version=CUVMPT">創世記2:4-4:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day5-daily.html">人類始祖</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記2:4-4:26&qs_version=CUVMPT">創世記2:4-4:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day5-daily.html">人類始祖</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 2:4-4:26 是創世記十段家族史的第一段，是人類始祖亞當夏娃的家族史。</li>
    <li>神創造人並安置在伊甸園，夏娃是從亞當的肋骨所造，為要成為一體彼此幫助(2:4–25)；蛇引誘人犯罪遠離神，失去與神的同在(3:1–24)；人類進一步墮落，亞當夏娃的兒子該隱殺了弟弟亞伯，該隱的後裔拉麥的傲慢，以及罪惡中的希望：「那時候，人才求告耶和華的名。」 (4:1–26)。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記5:1-6:8&qs_version=CUVMPT">創世記5:1-6:8</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day6-daily.html">賽特家族</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記5:1-6:8&qs_version=CUVMPT">創世記5:1-6:8</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day6-daily.html">賽特家族</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 5:1-6:8 是創世記十段家族史的第二段，是亞當另一個兒子賽特那一支的歷史。</li>
    <li>賽特與亞當的形象樣式相似；亞當死了；以諾與神同行；挪亞「必為我們的操作和手中的勞苦安慰我們」；人的罪惡更大，神要除滅人，「唯有挪亞在耶和華眼 前蒙恩」。</li>
@@ -28,7 +28,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記6:9-9:29&qs_version=CUVMPT">創世記6:9-9:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day1-daily.html">洪水滔天</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記6:9-9:29&qs_version=CUVMPT">創世記6:9-9:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day1-daily.html">洪水滔天</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 6:9-9:29 是創世記十段家族史的第三段,是挪亞的家族史。</li>
    <li>挪亞與以諾一樣，也是「與神同行」(6:9)。洪水是因為世界的敗壞，挪亞得救是因為他的義與順服。大洪水使世界回復到創造前的影子(創 1:2)。神與人類重新立約，對挪亞的命令「生養眾多,遍滿了地」是對亞當命令的重申。挪亞的兒子繼續墮落被詛咒，但其中一個兒子「閃」得到祝福。</li>
@@ -36,63 +36,63 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記10:1-11:9&qs_version=CUVMPT">創世記10:1-11:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day2-daily.html">分邦立國</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記10:1-11:9&qs_version=CUVMPT">創世記10:1-11:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day2-daily.html">分邦立國</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 10:1-11:9 是創世記十段家族史的第四段，挪亞兒子們的家族史。</li>
    <li>挪亞的三個兒子閃、含、雅弗的後代，組成了被以色列人所熟悉的很多民族。比如古實人、亞述人、埃及人(就是希伯來文「麥西」)、迦南人、非利士人等等都是含的後代。這些民族的記載之後，因為人建造巴別塔，世界產生很多語言，人類被分散到全地。</li>
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:10-26&qs_version=CUVMPT">創世記11:10-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day3-daily.html">曙光初現</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:10-26&qs_version=CUVMPT">創世記11:10-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day3-daily.html">曙光初現</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 11:10-11:26 是創世記十段家族史的第五段，閃的家族史。</li>
    <li>這段歷史從諾亞的兒子閃聯結到以色列之祖亞伯蘭(亞伯拉罕)，使亞伯蘭的歷史與世界歷史聯繫起來，就是 11 章之前人類墮落的歷史與 11 章之後神的救贖的歷史聯繫起來。路加福音 3:34-36 提醒我們這裡所記載的家族的重要性，因為他們的後裔亞伯蘭將為地上所有人帶來祝福。</li>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:27-12:20&qs_version=CUVMPT">創世記11:27-12:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day4-daily.html">呼召應許</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:27-12:20&qs_version=CUVMPT">創世記11:27-12:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day4-daily.html">呼召應許</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 11:27-25:11 是創世記十段家族史的第七段。他拉的家族，但主要是講他拉的兒子亞伯蘭的故事。今天的 11:27-12:20 是這段家族史的開始。</li>
    <li>亞伯蘭順服神的呼召離開吾珥。他的妻子撒萊不生育，沒有孩子。神應許亞伯蘭國度、後裔和地土。儘管亞伯蘭在埃及說謊，神仍然因著祂的應許，保護撒萊不受侵害,得以成就所應許的後裔。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記13-14&qs_version=CUVMPT">創世記13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day5-daily.html">祝福地土</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記13-14&qs_version=CUVMPT">創世記13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day5-daily.html">祝福地土</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 13-14 繼續前面的記載，說明神如何按著應許保守亞伯蘭的地土。</li>
    <li>亞伯蘭的牧人與羅得的牧人之間出現紛爭，導致他們分離;羅得選擇看似豐盛繁華却充滿罪惡之地。羅得被擄，亞伯蘭將他和所多瑪全城的人救回，成爲他人的祝福。亞伯蘭拒絕所多瑪王的報酬，却將所得的十分之一獻給耶和華的祭司麥基洗德，成爲聖經記錄裏的第一個十一奉獻。</li>
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記15-16&qs_version=CUVMPT">創世記15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day6-daily.html">應許後裔</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記15-16&qs_version=CUVMPT">創世記15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk13-day6-daily.html">應許後裔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 15-16 繼續應許的主題，神與亞伯蘭立約賜給他後裔。</li>
    <li>神與亞伯蘭立約，應許他的後裔數不勝數，將來必回到應許之地。但亞伯蘭和撒萊還是靠著人的方法嘗試得到後裔。雖然有人的軟弱，神仍然信實地守約施慈愛，並且看顧苦難中的夏甲。</li>
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記17&qs_version=CUVMPT">創世記17</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day1-daily.html">割禮之約</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記17&qs_version=CUVMPT">創世記17</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day1-daily.html">割禮之約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 17 繼續神的應許的主題，立割禮之約，重申國度、後裔和地土的應許。</li>
    <li>後裔的應許雖然還沒有實現，神與亞伯蘭立割禮之約，從此亞伯蘭和他的後裔歸屬耶和華，成爲被揀選之民，成爲祝福萬民萬國的器皿。神將亞伯蘭改名爲亞伯拉罕，撒萊改名爲撒拉。</li>
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:1-15&qs_version=CUVMPT">創世記18:1-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day2-daily.html">堅固應許</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:1-15&qs_version=CUVMPT">創世記18:1-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day2-daily.html">堅固應許</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 18:1-15 繼續神的應許的主題，神的天使指明撒拉生子的時間。</li>
    <li>與亞伯拉罕一樣，撒拉聽到生子的應許心裏暗笑。但是這一次神的反應除了再次肯定應許以外，還有責備。</li>
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:16-19:38&qs_version=CUVMPT">創世記18:16-19:38</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day3-daily.html">罪惡之地</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:16-19:38&qs_version=CUVMPT">創世記18:16-19:38</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day3-daily.html">罪惡之地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 18:16-19:38 相對於神所應許的國度、地土和後裔，不討神喜悅的國度、地土和後裔的結果是毀滅和敗壞。</li>
    <li>耶和華將要審判所多瑪、蛾摩拉，亞伯拉罕爲所多瑪祈求，神答應亞伯拉罕的禱告。羅得殷勤接待、保護兩個天使，天使帶領羅得脫離所多瑪的審判。羅得的兩個女兒用人的方法得到後裔。</li>
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記20-21&qs_version=CUVMPT">創世記20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day4-daily.html">應許之子</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記20-21&qs_version=CUVMPT">創世記20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day4-daily.html">應許之子</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 20-21 繼續應許的主題，應許之子以撒出生。</li>
    <li>亞伯拉罕又一次遷居，寄居在非利士人的地方；他又一次稱撒拉為他的妹妹，神保守撒拉，從而保守應許之子以撒的誕生。</li>
@@ -100,7 +100,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記22-23&qs_version=CUVMPT">創世記22-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day5-daily.html">信心試驗</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記22-23&qs_version=CUVMPT">創世記22-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day5-daily.html">信心試驗</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 22-23 藉著亞伯拉罕的試驗告訴我們應該如何看待神的應許；亞伯拉罕得到第一塊應許之地。</li>
    <li>神試驗亞伯拉罕，要他將以撒獻爲燔祭，亞伯拉罕順服的信心經過試驗，神供應公羊代替了以撒，並再次向亞伯拉罕堅立所立的約。</li>
@@ -108,7 +108,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記24-25:11&qs_version=CUVMPT">創世記24-25:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day6-daily.html">歸回列祖</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記24-25:11&qs_version=CUVMPT">創世記24-25:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk14-day6-daily.html">歸回列祖</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 24-25:11 是神對亞伯拉罕的應許這個主題的結束。亞伯拉罕去世。</li>
    <li>亞伯拉罕派遣他的老僕人去他的本族為兒子以撒娶妻。老僕人在神的帶領下找到拉班，爲以撒娶了利百加。</li>
@@ -116,14 +116,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:12-18&qs_version=CUVMPT">創世記25:12-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day1-daily.html">以實瑪利</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:12-18&qs_version=CUVMPT">創世記25:12-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day1-daily.html">以實瑪利</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 25:12-18 記錄了以實瑪利的後裔。神的應許從不落空。</li>
    <li>正如神所應許的，以實瑪利成為十二個族長的父親，住在眾弟兄的東邊。</li>
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:19-26:35&qs_version=CUVMPT">創世記25:19-26:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day2-daily.html">以撒家族</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:19-26:35&qs_version=CUVMPT">創世記25:19-26:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day2-daily.html">以撒家族</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 25:19-35:29 是創世記十段家族史的第八段，神的應許之子以撒的家族。</li>
    <li>今天的經文 25:19-26:35 講到以撒的兩個兒子的出生和鬥。</li>
@@ -134,7 +134,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記27-28&qs_version=CUVMPT">創世記27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day3-daily.html">雅各逃亡</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記27-28&qs_version=CUVMPT">創世記27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day3-daily.html">雅各逃亡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 27-28 講述雅各用欺騙的手段得到父親的祝福，並逃亡。</li>
    <li>以撒年老眼瞎，要給以掃祝福。利百加幫助雅各欺騙以撒，得到了本來要給以掃的祝福。以掃憤怒要殺雅各。</li>
@@ -142,7 +142,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記29-31&qs_version=CUVMPT">創世記29-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day4-daily.html">雅各家族</a> (展開)</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記29-31&qs_version=CUVMPT">創世記29-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day4-daily.html">雅各家族</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 29-31 講述雅各的十二兒子，也就是以色列的十二支派先祖的出生。</li>
    <li>雅各從遇見神的地方起行，投靠他的母舅拉班。拉班以詭詐待他，他的兩個妻子也常常爭鬧。</li>
@@ -152,7 +152,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記32-33&qs_version=CUVMPT">創世記32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day5-daily.html">與神摔跤</a> (展開)</summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記32-33&qs_version=CUVMPT">創世記32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day5-daily.html">與神摔跤</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 32-33 講述雅各的改變，與哥哥以掃相認。</li>
    <li>雅各走向家的方向，心裡充滿懼怕。但是神與他摔跤，大大翻轉他的生命，</li>
@@ -161,7 +161,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記34-35&qs_version=CUVMPT">創世記34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day6-daily.html">雅各眾子</a> (展開)</summary>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記34-35&qs_version=CUVMPT">創世記34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk15-day6-daily.html">雅各眾子</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 34-35 雅各眾子年輕時候的性情，以及以撒之死。</li>
    <li>雅各的女兒底拿因為與當地人來往落入示劍手中被玷污。底拿的十個哥哥使用詭詐，</li>
@@ -171,7 +171,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記36:1-37:1&qs_version=CUVMPT">創世記36:1-37:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day1-daily.html">以掃後裔</a> (展開)</summary>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記36:1-37:1&qs_version=CUVMPT">創世記36:1-37:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day1-daily.html">以掃後裔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 36:1-37:1 創世記十段家族史的第九段,神對以掃的應許的實現。</li>
    <li>以掃就是以東，在以色列人開始有君王治理以前，以東人就開始君王治理。</li>
@@ -180,7 +180,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記37:2-38:30&qs_version=CUVMPT">創世記37:2-38:30</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day2-daily.html">約瑟被賣</a> (展開)</summary>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記37:2-38:30&qs_version=CUVMPT">創世記37:2-38:30</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day2-daily.html">約瑟被賣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 37:2-36 講述雅各的兒子把兄弟約瑟出賣到埃及，為神的救贖計劃的進展埋下伏筆。</li>
    <li>創世記 38 記錄猶大耶穌基督家譜中重要的一環。他瑪是被記錄在耶穌家譜中的幾個女子之一。</li>
@@ -189,14 +189,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記39-40&qs_version=CUVMPT">創世記39-40</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day3-daily.html">被囚埃及</a> (展開)</summary>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記39-40&qs_version=CUVMPT">創世記39-40</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day3-daily.html">被囚埃及</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 39-40 講述約瑟在埃及的遭遇。</li>
    <li>約瑟在埃及做奴僕，被引誘，被誣陷，被下監。但是神一直與他同在。</li>
   </ul>
  </details>
  <details>
-  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記41-42&qs_version=CUVMPT">創世記41-42</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day4-daily.html">平步青雲</a> (展開)</summary>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記41-42&qs_version=CUVMPT">創世記41-42</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day4-daily.html">平步青雲</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 41-42 講述約瑟因著為法老解夢，不僅被提出監，還被賦予一人之下萬人之上的宰相職責。</li>
    <li>神通過他祝福周圍的人。同時，曾經賣他的兄弟們來到埃及糴糧，約瑟試驗他們。</li>
@@ -205,7 +205,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記43-44&qs_version=CUVMPT">創世記43-44</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day5-daily.html">約瑟眾兄</a> (展開)</summary>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記43-44&qs_version=CUVMPT">創世記43-44</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day5-daily.html">約瑟眾兄</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 43-44 講述約瑟的哥哥們帶著便雅憫第二次到埃及來糴糧。約瑟再次試驗他們。</li>
    <li>神藉著約瑟的試驗，帶領猶大，改變他的生命，從出賣弟弟，到願意為弟弟捨棄自己。</li>
@@ -213,7 +213,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記45-46&qs_version=CUVMPT">創世記45-46</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day6-daily.html">兄弟相認</a> (展開)</summary>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記45-46&qs_version=CUVMPT">創世記45-46</a> - <a href="https://bibleplan.github.io/daily/2022/wk16-day6-daily.html">兄弟相認</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創 45-46 講述約瑟與兄弟們相認，並且安慰他們。以色列帶著全家搬到埃及。</li>
    <li>神使用約瑟的哥哥們出賣約瑟到埃及的惡行，反而保全了以色列人。</li>
@@ -221,7 +221,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記47-48&qs_version=CUVMPT">創世記47-48</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day1-daily.html">定居埃及</a> (展開)</summary>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記47-48&qs_version=CUVMPT">創世記47-48</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day1-daily.html">定居埃及</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 47-48 講述以色列在埃及定居下來。約瑟繼續忠誠服事，並且用他的職責來拯救了更多的人。</li>
    <li>以色列死期臨近，他讓約瑟發誓將他的身體帶回迦南應許之地。以色列為約瑟的兩個兒子按手祝福。</li>
@@ -229,7 +229,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記49-50&qs_version=CUVMPT">創世記49-50</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day2-daily.html">祝福眾子</a> (展開)</summary>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記49-50&qs_version=CUVMPT">創世記49-50</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day2-daily.html">祝福眾子</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>創世紀 49-50 講述以色列去世。死前他為兒子們祝福。約瑟按照以色列的吩咐將</li>
    <li>他帶回迦南地，葬進埋葬亞伯拉罕的洞里。約瑟的哥哥們還是心存懼怕，擔心約瑟報復。</li>
@@ -240,7 +240,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">出埃及記</summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day3-daily.html">救贖預備</a> (展開)</summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day3-daily.html">救贖預備</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>出埃及記 1-2 章，是出埃及記的時代背景，為神的救贖計劃拉開了序幕。</li>
    <li>以色列人在埃及被苦待，卻蒙神保守，日漸強盛。摩西在以色列人被迫害中出生，卻在各樣境遇中被神預備。</li>
@@ -248,7 +248,7 @@ layout: post
    </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記3-4&qs_version=CUVMPT">出埃及記3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day4-daily.html">荊棘異象</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記3-4&qs_version=CUVMPT">出埃及記3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day4-daily.html">荊棘異象</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神是一個守約施慈愛的神。祂對祂的子民有一個美好的計劃。祂垂聽並關顧祂的子民，</li>
    <li>所以我們要信靠祂，相信祂有奇妙的安排，帶領信靠祂的人，出黑暗入光明，經歷祂的恩典。</li>
@@ -257,7 +257,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記5:1-6:27&qs_version=CUVMPT">出埃及記5:1-6:27</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day5-daily.html">初見法老</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記5:1-6:27&qs_version=CUVMPT">出埃及記5:1-6:27</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day5-daily.html">初見法老</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>摩西跟亞倫見法老後，法老越發苦待以色列人。神允許世上很多不合理的事情發生，</li>
    <li>但人可以因此而更多體會到神的權能，經歷神的信實、更多被神所磨練、也更明白神的心意。</li>
@@ -266,7 +266,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記6:28-9:35&qs_version=CUVMPT">出埃及記6:28-9:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day6-daily.html">神顯權能</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記6:28-9:35&qs_version=CUVMPT">出埃及記6:28-9:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day6-daily.html">神顯權能</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神清楚的曉諭摩西跟亞倫，祂要在埃及地多行神蹟奇事，把以色列人從埃及地領出來，</li>
    <li>讓埃及人知道祂是耶和華。</li>
@@ -275,7 +275,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記10-11&qs_version=CUVMPT">出埃及記10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day1-daily.html">最後警告</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記10-11&qs_version=CUVMPT">出埃及記10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day1-daily.html">最後警告</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>經過多次的災難，法老始終沒有真正地順服神的權能，還不斷用「半順服」的方式希望摩西可以妥協。</li>
    <li>但是，跟神是不可以討價還價的，因為，神是全知全能的神，祂的旨意必定成就。</li>
@@ -283,7 +283,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:1-30&qs_version=CUVMPT">出埃及記12:1-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day2-daily.html">守逾越節</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:1-30&qs_version=CUVMPT">出埃及記12:1-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day2-daily.html">守逾越節</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列人的很多節期都是神親自訂立的，逾越節就是其中之一，是為了幫助祂的子民能記念神帶領他們離開埃及的恩典。</li>
    <li>他們遵照神的指示，把羊羔的血塗在自家的門框和門楣上。門上沒有塗血的家庭，其長子在當夜均被殺。</li>
@@ -291,14 +291,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:31-14:31&qs_version=CUVMPT">出埃及記12:31-14:31</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day3-daily.html">離開埃及</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:31-14:31&qs_version=CUVMPT">出埃及記12:31-14:31</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day3-daily.html">離開埃及</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在以色列人離開埃及的日子，神為了不要他們走回頭路，每天用雲柱跟火柱帶領他們。</li>
    <li>面對紅海，是以色列人一個很大的考驗。神再次施展大能，讓祂的子民經歷祂全然的信實跟拯救。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:1-21&qs_version=CUVMPT">出埃及記15:1-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day4-daily.html">讚美主恩</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:1-21&qs_version=CUVMPT">出埃及記15:1-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day4-daily.html">讚美主恩</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 15:1-21 記載摩西、米利暗、還有以色列眾人歌頌神的大能作為。</li>
    <li>摩西之歌，頌讚神偉大的作為，祂是我們的力量、我們的拯救，祂戰勝一切的仇敵，</li>
@@ -307,7 +307,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:22-17:7&qs_version=CUVMPT">出埃及記15:22-17:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day5-daily.html">曠野供應</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:22-17:7&qs_version=CUVMPT">出埃及記15:22-17:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day5-daily.html">曠野供應</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 15:22-17:7 講述以色列人出埃及後，神如何在曠野供應他們生活的需要。</li>
    <li>以色列人因沒有水喝，缺乏食物，就跟摩西亞倫抱怨，神藉著「把樹丟在水裡」，</li>
@@ -316,7 +316,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記17:8-18:27&qs_version=CUVMPT">出埃及記17:8-18:27</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day6-daily.html">建立團隊</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記17:8-18:27&qs_version=CUVMPT">出埃及記17:8-18:27</a> - <a href="https://bibleplan.github.io/daily/2022/wk18-day6-daily.html">建立團隊</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 17:8-18:27 講述摩西命約書亞帶領以色列人與亞瑪力人爭戰，</li>
    <li>並建立分層管理的制度。</li>
@@ -327,7 +327,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day1-daily.html">盟約律法</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day1-daily.html">盟約律法</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出19-20章講述以色列人出埃及滿三個月後，神與他們立約，頒布十誡，並指教祭壇的條例。</li>
    <li>在西乃山下，神與他們立約，提醒他們記念神的救贖與帶領，要他們事奉神，做祭司的國度，聖潔的國民。</li>
@@ -335,7 +335,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記21-23&qs_version=CUVMPT">出埃及記21-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day2-daily.html">民事條例</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記21-23&qs_version=CUVMPT">出埃及記21-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day2-daily.html">民事條例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 21-23章 講述神繼十誡後，頒布了以色列人的民事條例。</li>
    <li>針對以色列人的民事法則，神定了非常詳細的條例，奴隸制度 、懲罰暴行、牲畜賠償、偷竊、人權，司法、節期，面面俱到。民事法的頒佈以兩件事作結，一是應許和以色列人同在，賜他們能力征服迦南，另一件是與百姓確定盟約。</li>
@@ -343,14 +343,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:1-11&qs_version=CUVMPT">出埃及記24:1-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day3-daily.html">確立盟約</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:1-11&qs_version=CUVMPT">出埃及記24:1-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day3-daily.html">確立盟約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 24:1-11 講述神在西乃山跟以色列人立約儀式的最後一段，完成自第十九章開始的立約過程。</li>
    <li>神與人立約，讓我們學習到在神的聖約裡，神子民的敬拜，敬拜的聖禮，經歷神同在的榮耀，約的確定。</li>
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:12-25:40&qs_version=CUVMPT">出埃及記24:12-25:40</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day4-daily.html">奉獻聖所</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:12-25:40&qs_version=CUVMPT">出埃及記24:12-25:40</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day4-daily.html">奉獻聖所</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 24:12-25:40 講述神叫摩西上西乃山，賜給他教訓百姓的律法和誡命，</li>
    <li>並開始指示他收納奉獻，建造聖所。本段經文是有關物料、 約櫃與施恩座、 </li>
@@ -360,7 +360,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記26-27&qs_version=CUVMPT">出埃及記26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day5-daily.html">製作會幕</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記26-27&qs_version=CUVMPT">出埃及記26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day5-daily.html">製作會幕</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 26-27章講述神繼續指示製造會幕的細節。包括幕幔、幕板、幔子、祭壇、院子、還有燃燈。</li>
    <li>神不居住在人手所造的，但是，神如此詳細的指示造會幕的細節，因祂要祂的子民操練敬虔，</li>
@@ -368,7 +368,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記28-29&qs_version=CUVMPT">出埃及記28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day6-daily.html">祭司制度</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記28-29&qs_version=CUVMPT">出埃及記28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk19-day6-daily.html">祭司制度</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 28-29 章講述神指示祭司的條例。包括祭司的聖服，祭司的職責，還有當獻的祭。</li>
    <li>神設立祭司制度的目的，是要人分別為聖，服事神，服事祂的百姓。在舊約時代，</li>
@@ -376,7 +376,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記30-31&qs_version=CUVMPT">出埃及記30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day1-daily.html">其他條例</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記30-31&qs_version=CUVMPT">出埃及記30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day1-daily.html">其他條例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 30-31 章講述神對會幕條例其他的指示（香壇、贖價、銅盆、聖膏油、香、會幕的工人），</li>
    <li>神還要人遵守安息日（與神立約、分別為聖）。</li>
@@ -385,7 +385,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記32-33&qs_version=CUVMPT">出埃及記32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day2-daily.html">造金牛犢</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記32-33&qs_version=CUVMPT">出埃及記32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day2-daily.html">造金牛犢</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 32-33 章講述百姓久等不見摩西下山，鑄造金牛犢，破壞與神的約，透過摩西的代求，</li>
    <li>並部分以色列人的受審判，百姓得到一個新的機會。</li>
@@ -394,7 +394,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記34&qs_version=CUVMPT">出埃及記34</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day3-daily.html">重新立約</a> (展開)</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記34&qs_version=CUVMPT">出埃及記34</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day3-daily.html">重新立約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 34 章講述神重新與百姓立約的經過。</li>
    <li>在金牛犢的事件中，亞倫宣告「耶和華的節日」並獻上燔祭和平安祭（出 32: 5-6）。</li>
@@ -402,7 +402,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記35-36&qs_version=CUVMPT">出埃及記35-36</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day4-daily.html">建造會幕</a> (展開)</summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記35-36&qs_version=CUVMPT">出埃及記35-36</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day4-daily.html">建造會幕</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 35-36 章講述神曉喻以色列民開始建造會幕。</li>
    <li>開始建造會幕，神指示以色列民，首先要守安息日（因神與百姓重新立約，安息日是約的標記），</li>
@@ -410,7 +410,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記37-38&qs_version=CUVMPT">出埃及記37-38</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day5-daily.html">會幕內外</a> (展開)</summary>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記37-38&qs_version=CUVMPT">出埃及記37-38</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day5-daily.html">會幕內外</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 37-38 章講述以色列民建造會幕裡面的擺設（約櫃、桌子、燈台、香壇、聖膏油跟香、燔祭壇、洗濯盆和盆座）及會幕外面的院子。</li>
    <li>神揀選不同的人來完成祂的事工。每個人有不同的恩賜，不同的職責。摩西是領袖，</li>
@@ -418,7 +418,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記39&qs_version=CUVMPT">出埃及記39</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day6-daily.html">祭司聖服</a> (展開)</summary>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記39&qs_version=CUVMPT">出埃及記39</a> - <a href="https://bibleplan.github.io/daily/2022/wk20-day6-daily.html">祭司聖服</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 39 章講述完成會幕的最後工作（祭司的聖服）及會幕的完工。</li>
    <li>一切聖所的物品，都不是匠工隨己意而作的，乃是「照耶和華所吩咐」而製作完成的。</li>
@@ -427,7 +427,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記40&qs_version=CUVMPT">出埃及記40</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day1-daily.html">奉獻會幕</a> (展開)</summary>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記40&qs_version=CUVMPT">出埃及記40</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day1-daily.html">奉獻會幕</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>出 40 章講述會幕完工後，摩西照神的吩咐將會幕立起來，神的榮光充滿。</li>
    <li>「照耶和華所吩咐」，在本章又出現了八次（16、19、21、23、25、27、29、32）。</li>
@@ -439,14 +439,14 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">利未記</summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記1-2&qs_version=CUVMPT">利未記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day2-daily.html">燔祭素祭</a> (展開)</summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記1-2&qs_version=CUVMPT">利未記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day2-daily.html">燔祭素祭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>利未記 1-7 章是獻祭的條例。神吩咐的獻祭一共有五種，前三種屬於心甘情願獻上的馨香的火祭，后兩種是求赦免過犯的贖罪祭。</li>
    <li>利未記 1-2 是馨香的火祭當中燔祭和素祭。燔祭預表著耶穌基督為我們心甘情願毫無保留的獻上，在神那裡成了蒙悅納的馨香之氣；素祭預表耶穌完美無瑕的品格。</li>
    </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未记3&qs_version=CUVMPT">利未记3</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day3-daily.html">獻平安祭</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未记3&qs_version=CUVMPT">利未记3</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day3-daily.html">獻平安祭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記第三章講述的是馨香的火祭中的平安祭。</li>
    <li>平安祭的特點是一部分給神，一部分給祭司，同時奉獻的人也可以把剩下的祭物與人一同享用（參見利未記第七章）。</li>
@@ -455,7 +455,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記4:1-5:13&qs_version=CUVMPT">利未記4:1-5:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day4-daily.html">贖罪之祭</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記4:1-5:13&qs_version=CUVMPT">利未記4:1-5:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day4-daily.html">贖罪之祭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 4:1-5:13，是后兩種贖罪潔淨祭中的第一種——贖罪祭。</li>
    <li>贖罪祭是針對誤犯的罪。獻贖罪祭不是出於自願，而是出於律法要求的必需的祭。</li>
@@ -464,14 +464,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記5:14-6:7&qs_version=CUVMPT">利未記5:14-6:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day5-daily.html">贖愆之祭</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記5:14-6:7&qs_version=CUVMPT">利未記5:14-6:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day5-daily.html">贖愆之祭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 5:14-6:7，是五種獻祭的最後一種，贖愆祭。</li>
    <li>贖愆祭，在 5:14-19 是針對干犯了聖物的罪，和任何不管是知道還是不知道的干犯了神的吩咐的罪；在 6:1-7，是針對在與人的關係上，任何貪戀、欺詐、背信、搶奪和壓迫他人的行為。</li>
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記6:8-7:38&qs_version=CUVMPT">利未記6:8-7:38</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day6-daily.html">祭司職責</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記6:8-7:38&qs_version=CUVMPT">利未記6:8-7:38</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day6-daily.html">祭司職責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 6:8-7:38 是對五種祭的一些細節補充。</li>
    <li>祭司在獻祭的服事當中，對於聖物要小心謹慎，在會幕里穿的衣服都不可穿到會幕外去；他們在獻祭中，從獻祭到倒灰都要一絲不苟地去做；不管是大到使用公牛的獻祭，還是小到奉獻細麵的獻祭，都要同等對待。</li>
@@ -479,7 +479,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記8-9&qs_version=CUVMPT">利未記8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day1-daily.html">膏立祭司</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記8-9&qs_version=CUVMPT">利未記8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day1-daily.html">膏立祭司</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 8-10 是利未記的第二部分，記錄祭司受膏和事奉的條例。今天閱讀的 8-9 章是亞倫和他的兒子們的受膏立，以及他們第一次獻祭。</li>
    <li>亞倫受膏立的時候，一切都是按照神的吩咐（8:4、9、13、17、21、29、36）。亞倫第一次獻祭，也是全然按照神的吩咐（9:10、21）</li>
@@ -487,14 +487,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記10&qs_version=CUVMPT">利未記10</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day2-daily.html">祭司犯罪</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記10&qs_version=CUVMPT">利未記10</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day2-daily.html">祭司犯罪</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞倫和兒子們剛剛開始作為大祭司和祭司的服事，長子和次子拿答和亞比戶就因為違反神的吩咐而喪命。祭司的職分，要做神所吩咐的，不可做神沒有吩咐的，神的聖潔不可輕忽。</li>
    <li>服事神的祭司要全心向主，不可喝酒導致沒有自制，要使他們可以將聖的俗的、潔淨的和不潔淨的分別開來，並且可以教導百姓。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記11-12&qs_version=CUVMPT">利未記11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day3-daily.html">潔淨條例</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記11-12&qs_version=CUVMPT">利未記11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day3-daily.html">潔淨條例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 11-22 章，是神對他的子民的聖潔的要求。今天的利未記 11-12，是關於潔淨與不潔淨的食物的規定，以及產後潔淨的條例。</li>
    <li>「我是耶和華你們的神，所以你們要成為聖潔，因為我是聖潔的。你們也不可在地上的爬物污穢自己。我是把你們從埃及地領出來的耶和華，要做你們的神，所以你們要聖潔，因為我是聖潔的。」（11:44-45），是關鍵的經文。</li>
@@ -502,7 +502,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記13-14&qs_version=CUVMPT">利未記13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day4-daily.html">皮膚潔淨</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記13-14&qs_version=CUVMPT">利未記13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day4-daily.html">皮膚潔淨</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 13-14 繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
    <li>皮膚病容易傳染，其中的麻風病更是可怕。祭司對皮膚病的檢查謹慎又細緻。</li>
@@ -511,7 +511,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記15-16&qs_version=CUVMPT">利未記15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day5-daily.html">贖罪之日</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記15-16&qs_version=CUVMPT">利未記15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day5-daily.html">贖罪之日</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 15-16繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
    <li>15章是有關漏症的注意事項和潔淨條例，目的是要使以色列人「與他們的污穢隔絕」，神吩咐他們如此行，「免得他們玷污我的帳幕，就因自己的污穢死亡」。</li>
@@ -519,7 +519,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記17-18&qs_version=CUVMPT">利未記17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day6-daily.html">聖潔行為</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記17-18&qs_version=CUVMPT">利未記17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk22-day6-daily.html">聖潔行為</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>從17章之後的經文繼續告訴以色列人要以聖潔來敬拜聖潔的神，著重講行為上的聖潔。</li>
    <li>利未記17章是神關於血的禁令。血是聖的。神與挪亞立約，將動物的肉也賜給人的時候，就說「唯獨肉帶著血，那就是牠的生命，你們不可吃。」(創世紀9)。「因為血里有生命，所以能贖罪」(利未記17:11)</li>
@@ -527,14 +527,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記19-20&qs_version=CUVMPT">利未記19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day1-daily.html">戒民條例</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記19-20&qs_version=CUVMPT">利未記19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day1-daily.html">戒民條例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記19章詳述道德、法律、祭祀及精神生活的規範,涵蓋所有十誡的內容。共16小段,每段都用「我是耶和華」一語作結。「你們要聖潔,因為我耶和華——你們的神是聖潔的」是呼籲百姓過聖潔生活的基礎。「愛人如己」出現在今天的經文當中,告訴以色列人,聖潔的標準不只是不觸犯律法,更是要積極地活出美德。</li>
    <li>利未記20章是 18與19章的增補,是對悖逆、不聖潔者的懲罰:人若犯了18-19章所禁止的罪行,便須接受本章所描述的嚴重刑罰,被處死或者剪除。</li>
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記21-22&qs_version=CUVMPT">利未記21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day2-daily.html">聖潔祭司</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記21-22&qs_version=CUVMPT">利未記21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day2-daily.html">聖潔祭司</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>祭司是在百姓里分別為聖歸給神的人。在利未記21章,神對他們的聖潔有比百姓更加高的要求。他們在擇偶和身體的潔淨上,需要更加地謹慎。並且神在他們的聖工和俗務之間,給出了很明顯的優先次序。</li>
    <li>聖物是分別為聖,歸給神的物。神不僅僅要求百姓和祭司聖潔,在利未記22章,也要求他們保守聖物的聖潔。</li>
@@ -542,21 +542,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記23:1-24:9&qs_version=CUVMPT">利未記23:1-24:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day3-daily.html">節期條例</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記23:1-24:9&qs_version=CUVMPT">利未記23:1-24:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day3-daily.html">節期條例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記23章是神所要求的節期。神吩咐以色列人守的節期有逾越節,除酵節,初熟節,五旬節,吹角節,贖罪日和住棚節。</li>
    <li>利未記24:1-9,是在會幕燃燈的條例,和陳設餅的條例。</li>
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記24:10-25:55&qs_version=CUVMPT">利未記24:10-25:55</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day4-daily.html">安息之年</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記24:10-25:55&qs_version=CUVMPT">利未記24:10-25:55</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day4-daily.html">安息之年</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 24:10-22記錄一個外邦人褻瀆神的名，違反十誡第三條的案件。於此帶出耶和華神吩咐的關於褻瀆神的名的刑罰，和傷害人畜的刑罰。「不管是寄居的，還是本地人，同歸一例。我是耶和華——你們的神。」</li>
    <li>利未記 25:1-22，是有關於安息年和禧年的條例，以及遵守安息年的應許。25:23-55講述要實踐遵守安息年和禧年，必然要有的對待土地產業和窮人的態度。</li>
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記26&qs_version=CUVMPT">利未記26</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day5-daily.html">守約背約</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記26&qs_version=CUVMPT">利未記26</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day5-daily.html">守約背約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 26 章，是立約以後宣告對守約者的祝福和對背約者的咒詛。</li>
    <li>3-13 節講**祝福**：順服神的便有福氣臨到；時雨與豐收；國泰民安；神的同在。神的祝福毫無保留地全然臨到順從他的子民。</li>
@@ -564,7 +564,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記27&qs_version=CUVMPT">利未記27</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day6-daily.html">許願之例</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記27&qs_version=CUVMPT">利未記27</a> - <a href="https://bibleplan.github.io/daily/2022/wk23-day6-daily.html">許願之例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>利未記 27 章是神吩咐人向神許願的條例。</li>
    <li>許願是十分莊嚴的事，必須慎重。人通常比較容易在危急或困難時候向神許願，而事後卻後悔甚至不守承諾。聖經對這種行為多次提出警告。本段為許願的獻物</li>
@@ -574,21 +574,21 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">民數記</summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day1-daily.html">數點安營</a> (展開)</summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day1-daily.html">數點安營</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記 1-2 章講述以色列的人口普查和每個支派在會幕周圍的安營位置。</li>
    <li>人口普查是對那些「從二十歲以外，能出去打仗的」 (1:3) ，支派在會幕（神所在的地方）周圍的安排是「按著軍隊」。這些以色列人預備打仗的準備工作，神正在把昔日的奴隸轉變成一支軍隊，好進入神的應許之地。</li>
    </ul>
  </details>
  <details>
-   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記3-4&qs_version=CUVMPT">民數記 3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day2-daily.html">祭司國度</a> (展開)</summary>
+   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記3-4&qs_version=CUVMPT">民數記 3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day2-daily.html">祭司國度</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記 3 章的開始類似創世記的家譜：「亞倫和摩西的後代如下」，記敘了利未支派的家譜和職責。</li>
    <li>利未支派的工作是關乎會幕 - 神的同在，以及神在西奈山與以色列人所立的約。神在此設立了「祭司的國度」(出 19:6)。</li>
    </ul>
  </details>
  <details>
-   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記5-6&qs_version=CUVMPT">民數記 5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day3-daily.html">聖潔國民</a> (展開)</summary>
+   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記5-6&qs_version=CUVMPT">民數記 5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day3-daily.html">聖潔國民</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>緊接著上兩章設立的「祭司的國度」(出 19:6)，神在此呼召以色列人成為「聖潔的國民」(出 19:6)。</li>
    <li>潔淨以色列營的幾條律法：</li>
@@ -599,7 +599,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記7&qs_version=CUVMPT">民數記 7</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day4-daily.html">全心奉獻</a> (展開)</summary>
+   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記7&qs_version=CUVMPT">民數記 7</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day4-daily.html">全心奉獻</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>本章是承接出埃及記第 40 章，是摩西照神的吩咐立會幕以後發生的事。在出埃及記第 40 章的最後，神的榮光充滿會幕，神與百姓同在。然後(本章)以色列人持續 12 天舉行盛典，奉獻禮物給神，來回應神要賜福他們的應許。</li>
    <li>十二個支派的首領，在會幕立起的當天，就送來六輛篷子車和十二隻公牛作為奉獻給神的禮物，摩西在得到神的特別同意下才收下這些禮物。</li>
@@ -608,7 +608,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記8:1-9:14&qs_version=CUVMPT">民數記 8:1-9:14</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day5-daily.html">潔淨歸主</a> (展開)</summary>
+   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記8:1-9:14&qs_version=CUVMPT">民數記 8:1-9:14</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day5-daily.html">潔淨歸主</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記 8:1-4 是摩西與神第一次在立起的會幕交談以後，神曉諭摩西吩咐大祭司亞倫點起金燈台，這是金燈台初次點燃。神特別吩咐金燈台的七盞燈要向前發光。</li>
    <li>民數記 8:5-26 是神所吩咐的利未人的潔淨和奉獻禮儀。潔淨和奉獻以後，他們便被分派給祭司，輔助會幕的工作。他們是被揀選歸給神(14)，替代一切頭生的(16)，侍奉神，並為以色列人贖罪(19)，隔在會幕與以色列人之間，免得他們挨近聖所。</li>
@@ -616,7 +616,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記9:15-10:36&qs_version=CUVMPT">民數記 9:15-10:36</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day6-daily.html">令行禁止</a> (展開)</summary>
+   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記9:15-10:36&qs_version=CUVMPT">民數記 9:15-10:36</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day6-daily.html">令行禁止</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>以色列人完全按照神的指示拔營安營，神是他們行動的絕對中心。</li>
    <li>在西奈山下，神給以色列人的最後一件指示是造出兩隻銀號，來指揮全民在曠野里的行動。銀號配合雲彩指揮全體百姓行動如一。當末後的日子，神的使者也要用號筒的大聲將選民從四方招聚攏來（馬太福音 24:31，啟示錄 8-9）。</li>
@@ -624,7 +624,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記11-12&qs_version=CUVMPT">民數記 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day1-daily.html">抱怨毀謗</a> (展開)</summary>
+   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記11-12&qs_version=CUVMPT">民數記 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day1-daily.html">抱怨毀謗</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>從西奈出發三天，以色列人又發怨言，以至於神怒氣發作，使火焚燒在他們中間，因摩西代求，火才熄滅。</li>
    <li>百姓在閒雜人的影響下，對神恩賜的天糧嗎哪又發怨言，神怒氣發作，摩西服事疲憊沮喪向神哭訴。神為摩西興起同工分擔重擔，又降最重的災殃于百姓，擊殺起貪慾之心的人。</li>
@@ -633,7 +633,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記13-14&qs_version=CUVMPT">民數記 13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day2-daily.html">惡信藐視</a> (展開)</summary>
+   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記13-14&qs_version=CUVMPT">民數記 13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day2-daily.html">惡信藐視</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記 13-14 是以色列人請求（申命記 1:22-23）派探子窺探迦南地，被其中十個所傳的惡信嚇到，抱怨、藐視神，不聽摩西、亞倫、迦勒和約書亞的勸誡，要另立首領回埃及。</li>
    <li>神在此第二次提出要擊殺百姓，叫摩西的後裔成為大國，承受應許之地。摩西為百姓們代求。神照著祂的話赦免的百姓。但是百姓必須為他們的罪付上代價，除了迦勒和約書亞，這一代的人沒有一個能進入迦南。</li>
@@ -641,7 +641,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記15&qs_version=CUVMPT">民數記 15</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day3-daily.html">恩典信實</a> (展開)</summary>
+   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記15&qs_version=CUVMPT">民數記 15</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day3-daily.html">恩典信實</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>在上一章神對這一代以色列人的審判以後，本章馬上神又曉諭摩西關於進入應許之地以後的獻祭條例。神記念祂與亞伯拉罕、以撒和雅各的約。他的恩惠和信實在此彰顯。</li>
    <li>誤犯罪的，不管是全體百姓，還是個人，都要獻祭付上代價，神必赦免；但是擅敢行事的，不管是全會眾，還是個人，必受懲罰。上一章以色列人的反叛，和本章觸犯安息日的人，就是擅敢行事受刑罰的例子。</li>
@@ -650,7 +650,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記16-17&qs_version=CUVMPT">民數記 16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day4-daily.html">可拉叛亂</a> (展開)</summary>
+   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記16-17&qs_version=CUVMPT">民數記 16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day4-daily.html">可拉叛亂</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>利未人可拉帶領一群以色列人反叛，挑戰亞倫和他的後裔的祭司身份。他們用謊言攻擊摩西和亞倫。摩西叫他們一同到神的面前，經歷火的試驗。神「創作一件新事」，除滅可拉一黨，顯示亞倫家族成為祭司乃是神的心意。</li>
    <li>可拉被除滅以後，百姓又起來攻擊摩西和亞倫，將跟隨可拉被除滅的人的死怪罪在摩西和亞倫身上。神的怒氣發作，瘟疫流行。摩西吩咐亞倫拿香爐從壇上取火，加香，站在活人死人中為百姓贖罪，瘟疫就止住了。</li>
@@ -658,7 +658,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記18-19&qs_version=CUVMPT">民數記 18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day5-daily.html">祭司利未</a> (展開)</summary>
+   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記18-19&qs_version=CUVMPT">民數記 18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day5-daily.html">祭司利未</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記 18:1-7，是神直接告訴亞倫他關於百姓在 17:12-13 的呼求的回答。祭司和利未人的職責是擔當神的震怒，百姓的性命才得保存。祭司的設立，不只是神給擔任祭司的人的賞賜，也是給眾民的賞賜。</li>
    <li>神賜給利未人享用的是以色列人獻上的出產的十分之一，賜給祭司享用的是一切不經火的供物和利未人獻上的收入的十分之一。</li>
@@ -666,7 +666,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記20-21&qs_version=CUVMPT">民數記 20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day6-daily.html">流浪末年</a> (展開)</summary>
+   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記20-21&qs_version=CUVMPT">民數記 20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk25-day6-daily.html">流浪末年</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>這是以色列人在曠野漂流的最後一年,他們回到當初抗命不進迦南地的加低斯(民數記13)。</li>
    <li>在這裡以色列人又發怨言,跟他們的父輩的怨言一樣。摩西因為沒有尊神的名為聖而犯罪,不得進入迦南應許之地。米利暗和亞倫分別去世。</li>
@@ -675,21 +675,21 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記22-24&qs_version=CUVMPT">民數記 22-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day1-daily.html">咒詛祝福</a> (展開)</summary>
+   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記22-24&qs_version=CUVMPT">民數記 22-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day1-daily.html">咒詛祝福</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>以色列人要攻打耶利哥,並非要攻擊摩押人。但摩押王卻懼怕,招來巴蘭要咒詛以色列人。神卻使巴蘭的咒詛不能成功,反而使他多次祝福以色列人。</li>
    <li>巴蘭並非耶和華的先知。他似乎宣稱自己是耶和華的先知,其實只是在宣告自己一切神明的代言人。他在道德、倫理和信仰上被聖經多次譴責。(民31:7-8,15-16;申23:3-6;書13:22;24:9-10;尼13:1-3;彌6:5;彼后2:15-16;猶11;啟2:14)</li>
    </ul>
  </details>
  <details>
-   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記25&qs_version=CUVMPT">民數記 25</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day2-daily.html">從內敗壞</a> (展開)</summary>
+   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記25&qs_version=CUVMPT">民數記 25</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day2-daily.html">從內敗壞</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>參見民數記31:8,16,本章所描述的事件是出於巴蘭的計謀,要從裡面敗壞以色列人,使以色列人得罪並遠離耶和華,從而失去神的保守。</li>
    <li>非尼哈與神的忌邪為心,殺死公然得罪神的人,使神不在忌邪中除滅全體以色列人,為以色列人贖罪。神與非尼哈和他的後裔立「平安的約」,他的後裔將永遠當祭司任職。</li>
    </ul>
  </details>
  <details>
-   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記26-27&qs_version=CUVMPT">民數記 26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day3-daily.html">二次數點</a> (展開)</summary>
+   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記26-27&qs_version=CUVMPT">民數記 26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day3-daily.html">二次數點</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>四十年過去,以色列人的數目變化不大,這是神的賜福,他信實地保守他對亞伯拉罕的應許,使他的後裔成為大國。</li>
    <li>西羅非哈的女兒對曠野漂流的意義有很正確的看見,她們為家人的正義祈求也被神眷顧。</li>
@@ -697,7 +697,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記28-29&qs_version=CUVMPT">民數記 28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day4-daily.html">日日獻祭</a> (展開)</summary>
+   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記28-29&qs_version=CUVMPT">民數記 28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day4-daily.html">日日獻祭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>離摩西去世的日子近了，前面一章神吩咐他將領袖的職分和尊榮傳給約書亞，28-29 章則是神吩咐摩西傳給以色列人全年里每一天、每個安息日、每月月初和各個節期獻祭的祭物條例，預備以色列人進入迦南以後，在大祭司以利亞撒和約書亞的帶領下，過以神為中心的敬拜生活。</li>
    <li>這些獻祭是在百姓為罪、自潔、許願等自願獻的祭以外，一年至少應獻的祭。</li>
@@ -705,14 +705,14 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記30-31&qs_version=CUVMPT">民數記 30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day5-daily.html">米甸之役</a> (展開)</summary>
+   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記30-31&qs_version=CUVMPT">民數記 30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day5-daily.html">米甸之役</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記30章，是對許願女子的要求：在出嫁前她們的父親，或者在出嫁后她們的丈夫，要擔負她們的屬靈上的指導和保護。</li>
    <li>民數記31章記錄的是一場聖戰，是以色列人按照神的心意攻擊住在摩押的米甸人，因他們在前面引誘百姓犯罪背離神。謀劃這計策的巴蘭在這場戰役中被殺。以色列人大獲全勝，沒有損失一人。以色列人按照神的吩咐處理俘虜和潔淨、奉獻、分享戰利品，讓進入迦南以後的戰爭有例可循。</li>
    </ul>
  </details>
  <details>
-   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記32-33&qs_version=CUVMPT">民數記 32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day6-daily.html">漂流之地</a> (展開)</summary>
+   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記32-33&qs_version=CUVMPT">民數記 32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk26-day6-daily.html">漂流之地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記第32章，呂便、迦得和瑪拿西的半支派看中約旦河東剛取得的土地，並向摩西保證幫助其他支派取得應許之地以後才回來，以防使以色列人人心渙散。他們看見約旦河東土地肥沃適合放牧，就想先快快安頓下來。後來這地因為缺乏軍事屏障，在以色列亡國之前，就被亞述攻入，最先被擄走。</li>
    <li>民數記第33章，摩西按照神的吩咐記錄四十年曠野漂流路線中四十個安營的地方。</li>
@@ -720,14 +720,14 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記34-35&qs_version=CUVMPT">民數記 34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day1-daily.html">迦南地界</a> (展開)</summary>
+   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記34-35&qs_version=CUVMPT">民數記 34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day1-daily.html">迦南地界</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>民數記第34章，神將應許之地的地界告訴以色列人，並從九個半要在應許之地得基業的支派各揀選一個首領，在大祭司以利亞撒和約書亞的帶領下，負責在進入應許之地后承擔分配土地的任務。</li>
    <li>民數記第35章，神吩咐分配利未人城邑的規條，並為以色列人在利未支派的城里設立逃城。逃城是為誤流人血的人設立的庇護所，免得無休止的仇殺污穢了神所賜的應許之地。</li>
    </ul>
  </details>
  <details>
-   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記36&qs_version=CUVMPT">民數記 36</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day2-daily.html">繼承產業</a> (展開)</summary>
+   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記36&qs_version=CUVMPT">民數記 36</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day2-daily.html">繼承產業</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
    <li>西羅非哈的女兒們，曾因著父親無子，提出由女兒繼承產業，蒙了神的應允。現在以色列的族長們提出新的問題，若是女兒出嫁，將產業帶到其他支派，支派的產業分配會造成改變，在禧年歸入其他支派。因此，摩西照神的話吩咐以色列的女繼承人必須嫁給同宗支派的人為妻。西羅非哈的女兒們按照神的吩咐行了。</li>
    </ul>
@@ -735,7 +735,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">申命記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記1&qs_version=CUVMPT">申命記1</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day3-daily.html">悖逆失敗</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記1&qs_version=CUVMPT">申命記1</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day3-daily.html">悖逆失敗</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>出埃及時不到20歲以及尚未出生的新一代以色列民，經過在曠野中近40年的繞行，終於來到與應許之地僅約旦河之隔的摩押平原。整本申命記是摩西在他一生的最後幾十天內，按照神的吩咐對以色列眾人重申律法，為要叫他們「敬畏耶和華你的神，遵行祂的道，愛祂，盡心盡性事奉祂，遵守祂的誡命、律例，就是我今日所吩咐你的，為要叫你得福」（十12~13）。</li>
     <li>申1:1-4:43追想過去在曠野四十年以色列民的主要歷史。</li>
@@ -743,21 +743,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記2-3&qs_version=CUVMPT">申命記2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day4-daily.html">北上得地</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記2-3&qs_version=CUVMPT">申命記2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day4-daily.html">北上得地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>三十八年在西珥山的繞行之後，當年因懼怕而不肯進入迦南的成年男子都已死去。以色列民依照神的吩咐，向北而行。途經已經有神所應許的以東人、摩押人、亞捫人的居住地，沒有爭戰，只是平安路過。相比之下，途經希實本王西宏和巴珊王噩的地界的時候，則與兩王爭戰且得他們的地為業，因為神把他們交在以色列人手中要使天下萬民聽見你的名聲都驚恐、懼怕，且因你發顫傷慟。」(申2:25)</li>
     <li>摩西求神容他過去，看那應許的美地，神沒有應允摩西過河，但讓他上毗斯迦山頂觀望，讓他得以看見應許之地。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:1-43&qs_version=CUVMPT">申命記4:1-43</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day5-daily.html">呼天喚地</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:1-43&qs_version=CUVMPT">申命記4:1-43</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day5-daily.html">呼天喚地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>4:1-40摩西呼天喚地一再勸誡以色列民要謹守遵行神的律例典章，並且要傳給子子孫孫，好使他們在應許之地存活、得那地為業。</li>
     <li>4:41-43摩西在約旦河東分定三座逃城，為兩個半支派分定地界。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:44-5:33&qs_version=CUVMPT">申命記4:44-5:33</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day6-daily.html">十條誡命</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:44-5:33&qs_version=CUVMPT">申命記4:44-5:33</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day6-daily.html">十條誡命</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西在申命記第5-11章，向以色列人陳明神的律法。</li>
     <li>摩西向新一代以色列民重申十誡。十誡是神的律法的核心，前四誡關乎神，後六誡關乎人。</li>
@@ -765,7 +765,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記6-7&qs_version=CUVMPT">申命記6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day1-daily.html">竭誠愛主</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記6-7&qs_version=CUVMPT">申命記6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day1-daily.html">竭誠愛主</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西叮囑以色列民要愛神—盡心、盡性、盡力愛我們的神，因為祂是獨一的真神，是信實的神。且要慇懃教訓兒女愛神，把神的話語放在常常可以看到的地方：手上、額上、門框上、城門上。</li>
     <li>神將迦南的國民交給以色列民，不可憐恤他們，要把他們滅絕淨盡，不可與他們立約，也不可與他們通婚，要拆毀他們的一切偶像，因這必成為你的網羅(7:16b)。</li>
@@ -773,7 +773,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記8-9&qs_version=CUVMPT">申命記8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day2-daily.html">牢記真神</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記8-9&qs_version=CUVMPT">申命記8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day2-daily.html">牢記真神</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西提醒以色列百姓當記念這四十年神在物資極度匱乏的曠野當中的眷顧、供應，讓他們食有嗎哪，衣沒有破，腳沒有腫，讓他們記得神才是他們真正的依靠，而不是物質的富足；得貨財的力量來自於神，財貨富足的時候不要忘記神。</li>
     <li>要趕出的迦南人強大且有堅固的城邑，但跟隨神帶領的以色列民必能制伏他們，使他們速速滅亡。</li>
@@ -781,7 +781,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記10-11&qs_version=CUVMPT">申命記10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day3-daily.html">神要祝福</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記10-11&qs_version=CUVMPT">申命記10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day3-daily.html">神要祝福</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西按照神的吩咐，重新鑿出兩塊石版，上面有神再次親筆書寫的十誡，存放在耐久的皂莢木櫃中。</li>
     <li>摩西提醒百姓，神是「萬神之神，萬主之主，至大的神，大有能力，大而可畏」；神的要求是他們敬畏祂，遵行祂的道，愛他，盡心盡性事奉祂，好讓他們活在神的恩典、祝福當中。</li>
@@ -789,14 +789,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記12:1-14:2&qs_version=CUVMPT">申命記12:1-14:2</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day4-daily.html">遠離網羅</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記12:1-14:2&qs_version=CUVMPT">申命記12:1-14:2</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day4-daily.html">遠離網羅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>申12-26章是申命記中在誡命之外的律例、典章、法規的詳細講論。雖然有許多內容已經在出埃及記、利未記、民數記有記載，這裡並非簡單重複相同的內容，而是針對迦南地的異教文化的重申。</li>
     <li>摩西吩咐百姓要拆毀迦南人的祭壇、除去他們的偶像，在每个支派神所指定的地方獻祭；向神獻祭的肉要在神面前吃，其他的肉可以不拘場所吃，但無論何時都不可吃血；要與在應許之地無份無業的利未人一同享用，「在你所住的地方永不可丟棄利未人」；不可隨從迦南人的惡俗，「陷入網羅」；無論是先知、得異夢的、家人還是朋友，只要他們引誘人去拜別神，都要因與耶和華神的約而除滅他們；舉哀時不可學迦南人的惡俗。</li>
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記14:3-16:17&qs_version=CUVMPT">申命記14:3-16:17</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day5-daily.html">放手信靠</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記14:3-16:17&qs_version=CUVMPT">申命記14:3-16:17</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day5-daily.html">放手信靠</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>14:3-29重申可吃與不可吃之物；要在指定的居所、在神的面前吃田地所出的十分之一及頭生的牛羊；每三年的最後一年要將本年收穫的十分之一取出來，讓本城的利未人和寄居的、孤兒寡婦可以吃得飽足。</li>
     <li>15章重申每七年一次的安息年、豁免年的條例；善待奴婢的條例；頭生無殘疾的公牛羊要分別為聖。</li>
@@ -804,7 +804,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記16:18-18:22&qs_version=CUVMPT">申命記16:18-18:22</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day6-daily.html">公義正直</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記16:18-18:22&qs_version=CUVMPT">申命記16:18-18:22</a> - <a href="https://bibleplan.github.io/daily/2022/wk28-day6-daily.html">公義正直</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>16:18-20和17:8-13講到祭司和審判官，強調審判官要公義地審判，不可屈枉正直，不可受賄；訴訟的百姓要聽從祭司和審判官。</li>
     <li>16:21–17:7和18:9-13吩咐不可設立偶像，不可獻有殘疾有病的牛羊，要懲治拜偶像之人，不可學異邦國民所行可憎的事。</li>
@@ -814,7 +814,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記19-20&qs_version=CUVMPT">申命記19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day1-daily.html">寬容諒解</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記19-20&qs_version=CUVMPT">申命記19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day1-daily.html">寬容諒解</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神為過失殺人者預備了可以存活的逃城，但故意殺人者就要被處死。</li>
     <li>無論何罪，都需要兩三個人作見證；不可作假見證。</li>
@@ -822,27 +822,27 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記21-22&qs_version=CUVMPT">申命記21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day2-daily.html">公正清潔</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記21-22&qs_version=CUVMPT">申命記21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day2-daily.html">公正清潔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>21:1-22:12講論下面事宜的處理：無頭殺人案、女戰俘、立長子、逆子、掛在木頭上的犯人屍首、他人的失落之物、異性服裝（神憎惡不分性別）、對動物的憐憫心、房上的欄杆、不同種子的混種及牛驢的並耕（神不喜悅混雜不清：创1：4、12、21；路26:13；林后6:14-18）、外衣的穗子。</li>
     <li>22:13-30講論貞潔的憑據、行淫的處置（無人搭救而遭強姦除外）、禁止娶繼母。</li>
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記23&qs_version=CUVMPT">申命記23</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day3-daily.html">聖潔憐憫</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記23&qs_version=CUVMPT">申命記23</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day3-daily.html">聖潔憐憫</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>不是所有的人都可以進入聖會；要保持軍營的聖潔與衛生，因為神常在營中行走；要善待逃離主人的奴僕；不可有妓女、孌童；借貸不可取利；許願不可遲延償還；可以吃鄰舍地裡的葡萄和穗子，但不可拿走。</li>
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記24-25&qs_version=CUVMPT">申命記24-25</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day4-daily.html">體恤行義</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記24-25&qs_version=CUVMPT">申命記24-25</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day4-daily.html">體恤行義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>24章：她有不合理的事方可休妻，但要寫休書，讓她可以再嫁；新婚一年內不可從軍、行公務，讓妻快活；要因曾在埃及為奴，不可逼迫窮困之人，反要設身處地體恤、憐憫，也不可屈枉、欺負寄居的和寡婦孤兒，反要讓他們有尊嚴地得幫助；拐帶人為奴是大惡；對大麻風要謹慎，要按祭司利未人的指示處理；人被處死必須是為本人的罪，不可株連；</li>
     <li>25章：責打犯人不可過度輕賤他；要為兄立後，否則就是「脫鞋之家」；即使緊急如解救丈夫，女人也萬不可抓他人下體；與人交易要公平合理，「因為行非義之事的人都是耶和華-你神所憎惡的。」；對不敬畏神的亞瑪力人，不可忘記要塗抹其名。</li>
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記26&qs_version=CUVMPT">申命記26</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day5-daily.html">獻上初熟</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記26&qs_version=CUVMPT">申命記26</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day5-daily.html">獻上初熟</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>得了神所賜的應許之地為業以後，要獻上初熟的土產，並要述說神的眷顧、拯救和賜福。</li>
     <li>每逢三年，要拿出十分之一的土產，分給利未人和寄居的及孤兒寡婦，並要宣告神的一切命令都沒有違背、遺忘。</li>
@@ -851,20 +851,20 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記27-28&qs_version=CUVMPT">申命記27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day6-daily.html">祝福咒詛</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記27-28&qs_version=CUVMPT">申命記27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk29-day6-daily.html">祝福咒詛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列人的存活完全依靠神和與神的良好關係，而與神的關係取決於他們是否遵守神的誡命。所以進入應許之地後的當天，就要在墁上石灰的若干大石頭上書寫神律法的一切話，立在以巴路山上，並築石壇獻祭。</li>
     <li>摩西和祭司利未人向以色列眾人宣佈，他們今日成為神的百姓了，務要聽從神的話，遵行他的誡命、律例。摩西吩咐過河後，六個支派要在基利山上為百姓祝福，六個支派在以巴路山上宣布詛咒。利未人帶領百姓宣告製造偶像的、輕慢父母的、挪移地界的、使瞎子走差路的、對寄居的和孤兒寡婦屈枉正直的、與繼母行淫的、與獸淫合的、與異母同父或異父同母的姊妹行淫的、與岳母行淫的、暗中殺人的、賄賂害死無辜之人的、不守律法言語的人「必受咒詛」。</li>
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記29-30&qs_version=CUVMPT">申命記29-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day1-daily.html">福禍自取</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記29-30&qs_version=CUVMPT">申命記29-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day1-daily.html">福禍自取</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西再次重申神昔日的大試驗和神蹟、大奇事，呼籲當時及以後的以色列民遵守與神所立的約。這約不是難行的，也不是遙不可及的，「就在你口中，在你心裏，使你可以遵行」。若百姓拒絕，藐視律法，神必「將這書上所寫的一切咒詛都加在他身上」。但即使背棄神得到咒詛和懲罰，只要真心歸回，神必再喜悅、賜福。</li>
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:1-29&qs_version=CUVMPT">申命記31:1-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day2-daily.html">最後叮囑</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:1-29&qs_version=CUVMPT">申命記31:1-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day2-daily.html">最後叮囑</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西因為年事已高，且神已經明說過，所以不能帶領以色列民過約旦河、進入迦南，但神必立約書亞為新領袖引導百姓過去，將那地的國民在他們面前滅絕。摩西在眾人面前勉勵約書亞，要他剛強壯膽。</li>
     <li>摩西叮囑祭司、利未人及長老，要他們在每七年的豁免年的住棚節，召集百姓，向他們宣讀律法書，讓他們學習敬畏神。</li>
@@ -873,14 +873,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:30-33:29&qs_version=CUVMPT">申命記31:30-33:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day3-daily.html">臨別詩歌</a> (展開)</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:30-33:29&qs_version=CUVMPT">申命記31:30-33:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day3-daily.html">臨別詩歌</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>32章：按照神的吩咐，摩西寫下詩歌，回顧神的恩典與作為，百姓的悖逆不信，隨之而來的責罰，也帶著回歸復興的應許。詩歌宣告神是磐石，除祂以外，並無別神。摩西叮囑百姓要把這警教放在心上，要吩咐子孫謹守遵行，因為「這不是虛空、與你們無關的事，乃是你們的生命」。神再次告訴摩西，他因米利巴水的事上沒有尊神為聖而將死在尼波山上。</li>
     <li>33章：摩西臨死前向以色列十二支派祝福，以形容神的威榮開始，以讚美蒙神拯救之民所承受的恩典結束。以色列雖然必定失敗，在這祝福中看到神的憐憫，神的選民是何等有福的。</li>
   </ul>
  </details>
  <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記34&qs_version=CUVMPT">申命記34</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day4-daily.html">摩西之死</a> (展開)</summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記34&qs_version=CUVMPT">申命記34</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day4-daily.html">摩西之死</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西獨自登上尼波山；神在毘斯迦山頂，讓摩西看見迦南全地；神親自埋葬摩西；摩西死於120歲高齡，但「眼目沒有昏花，精神沒有衰敗」。</li>
     <li>摩西死後，約書亞作為神興起的新一代領袖，以色列民「聽從他」。</li>
@@ -890,7 +890,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約書亞記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記1&qs_version=CUVMPT">約書亞記1</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day5-daily.html">剛強壯膽</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記1&qs_version=CUVMPT">約書亞記1</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day5-daily.html">剛強壯膽</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神呼召約書亞成為摩西的繼任者，命令他帶領百姓進入神所應許給他們祖先的土地。</li>
     <li>神將繼續作為約書亞記的主角。</li>
@@ -898,14 +898,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記2&qs_version=CUVMPT">約書亞記2</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day6-daily.html">妓女喇合</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記2&qs_version=CUVMPT">約書亞記2</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day6-daily.html">妓女喇合</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約書亞派遣探子前往耶利哥。神藉著身份低微的妓女喇合拯救了探子。</li>
     <li>探子帶回耶利哥人驚恐的心，堅固以色列人的心。對比民數記13-14章探子的報告對以色列人的影響。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記3:1-5:12&qs_version=CUVMPT">約書亞記3:1-5:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day1-daily.html">過約旦河</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記3:1-5:12&qs_version=CUVMPT">約書亞記3:1-5:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day1-daily.html">過約旦河</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華行神跡使約旦河水流斷絕；約書亞帶領以色列人穿越約旦河，如同當年跨越紅海。</li>
     <li>以色列民行割禮，慶祝逾越節，顯明神的子民的身份。</li>
@@ -913,7 +913,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記5:13-7:26&qs_version=CUVMPT">約書亞記5:13-7:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day2-daily.html">耶利哥城</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記5:13-7:26&qs_version=CUVMPT">約書亞記5:13-7:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day2-daily.html">耶利哥城</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華軍隊的元帥向約書亞顯現，表明神將親自為以色列爭戰。</li>
     <li>以色列軍隊按照神的旨意繞耶利哥城七日，神將城交到他們手中。</li>
@@ -921,28 +921,28 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記8&qs_version=CUVMPT">約書亞記8</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day3-daily.html">艾城之役</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記8&qs_version=CUVMPT">約書亞記8</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day3-daily.html">艾城之役</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神幫助約書亞，通過一個機智的軍事戰略來擊敗和摧毀艾城。</li>
     <li>對比耶利哥和艾城戰役，都是神的作為，一個是通過神跡，一個是藉著人的謀略成就。神在這兩場戰役中用的不同方法可以幫助我們理解神的作為。</li>
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記9-10&qs_version=CUVMPT">約書亞記9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day4-daily.html">南地之戰</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記9-10&qs_version=CUVMPT">約書亞記9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day4-daily.html">南地之戰</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約書亞和以色列首領沒有求問耶和華，被基遍人（希未人，見書9:7，11:19）設計欺騙，違反神的命令（希未人必須被滅絕淨盡，見申7:2），與他們立約。</li>
     <li>南地亞摩利人五王聯合攻擊基遍，但被約書亞帶領以色列軍隊擊敗。以色列佔領南地諸城。</li>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記11-12&qs_version=CUVMPT">約書亞記11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day5-daily.html">北地之戰</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記11-12&qs_version=CUVMPT">約書亞記11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day5-daily.html">北地之戰</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>南地諸王的失敗之後，以色列揮師北上，擊敗北方諸王。</li>
     <li>12章總結了約書亞所擊敗的諸王：約旦河東的兩個王，約旦河西的三十一個王。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記13&qs_version=CUVMPT">約書亞記13</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day6-daily.html">河東之地</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記13&qs_version=CUVMPT">約書亞記13</a> - <a href="https://bibleplan.github.io/daily/2022/wk31-day6-daily.html">河東之地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>13-21章講述神如何把迦南地分給以色列各支派。神賜給亞伯拉罕和他的後裔土地的應許實現。</li>
     <li>即使是尚未奪取的地（最終將被大衛征服，見撒下5,8章），神仍然要約書亞分給以色列。</li>
@@ -950,19 +950,19 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記14-15&qs_version=CUVMPT">約書亞記14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day1-daily.html">猶大支派</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記14-15&qs_version=CUVMPT">約書亞記14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day1-daily.html">猶大支派</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>迦南地的分配，首先是給迦勒和猶大支派，顯出猶大支派的重要性。</li>
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記16-17&qs_version=CUVMPT">約書亞記16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day2-daily.html">約瑟支派</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記16-17&qs_version=CUVMPT">約書亞記16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day2-daily.html">約瑟支派</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>其次是約瑟的兩個支派：以法蓮和瑪拿西的半個支派。</li>
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記18-19&qs_version=CUVMPT">約書亞記18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day3-daily.html">其他支派</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記18-19&qs_version=CUVMPT">約書亞記18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day3-daily.html">其他支派</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>其他支派的分地方式不同於猶大、約瑟支派的分地方式。</li>
     <li>這部分的分地敘述開始於便雅憫支派，其所得之地包含耶路撒冷，當時尚未被征服。然後才是以色列的其他支派。</li>
@@ -970,7 +970,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記20-21&qs_version=CUVMPT">約書亞記20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day4-daily.html">利未支派</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記20-21&qs_version=CUVMPT">約書亞記20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day4-daily.html">利未支派</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神為以色列人和在他們中間寄居的外人設立了六座逃城，三座在約旦河東，三座在河西，在應許之地均勻分佈，保證誤殺人的在半天內可以逃到，這是按照神吩咐摩西的(申命記19:1-13；民數記35:9-34)。</li>
     <li>利未人分散應許之地全境，從各支派都得到城邑，他們與各支派混居，將敬畏神的生活帶到各個支派。</li>
@@ -978,14 +978,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記22-23&qs_version=CUVMPT">約書亞記22-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day5-daily.html">歸回河東</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記22-23&qs_version=CUVMPT">約書亞記22-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day5-daily.html">歸回河東</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>河東兩個半支派謹守諾言，幫助他們的弟兄奪取河西之地。分地完畢，約書亞給他們祝福，叮囑他們專心侍奉神，並囑咐他們將戰利品與留守的眾弟兄分享，方才打發他們回去。</li>
     <li>兩個半支派的人到了約旦河，在那裡筑壇，因而引起其他九個半支派的猜疑，以為他們要事奉別神。祭司非尼哈與各支派代表去責問河東兩個半支派，他們回答柔和，告白信仰，弟兄間和好，一場猜疑化為美事。</li>
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記24&qs_version=CUVMPT">約書亞記24</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day6-daily.html">臨終勸勉</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記24&qs_version=CUVMPT">約書亞記24</a> - <a href="https://bibleplan.github.io/daily/2022/wk32-day6-daily.html">臨終勸勉</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約書亞第23章是約書亞臨終前對以色列眾領袖的勸勉，第24章是約書亞對於整個民族的勸勉，重申與神的約。</li>
     <li>約書亞數算神在以色列人身上的恩典、提醒他們謹守遵行神的律例典章、專心依靠侍奉耶和華、不可偏離、不可與異教子民混雜通婚、不可敬拜別神。</li>
@@ -996,7 +996,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">士師記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記1:1-2:5&qs_version=CUVMPT">士師記1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day1-daily.html">漸入網羅</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記1:1-2:5&qs_version=CUVMPT">士師記1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day1-daily.html">漸入網羅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約書亞死後，不再有統領以色列人的領袖。</li>
     <li>以色列人求問神後，有神同在的猶大支派和西緬支派聯手攻取了耶路撒冷、希伯崙等諸多城邑，將城盡行毀滅，但不能趕出在平原有鐵車的迦南人；迦勒照摩西所說，得了希伯崙為業，並從那裡趕出亞衲族長；有神同在的約瑟家也攻取了伯特利。</li>
@@ -1006,7 +1006,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記2:6-3:6&qs_version=CUVMPT">士師記2:6-3:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day2-daily.html">傷癒忘痛</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記2:6-3:6&qs_version=CUVMPT">士師記2:6-3:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day2-daily.html">傷癒忘痛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>當沒有經歷神為他們爭戰的世代開始離棄神，轉去侍奉別神，耶和華按先前所起的誓，以災禍攻擊他們，把他們交在敵人手中，他們在敵人面前再不能站立得住。</li>
     <li>以色列人因受欺壓擾而哀聲嘆氣，神就憐憫他們，興起士師，拯救他們脫離敵人的手。</li>
@@ -1014,7 +1014,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記3:7-5:31&qs_version=CUVMPT">士師記3:7-5:31</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day3-daily.html">士師初興</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記3:7-5:31&qs_version=CUVMPT">士師記3:7-5:31</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day3-daily.html">士師初興</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列人忘記神，侍奉別神，被神交在迦南人手中受苦；以色列人向神呼求，神就興起士師拯救他們；然而以色列國中一旦太平，他們又去行惡。</li>
     <li>神先後興起俄陀聶、以笏、珊迦、底波拉作士師。</li>
@@ -1023,7 +1023,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記6-7&qs_version=CUVMPT">士師記6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day4-daily.html">以弱勝強</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記6-7&qs_version=CUVMPT">士師記6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day4-daily.html">以弱勝強</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>太平之後以色列人又行惡，被神交在米甸人手裡受擄掠七年。</li>
     <li>神的使者向基甸顯現，用火燒盡祭物作為基甸蒙恩的證據；基甸為神築壇，名為「耶和華沙龍」。</li>
@@ -1033,7 +1033,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記8&qs_version=CUVMPT">士師記8</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day5-daily.html">紀念勝利</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記8&qs_version=CUVMPT">士師記8</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day5-daily.html">紀念勝利</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以法蓮人因未被呼召同去征討米甸人而生怨言，基甸謙卑安撫。</li>
     <li>基甸繼續帶領三百勇士征討剩餘的一萬五千米甸人，殺死二王，驚散全軍。</li>
@@ -1043,7 +1043,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記9:1-10:5&qs_version=CUVMPT">士師記9:1-10:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day6-daily.html">自立為王</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記9:1-10:5&qs_version=CUVMPT">士師記9:1-10:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day6-daily.html">自立為王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>基甸的兒子亞比米勒自立為王，殺死弟兄七十人，唯有基甸的小兒子約坦躲過；約坦在基利心山上向示劍人大聲喊叫，警告叛逆的人將要敗亡。</li>
     <li>亞比米勒與示劍人不和、互相攻擊；三年後，亞比米勒在攻打提備斯時，被一塊婦人拋下的磨石擊中而死。</li>
@@ -1051,7 +1051,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記10:6-12:15&qs_version=CUVMPT">士師記10:6-12:15</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day1-daily.html">許願還願</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記10:6-12:15&qs_version=CUVMPT">士師記10:6-12:15</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day1-daily.html">許願還願</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列人離棄神、受非利士人和亞捫人的擾害欺壓十八年後，向神認罪並除掉外邦神；亞捫人來犯，以色列人苦於缺乏元帥。</li>
     <li>勇士耶弗他出身卑賤，被趕出家門；急難當中被長老們請回，率領以色列人迎擊敵人。</li>
@@ -1061,7 +1061,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記13-14&qs_version=CUVMPT">士師記13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day2-daily.html">神勇不羈</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記13-14&qs_version=CUVMPT">士師記13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day2-daily.html">神勇不羈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列人又行神眼中看为恶的事，在非利士人手中受苦害四十年。</li>
     <li>本不生育的參孫父母受神指示，把神所賜的兒子參孫獻為終身的拿細耳人。</li>
@@ -1071,7 +1071,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記15-16&qs_version=CUVMPT">士師記15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day3-daily.html">同歸於盡</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記15-16&qs_version=CUVMPT">士師記15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day3-daily.html">同歸於盡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>參孫怒中離開岳父家，回來時妻子已然另外嫁人；參孫盛怒之下對非利士人任意報復，致使前妻、岳父被害。</li>
     <li>猶大人迫於壓力，把參孫交於非利士人；參孫有神的靈感動，用驢腮骨擊殺非利士千人；神在無水之地使水湧出，參孫得救於乾渴。</li>
@@ -1079,7 +1079,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記17-18&qs_version=CUVMPT">士師記17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day4-daily.html">私設聖所</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記17-18&qs_version=CUVMPT">士師記17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day4-daily.html">私設聖所</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>「那時以色列中沒有王，各人任意而行。」(士17:6)</li>
     <li>米迦造神像和以弗得，在自家私設聖所，指派自己的兒子作祭司。</li>
@@ -1089,7 +1089,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記19&qs_version=CUVMPT">士師記19</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day5-daily.html">匪徒暴虐</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記19&qs_version=CUVMPT">士師記19</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day5-daily.html">匪徒暴虐</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>住以法蓮的一個利未人在帶妾回家的路上，途經便雅憫地界時無人接待，所幸有從以法蓮來的老人留他們住宿。</li>
     <li>不料在這便雅憫境內卻遇到只有在當年被神毀滅的所多瑪（創19）發生過的相同的事：城裡的匪徒強與利未人交合，老人願用自己的女兒代替而匪徒不肯；利未人只好交出自己的妾，被匪徒終夜凌辱而死。</li>
@@ -1097,7 +1097,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記20-21&qs_version=CUVMPT">士師記20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day6-daily.html">大加討伐</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記20-21&qs_version=CUVMPT">士師記20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk34-day6-daily.html">大加討伐</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>看到便雅憫境內竟然發生如此罄竹難書的惡事，以色列民從南到北群情激昂，聚集起來討伐便雅憫中的匪徒。</li>
     <li>便雅憫人拒絕交出匪徒，反出兵與前來的以色列眾支派對壘，並殺了四萬以色列人；求問神之後，以色列人大獲全勝，僅有六百便雅憫人逃脫。</li>
@@ -1108,27 +1108,27 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">路得記</summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記1&qs_version=CUVMPT">路得記 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day1-daily.html">由甜至苦</a> (展開)</summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記1&qs_version=CUVMPT">路得記 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day1-daily.html">由甜至苦</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>各人任意而行的士師時代，以利米勒因著信心軟弱，帶著妻子拿俄米和兩個兒子逃避饑荒，“滿滿地”離開猶大的伯利恆，遷居到神所厭惡的摩押。全能者使他們受苦，以利米勒和兩個兒子都是死在摩押地，一個兒婦離開拿俄米回歸娘家和摩押神，另一個兒婦路得卻立志跟隨婆婆，跟隨耶和華。</li>
      <li>路得所說的你往哪裡去，我也往哪裡去...你的國就是我的國，你的神就是我的神成為信心的美好榜樣。路得成為大衛的祖母，主耶穌家譜中的重要一員。</li>
    </ul>
  </details>
  <details>
-   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記2&qs_version=CUVMPT">路得記 2</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day2-daily.html">恩典覆庇</a> (展開)</summary>
+   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記2&qs_version=CUVMPT">路得記 2</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day2-daily.html">恩典覆庇</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>路得到波阿斯的田裡撿拾遺落的麥穗養活自己和婆婆，得到波阿斯的恩典保護。</li>
      <li>正如波阿斯的祝福，路得“來投靠耶和華——以色列的神的翅膀下”，滿得神的賞賜。</li>
    </ul>
  </details>
  <details>
-   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記3&qs_version=CUVMPT">路得記 3</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day3-daily.html">至親救贖</a> (展開)</summary>
+   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記3&qs_version=CUVMPT">路得記 3</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day3-daily.html">至親救贖</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>按照律法，至親的親屬有責任為死去的人盡本分，娶他的妻為他留下後裔，買他的田地為他存留產業。拿俄米按照這個律法要為路得找安身之處；路得也完全順服拿俄米的安排；波阿斯承諾按照律法為路得盡本分。</li>
    </ul>
  </details>
  <details>
-   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記4&qs_version=CUVMPT">路得記 4</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day4-daily.html">由苦變甜</a> (展開)</summary>
+   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記4&qs_version=CUVMPT">路得記 4</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day4-daily.html">由苦變甜</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>根據以色列的律法，在當地長老在場的情況下，波阿斯和另一個親屬決定了路得的歸屬。波阿斯憑著信心娶了路得，正如路得憑著信心跟隨拿俄米。</li>
      <li>拿俄米有了一個繼承人，並最終成為以色列的君王大衛的祖先 – 她的「苦」再次成為「甜」。</li>
@@ -1138,7 +1138,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">撒母耳記上</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上1:1-2:11&qs_version=CUVMPT">撒母耳記上1:1-2:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk54-day5-daily.html">哈拿禱告</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上1:1-2:11&qs_version=CUVMPT">撒母耳記上1:1-2:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk54-day5-daily.html">哈拿禱告</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>哈拿因為不能生育常被丈夫的另一個妻子毗尼拿激動，讓她生氣。尤其是在全家上示羅向耶和華獻祭的時候，毗尼拿更是年復一年大大激動她。</li>
    <li>哈拿在神面前不住禱告，希望得到耶和華神的眷顧得一兒子，並許願將這兒子奉獻給神。</li>
@@ -1146,14 +1146,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上2:12-4:1a&qs_version=CUVMPT">撒母耳記上2:12-4:1a</a> - <a href="https://bibleplan.github.io/daily/2022/wk54-day6-daily.html">先知長大</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上2:12-4:1a&qs_version=CUVMPT">撒母耳記上2:12-4:1a</a> - <a href="https://bibleplan.github.io/daily/2022/wk54-day6-daily.html">先知長大</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>祭司以利的兒子們身為祭司，卻行為敗壞，將百姓也陷於罪中。耶和華借神人的口宣告了對以利家的審判；</li>
    <li>撒母耳從小事奉神，蒙神喜悅，神定意揀選、呼召他為先知。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上4:1b-5:12&qs_version=CUVMPT">撒母耳記上4:1b-5:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day1-daily.html">榮耀離開</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上4:1b-5:12&qs_version=CUVMPT">撒母耳記上4:1b-5:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day1-daily.html">榮耀離開</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列人與非利士人打仗，吃了敗仗卻不求問耶和華，把約櫃當作工具帶到營中。他們大敗，約櫃被擄。</li>
    <li>以利的兩個兒子被殺，正是神所說的。以利跌倒死去。以利的兒婦在產難離世前說「榮耀離開以色列」。</li>
@@ -1161,7 +1161,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上6-7&qs_version=CUVMPT">撒母耳記上6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day2-daily.html">屬靈復興</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上6-7&qs_version=CUVMPT">撒母耳記上6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day2-daily.html">屬靈復興</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>非利士人將約櫃送回以色列，並帶上賠罪的禮物。伯示麥人歡喜迎接約櫃，獻燔祭和平安祭與神。</li>
    <li>但是因為其中有人擅觀約櫃，七十人被神擊殺，於是伯示麥人要求基列椰琳人將約櫃帶走。約櫃在基列椰琳二十年。</li>
@@ -1170,7 +1170,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上8-9&qs_version=CUVMPT">撒母耳記上8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day3-daily.html">揀選掃羅</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上8-9&qs_version=CUVMPT">撒母耳記上8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day3-daily.html">揀選掃羅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>撒母耳的兩個兒子不遵行父親的道。以色列的長老們要求撒母耳為他們如其他民族一樣立一個君王。撒母耳按照神的旨意警戒他們君王制度的壓迫，他們不願意聽</li>
    <li>從，執意要一個王來治理他們。</li>
@@ -1179,7 +1179,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上10-12&qs_version=CUVMPT">撒母耳記上10-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day4-daily.html">膏立掃羅</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上10-12&qs_version=CUVMPT">撒母耳記上10-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day4-daily.html">膏立掃羅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>撒母耳按照神的心意膏立掃羅，並給他三個印證；</li>
    <li>撒母耳在百姓的面前按照掣籤選王的方式掣出掃羅來，但是有人不服；</li>
@@ -1189,7 +1189,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上13:1-14:48&qs_version=CUVMPT">撒母耳記上13:1-14:48</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day5-daily.html">掃羅犯罪</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上13:1-14:48&qs_version=CUVMPT">撒母耳記上13:1-14:48</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day5-daily.html">掃羅犯罪</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>掃羅在吉甲等不及撒母耳的到來，就擅自獻祭，他也不願意等候耶和華。撒母耳說他因為沒有遵守神的命令，王位必不長久，神已尋著一個合神心意的人另立為君。</li>
    <li>掃羅逼迫百姓不停不吃地打仗，以至於百姓犯罪。當百姓犯罪以後，自己並不反省，反而試圖遮蓋。當神不回答他的問題的時候，他用掣籤之法掣出約拿單來要治罪，被百姓拯救；</li>
@@ -1197,7 +1197,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上14:49-15:35&qs_version=CUVMPT">撒母耳記上14:49-15:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day6-daily.html">掃羅被棄</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上14:49-15:35&qs_version=CUVMPT">撒母耳記上14:49-15:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk55-day6-daily.html">掃羅被棄</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神通過撒母耳曉諭掃羅，去擊打亞瑪力人，滅盡所有的。掃羅卻沒有按照神所吩咐的滅盡，留下亞瑪力的王、一切上好的牛羊和一切美物。</li>
    <li>因為掃羅轉去不跟從神，神後悔（新國際版譯為「難過」）立掃羅為王。</li>
@@ -1206,7 +1206,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上16-17&qs_version=CUVMPT">撒母耳記上16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day1-daily.html">膏立大衛</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上16-17&qs_version=CUVMPT">撒母耳記上16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day1-daily.html">膏立大衛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神讓撒母耳去伯利恆膏立新君；</li>
    <li>「耶和華不像人看人：人是看外貌；耶和華是看內心」，神在耶西的所有兒子中選了最小的大衛；</li>
@@ -1215,7 +1215,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上18-19&qs_version=CUVMPT">撒母耳記上18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day2-daily.html">嫉妒大衛</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上18-19&qs_version=CUVMPT">撒母耳記上18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day2-daily.html">嫉妒大衛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛與約拿單的心深相契合，成為好友；大衛戰績卓著，被掃羅看重，也被以色列人喜悅；</li>
    <li>以色列人迎接得勝的掃羅王，眾婦女歌唱「掃羅殺死千千，大衛殺死萬萬」，引發掃羅對大衛的強烈嫉妒；</li>
@@ -1224,7 +1224,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上20-21&qs_version=CUVMPT">撒母耳記上20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day3-daily.html">大衛逃亡</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上20-21&qs_version=CUVMPT">撒母耳記上20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day3-daily.html">大衛逃亡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛找到約拿單，通過約拿單最終確認了掃羅要殺自己的心；</li>
    <li>約拿單與大衛立約，兩位好友之間的個人盟約成為兩個家族之間的盟約；</li>
@@ -1232,7 +1232,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上22-23&qs_version=CUVMPT">撒母耳記上22-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day4-daily.html">化妝祝福</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上22-23&qs_version=CUVMPT">撒母耳記上22-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day4-daily.html">化妝祝福</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛帶著家人到摩押避難，神卻通過先知迦得叫他回到掃羅的權勢之內，猶大之地；</li>
    <li>掃羅因為祭司亞希米勒幫助大衛，就將祭司的全家和全城殘殺，毀壞了神所確立的祭司制度，斷絕自己與神之間的聯繫；</li>
@@ -1241,7 +1241,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上24-25&qs_version=CUVMPT">撒母耳記上24-25</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day5-daily.html">靠主饒恕</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上24-25&qs_version=CUVMPT">撒母耳記上24-25</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day5-daily.html">靠主饒恕</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>掃羅尋索大衛的性命，卻被交在大衛的手上。但是大衛卻不願意傷害神的受膏者，並在掃羅面前陳明心意。</li>
    <li>掃羅痛哭表示後悔，並承認大衛的義和神對大衛的揀選，要求大衛立下誓言不剪除他的後裔。</li>
@@ -1250,21 +1250,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上26-27&qs_version=CUVMPT">撒母耳記上26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day6-daily.html">人的保護</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上26-27&qs_version=CUVMPT">撒母耳記上26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk56-day6-daily.html">人的保護</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>西弗人又一次出賣大衛的藏身之處，掃羅又一次來尋索大衛的命。神再一次將掃羅交在大衛手中，大衛的手下再一次勸大衛除去掃羅，但是大衛再一次饒恕掃羅的性命。大衛再一次質問掃羅，掃羅再一次表示後悔。</li>
    <li>大衛不相信掃羅，決定逃到以色列的仇敵非利士人那裡去。他得到非利士王的信任。他攻擊消滅以色列的敵人（基述人、基色人、亞瑪力人），卻對非利士王謊稱是在攻擊以色列人和盟友，取得非利士人的信任。</li>
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上28-29&qs_version=CUVMPT">撒母耳記上28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day1-daily.html">神的保守</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上28-29&qs_version=CUVMPT">撒母耳記上28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day1-daily.html">神的保守</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>非利士人集結大軍要攻打以色列。掃羅求神不得著落，就去就神所厭惡的交鬼之術。他得到的答案反而使他的懼怕加增到絕境；</li>
    <li>身在非利士人勢力內的大衛也深陷兩難，是跟著非利士人去攻打以色列，幫助神的仇敵，還是拒絕跟隨，就陷入死地？神使用非利士人自己的不信任，倒幫助大衛脫離這個絕境。</li>
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上30-31&qs_version=CUVMPT">撒母耳記上30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day2-daily.html">痛悔回轉</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上30-31&qs_version=CUVMPT">撒母耳記上30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day2-daily.html">痛悔回轉</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛遭到亞瑪力人的報復，他的大本營洗革拉被亞瑪力人洗劫、焚毀，所有的親人都被擄走。大衛不僅自己痛苦非常，還被跟隨自己的人威脅生命。在這絕境，他回轉歸向神，依靠神，心裡堅固。</li>
    <li>神保守大衛的救援行動。不僅僅親人被救出，財產被追回，甚至還得了更多的擄物。</li>
@@ -1275,7 +1275,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">撒母耳記下</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下1-2&qs_version=CUVMPT">撒母耳記下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day3-daily.html">再次膏立</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下1-2&qs_version=CUVMPT">撒母耳記下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day3-daily.html">再次膏立</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>有亞瑪力少年人來到大衛面前報告壞消息，謊稱自己殺死掃羅。大衛因他殺死神的受膏者處死了他，並且為掃羅和約拿單哀哭，做「弓」歌弔念他們；</li>
    <li>猶大人在希伯崙膏立大衛，從此七年零六個月，大衛在希伯崙做猶大王。在此時期，掃羅的元帥押尼珥在瑪哈念擁立掃羅的兒子為王，開始掃羅家與大衛家的內戰時期。</li>
@@ -1283,7 +1283,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下3-4&qs_version=CUVMPT">撒母耳記下3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day4-daily.html">改朝換代</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下3-4&qs_version=CUVMPT">撒母耳記下3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day4-daily.html">改朝換代</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛家日見強盛，掃羅家日見衰弱。</li>
    <li>大衛做猶大王，繼續娶妻生子。</li>
@@ -1293,7 +1293,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下5-7&qs_version=CUVMPT">撒母耳記下5-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day5-daily.html">三次膏立</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下5-7&qs_version=CUVMPT">撒母耳記下5-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day5-daily.html">三次膏立</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛被膏立為以色列王。攻佔耶路撒冷，建立宮殿。大衛看到神堅立他的王位。</li>
    <li>大衛在神的帶領和幫助下，擊敗非利士人；</li>
@@ -1302,7 +1302,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下8-9&qs_version=CUVMPT">撒母耳記下8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day6-daily.html">王國堅立</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下8-9&qs_version=CUVMPT">撒母耳記下8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day6-daily.html">王國堅立</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神使大衛在爭戰中得勝，制服周圍的民族，大衛將奪得的金銀銅的器皿奉獻給神。</li>
    <li>大衛做以色列的王，秉公行義。</li>
@@ -1310,7 +1310,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下10-11&qs_version=CUVMPT">撒母耳記下10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day1-daily.html">大衛犯罪</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下10-11&qs_version=CUVMPT">撒母耳記下10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day1-daily.html">大衛犯罪</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛本要恩待亞扪的新王哈嫩，派去的人反被哈嫩侮辱。以色列與亞扪的戰事從此拉開。約押帶兵在前線奮勇爭戰，約櫃也在營裡，大衛卻留在王宮。</li>
    <li>軍兵在外打仗，大衛留在耶路撒冷，卻看上烏利亞的妻子拔示巴，與拔示巴有了姦情。拔示巴懷孕，大衛想召回烏利亞掩飾自己的罪，卻不能成功，就指使元帥約押藉敵軍之手除去烏利亞。</li>
@@ -1318,7 +1318,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下12&qs_version=CUVMPT">撒母耳記下12</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day2-daily.html">大衛悔改</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下12&qs_version=CUVMPT">撒母耳記下12</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day2-daily.html">大衛悔改</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神派拿單去責備大衛，並宣告他將受的審判；</li>
    <li>拿單由一個寓言開始，指出大衛不知足，藐視神的命令，行神眼中看為惡的事。</li>
@@ -1330,7 +1330,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下13-14&qs_version=CUVMPT">撒母耳記下13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day3-daily.html">姦淫謀殺</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下13-14&qs_version=CUVMPT">撒母耳記下13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day3-daily.html">姦淫謀殺</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>暗嫩在約拿達的攛掇下,使用計策誆騙大衛,姦淫了同父異母的妹妹她瑪;大衛發怒;她瑪的同胞哥哥押沙龍恨惡暗嫩。</li>
    <li>兩年後,押沙龍使用計策誆騙大衛和暗嫩,製造機會謀殺了暗嫩。押沙龍逃到外祖基述之處。</li>
@@ -1339,7 +1339,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下15-16&qs_version=CUVMPT">撒母耳記下15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day4-daily.html">陰謀背叛</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下15-16&qs_version=CUVMPT">撒母耳記下15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day4-daily.html">陰謀背叛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>押沙龍暗地裡為自己建立名聲和勢力,得了以色列人的心;他藉著還願的理由,到希伯崙揭竿背叛大衛。大衛的謀士亞希多弗也追隨他。勢派甚大。</li>
    <li>大衛逃離耶路撒冷,留下十個妃嬪看守宮殿。</li>
@@ -1348,7 +1348,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下17-18&qs_version=CUVMPT">撒母耳記下17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day5-daily.html">定意降禍</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下17-18&qs_version=CUVMPT">撒母耳記下17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day5-daily.html">定意降禍</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>押沙龍不聽亞希多弗的計謀,使大衛得以脫離兇惡,是因為神定意破壞亞希多弗的計謀,降禍於押沙龍;</li>
    <li>大衛在瑪哈念得朔比、瑪吉和巴西萊的供應;</li>
@@ -1356,7 +1356,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下19-20&qs_version=CUVMPT">撒母耳記下19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day6-daily.html">恩典歸回</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下19-20&qs_version=CUVMPT">撒母耳記下19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk58-day6-daily.html">恩典歸回</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛沉浸於失去押沙龍的哀痛中,約押警告大衛若不安慰百姓必有大禍患;</li>
    <li>以色列眾支派商議迎回大衛,大衛卻差人去叫祭司讓猶大支派來請他回去,並要立亞瑪撒代替約押為元帥,如此挽回猶大支派。但是卻造成以色列眾支派的不滿,間接導致示巴叛亂;也間接造成約押謀殺亞瑪撒。</li>
@@ -1365,7 +1365,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下21&qs_version=CUVMPT">撒母耳記下21</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day1-daily.html">舊罪之冤</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下21&qs_version=CUVMPT">撒母耳記下21</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day1-daily.html">舊罪之冤</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛年間有三年飢荒。大衛求問神,得知是掃羅違背以色列人的誓言,驅逐殺滅基遍人所致;</li>
    <li>大衛按照基遍人的要求,將掃羅子孫七人給基遍人,這七人被殺死懸掛;大衛愛惜約拿單的兒子米非波設,不將他交給基遍人;</li>
@@ -1375,20 +1375,20 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下22:1-23:7&qs_version=CUVMPT">撒母耳記下22:1-23:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day2-daily.html">感恩頌讚</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下22:1-23:7&qs_version=CUVMPT">撒母耳記下22:1-23:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day2-daily.html">感恩頌讚</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>撒母耳記下 22 是大衛為神救他脫離一切仇敵和掃羅的手而獻上感恩,這一篇詩篇也收錄在詩篇 18 章裡。第一段,他敘述自己在面臨將死於仇敵之手時,神拯救了他(22:5-20),第二段,他說明神施行拯救的時候所根據的信仰因素(22:21-30),第三段是他數算神賜給他的幫助(22:31-46)(參考聖經研讀本註釋)</li>
    <li>撒母耳記下 12:1-7 是大衛在生命的末了感謝讚美神,他意識到是神的靈在他身上做工,並仰望神與他的後裔所立的永約。</li>
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下23:8-39&qs_version=CUVMPT">撒母耳記下23:8-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day3-daily.html">勇士名錄</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下23:8-39&qs_version=CUVMPT">撒母耳記下23:8-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day3-daily.html">勇士名錄</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>聖經中一一列舉隨同大衛爭戰的勇士名錄，以及其中一些勇士的戰績。 </li>
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下24&qs_version=CUVMPT">撒母耳記下24</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day4-daily.html">數點百姓</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下24&qs_version=CUVMPT">撒母耳記下24</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day4-daily.html">數點百姓</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛吩咐約押去數點以色列人和猶大。</li>
    <li>大衛數點百姓以後，心中自責，知道自己大有罪了。 </li>
@@ -1399,7 +1399,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">列王紀上</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上1-2&qs_version=CUVMPT">列王紀上1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day5-daily.html">繼承王位</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上1-2&qs_version=CUVMPT">列王紀上1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day5-daily.html">繼承王位</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛年紀老邁。亞多尼雅夥同約押、祭司亞比亞他謀竊王位。 </li>
    <li>先知拿單和所羅門的母親拔示巴去見大衛，陳訴亞比亞他的陰謀。 </li>
@@ -1409,7 +1409,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上3-4&qs_version=CUVMPT">列王紀上3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day6-daily.html">國富民強</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上3-4&qs_version=CUVMPT">列王紀上3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day6-daily.html">國富民強</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門娶法老的女兒為妻。以色列民仍然在丘壇獻祭燒香。</li>
    <li>所羅門向神求智慧，蒙神喜悅，得以以智慧治理國家。</li>
@@ -1417,7 +1417,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上5-6&qs_version=CUVMPT">列王紀上5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day1-daily.html">建立聖殿</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上5-6&qs_version=CUVMPT">列王紀上5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day1-daily.html">建立聖殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門與推羅王希蘭立約建殿，將木料從黎巴嫩由海路運到以色列。 </li>
    <li>以色列人出埃及地後四百八十年，所羅門做以色列王第四年，開工建造耶和華的殿。</li>
@@ -1426,7 +1426,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上7&qs_version=CUVMPT">列王紀上7</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day2-daily.html">建造宮室</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上7&qs_version=CUVMPT">列王紀上7</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day2-daily.html">建造宮室</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門為自己建造宮室，十三年方才造成，又建造黎巴嫩林宮。</li>
    <li>所羅門王從推羅召了巧匠戶蘭來，製銅柱、鑄銅海、製銅座、製銅盆。</li>
@@ -1434,7 +1434,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上8-9&qs_version=CUVMPT">列王紀上8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day3-daily.html">獻上聖殿</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上8-9&qs_version=CUVMPT">列王紀上8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day3-daily.html">獻上聖殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門召聚以色列的長老和各支派的首領並以色列的族長，把耶和華的約櫃從大衛城運上來。 耶和華的榮光充滿了殿。</li>
    <li>王向以色列會眾說明建殿的原委，并在耶和華面前禱告祈求。之後為會眾祝福。</li>
@@ -1446,7 +1446,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上10-11&qs_version=CUVMPT">列王紀上10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day4-daily.html">隨從別神</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上10-11&qs_version=CUVMPT">列王紀上10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day4-daily.html">隨從別神</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>示巴女王見證所羅門的智慧。</li>
    <li>所羅門王的財寶與智慧勝過天下的列王，又聚集戰車馬兵。</li>
@@ -1457,7 +1457,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上12-13&qs_version=CUVMPT">列王紀上12-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day5-daily.html">南北分裂</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上12-13&qs_version=CUVMPT">列王紀上12-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day5-daily.html">南北分裂</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>羅波安在示劍被立做王。</li>
    <li>羅波安用少年人的主意，嚴厲對待以色列百姓，導致以色列人背叛大衛家。</li>
@@ -1469,7 +1469,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上14&qs_version=CUVMPT">列王紀上14</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day6-daily.html">日漸敗亡</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上14&qs_version=CUVMPT">列王紀上14</a> - <a href="https://bibleplan.github.io/daily/2022/wk60-day6-daily.html">日漸敗亡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞希雅預言耶羅波安家會敗亡、遘災。</li>
    <li>耶羅波安做王二十二年。他兒子拿答接續他做王。</li>
@@ -1479,7 +1479,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上15:1-16:20&qs_version=CUVMPT">列王紀上15:1-16:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day1-daily.html">朝代更替</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上15:1-16:20&qs_version=CUVMPT">列王紀上15:1-16:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day1-daily.html">朝代更替</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>南國猶大：羅波安的兒子亞比央做猶大王三年，行他父親在他以前所行的一切惡。</li>
    <li>亞比央的兒子亞撒接續他做王四十一年。亞撒行耶和華眼中看為正的事。</li>
@@ -1492,7 +1492,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上16:21-17:24&qs_version=CUVMPT">列王紀上16:21-17:24</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day2-daily.html">撒瑪利亞</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上16:21-17:24&qs_version=CUVMPT">列王紀上16:21-17:24</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day2-daily.html">撒瑪利亞</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>暗利做以色列王共十二年，在得撒做王六年。 後來買了撒馬利亞山，在山上造城。暗利行耶和華眼中看為惡的事，比他以前的列王作惡更甚。</li>
    <li>暗利的兒子亞哈登基做了以色列王。在撒馬利亞做以色列王二十二年。 亞哈行耶和華眼中看為惡的事，比他以前的列王更甚， 在撒馬利亞建造巴力的廟，在廟裡為巴力築壇。 亞哈又做亞舍拉。</li>
@@ -1501,7 +1501,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上18-19&qs_version=CUVMPT">列王紀上18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day3-daily.html">先知真假</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上18-19&qs_version=CUVMPT">列王紀上18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day3-daily.html">先知真假</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>到第三年，耶和華讓以利亞去見亞哈，責備亞哈離棄耶和華的誡命，去隨從巴力。</li>
    <li>以利亞在迦密山與巴力的先知鬥法。先知失敗被殺。</li>
@@ -1511,7 +1511,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上20-21&qs_version=CUVMPT">列王紀上20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day4-daily.html">膚淺信心</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上20-21&qs_version=CUVMPT">列王紀上20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day4-daily.html">膚淺信心</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞蘭人圍攻以色列的都城撒馬利亞，一位先知主動來見亞哈，提供從神來的默示和幫助。亞哈聽從神的話就勝了亞蘭王，讓亞蘭人看見耶和華是超越地域限制的全能真神。</li>
    <li>亞哈妄用仁慈，輕易放走神命定要滅絕的敵人，後來亞蘭長期成為以色列的禍患。神差遣一個先知的門徒來責備亞哈，並宣告他此行的惡果。亞哈因此預言悶悶不樂。</li>
@@ -1520,7 +1520,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上22&qs_version=CUVMPT">列王紀上22</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day5-daily.html">亞哈結局</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上22&qs_version=CUVMPT">列王紀上22</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day5-daily.html">亞哈結局</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞哈按照自己的心意，聯合猶大王約沙法，要挑起對亞蘭的戰爭，他愛聽假先知的奉承，倒不願聽耶和華的真先知的“凶言”，還將他下在監裡吃苦頭。</li>
    <li>神通過他的先知所說的話應驗，亞哈死於戰場，戰車上的血洗在池裡，被狗舔食，正如神藉著先知的口所預言的。</li>
@@ -1529,14 +1529,14 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">列王紀下</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下1-2&qs_version=CUVMPT">列王紀下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day6-daily.html">乘風升天</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下1-2&qs_version=CUVMPT">列王紀下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day6-daily.html">乘風升天</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列王亞哈謝受傷，不求問神，反而求問偶像。先知以利亞攔住亞哈謝派去求問巴力西卜的使者，向他宣告了神的預言。</li>
    <li>以利亞的時間到了，神用旋風將他接走。以利沙一直堅定跟隨，得到感動以利亞的靈的感動，從此接續以利亞的先知之職。</li>
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下3-4&qs_version=CUVMPT">列王紀下3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day1-daily.html">死而復生</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下3-4&qs_version=CUVMPT">列王紀下3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day1-daily.html">死而復生</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以利沙在以色列、猶大和以東與摩押的戰爭中，幫助這三個沒有水喝的軍隊得到從神來的供應，並靠著神的能力戰勝摩押。</li>
    <li>以利沙行神蹟，幫助一個先知門徒的遺孀還債，使她的兒子免受奴役之苦，並幫助他們有剩餘，可以靠著度日。</li>
@@ -1544,7 +1544,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下5-6&qs_version=CUVMPT">列王紀下5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day2-daily.html">潔淨痲瘋</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下5-6&qs_version=CUVMPT">列王紀下5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day2-daily.html">潔淨痲瘋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列的仇敵，亞蘭的元帥乃縵得了大麻瘋。被他從以色列擄走、在他家做奴僕的小女子看到主人的痲瘋，就提供先知以利沙的信息。乃縵到以利沙那裡，經僕人勸說，順從先知的話，在約旦河洗澡七次，得了潔淨。他立志從此只敬拜耶和華。</li>
    <li>以利沙的僕人基哈西，因貪圖小利，從乃縵那裡騙得銀子。以利沙責備他在不該接受錢財的時候為自己謀利。基哈西因此得了大麻瘋。</li>
@@ -1554,7 +1554,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下7-8&qs_version=CUVMPT">列王紀下7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day3-daily.html">亞蘭逃離</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下7-8&qs_version=CUVMPT">列王紀下7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day3-daily.html">亞蘭逃離</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>四個長大痲瘋的人看到亞蘭人逃跑，便與王家報信。</li>
    <li>亞蘭王便哈達，患病，被哈薛所殺。哈薛篡了他的位。</li>
@@ -1563,7 +1563,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下9-10&qs_version=CUVMPT">列王紀下9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day4-daily.html">耶戶絕戶</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下9-10&qs_version=CUVMPT">列王紀下9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day4-daily.html">耶戶絕戶</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>先知以利沙叫門徒去膏寧示的孫子、約沙法的兒子耶戶。 </li>
    <li>耶戶殺死以色列王約蘭、猶大王亞哈謝、耶洗別。 </li>
@@ -1574,7 +1574,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下11-12&qs_version=CUVMPT">列王紀下11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day5-daily.html">猶大新王</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下11-12&qs_version=CUVMPT">列王紀下11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day5-daily.html">猶大新王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞哈謝的兒子約阿施藏在耶和華的殿裡六年。亞她利雅篡了國位。 </li>
    <li>祭司耶何耶大膏約阿施做王。亞她利雅被殺。耶戶第七年，約阿施登基，在耶路撒冷做王四十年。</li>
@@ -1585,7 +1585,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下13-14&qs_version=CUVMPT">列王紀下13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day6-daily.html">代代相傳</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下13-14&qs_version=CUVMPT">列王紀下13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk62-day6-daily.html">代代相傳</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶戶的兒子約哈斯在撒馬利亞登基，做以色列王十七年。約哈斯行耶和華眼中看為惡的事。耶和華將以色列屢次交在亞蘭王哈薛和他兒子便哈達的手裡。</li>
    <li>約哈斯的兒子約阿施在撒馬利亞登基，做以色列王十六年。他行耶和華眼中看為惡的事。 </li>
@@ -1595,7 +1595,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下15-16&qs_version=CUVMPT">列王紀下15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day1-daily.html">猶大行惡</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下15-16&qs_version=CUVMPT">列王紀下15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day1-daily.html">猶大行惡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>猶大王亞瑪謝的兒子亞撒利雅在耶路撒冷做王五十二年。</li>
    <li>耶羅波安的兒子撒迦利雅在撒馬利亞做以色列王六個月。雅比的兒子沙龍登基，在撒馬利亞做王一個月。迦底的兒子米拿現登基，在撒馬利亞做以色列王十年。</li>
@@ -1605,7 +1605,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下17&qs_version=CUVMPT">列王紀下17</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day2-daily.html">以色列亡</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下17&qs_version=CUVMPT">列王紀下17</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day2-daily.html">以色列亡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>何細亞做以色列王。亞述王攻取撒馬利亞，將以色列人擄到亞述。</li>
    <li>以色列人得罪耶和華，去敬畏別神，以至從本地被擄到亞述。</li>
@@ -1614,7 +1614,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下18&qs_version=CUVMPT">列王紀下18</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day3-daily.html">賢明之王</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下18&qs_version=CUVMPT">列王紀下18</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day3-daily.html">賢明之王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>猶大王亞哈斯的兒子希西家登基，在耶路撒冷做王二十九年。 </li>
    <li>希西家倚靠耶和華以色列的神，在他前後的猶大列王中沒有一個及他的。 </li>
@@ -1623,7 +1623,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下19-20&qs_version=CUVMPT">列王紀下19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day4-daily.html">解圍亞述</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下19-20&qs_version=CUVMPT">列王紀下19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day4-daily.html">解圍亞述</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>希西家使家宰和書記去見先知以賽亞，以賽亞預言耶和華拯救。 </li>
    <li>耶和華的使者在亞述營中殺了十八萬五千人。 </li>
@@ -1633,7 +1633,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下21&qs_version=CUVMPT">列王紀下21</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day5-daily.html">猶大敗壞</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下21&qs_version=CUVMPT">列王紀下21</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day5-daily.html">猶大敗壞</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>瑪拿西在耶路撒冷做王五十五年，行耶和華眼中看為惡的事。</li>
    <li>耶和華藉先知預言因瑪拿西王的罪，神將降禍於耶路撒冷和猶大。 </li>
@@ -1642,7 +1642,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下22:1-23:35&qs_version=CUVMPT">列王紀下22:1-23:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day6-daily.html">打破偶像</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下22:1-23:35&qs_version=CUVMPT">列王紀下22:1-23:35</a> - <a href="https://bibleplan.github.io/daily/2022/wk63-day6-daily.html">打破偶像</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約西亞在耶路撒冷做王三十一年，行耶和華眼中看為正的事。 </li>
    <li>約西亞修理殿的破壞之處。 </li>
@@ -1653,7 +1653,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下23:36-25:3&qs_version=CUVMPT">列王紀下23:36-25:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day1-daily.html">猶大亡國</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下23:36-25:3&qs_version=CUVMPT">列王紀下23:36-25:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day1-daily.html">猶大亡國</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>巴比倫王尼布甲尼撒上到猶大，約雅敬服侍他三年，然後背叛他。 </li>
    <li>約雅敬兒子約雅斤接續他做王，在耶路撒冷做王三個月。 </li>
@@ -1666,7 +1666,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">歷代志上</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上1-2&qs_version=CUVMPT">歷代志上1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day2-daily.html">家譜族系</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上1-2&qs_version=CUVMPT">歷代志上1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day2-daily.html">家譜族系</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞當之譜系  </li>
    <li>亞伯拉罕之後裔  </li>
@@ -1680,7 +1680,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上3-4&qs_version=CUVMPT">歷代志上3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day3-daily.html">大衛後裔</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上3-4&qs_version=CUVMPT">歷代志上3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day3-daily.html">大衛後裔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛在希伯崙生六個兒子，在耶路撒冷生十三個兒子，還有他們的妹子她瑪；妃嬪的兒子不在其內。  </li>
    <li>所羅門的後裔。  </li>
@@ -1689,7 +1689,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上5-6&qs_version=CUVMPT">歷代志上5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day4-daily.html">河東之地</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上5-6&qs_version=CUVMPT">歷代志上5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day4-daily.html">河東之地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>魯本、迦得之後裔，瑪拿西半支派所居之地。  </li>
    <li>魯本、迦得、瑪拿西族得神的幫助，戰勝夏甲人和跟隨夏甲的人。  </li>
@@ -1701,7 +1701,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上7-8&qs_version=CUVMPT">歷代志上7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day5-daily.html">河西之地</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上7-8&qs_version=CUVMPT">歷代志上7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day5-daily.html">河西之地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以薩迦之後裔  </li>
    <li>便雅憫之後裔  </li>
@@ -1713,21 +1713,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上9&qs_version=CUVMPT">歷代志上9</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day6-daily.html">耶路撒冷</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上9&qs_version=CUVMPT">歷代志上9</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day6-daily.html">耶路撒冷</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>特別詳細記載居住在耶路撒冷的以色列後裔。 </li>
    <li>利未人在耶路撒冷的職任。 </li>
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上10&qs_version=CUVMPT">歷代志上10</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day1-daily.html">掃羅被殺</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上10&qs_version=CUVMPT">歷代志上10</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day1-daily.html">掃羅被殺</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>掃羅和他的兒子被殺的經過。  </li>
    <li>掃羅的死是因為他干犯耶和華，沒有遵守耶和華的命。又因他求問交鬼的婦人，沒有求問耶和華，所以耶和華使他被殺，把國歸於耶西的兒子大衛。 </li>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上11-12&qs_version=CUVMPT">歷代志上11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day2-daily.html">大衛做王</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上11-12&qs_version=CUVMPT">歷代志上11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day2-daily.html">大衛做王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列民集於希伯崙膏大衛為王。  </li>
    <li>大衛攻取錫安保障。  </li>
@@ -1736,7 +1736,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上13-14&qs_version=CUVMPT">歷代志上13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day3-daily.html">初為國王</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上13-14&qs_version=CUVMPT">歷代志上13-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day3-daily.html">初為國王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛與一切首領商議，要把神的約櫃運來。</li>
    <li>他們將神的約櫃從亞比拿達的家裡抬出來，放在新車上，烏撒和亞希約趕車。因為牛失前蹄，烏撒就伸手扶住約櫃，被神擊殺，死在神面前。</li>
@@ -1746,7 +1746,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上15-16&qs_version=CUVMPT">歷代志上15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day4-daily.html">迎來約櫃</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上15-16&qs_version=CUVMPT">歷代志上15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day4-daily.html">迎來約櫃</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛在大衛城為自己建造宮殿，又為神的約櫃預備地方，支搭帳幕。  </li>
    <li>大衛招聚利未子孫用槓，肩抬神的約櫃，照耶和華藉摩西所吩咐的。  </li>
@@ -1760,7 +1760,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上17&qs_version=CUVMPT">歷代志上17</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day5-daily.html">建殿心願</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上17&qs_version=CUVMPT">歷代志上17</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day5-daily.html">建殿心願</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛希望為耶和華建殿。但耶和華說：你不可建造殿宇給我居住。  </li>
    <li>耶和華應許大衛的後裔為祂建造殿宇，且必堅定他的國位直到永遠。  </li>
@@ -1768,7 +1768,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上18-19&qs_version=CUVMPT">歷代志上18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day6-daily.html">戰無不勝</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上18-19&qs_version=CUVMPT">歷代志上18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk65-day6-daily.html">戰無不勝</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛制伏非利士人、摩押人、亞蘭人。大衛無論往哪裡去，耶和華都使他得勝。  </li>
    <li>大衛在以東地設立防營，以東人就都歸服他。  </li>
@@ -1777,7 +1777,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上20-21&qs_version=CUVMPT">歷代志上20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day1-daily.html">數點百姓</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上20-21&qs_version=CUVMPT">歷代志上20-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day1-daily.html">數點百姓</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約押攻取拉巴，大衛奪了亞捫人之王所戴的金冠冕。  </li>
    <li>大衛的軍隊三次擊敗非利士人。  </li>
@@ -1786,7 +1786,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上22&qs_version=CUVMPT">歷代志上22</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day2-daily.html">預備建殿</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上22&qs_version=CUVMPT">歷代志上22</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day2-daily.html">預備建殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛預備許多，為殿預備材料甚多。  </li>
    <li>大衛召兒子所羅門來，囑咐他給耶和華以色列的神建造殿宇。  </li>
@@ -1794,7 +1794,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上23-24&qs_version=CUVMPT">歷代志上23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day3-daily.html">利未職任</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上23-24&qs_version=CUVMPT">歷代志上23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day3-daily.html">利未職任</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛年紀老邁,日子滿足,就立他兒子所羅門做以色列的王。</li>
    <li>利未人從二十歲以外的都被數點,都辦耶和華殿的事務。</li>
@@ -1803,7 +1803,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上25-26&qs_version=CUVMPT">歷代志上25-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day4-daily.html">各盡其職</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上25-26&qs_version=CUVMPT">歷代志上25-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day4-daily.html">各盡其職</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛和眾首領分派亞薩、希幔並耶杜頓的子孫彈琴、鼓瑟、敲鈸、唱歌。這些人掣籤分為二十四班。</li>
    <li>守門的班長與他們的弟兄一同在耶和華殿裡，按班供職，分守各門。</li>
@@ -1812,7 +1812,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上27-28&qs_version=CUVMPT">歷代志上27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day5-daily.html">王的產業</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上27-28&qs_version=CUVMPT">歷代志上27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day5-daily.html">王的產業</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列人分定班次，週年按月輪流，替換出入服侍王。</li>
    <li>管理以色列眾支派的官員的記錄。</li>
@@ -1822,7 +1822,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上29&qs_version=CUVMPT">歷代志上29</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day6-daily.html">盡力預備</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上29&qs_version=CUVMPT">歷代志上29</a> - <a href="https://bibleplan.github.io/daily/2022/wk66-day6-daily.html">盡力預備</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大衛為神的殿盡力預備金子做金器，銀子做銀器，銅做銅器，鐵做鐵器，木做木器，還有紅瑪瑙、可鑲嵌的寶石、彩石和一切的寶石，並許多漢白玉。又將自己積蓄的金銀獻上。</li>
    <li>眾族長和以色列各支派的首領、千夫長、百夫長，並監管王工的官長，都樂意獻上。</li>
@@ -1835,7 +1835,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">歷代志下</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day1-daily.html">所羅門王</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day1-daily.html">所羅門王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門國位堅固，耶和華與他同在，使他甚為尊大。</li>
    <li>所羅門對神求智慧、聰明，好判斷眾多的民。</li>
@@ -1845,7 +1845,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下3:1-5:1&qs_version=CUVMPT">歷代志下3:1-5:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day2-daily.html">建造聖殿</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下3:1-5:1&qs_version=CUVMPT">歷代志下3:1-5:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day2-daily.html">建造聖殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門在阿珥楠的禾場上開工建造耶和華的殿。</li>
    <li>所羅門建築神殿的根基都按著古時的尺寸。</li>
@@ -1856,7 +1856,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下5:2-6:42&qs_version=CUVMPT">歷代志下5:2-6:42</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day3-daily.html">約櫃入殿</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下5:2-6:42&qs_version=CUVMPT">歷代志下5:2-6:42</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day3-daily.html">約櫃入殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門把耶和華的約櫃從大衛城，就是錫安，運上耶路撒冷。 </li>
    <li>所羅門王轉臉為以色列會眾祝福，以色列會眾就都站立。 </li>
@@ -1864,7 +1864,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下7&qs_version=CUVMPT">歷代志下7</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day4-daily.html">上帝顯現</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下7&qs_version=CUVMPT">歷代志下7</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day4-daily.html">上帝顯現</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門祈禱已畢，就有火從天上降下來，燒盡燔祭和別的祭，耶和華的榮光充滿了殿。 </li>
    <li>王和眾民在耶和華面前獻祭。 </li>
@@ -1873,7 +1873,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下8&qs_version=CUVMPT">歷代志下8</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day5-daily.html">安居樂業</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下8&qs_version=CUVMPT">歷代志下8</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day5-daily.html">安居樂業</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>所羅門重新修築希蘭送給他的那些城邑，使以色列人住在那裡。 </li>
    <li>國中所剩下不屬以色列人的人，所羅門挑取他們的後裔做服苦的奴僕。 </li>
@@ -1885,7 +1885,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下9&qs_version=CUVMPT">歷代志下9</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day6-daily.html">賢明君王</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下9&qs_version=CUVMPT">歷代志下9</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day6-daily.html">賢明君王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>示巴女王聽見所羅門的名聲，就來到耶路撒冷，要用難解的話試問所羅門。 </li>
    <li>所羅門每年所得的金子共有六百六十六他連得。  </li>
@@ -1894,7 +1894,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下10-12&qs_version=CUVMPT">歷代志下10-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day1-daily.html">羅波安王</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下10-12&qs_version=CUVMPT">歷代志下10-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day1-daily.html">羅波安王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>羅波安不聽老年人的建議，苦待以色列人。 </li>
    <li>以色列眾民見王不依從他們，就都回自己家裡去了。 </li>
@@ -1907,7 +1907,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下13&qs_version=CUVMPT">歷代志下13</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day2-daily.html">亞比雅王</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下13&qs_version=CUVMPT">歷代志下13</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day2-daily.html">亞比雅王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶羅波安王十八年，亞比雅登基做猶大王，常與耶羅波安爭戰。 </li>
    <li>神耶羅波安和以色列眾人敗在亞比雅與猶大人面前。 </li>
@@ -1915,7 +1915,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下14-16&qs_version=CUVMPT">歷代志下14-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day3-daily.html">亞撒做王</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下14-16&qs_version=CUVMPT">歷代志下14-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day3-daily.html">亞撒做王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞比雅的兒子亞撒接續他做王，國中太平十年，亞撒行耶和華他神眼中看為善為正的事。 </li>
    <li>古實王謝拉攻擊猶大人。亞撒出去與他迎敵，耶和華使古實人敗在亞撒面前。 </li>
@@ -1928,7 +1928,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下17-18&qs_version=CUVMPT">歷代志下17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day4-daily.html">約沙法王</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下17-18&qs_version=CUVMPT">歷代志下17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day4-daily.html">約沙法王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞撒的兒子約沙法接續他做王，奮勇自強，防備以色列人。  </li>
    <li>約沙法做王第三年，就差遣臣子帶著耶和華的律法書，走遍猶大各城教訓百姓。  </li>
@@ -1941,7 +1941,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下19-20&qs_version=CUVMPT">歷代志下19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day5-daily.html">猶大新政</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下19-20&qs_version=CUVMPT">歷代志下19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day5-daily.html">猶大新政</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約沙法平安回耶路撒冷。先見哈拿尼的兒子耶戶勸勉約沙法王，不應該幫助惡人。  </li>
    <li>約沙法住在耶路撒冷，以後又出巡民間，引導民歸向耶和華他們列祖的神。  </li>
@@ -1955,7 +1955,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下21-22&qs_version=CUVMPT">歷代志下21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day6-daily.html">壞王約蘭</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下21-22&qs_version=CUVMPT">歷代志下21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk69-day6-daily.html">壞王約蘭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約沙法的兒子約蘭接續他做王。約蘭奮勇自強，用刀殺了他的眾兄弟和以色列的幾個首領，在耶路撒冷做王八年，行以色列諸王在耶和華眼中看為惡的事。  </li>
    <li>約蘭年間，以東人背叛猶大。立拿人也背叛，因為約蘭離棄耶和華他列祖的神。  </li>
@@ -1968,7 +1968,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下23-24&qs_version=CUVMPT">歷代志下23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day1-daily.html">約阿施王</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下23-24&qs_version=CUVMPT">歷代志下23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day1-daily.html">約阿施王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶何耶大奮勇自強，召來猶大首領，與他們立約，立約阿施做王。  </li>
    <li>亞她利雅在王宮的馬門前被殺。  </li>
@@ -1981,7 +1981,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下25-26&qs_version=CUVMPT">歷代志下25-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day3-daily.html">亞瑪謝王</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下25-26&qs_version=CUVMPT">歷代志下25-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day3-daily.html">亞瑪謝王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞瑪謝在耶路撒冷做王二十九年，行耶和華眼中看為正的事，只是心不專誠。  </li>
    <li>亞瑪謝從以色列招募了十萬大能的勇士，但被神人勸阻。  </li>
@@ -1993,7 +1993,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下27-28&qs_version=CUVMPT">歷代志下27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day2-daily.html">亞哈斯王</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下27-28&qs_version=CUVMPT">歷代志下27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day2-daily.html">亞哈斯王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約坦在耶路撒冷做王十六年，行耶和華眼中看為正的事，只是不入耶和華的殿。百姓還行邪僻的事。</li>
    <li>約坦兒子亞哈斯接續他，在耶路撒冷做王十六年。不像他祖大衛行耶和華眼中看為正的事。</li>
@@ -2003,7 +2003,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下29-30&qs_version=CUVMPT">歷代志下29-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day3-daily.html">希西家王</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下29-30&qs_version=CUVMPT">歷代志下29-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day3-daily.html">希西家王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>希西家在耶路撒冷做王二十九年，行耶和華眼中看為正的事，效法他祖大衛一切所行的。</li>
    <li>希西家召眾祭司和利未人來，要他們要潔淨自己，又潔淨耶和華神的殿，從聖所中除去汙穢之物。</li>
@@ -2013,7 +2013,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下31-32&qs_version=CUVMPT">歷代志下31-32</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day6-daily.html">為善為正</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下31-32&qs_version=CUVMPT">歷代志下31-32</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day6-daily.html">為善為正</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列眾人到猶大的城邑，打碎柱像，砍斷木偶，將丘壇和祭壇拆毀淨盡。</li>
    <li>希西家派定祭司、利未人的班次，各按各職在耶和華殿門內侍奉，稱謝、頌讚耶和華。</li>
@@ -2025,7 +2025,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下33-34&qs_version=CUVMPT">歷代志下33-34</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day2-daily.html">瑪拿西王</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下33-34&qs_version=CUVMPT">歷代志下33-34</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day2-daily.html">瑪拿西王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>瑪拿西在耶路撒冷做王五十五年，行耶和華眼中看為惡的事，耶和華警戒瑪拿西和他的百姓，他們卻是不聽，所以耶和華使亞述王的將帥來攻擊他們，用鐃鉤鉤住瑪拿，用銅鏈鎖住他，帶到巴比倫去。</li>
    <li>瑪拿西在急難的時候，就懇求耶和華他的神，且在他列祖的神面前極其自卑。耶和華垂聽他的禱告，使他歸回耶路撒冷。瑪拿西這才知道唯獨耶和華是神。</li>
@@ -2037,7 +2037,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下35-36&qs_version=CUVMPT">歷代志下35-36</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day5-daily.html">猶大被擄</a> (展開)</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下35-36&qs_version=CUVMPT">歷代志下35-36</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day5-daily.html">猶大被擄</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約西亞在耶路撒冷向耶和華守逾越節。樂意將犧牲給百姓和祭司、利未人。</li>
    <li>埃及王尼哥上來,約西亞出去抵擋他。不聽從神藉尼哥之口所說的話。弓箭手射中約西亞王，王就死了。</li>
@@ -2050,7 +2050,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">以斯拉記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記1-2&qs_version=CUVMPT">以斯拉記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day2-daily.html">被擄回歸</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記1-2&qs_version=CUVMPT">以斯拉記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day2-daily.html">被擄回歸</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神激動波斯王古列的心。古列下詔讓以色列人回耶路撒冷重建聖殿，實現神通過先知耶利米所說的話。</li>
    <li>約5萬個以色列人被神激動跟隨所羅巴伯回耶路撒冷重建聖殿，四圍的人也拿出銀器，金子，財物，牲畜，珍寶幫助他們，甘心為神的殿獻上禮物。</li>
@@ -2058,7 +2058,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記3-4&qs_version=CUVMPT">以斯拉記3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day3-daily.html">重建受阻</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記3-4&qs_version=CUVMPT">以斯拉記3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day3-daily.html">重建受阻</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>回歸耶路撒冷後，以色列人同心合一重建神的祭壇早晚向神獻祭，守耶和華訂的節期。</li>
    <li>第二年，所羅巴伯帶領眾人興工重建聖殿。根基立定時，眾人歸讚美給耶和華。百姓或哭號或歡呼，聲音傳達遠處。</li>
@@ -2067,7 +2067,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記5-6&qs_version=CUVMPT">以斯拉記5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day4-daily.html">聖殿完成</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記5-6&qs_version=CUVMPT">以斯拉記5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day4-daily.html">聖殿完成</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>大利烏王第二年，神興起先知勸勉以色列人重新聖殿重建的工程。</li>
    <li>所羅巴伯和約書亞重新開始聖殿重建的工程，有神的先知們幫助他們。</li>
@@ -2077,7 +2077,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記7-8&qs_version=CUVMPT">以斯拉記7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day5-daily.html">二次回歸</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記7-8&qs_version=CUVMPT">以斯拉記7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day5-daily.html">二次回歸</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞達薛西王第7年，以斯拉帶領第二批以色列人回歸耶路撒冷。</li>
    <li>神與以斯拉同在，使亞達薛西王允許他一切所求的，又奉獻金銀和器皿供聖殿使用，並免去利未人和祭司繳稅的負擔。</li>
@@ -2087,7 +2087,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記9-10&qs_version=CUVMPT">以斯拉記9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day6-daily.html">認罪悔改</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記9-10&qs_version=CUVMPT">以斯拉記9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day6-daily.html">認罪悔改</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在耶路撒冷的以色列人，包括祭司和利未人，與周圍外邦女子通婚，偏離神的道。</li>
    <li>以斯拉聽見這事，心中愁苦驚惶。他撕裂衣服和外袍，拔頭髮和鬍鬚。敬畏神的眾人聚集在以斯拉周圍，向神跪拜舉手哭泣，禱告認罪。</li>
@@ -2098,7 +2098,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">尼希米記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day1-daily.html">重建城墻</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day1-daily.html">重建城墻</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>尼希米為故土禁食祈禱。</li>
    <li>亞達薛西王允許尼希米返回耶路撒冷去建築城垣。</li>
@@ -2107,7 +2107,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記3-4&qs_version=CUVMPT">尼希米記 3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day2-daily.html">依次建門</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記3-4&qs_version=CUVMPT">尼希米記 3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day2-daily.html">依次建門</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>眾人合力依次建造各門。</li>
    <li>參巴拉聽見我們修造城牆就發怒，大大惱恨，嗤笑猶大人。</li>
@@ -2116,7 +2116,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記5-6&qs_version=CUVMPT">尼希米記 5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day3-daily.html">修完城墻</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記5-6&qs_version=CUVMPT">尼希米記 5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day3-daily.html">修完城墻</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>百姓因貧苦而大大呼號，埋怨他們的弟兄猶大人。</li>
    <li>尼希米聽見他們呼號說這些話，便甚發怒。</li>
@@ -2127,7 +2127,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記7&qs_version=CUVMPT">尼希米記 7</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day4-daily.html">百姓家譜</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記7&qs_version=CUVMPT">尼希米記 7</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day4-daily.html">百姓家譜</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>城牆修完，安了門扇，守門的、歌唱的和利未人都已派定。</li>
    <li>派哈拿尼和營樓的宰官哈拿尼雅管理耶路撒冷，因為哈拿尼雅是忠信的，又敬畏神過於眾人。</li>
@@ -2137,7 +2137,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記8&qs_version=CUVMPT">尼希米記 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day5-daily.html">讀經守節</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記8&qs_version=CUVMPT">尼希米記 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day5-daily.html">讀經守節</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>到了七月，以色列人聚集在水門前，請文士以斯拉將律法書帶到聽了能明白的男女會眾面前，眾民側耳而聽。</li>
    <li>尼希米和以斯拉對眾民說：今日是我們主的聖日。你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。</li>
@@ -2145,7 +2145,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記9&qs_version=CUVMPT">尼希米記 9</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day6-daily.html">認罪立約</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記9&qs_version=CUVMPT">尼希米記 9</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day6-daily.html">認罪立約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>這月二十四日，以色列人聚集禁食，身穿麻衣，頭蒙灰塵，承認自己的罪惡和列祖的罪孽。</li>
    <li>利未人稱頌耶和華神，造了天地萬物，拯救以色列。</li>
@@ -2154,7 +2154,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記10&qs_version=CUVMPT">尼希米記 10</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day1-daily.html">眾民歸服</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記10&qs_version=CUVMPT">尼希米記 10</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day1-daily.html">眾民歸服</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在約書上簽名的人的名錄。</li>
    <li>其餘的民凡歸服神律法的，都發咒起誓，遵行神藉他僕人摩西所傳的律法、誡命、典章、律例。</li>
@@ -2162,7 +2162,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記11-12&qs_version=CUVMPT">尼希米記 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day2-daily.html">分居各城</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記11-12&qs_version=CUVMPT">尼希米記 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day2-daily.html">分居各城</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>百姓的首領住在耶路撒冷，其餘的百姓掣籤，每十人中使一人來住在聖城耶路撒冷，那九人住在別的城邑。</li>
    <li>猶大便雅憫人分居莊村和屬莊村的田地。</li>
@@ -2172,7 +2172,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記13&qs_version=CUVMPT">尼希米記 13</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day3-daily.html">潔淨聖殿</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記13&qs_version=CUVMPT">尼希米記 13</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day3-daily.html">潔淨聖殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞捫人和摩押人永不可入神的會。</li>
    <li>以利亞實為多比雅在神殿的院內預備屋子，尼希米惱怒，就把多比雅的一切家具從屋裡都拋出去。</li>
@@ -2183,7 +2183,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">以斯帖記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記1.1-2.18&qs_version=CUVMPT">以斯帖記 1.1-2.18</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day1-daily.html">被選為后</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記1.1-2.18&qs_version=CUVMPT">以斯帖記 1.1-2.18</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day1-daily.html">被選為后</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞哈隨魯王在書珊城的宮登基，在位第三年，設擺筵席。</li>
    <li>王后瓦實提不肯遵太監所傳的王命而來，所以王甚發怒，心如火燒。</li>
@@ -2193,7 +2193,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記2.19-3.15&qs_version=CUVMPT">以斯帖記 2.19-3.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day2-daily.html">滅族之禍</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記2.19-3.15&qs_version=CUVMPT">以斯帖記 2.19-3.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day2-daily.html">滅族之禍</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>末底改舉報兩個守門的害亞哈隨魯王的陰謀。這事在王面前寫於歷史上。</li>
    <li>因末底改不跪不拜哈曼，他就怒氣填胸，要滅絕通國所有的猶大人。</li>
@@ -2202,7 +2202,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記4-5&qs_version=CUVMPT">以斯帖記 4-5</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day3-daily.html">預備祈求</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記4-5&qs_version=CUVMPT">以斯帖記 4-5</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day3-daily.html">預備祈求</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>末底改撕裂衣服，穿麻衣，蒙灰塵，痛哭哀號。</li>
    <li>末底改囑咐以斯帖進去見王，為本族的人在王面前懇切祈求。</li>
@@ -2212,7 +2212,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記6-7&qs_version=CUVMPT">以斯帖記 6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day4-daily.html">奇妙拯救</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記6-7&qs_version=CUVMPT">以斯帖記 6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day4-daily.html">奇妙拯救</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>王讀歷史得知末底改的功勞，卻沒有得尊榮爵位。</li>
    <li>王吩咐哈曼將朝服給末底改穿上，使他騎上馬，走遍街市，宣告王所喜悅尊榮的人。</li>
@@ -2221,7 +2221,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記8&qs_version=CUVMPT">以斯帖記 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day5-daily.html">大得尊榮</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記8&qs_version=CUVMPT">以斯帖記 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day5-daily.html">大得尊榮</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞哈隨魯王把猶哈曼的家產賜給王后以斯帖。以斯帖派末底改管理哈曼的家產。</li>
    <li>以斯帖求除掉哈曼害猶大人的惡謀。王准猶大人在一日之間剪除、殺戮、滅絕那要攻擊猶大人的一切仇敵和他們的妻子、兒女，奪取他們的財為掠物。</li>
@@ -2229,7 +2229,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記9-10&qs_version=CUVMPT">以斯帖記 9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day6-daily.html">轉憂為喜</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記9-10&qs_version=CUVMPT">以斯帖記 9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day6-daily.html">轉憂為喜</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞達月十三日，猶大人轄制恨他們的人，在書珊城殺滅了五百人，又殺了哈曼的十個兒子。</li>
    <li>末底改囑咐猶大人每年守亞達月十四、十五兩日，為脫離仇敵得平安，轉憂為喜，轉悲為樂的吉日。在這兩日設筵歡樂，彼此饋送禮物，賙濟窮人。</li>
@@ -2240,7 +2240,7 @@ layout: post
 
 <details><summary style="text-decoration: underline; color: #1E6BB8;">以賽亞書</summary>  
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day5-daily.html">先知預言</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day5-daily.html">先知預言</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>當烏西雅、約坦、亞哈斯、希西家做猶大王的時候，以賽亞得默示，論到猶大和耶路撒冷。</li>
    <li>以賽亞責備百姓離棄耶和華，藐視以色列的聖者，與他生疏，往後退步。</li>
@@ -2251,7 +2251,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書2.6-4.1&qs_version=CUVMPT">以賽亞書 2.6-4.1</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day6-daily.html">降罰之日</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書2.6-4.1&qs_version=CUVMPT">以賽亞書 2.6-4.1</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day6-daily.html">降罰之日</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華離棄雅各家，是因他們充滿了東方的風俗，與外邦人擊掌。</li>
    <li>耶和華降罰的日子要臨到驕傲狂妄的，一切自高的都必降為卑，偶像必全然廢棄，除掉眾人所倚靠的、所仗賴的。</li>
@@ -2259,7 +2259,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書4.2-5.30&qs_version=CUVMPT">以賽亞書 4.2-5.30</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day1-daily.html">選民之禍</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書4.2-5.30&qs_version=CUVMPT">以賽亞書 4.2-5.30</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day1-daily.html">選民之禍</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>審判之後，耶和華發生的苗必華美尊榮，公義的靈將錫安女子的汙穢洗去。</li>
    <li>葡萄園在肥美的山岡上，指望結好葡萄，反倒結了野葡萄。耶和華的葡萄園就是以色列家，他所喜愛的樹就是猶大人。他指望的是公平，誰知倒有暴虐。</li>
@@ -2268,7 +2268,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書6&qs_version=CUVMPT">以賽亞書 6</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day2-daily.html">蒙主差遣</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書6&qs_version=CUVMPT">以賽亞書 6</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day2-daily.html">蒙主差遣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>當烏西雅王崩的那年，以賽亞見主坐在高高的寶座上，其上有撒拉弗侍立敬拜。</li>
    <li>以賽亞自認有禍、滅亡，因為知道自己的嘴唇不潔，又住在嘴唇不潔的民中。</li>
@@ -2277,7 +2277,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書7-8&qs_version=CUVMPT">以賽亞書 7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day3-daily.html">兩王被棄</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書7-8&qs_version=CUVMPT">以賽亞書 7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day3-daily.html">兩王被棄</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>猶大王亞哈斯在位的時候，亞蘭王利汛和以色列王比加，上來攻打耶路撒冷。</li>
    <li>耶和華讓以賽亞和他的兒子施亞雅述去對亞哈斯說：你要謹慎安靜，不要膽怯。</li>
@@ -2288,7 +2288,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書9-10&qs_version=CUVMPT">以賽亞書 9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day3-daily.html">擊打百姓</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書9-10&qs_version=CUVMPT">以賽亞書 9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day3-daily.html">擊打百姓</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>從前神使西布倫地和拿弗他利地被藐視，末後得著榮耀。</li>
    <li>因有一嬰孩為我們而生，有一子賜給我們。</li>
@@ -2299,7 +2299,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書11-12&qs_version=CUVMPT">以賽亞書 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day4-daily.html">伸手拯救</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書11-12&qs_version=CUVMPT">以賽亞書 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day4-daily.html">伸手拯救</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>從耶西的本必發一條，耶和華的靈必住在他身上。</li>
    <li>耶西的根立做萬民的大旗，外邦人必尋求他。</li>
@@ -2308,7 +2308,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書13.1-14.27&qs_version=CUVMPT">以賽亞書 13.1-14.27</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day3-daily.html">論巴比倫</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書13.1-14.27&qs_version=CUVMPT">以賽亞書 13.1-14.27</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day3-daily.html">論巴比倫</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞摩斯的兒子以賽亞得默示論巴比倫。</li>
    <li>耶和華的日子臨近，要毀滅巴比倫全地。</li>
@@ -2318,7 +2318,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書14.28-17.14&qs_version=CUVMPT">以賽亞書 14.28-17.14</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day4-daily.html">斥責列邦</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書14.28-17.14&qs_version=CUVMPT">以賽亞書 14.28-17.14</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day4-daily.html">斥責列邦</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>亞哈斯王崩的那年神的默示。</li>
    <li>非利士全地之重災，必有饑荒，所餘剩的人必被殺戮。</li>
@@ -2330,7 +2330,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書18-20&qs_version=CUVMPT">以賽亞書 18-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day5-daily.html">古實埃及</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書18-20&qs_version=CUVMPT">以賽亞書 18-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day5-daily.html">古實埃及</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>古實之民英勇可畏。他們必將禮物奉給萬軍之耶和華，奉到錫安山。</li>
    <li>耶和華臨到埃及。埃及的偶像在他面前戰兢，瑣安的首領極其愚昧，法老大有智慧的謀士所籌劃的成為愚謀。</li>
@@ -2339,7 +2339,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書21-23&qs_version=CUVMPT">以賽亞書 21-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day6-daily.html">巴比倫滅</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書21-23&qs_version=CUVMPT">以賽亞書 21-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day6-daily.html">巴比倫滅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>先知在異象中得睹巴比倫被滅。巴比倫傾倒了！她一切雕刻的神像都打碎於地。</li>
    <li>論度瑪的默示。論阿拉伯之預言。</li>
@@ -2348,7 +2348,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書24-25&qs_version=CUVMPT">以賽亞書 24-25</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day1-daily.html">頌讚主名</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書24-25&qs_version=CUVMPT">以賽亞書 24-25</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day1-daily.html">頌讚主名</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>地被居民汙穢，因為他們犯了律法，背了永約。所以地被咒詛吞滅。 </li>
     <li>人要為耶和華的威嚴歡呼，從地極有人歌唱說：「榮耀歸於義人！」 </li>
@@ -2357,7 +2357,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書26-27&qs_version=CUVMPT">以賽亞書 26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day2-daily.html">聚集餘民</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書26-27&qs_version=CUVMPT">以賽亞書 26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day2-daily.html">聚集餘民</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>猶大地人唱歌，勸人當倚靠耶和華，直到永遠，因為耶和華是永久的磐石。</li>
     <li>百姓要進入內室，關上門，隱藏片時，等到憤怒過去。</li>
@@ -2367,7 +2367,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書28-29&qs_version=CUVMPT">以賽亞書 28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day6-daily.html">不可褻慢</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書28-29&qs_version=CUVMPT">以賽亞書 28-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day6-daily.html">不可褻慢</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以法蓮心裡高傲，猶如將殘之花。</li>
     <li>到那日，耶和華必做他餘剩之民的榮冠華冕。</li>
@@ -2378,7 +2378,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書30-31&qs_version=CUVMPT">以賽亞書 30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day1-daily.html">悖逆兒女</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書30-31&qs_version=CUVMPT">以賽亞書 30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day1-daily.html">悖逆兒女</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華責備悖逆的兒女下埃及去，靠法老的力量。</li>
     <li>責備人民悖逆不聽訓言。</li>
@@ -2389,7 +2389,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書32-33&qs_version=CUVMPT">以賽亞書 32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day2-daily.html">復興應許</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書32-33&qs_version=CUVMPT">以賽亞書 32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day2-daily.html">復興應許</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>必有一王憑公義行政，必有首領藉公平掌權。</li>
     <li>預言猶大國之荒廢，直等到聖靈從上澆灌我們。</li>
@@ -2398,7 +2398,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書34-35&qs_version=CUVMPT">以賽亞書 34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day3-daily.html">復仇申冤</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書34-35&qs_version=CUVMPT">以賽亞書 34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day3-daily.html">復仇申冤</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華向萬國發憤恨，將他們滅盡，因耶和華有報仇之日。</li>
     <li>曠野和乾旱之地必然歡喜。人必看見耶和華的榮耀，我們神的華美。</li>
@@ -2407,7 +2407,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書36-37&qs_version=CUVMPT">以賽亞書 36-37</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day4-daily.html">因驕致禍</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書36-37&qs_version=CUVMPT">以賽亞書 36-37</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day4-daily.html">因驕致禍</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>希西家王十四年，亞述王西拿基立上來攻擊猶大的一切堅固城，將城攻取。</li>
     <li>亞述王從拉吉差遣拉伯沙基率領大軍往耶路撒冷，拉伯沙基對猶大人狂語。</li>
@@ -2419,7 +2419,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書38-39&qs_version=CUVMPT">以賽亞書 38-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day5-daily.html">病而痊愈</a> (展開)</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書38-39&qs_version=CUVMPT">以賽亞書 38-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day5-daily.html">病而痊愈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>希西家病得要死，轉臉朝牆，向耶和華禱告。</li>
     <li>耶和華的話臨到以賽亞，讓他告訴希西家，神必加增他十五年的壽數，也要保護這城。</li>
@@ -2429,7 +2429,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書40.1-11&qs_version=CUVMPT">以賽亞書 40.1-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day6-daily.html">主為牧人</a> (展開)</summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書40.1-11&qs_version=CUVMPT">以賽亞書 40.1-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk76-day6-daily.html">主為牧人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神安慰百姓，對耶路撒冷說安慰的話。</li>
     <li>在曠野預備耶和華的路，在沙漠地修平我們神的道。</li>
@@ -2438,7 +2438,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書40.12-41.29&qs_version=CUVMPT">以賽亞書 40.12-41.29</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day1-daily.html">無人可比</a> (展開)</summary>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書40.12-41.29&qs_version=CUVMPT">以賽亞書 40.12-41.29</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day1-daily.html">無人可比</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神是無人可比，沒有什麼形象可比較。</li>
     <li>神創造萬象，按數目領出。</li>
@@ -2448,7 +2448,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書42-43&qs_version=CUVMPT">以賽亞書 42-43</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day2-daily.html">獨一救主</a> (展開)</summary>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書42-43&qs_version=CUVMPT">以賽亞書 42-43</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day2-daily.html">獨一救主</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華已揀選僕人，他必將公理傳給外邦。</li>
     <li>耶和華憑公義召他，使他做眾民的中保，做外邦人的光。</li>
@@ -2461,7 +2461,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書44.1-23&qs_version=CUVMPT">以賽亞書 44.1-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day3-daily.html">諸天頌揚</a> (展開)</summary>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書44.1-23&qs_version=CUVMPT">以賽亞書 44.1-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day3-daily.html">諸天頌揚</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華以色列的君是首先的，是末後的，除祂以外，再沒有真神。</li>
     <li>勸以色列不要恐懼，也不要害怕！因他們是耶和華的見證。</li>
@@ -2470,7 +2470,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書44.24-45.25&qs_version=CUVMPT">以賽亞書 44.24-45.25</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day4-daily.html">興起拯救</a> (展開)</summary>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書44.24-45.25&qs_version=CUVMPT">以賽亞書 44.24-45.25</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day4-daily.html">興起拯救</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華是創造萬物的，是獨自鋪張諸天、鋪開大地的。</li>
     <li>耶和華膏居魯士，攙扶他的右手，使列國降伏在他面前。</li>
@@ -2479,7 +2479,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書46-47&qs_version=CUVMPT">以賽亞書 46-47</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day5-daily.html">公義臨到</a> (展開)</summary>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書46-47&qs_version=CUVMPT">以賽亞書 46-47</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day5-daily.html">公義臨到</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>巴比倫的偶像不能被保全，將要被擄去。</li>
     <li>耶和華已造做以色列，也必保抱；祂必懷抱，也必拯救。</li>
@@ -2490,7 +2490,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書48&qs_version=CUVMPT">以賽亞書 48</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day6-daily.html">呼喚悔改</a> (展開)</summary>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書48&qs_version=CUVMPT">以賽亞書 48</a> - <a href="https://bibleplan.github.io/daily/2022/wk77-day6-daily.html">呼喚悔改</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>責備雅各家指著耶和華的名起誓，卻不憑誠實，不憑公義。</li>
     <li>責備雅各家行事極其詭詐，自從出胎以來便稱為悖逆的。</li>
@@ -2499,7 +2499,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書49-50&qs_version=CUVMPT">以賽亞書 49-50</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day1-daily.html">神的僕人</a> (展開)</summary>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書49-50&qs_version=CUVMPT">以賽亞書 49-50</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day1-daily.html">神的僕人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>自我出胎，耶和華就選召我;雖然勞碌是徒然，然而我的賞賜必在我神那裡。</li>
     <li>耶和華從我出胎造就我做他的僕人，要使雅各歸向他，我的神也成為我的力量。</li>
@@ -2511,7 +2511,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書51.1-52.12&qs_version=CUVMPT">以賽亞書 51.1-52.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day2-daily.html">救恩臨到</a> (展開)</summary>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書51.1-52.12&qs_version=CUVMPT">以賽亞書 51.1-52.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day2-daily.html">救恩臨到</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>追求公義、尋求耶和華的，要追想神的選召和賜福。</li>
     <li>耶和華已經安慰錫安，在其中必有歡喜、快樂、感謝和歌唱的聲音。</li>
@@ -2522,7 +2522,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書52.13-53.12&qs_version=CUVMPT">以賽亞書 52.13-53.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day3-daily.html">代贖罪孽</a> (展開)</summary>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書52.13-53.12&qs_version=CUVMPT">以賽亞書 52.13-53.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day3-daily.html">代贖罪孽</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神的僕人面貌比別人憔悴，形容比世人枯槁，但行事卻有智慧，必被高舉上升，且成為至高。</li>
     <li>神的僕人無佳形美容，也無美貌使人羨慕。</li>
@@ -2534,7 +2534,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書54-55&qs_version=CUVMPT">以賽亞書 54-55</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day3-daily.html">擴張帳幕</a> (展開)</summary>
+  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書54-55&qs_version=CUVMPT">以賽亞書 54-55</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day3-daily.html">擴張帳幕</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>要擴張你帳幕之地,你的後裔必得多國為業。</li>
     <li>不要懼怕,因你必不致蒙羞.</li>
@@ -2547,7 +2547,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>31. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書56-57&qs_version=CUVMPT">以賽亞書 56-57</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day5-daily.html">至高至聖</a> (展開)</summary>
+  <summary>31. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書56-57&qs_version=CUVMPT">以賽亞書 56-57</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day5-daily.html">至高至聖</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>當謹守安息日而不干犯，禁止己手而不作惡。</li>
     <li>耶和華的殿必稱為萬民禱告的殿。</li>
@@ -2556,7 +2556,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>32. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書58-59&qs_version=CUVMPT">以賽亞書 58-59</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day6-daily.html">拯救罪人</a> (展開)</summary>
+  <summary>32. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書58-59&qs_version=CUVMPT">以賽亞書 58-59</a> - <a href="https://bibleplan.github.io/daily/2022/wk78-day6-daily.html">拯救罪人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神要先知向百姓說明他們的過犯，向雅各家說明他們的罪惡。</li>
     <li>若禁食的日子仍求利益，互相爭競，這樣禁食，豈是神所揀選，使人刻苦己心的日子嗎？</li>
@@ -2567,7 +2567,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>33. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書60-61&qs_version=CUVMPT">以賽亞書 60-61</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day1-daily.html">興起發光</a> (展開)</summary>
+  <summary>33. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書60-61&qs_version=CUVMPT">以賽亞書 60-61</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day1-daily.html">興起發光</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>興起發光，耶和華的榮耀發現照耀你，萬國要來就你的光。</li>
     <li>眾人都聚集來到你這裡。哪一邦哪一國不侍奉你，就必滅亡。</li>
@@ -2578,7 +2578,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>34. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書62.1-63.6&qs_version=CUVMPT">以賽亞書 62.1-63.6</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day2-daily.html">直到地極</a> (展開)</summary>
+  <summary>34. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書62.1-63.6&qs_version=CUVMPT">以賽亞書 62.1-63.6</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day2-daily.html">直到地極</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>先知因錫安必不靜默，直到公義如光輝發出。</li>
     <li>你必不再稱為「撇棄的」，卻要稱為「我所喜悅的」，因為耶和華喜悅你，你的地也必歸他。</li>
@@ -2587,7 +2587,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>35. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書63.7-64.12&qs_version=CUVMPT">以賽亞書 63.7-64.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day3-daily.html">裂天而降</a> (展開)</summary>
+  <summary>35. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書63.7-64.12&qs_version=CUVMPT">以賽亞書 63.7-64.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day3-daily.html">裂天而降</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>受膏者與人同受苦難，並以慈愛和憐憫救贖他們。</li>
     <li>當人悖逆，使主的聖靈擔憂，他就轉做他們的仇敵，親自攻擊他們。</li>
@@ -2597,7 +2597,7 @@ layout: post
   </ul>
  </details>
 <details>
-  <summary>36. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書65.1-16&qs_version=CUVMPT">以賽亞書 65.1-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day4-daily.html">遺民得福</a> (展開)</summary>
+  <summary>36. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書65.1-16&qs_version=CUVMPT">以賽亞書 65.1-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day4-daily.html">遺民得福</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>素來沒有尋找耶和華的，會叫他們遇見，並稱為神的名下。</li>
     <li>猶大因不信而被神所棄，神必不靜默，必施行報應。</li>
@@ -2606,7 +2606,7 @@ layout: post
   </ul>
  </details>
 <details>
-  <summary>37. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書65.17-66.24&qs_version=CUVMPT">以賽亞書 65.17-66.24</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day5-daily.html">新天新地</a> (展開)</summary>
+  <summary>37. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書65.17-66.24&qs_version=CUVMPT">以賽亞書 65.17-66.24</a> - <a href="https://bibleplan.github.io/daily/2022/wk79-day5-daily.html">新天新地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華造新天新地，從前的事不再被記念。當因神所造的永遠歡喜快樂。</li>
     <li>天是神的座位，地是神的腳凳。但神所看顧的就是虛心、痛悔的人。</li>
@@ -2621,7 +2621,7 @@ layout: post
 
 <details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米書</summary>  
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day6-daily.html">蒙神差遣</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day6-daily.html">蒙神差遣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約西亞在位十三年，耶和華的話臨到耶利米。</li>
    <li>耶和華未將耶利米造在腹中，就已曉得他。祂已派他做列國的先知。</li>
@@ -2631,7 +2631,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day1-daily.html">背信棄義</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day1-daily.html">背信棄義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列曾經歸耶和華為聖，作為土產初熟的果子。</li>
    <li>但以色列的列祖遠離神，隨從虛無的神，自己成為虛妄。</li>
@@ -2641,7 +2641,7 @@ layout: post
   </ul>
  </details>
 <details>
-  <summary>3. <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT">耶利米書 3:6-4:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day2-daily.html">回轉歸神</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT">耶利米書 3:6-4:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day2-daily.html">回轉歸神</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>背道的以色列之後，奸詐的妹妹猶大也看見，還不懼怕，也去行淫。</li>
    <li>耶和華呼喚背道的以色列回來，因為祂是慈愛的，必不永遠存怒。</li>
@@ -2651,7 +2651,7 @@ layout: post
  </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書4.5-5.31&qs_version=CUVMPT">耶利米書 4.5-5.31</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day3-daily.html">災禍降臨</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書4.5-5.31&qs_version=CUVMPT">耶利米書 4.5-5.31</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day3-daily.html">災禍降臨</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華的葡萄園就是以色列家，他所喜愛的樹就是猶大人。他指望的是公平，誰知倒有暴虐；指望的是公義，誰知倒有冤聲。</li>
    <li>百姓因無知就被擄去，他們的尊貴人甚是飢餓，群眾極其乾渴。</li>
@@ -2660,7 +2660,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書6&qs_version=CUVMPT">耶利米書 6</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day4-daily.html">當罰之城</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書6&qs_version=CUVMPT">耶利米書 6</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day4-daily.html">當罰之城</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>警告便雅憫人當逃出耶路撒冷，因為有災禍與大毀滅從北方張望。</li>
    <li>耶和華稱耶路撒冷為該罰的城，其中盡是欺壓。耶路撒冷當受教。</li>
@@ -2669,7 +2669,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 7.1-8.17&qs_version=CUVMPT">耶利米書 7.1-8.17</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day5-daily.html">呼喚悔改</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 7.1-8.17&qs_version=CUVMPT">耶利米書 7.1-8.17</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day5-daily.html">呼喚悔改</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華要猶大人改正行動作為，就使他們在這地方仍然居住。</li>
    <li>耶和華要向這應許之地施行的，像從前向示羅所行的一樣。</li>
@@ -2679,7 +2679,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 8.18-10.25&qs_version=CUVMPT">耶利米書 8.18-10.25</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day6-daily.html">刑罰罪人</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 8.18-10.25&qs_version=CUVMPT">耶利米書 8.18-10.25</a> - <a href="https://bibleplan.github.io/daily/2022/wk81-day6-daily.html">刑罰罪人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>先知為百姓中被殺的人晝夜哭泣！為山嶺哭泣悲哀，為曠野的草場揚聲哀號。</li>
    <li>因為百姓離棄律法，隨從自己頑梗的心行事，所以耶和華要把他們散在列邦中。</li>
@@ -2687,7 +2687,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 11-12&qs_version=CUVMPT">耶利米書 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day1-daily.html">災禍臨到</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 11-12&qs_version=CUVMPT">耶利米書 11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day1-daily.html">災禍臨到</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華要耶利米告訴猶大人和耶路撒冷的居民，不聽從這約之話的人必受咒詛。</li>
    <li>要在猶大城邑中和耶路撒冷街市上宣告，你們當聽從遵行這約的話。</li>
@@ -2698,7 +2698,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 13&qs_version=CUVMPT">耶利米書 13</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day2-daily.html">敗壞驕傲</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 13&qs_version=CUVMPT">耶利米書 13</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day2-daily.html">敗壞驕傲</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華必敗壞猶大的驕傲和耶路撒冷的大驕傲。</li>
    <li>惡民不肯聽耶和華的話，按自己頑梗的心而行。</li>
@@ -2708,7 +2708,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day2-daily.html">反復懇求</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day2-daily.html">反復懇求</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華論到乾旱之災的話臨到耶利米。</li>
    <li>耶利米認罪祈禱,但耶和華不允,要他不要為這百姓祈禱求好處。</li>
@@ -2720,7 +2720,7 @@ layout: post
   </ul>
  </details>
 <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day4-daily.html">此地必滅</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day4-daily.html">此地必滅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華要先知不可娶妻，生兒養女，因他們必死得甚苦，無人哀哭。</li>
     <li>耶和華說：因為百姓的列祖離棄我，所以我必將你們從這地趕出。</li>
@@ -2734,7 +2734,7 @@ layout: post
   </ul>
  </details>
 <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書18-19&qs_version=CUVMPT">耶利米書 18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day5-daily.html">擊打破碎</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書18-19&qs_version=CUVMPT">耶利米書 18-19</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day5-daily.html">擊打破碎</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華讓先知下到窯匠的家裡去。耶和華以色列如這窯匠弄泥。泥在窯匠的手中怎樣，你們在我的手中也怎樣。</li>
     <li>耶和華造出災禍攻擊以色列。各人當回頭離開所行的惡道，改正行動作為。</li>
@@ -2744,7 +2744,7 @@ layout: post
  </details>
 <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書20&qs_version=CUVMPT">耶利米書 20</a> - <a href="https://bibleplan.github.io/daily/2022/wk82-day6-daily.html">先知被嘲</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>巴施戶珥做耶和華殿的總管，聽見耶利米的預言，就打先知，並將他枷在殿中，次日開枷釋放。</li>
     <li>耶利米預言巴施戶珥必自覺驚嚇，也必使眾朋友驚嚇。</li>
@@ -2755,7 +2755,7 @@ layout: post
  </details>
 <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書21-22&qs_version=CUVMPT">耶利米書 21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day1-daily.html">聖城被圍</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>因巴比倫王尼布甲尼撒來攻擊，西底家王求耶利米向耶和華代求。</li>
     <li>耶利米預言耶和華要在怒中用伸出來的手並大能的膀臂親自攻擊耶路撒冷，並勸百姓出去歸降迦勒底人。</li>
@@ -2767,7 +2767,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day2-daily.html">一線曙光</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day2-daily.html">一線曙光</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>預言那些殘害神的群羊的牧人有禍了。</li>
     <li>大衛的後裔中要興起公義的苗裔。</li>
@@ -2778,7 +2778,7 @@ layout: post
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書25&qs_version=CUVMPT">耶利米書 25</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day3-daily.html">預言被擄</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>先知責備猶大人在二十三年之內，不聽從耶和華的話。</li>
     <li>預言巴比倫將擄掠猶大人七十年。</li>
@@ -2789,7 +2789,7 @@ layout: post
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書26&qs_version=CUVMPT">耶利米書 26</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day4-daily.html">受命被抓</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶利米說完後，祭司、先知與眾民都來抓住他，說：你必要死。</li>
     <li>耶利米自辯是受耶和華差遣，預言攻擊這殿和這城。</li>
@@ -2800,7 +2800,7 @@ layout: post
  </details>
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書27-28&qs_version=CUVMPT">耶利米書 27-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day5-daily.html">頸項負軛</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約雅敬登基的時候，耶和華差遣耶利米做繩索與軛，加在自己的頸項上。</li>
     <li>耶利米預言無論哪邦哪國，不肯服侍巴比倫王的，必被刀劍、饑荒、瘟疫刑罰。</li>
@@ -2814,7 +2814,7 @@ layout: post
  </details>
  <details>
   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書29&qs_version=CUVMPT">耶利米書 29</a> - <a href="https://bibleplan.github.io/daily/2022/wk83-day6-daily.html">真假預言</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶利米從耶路撒冷寄信於被擄的祭司、先知和眾民，要他們為那城求平安，為那城禱告耶和華。</li>
     <li>不要被假先知和占卜的誘惑，也不要聽信自己所做的夢。</li>
@@ -2825,7 +2825,7 @@ layout: post
  </details>
  <details>
   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書30-31&qs_version=CUVMPT">耶利米書 30-31</a> - <a href="https://bibleplan.github.io/daily/2022/wk84-day1-daily.html">應許歸回</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華的話臨到耶利米說：日子將到，我要使我的百姓以色列和猶大被擄的人歸回。</li>
     <li>耶和華說：到那日，頸項上的軛必被折斷，以色列要侍奉耶和華。</li>
@@ -2836,7 +2836,7 @@ layout: post
     <li>耶和華要與以色列家和猶大家另立新約：律法放在他們裡面，寫在他們心上；我要做他們的神，他們要做我的子民。</li>
   </ul>
   <details>
-    <summary>參考新約 (展開)</summary>
+    <summary>參考新約 <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
 耶和華所立的「新約」包括那幾方面特徵？從新約聖經下列經文看先知預言如何應驗：<br />
 
 徒 13:38 「所以弟兄們，你們當曉得：赦罪的道是由這人傳給你們的！39 你們靠摩西的律法，在一切不得稱義的事上信靠這人，就都得稱義了。
@@ -2854,7 +2854,7 @@ layout: post
  </details>
  <details>
   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書32-33&qs_version=CUVMPT">耶利米書 32-33</a> - <a href="https://bibleplan.github.io/daily/2022/wk84-day2-daily.html">堅定應許</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>巴比倫王的軍隊圍困耶路撒冷，耶利米囚在護衛兵的院內，預言哈拿篾必來見他，求他買來在亞拿突的那塊地。</li>
     <li>耶利米照例按規所立的買契，交給巴錄。</li>
@@ -2867,7 +2867,7 @@ layout: post
  </details>
  <details>
   <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書34-35&qs_version=CUVMPT">耶利米書 34-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk84-day3-daily.html">審判眾民</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>尼布甲尼撒率領全軍攻打耶路撒冷。耶和華的話臨到耶利米說：我要將這城交付巴比倫王的手，他必用火焚燒。</li>
     <li>西底家王與耶路撒冷的眾民立約，要向他們宣告自由。但所有立約的首領和眾民又反悔，叫自由的僕人婢女回來為僕婢。</li>
@@ -2878,7 +2878,7 @@ layout: post
  </details>
  <details>
   <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書36&qs_version=CUVMPT">耶利米書 36</a> - <a href="https://bibleplan.github.io/daily/2022/wk84-day4-daily.html">書卷預言</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華要耶利米取一書卷，把神攻擊以色列和猶大並各國的預言都寫在其上。</li>
    <li>耶利米召巴錄來，將耶和華的話寫在書卷上，並吩咐巴錄去念給百姓聽。</li>
@@ -2890,7 +2890,7 @@ layout: post
  </details>
  <details>
   <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書37-38&qs_version=CUVMPT">耶利米書 37-38</a> - <a href="https://bibleplan.github.io/daily/2022/wk84-day5-daily.html">牢獄之災</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>巴比倫王尼布甲尼撒立西底家在猶大地做王。西底家不聽從耶和華藉先知耶利米所說的話。</li>
    <li>西底家王打發西番雅去見耶利米，說：「求你為我們禱告耶和華我們的神。」</li>
@@ -2906,7 +2906,7 @@ layout: post
  </details>
  <details>
   <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書39:1-41:15&qs_version=CUVMPT">耶利米書 39:1-41:15</a> - <a href="https://bibleplan.github.io/daily/2022/wk84-day6-daily.html">城破被擄</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>西底家第九年，巴比倫王尼布甲尼撒圍困耶路撒冷。西底家十一年，城被攻破。</li>
    <li>巴比倫王在西底家眼前殺了他的眾子，並且剜西底家的眼睛，用銅鏈鎖著帶到巴比倫去。</li>
@@ -2924,7 +2924,7 @@ layout: post
  </details>
  <details>
   <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書41:16-43:13&qs_version=CUVMPT">耶利米書 41:16-43:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk85-day1-daily.html">逃到埃及</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>約哈難和百姓求先知耶利米，願耶和華指示當走的路，當做的事。</li>
    <li>耶和華要餘下的百姓住在這地，就建立他們必不拆毀，栽植他們並不拔出。</li>
@@ -2935,7 +2935,7 @@ layout: post
  </details>
  <details>
   <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書44-45&qs_version=CUVMPT">耶利米書 44-45</a> - <a href="https://bibleplan.github.io/daily/2022/wk85-day2-daily.html">餘民犯罪</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華責備眾民在所去寄居的埃及地向別神燒香，惹神發怒，使他們被剪除。</li>
    <li>耶和華必向餘下的百姓變臉降災，剪除定意進入埃及地在那裡寄居的剩下的猶大人。</li>
@@ -2945,7 +2945,7 @@ layout: post
  </details>
  <details>
   <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書46&qs_version=CUVMPT">耶利米書 46</a> - <a href="https://bibleplan.github.io/daily/2022/wk85-day3-daily.html">埃及兵敗</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>預言埃及王法老尼哥的軍隊，曾被巴比倫王尼布甲尼撒在猶大王約雅敬第四年打敗，他們會驚惶轉身退後，被打敗，急忙逃跑。</li>
    <li>耶和華對先知耶利米所說的話論到巴比倫王尼布甲尼撒要來攻擊埃及地。</li>
@@ -2955,7 +2955,7 @@ layout: post
  </details>
  <details>
   <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書47-48&qs_version=CUVMPT">耶利米書 47-48</a> - <a href="https://bibleplan.github.io/daily/2022/wk85-day4-daily.html">摩押受罰</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶利米預言非利士人必滅，剪除幫助推羅、西頓所剩下的人。</li>
    <li>預言摩押必受懲罰。尼波有禍了，基列亭蒙羞被攻取，米斯迦蒙羞被毀壞。</li>
@@ -2966,7 +2966,7 @@ layout: post
  </details>
  <details>
   <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書49&qs_version=CUVMPT">耶利米書 49</a> - <a href="https://bibleplan.github.io/daily/2022/wk85-day5-daily.html">各國之災</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>預言亞捫人必受懲罰，亞捫人拉巴要成為亂堆。</li>
    <li>耶和華要使被擄的亞捫人歸回。</li>
@@ -2978,7 +2978,7 @@ layout: post
  </details>
  <details>
   <summary>31. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書50&qs_version=CUVMPT">耶利米書 50</a> - <a href="https://bibleplan.github.io/daily/2022/wk85-day6-daily.html">巴比倫滅</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>巴比倫必受懲罰，被攻取，彼勒蒙羞，米羅達驚惶。</li>
    <li>以色列人要和猶大人同來，隨走隨哭，尋求耶和華他們的神。</li>
@@ -2990,7 +2990,7 @@ layout: post
  </details>
  <details>
   <summary>32. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書51&qs_version=CUVMPT">耶利米書 51</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day1-daily.html">復仇毀滅</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華必降重災於巴比倫，以報其虐待以色列人之仇。</li>
    <li>耶和華必使毀滅的風颳起，攻擊巴比倫和住在立加米的人。</li>
@@ -3003,7 +3003,7 @@ layout: post
  </details>
  <details>
   <summary>33. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書52&qs_version=CUVMPT">耶利米書 52</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day2-daily.html">圍城被擄</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>西底家登基，在耶路撒冷做王十一年。西底家行耶和華眼中看為惡的事。</li>
    <li>西底家背叛巴比倫王。耶路撒冷城被圍困，直到西底家王十一年。兵丁在夜間從靠近王園兩城中間的門出城逃跑。</li>
@@ -3014,10 +3014,10 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米哀歌 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米哀歌 <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day3-daily.html">無人安慰</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶利米哀嘆錫安居民被擄，先前滿有人民的城，現在竟獨坐！她夜間痛哭，淚流滿腮。她的朋友都以詭詐待她，成為她的仇敵。</li>
    <li>耶路撒冷自述她的痛苦無人可比，就是耶和華在他發烈怒的日子使她所受的苦。</li>
@@ -3027,7 +3027,7 @@ layout: post
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌2&qs_version=CUVMPT">耶利米哀歌 2</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day4-daily.html">烈火傾覆</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶路撒冷訴說神的怒火審判，從城池到百姓，無一倖免。</li>
    <li>耶路撒冷的先知，沒有顯露她的罪孽，卻顯示虛假的異象，以至於她被趕出。</li>
@@ -3037,7 +3037,7 @@ layout: post
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌3&qs_version=CUVMPT">耶利米哀歌 3</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day5-daily.html">困苦艱難</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶路撒冷訴說她的困苦，好似走到絕處毫無指望。</li>
    <li>當她思想到神的慈愛的時候，就找到盼望的源頭。</li>
@@ -3046,7 +3046,7 @@ layout: post
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌4&qs_version=CUVMPT">耶利米哀歌 4</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day6-daily.html">變色失光</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶路撒冷的民從尊貴變為低賤，從受愛護變為被欺淩，從主人變成寄居的奴僕，恩慈的人因為困苦而變得殘忍。</li>
    <li>耶路撒冷希求人的幫助，但是都是枉然。百姓所依靠的王（受膏者）也被擄走，自身難保。</li>
@@ -3055,7 +3055,7 @@ layout: post
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌5&qs_version=CUVMPT">耶利米哀歌 5</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day1-daily.html">禱告懇求</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>禱告者在神面前細細傾訴所遭遇的一切患難。</li>
    <li>禱告者承認這是自己犯罪的結果。</li>
@@ -3066,7 +3066,7 @@ layout: post
 <details><summary style="text-decoration: underline; color: #1E6BB8;">以西結書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書1&qs_version=CUVMPT">以西結書 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day3-daily.html">得見榮耀</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華的靈降在先知以西結身上，使他得見天開了，神的異象向他顯現。</li>
    <li>先知在異象中看見狂風颳來一朵周圍有光輝、裡面有好像光耀精金的大雲，雲中顯出四個活物。活物的頭以上有穹蒼的形象，穹蒼之上有寶座的形象。</li>
@@ -3076,7 +3076,7 @@ layout: post
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day4-daily.html">為民守望</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神的靈進到先知的裡面，差他去向悖逆的國民以色列人傳講神的話。聽的可以聽，不聽的任他不聽，因為他們是悖逆之家。</li>
    <li>先知依從神，吃下寫滿哀號、嘆息、悲痛話語的書，好去對以色列家講說，書在口中覺得其甜如蜜。</li>
@@ -3086,7 +3086,7 @@ layout: post
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書4&qs_version=CUVMPT">以西結書 4</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day5-daily.html">降罰預兆</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華命以西結畫耶路撒冷被圍困之圖，做以色列家之預兆。</li>
    <li>耶和華命以西結向左側臥，承當以色列家的罪孽。向右側臥，擔當猶大家的罪孽。</li>
@@ -3095,7 +3095,7 @@ layout: post
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書5-7&qs_version=CUVMPT">以西結書 5-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day6-daily.html">預言被擄</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華命以西結以剃髮為喻，以示耶路撒冷背律受罰。</li>
    <li>耶和華命以西結向以色列的眾山說預言，必有刀劍臨到。</li>
@@ -3107,7 +3107,7 @@ layout: post
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書8&qs_version=CUVMPT">以西結書 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day1-daily.html">可憎之事</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>第六年六月初五日，耶和華的靈降在以西結身上。</li>
    <li>在神的異象中，以西結到耶路撒冷朝北的內院門口，在那裡有觸動主怒偶像的座位。</li>
@@ -3119,7 +3119,7 @@ layout: post
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書9-10&qs_version=CUVMPT">以西結書 9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day2-daily.html">榮耀降臨</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華命監管耶路撒冷的人手中各拿滅命的兵器前來。</li>
    <li>神的榮耀升到殿的門檻，命人去走遍耶路撒冷全城，畫記號在哀哭歎息的人額上，但擊殺其餘的人。</li>
@@ -3129,7 +3129,7 @@ layout: post
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書11.1-12.20&qs_version=CUVMPT">以西結書 11.1-12.20</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day3-daily.html">救贖計劃</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>民間的首領、圖謀罪孽的人被殺。</li>
    <li>耶和華必將以色列交在外邦人的手中，且要在你們中間施行審判。</li>
@@ -3142,7 +3142,7 @@ layout: post
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書12.21-13.23&qs_version=CUVMPT">以西結書 12.21-13.23</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day4-daily.html">虛假先知</a>
- (展開)</summary>
+ <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華斥責以色列俗語『日子遲延，一切異象都落了空』。祂必使這俗語止息，因日子臨近，一切的異象必都應驗。</li>
    <li>耶和華的話沒有一句再耽延的，所說的必定成就。</li>
@@ -3152,7 +3152,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書14&qs_version=CUVMPT">以西結書14</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day5-daily.html">四樣大災</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書14&qs_version=CUVMPT">以西結書14</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day5-daily.html">四樣大災</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列家的人中，凡將他的假神接到心裡，耶和華在他所求的事上，必按他眾多的假神回答他。</li>
    <li>耶和華勸以色列回頭離開他們的偶像，轉臉莫從他們一切可憎的事。</li>
@@ -3162,7 +3162,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書15-16&qs_version=CUVMPT">以西結書15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day6-daily.html">邪淫之事</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書15-16&qs_version=CUVMPT">以西結書15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk88-day6-daily.html">邪淫之事</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>主耶和華如此說：眾樹以內的葡萄樹，我怎樣使它在火中當柴，也必照樣待耶路撒冷的居民。</li>
    <li>耶和華命令以西結要使耶路撒冷知道她那些可憎的事。</li>
@@ -3175,7 +3175,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書17-18&qs_version=CUVMPT">以西結書17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day1-daily.html">公義審判</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書17-18&qs_version=CUVMPT">以西結書17-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day1-daily.html">公義審判</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華以二鷹二葡萄樹為喻，表明對以色列背叛巴比倫王的審判。</li>
    <li>遵行耶和華的律例典章，按誠實行事，這人是公義的，必定存活。</li>
@@ -3188,14 +3188,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書19&qs_version=CUVMPT">以西結書19</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day2-daily.html">被擄被毀</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書19&qs_version=CUVMPT">以西結書19</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day2-daily.html">被擄被毀</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以獅子落入陷阱，比喻猶大王被擄到巴比倫。</li>
    <li>以葡萄樹被拔出，比喻耶路撒冷被傾毀。</li>
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書20&qs_version=CUVMPT">以西結書20</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day3-daily.html">悖逆歷史</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書20&qs_version=CUVMPT">以西結書20</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day3-daily.html">悖逆歷史</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以色列的長老來求問耶和華，耶和華卻不被他們求問，卻要審問他們，使他們知道自己列祖那些可憎的事。</li>
    <li>以色列在埃及悖逆耶和華，不拋棄偶像。</li>
@@ -3208,7 +3208,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書21-22&qs_version=CUVMPT">以西結書21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day4-daily.html">拔刀出鞘</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書21-22&qs_version=CUVMPT">以西結書21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day4-daily.html">拔刀出鞘</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華拔刀出鞘，在以色列中將義人和惡人一併剪除。</li>
    <li>耶和華預言有刀臨於以色列的百姓和以色列一切的首領。</li>
@@ -3221,7 +3221,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書23-24&qs_version=CUVMPT">以西結書23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day5-daily.html">背離上帝</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書23-24&qs_version=CUVMPT">以西結書23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day5-daily.html">背離上帝</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以兩個婦人比喻撒馬利亞與耶路撒冷崇拜淫邪，背離上帝。</li>
    <li>阿荷利巴必被先愛而後生疏的人攻擊。</li>
@@ -3231,7 +3231,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書25&qs_version=CUVMPT">以西結書25</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day6-daily.html">審判列國</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書25&qs_version=CUVMPT">以西結書25</a> - <a href="https://bibleplan.github.io/daily/2022/wk89-day6-daily.html">審判列國</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>預言亞捫人因為喜悅以色列遘災而必定受到攻擊。</li>
    <li>因摩押和西珥人說『看哪，猶大家與列國無異』，所以要破開摩押邊界上的城邑。</li>
@@ -3240,7 +3240,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書26-27&qs_version=CUVMPT">以西結書26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day1-daily.html">推羅之亡</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書26-27&qs_version=CUVMPT">以西結書26-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day1-daily.html">推羅之亡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>因推羅向耶路撒冷自誇，主耶和華必與推羅為敵，使許多國民上來攻擊。</li>
    <li>主耶和華必使巴比倫王尼布甲尼撒從北方來攻擊推羅。</li>
@@ -3249,7 +3249,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書28&qs_version=CUVMPT">以西結書28</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day2-daily.html">驕傲之王</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書28&qs_version=CUVMPT">以西結書28</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day2-daily.html">驕傲之王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>推羅王心裡高傲，居心自比神。因此，神必使列國中的強暴人拔刀砍壞推羅王用智慧得來的美物，必使他下坑，死在海中。</li>
    <li>耶和華讓先知為推羅王作起哀歌，說他因美麗心中高傲，所以被神摔倒在地。</li>
@@ -3258,7 +3258,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書29-30&qs_version=CUVMPT">以西結書29-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day3-daily.html">審判埃及</a> (展開)</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書29-30&qs_version=CUVMPT">以西結書29-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day3-daily.html">審判埃及</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華讓以西結向埃及王法老預言攻擊他和埃及全地，必使刀劍臨到，埃及地必荒廢淒涼。</li>
    <li>滿了四十年，耶和華必招聚分散在各國民中的埃及人，使他們歸回本地巴忒羅，在那裡必成為低微的國。</li>
@@ -3269,7 +3269,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書31-32&qs_version=CUVMPT">以西結書31-32</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day4-daily.html">悲哀哭號</a> (展開)</summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書31-32&qs_version=CUVMPT">以西結書31-32</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day4-daily.html">悲哀哭號</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>向法老述亞述王之榮美，但因它高大而心驕氣傲，就被神驅逐。</li>
    <li>預言埃及王要與亞述一同下到陰府，與被殺的人一同躺臥。</li>
@@ -3278,7 +3278,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書33&qs_version=CUVMPT">以西結書33</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day5-daily.html">先知守望</a> (展開)</summary>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書33&qs_version=CUVMPT">以西結書33</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day5-daily.html">先知守望</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>守望的見刀劍臨到那地，若吹角警戒眾民，凡聽見角聲不受警戒的，刀劍若來除滅了他，他的罪就必歸到自己的頭上。</li>
    <li>耶和華立以西結為守望者。</li>
@@ -3289,7 +3289,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書34&qs_version=CUVMPT">以西結書34</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day6-daily.html">牧養群羊</a> (展開)</summary>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書34&qs_version=CUVMPT">以西結書34</a> - <a href="https://bibleplan.github.io/daily/2022/wk90-day6-daily.html">牧養群羊</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>先知向以色列的牧人發預言攻擊他們，因以色列的牧人只知牧養自己。</li>
    <li>耶和華必與牧人為敵，使他們不再牧放群羊。</li>
@@ -3299,7 +3299,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書35.1-36.15&qs_version=CUVMPT">以西結書35.1-36.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day1-daily.html">以色列山</a> (展開)</summary>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書35.1-36.15&qs_version=CUVMPT">以西結書35.1-36.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day1-daily.html">以色列山</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>先知要面向西珥山發預言攻擊他，因他永懷仇恨，在以色列人遭災、罪孽到了盡頭的時候，將他們交於刀劍。</li>
    <li>先知要對以色列山發預言說：因為敵人使你荒涼，四圍吞吃，好叫你歸於其餘的外邦人為業。</li>
@@ -3307,7 +3307,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書36.16-37.28&qs_version=CUVMPT">以西結書36.16-37.28</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day2-daily.html">枯骨復活</a> (展開)</summary>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書36.16-37.28&qs_version=CUVMPT">以西結書36.16-37.28</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day2-daily.html">枯骨復活</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華因以色列流人的血，以偶像玷汙那地，就將他們分散在列國，懲罰他們。</li>
    <li>耶和華行這事不是為你們，乃是為祂的聖名。</li>
@@ -3321,7 +3321,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書38-39&qs_version=CUVMPT">以西結書38-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day3-daily.html">攻擊歌革</a> (展開)</summary>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書38-39&qs_version=CUVMPT">以西結書38-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day3-daily.html">攻擊歌革</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶和華命先知面向瑪各地的歌革，就是羅施、米設、土巴的王發預言攻擊他。</li>
    <li>歌革上來攻擊以色列地的時候，耶和華發憤恨和烈怒如火。</li>
@@ -3334,7 +3334,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書40&qs_version=CUVMPT">以西結書40</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day4-daily.html">度量聖城</a> (展開)</summary>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書40&qs_version=CUVMPT">以西結書40</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day4-daily.html">度量聖城</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶路撒冷城攻破後十四年，耶和華的靈降在以西結身上，帶他到以色列地，安置在至高的山上，在山上的南邊有彷彿一座城建立。</li>
    <li>殿四圍有牆。那人手拿量度的竿，到了朝東的門，就上門的臺階量門。</li>
@@ -3348,7 +3348,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書41-42&qs_version=CUVMPT">以西結書41-42</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day5-daily.html">丈量尺寸</a> (展開)</summary>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書41-42&qs_version=CUVMPT">以西結書41-42</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day5-daily.html">丈量尺寸</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>量殿之尺寸。</li>
    <li>量圍著殿的旁屋之尺寸。</li>
@@ -3357,7 +3357,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書43-44&qs_version=CUVMPT">以西結書43-44</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day6-daily.html">觀看聖殿</a> (展開)</summary>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書43-44&qs_version=CUVMPT">以西結書43-44</a> - <a href="https://bibleplan.github.io/daily/2022/wk91-day6-daily.html">觀看聖殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在朝東的門，以色列神的榮光從東而來，聲音如同多水的聲音，地因他的榮耀發光。</li>
    <li>以色列族棄邪行，耶和華永居其中、在以色列人中，直到永遠。</li>
@@ -3372,7 +3372,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書45-46&qs_version=CUVMPT">以西結書45-46</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day1-daily.html">獻祭之例</a> (展開)</summary>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書45-46&qs_version=CUVMPT">以西結書45-46</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day1-daily.html">獻祭之例</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>拈鬮分地為業，要獻上一份給耶和華為聖供地，四圍都為聖地。</li>
    <li>也要分定屬城的地業，挨著那份聖供地，要歸以色列全家。</li>
@@ -3385,7 +3385,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書47-48&qs_version=CUVMPT">以西結書47-48</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day2-daily.html">分地為業</a> (展開)</summary>
+  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書47-48&qs_version=CUVMPT">以西結書47-48</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day2-daily.html">分地為業</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>殿的門檻下有水往東流出。</li>
    <li>流出的水成為河，岸上必生長各類的樹木，樹上的果子必做食物，葉子乃為治病。</li>
@@ -3400,7 +3400,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">但以理書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day5-daily.html">異邦成長</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day5-daily.html">異邦成長</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>巴比倫王尼布甲尼撒圍困耶路撒冷，擄去猶大王約雅敬。</li>
    <li>王吩咐太監長亞以色列人的宗室和貴胄中選取年少沒有殘疾，相貌俊美，通達各樣學問，知識、聰明俱備，足能侍立在王宮裡的，要教他們迦勒底的文字言語。</li>
@@ -3410,7 +3410,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書2&qs_version=CUVMPT">但以理書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day6-daily.html">為王解夢</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書2&qs_version=CUVMPT">但以理書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day6-daily.html">為王解夢</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>尼布甲尼撒在位第二年做了夢，吩咐人將王的夢告訴王。</li>
    <li>迦勒底人回答說：世上沒有人能將王所問的事說出來。</li>
@@ -3425,7 +3425,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書3&qs_version=CUVMPT">但以理書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day1-daily.html">投入火窯</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書3&qs_version=CUVMPT">但以理書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day1-daily.html">投入火窯</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>尼布甲尼撒王造了一個金像，行開光之禮，並傳令各方俯伏敬拜金像。凡不俯伏敬拜的，必立時扔在烈火的窯中。</li>
    <li>幾個迦勒底人控告猶大人沙得拉、米煞、亞伯尼歌，不敬拜金像。</li>
@@ -3437,7 +3437,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書4&qs_version=CUVMPT">但以理書4</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day2-daily.html">宣揚神蹟</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書4&qs_version=CUVMPT">但以理書4</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day2-daily.html">宣揚神蹟</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>尼布甲尼撒王曉諭各方，宣揚至高的神所行的神蹟奇事。</li>
    <li>尼布甲尼撒安居在宮中，做了一夢，巴比倫的一切哲士卻不能把夢的講解告訴他。</li>
@@ -3447,7 +3447,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書5&qs_version=CUVMPT">但以理書5</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day3-daily.html">伯沙撒王</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書5&qs_version=CUVMPT">但以理書5</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day3-daily.html">伯沙撒王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>伯沙撒王設擺盛筵，歡飲之間，吩咐人將他父尼布甲尼撒從耶路撒冷殿中所掠的金銀器皿拿來，用這器皿飲酒。</li>
    <li>忽有人的指頭顯出，在王宮與燈臺相對的粉牆上寫字。</li>
@@ -3458,7 +3458,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書6&qs_version=CUVMPT">但以理書6</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day4-daily.html">獅子坑中</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書6&qs_version=CUVMPT">但以理書6</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day4-daily.html">獅子坑中</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>大流士隨心所願，立一百二十個總督，又在他們以上立總長三人，但以理在其中。</li>
     <li>總長和總督尋找但以理誤國的把柄，為要參他，只是找不著他的錯誤過失。</li>
@@ -3473,7 +3473,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書7-9&qs_version=CUVMPT">但以理書7-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day5-daily.html">復見異像</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書7-9&qs_version=CUVMPT">但以理書7-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day5-daily.html">復見異像</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>伯沙撒元年，但以理在床上做夢，見了異象。</li>
     <li>有四個大獸從海中上來，形狀各有不同。</li>
@@ -3487,7 +3487,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書10.1-12.4&qs_version=CUVMPT">但以理書10.1-12.4</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day6-daily.html">波斯希臘</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書10.1-12.4&qs_version=CUVMPT">但以理書10.1-12.4</a> - <a href="https://bibleplan.github.io/daily/2022/wk93-day6-daily.html">波斯希臘</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>波斯王居魯士第三年，但以理得見異象。</li>
     <li>在底格里斯大河邊見異象，便渾身無力，面貌失色，毫無氣力。</li>
@@ -3499,7 +3499,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書&qs_version=CUVMPT">但以理書12.5-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day1-daily.html">隱藏封閉</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書&qs_version=CUVMPT">但以理書12.5-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day1-daily.html">隱藏封閉</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>預言已經隱藏封閉，直到末時。</li>
     <li>必有許多人使自己清淨潔白，且被熬煉，但惡人仍必行惡。</li>
@@ -3509,7 +3509,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">何西阿書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書1-2&qs_version=CUVMPT">何西阿書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day4-daily.html">淫婦歌篾</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書1-2&qs_version=CUVMPT">何西阿書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day4-daily.html">淫婦歌篾</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>何西阿娶淫婦歌篾。這婦人懷孕生子起名叫耶斯列。</li>
     <li>歌篾又懷孕，生了女兒，起名叫羅路哈瑪，因為耶和華必不再憐憫以色列家，決不赦免他們。</li>
@@ -3520,7 +3520,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書3.1-5.7&qs_version=CUVMPT">何西阿書3.1-5.7</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day5-daily.html">子民之罪</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書3.1-5.7&qs_version=CUVMPT">何西阿書3.1-5.7</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day5-daily.html">子民之罪</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>何西阿再去娶一個淫婦。</li>
     <li>末後以色列人必歸回，尋求他們的神耶和華。</li>
@@ -3532,7 +3532,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書5.8-7.16&qs_version=CUVMPT">何西阿書5.8-7.16</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day6-daily.html">以法蓮人</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書5.8-7.16&qs_version=CUVMPT">何西阿書5.8-7.16</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day6-daily.html">以法蓮人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在責罰的日子，以法蓮必變為荒場。神必向以法蓮如獅子，必撕裂而去。</li>
     <li>神要回到原處，等他們自覺有罪，尋求神的面。</li>
@@ -3543,7 +3543,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書8.1-9.9&qs_version=CUVMPT">何西阿書8.1-9.9</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day1-daily.html">背約棄善</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書8.1-9.9&qs_version=CUVMPT">何西阿書8.1-9.9</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day1-daily.html">背約棄善</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>敵人如鷹來攻打耶和華的家，因為民違背神的約，干犯神的律法。</li>
     <li>以金銀製造偶像，以致被剪除。耶和華已經丟棄撒馬利亞，神的怒氣向拜牛犢的人發作。</li>
@@ -3553,7 +3553,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書9.10-10.15&qs_version=CUVMPT">何西阿書9.10-10.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day2-daily.html">崇偽拜像</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書9.10-10.15&qs_version=CUVMPT">何西阿書9.10-10.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day2-daily.html">崇偽拜像</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以法蓮受責罰，根本枯乾，必不能結果。</li>
     <li>以色列是茂盛的葡萄樹，結果繁多。但心懷二意，現今要定為有罪。耶和華必拆毀他們的祭壇，毀壞他們的柱像。</li>
@@ -3562,7 +3562,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:1-11&qs_version=CUVMPT">何西阿書11:1-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day3-daily.html">慈繩愛索</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:1-11&qs_version=CUVMPT">何西阿書11:1-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day3-daily.html">慈繩愛索</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列年幼的時候，神愛他，就從埃及召出他。</li>
     <li>先知越發招呼他們，他們越發走開，向諸巴力獻祭，給雕刻的偶像燒香。</li>
@@ -3571,7 +3571,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:12-13:16&qs_version=CUVMPT">何西阿書11:12-13:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day4-daily.html">虛謊強暴</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:12-13:16&qs_version=CUVMPT">何西阿書11:12-13:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day4-daily.html">虛謊強暴</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以法蓮虛謊和強暴，與亞述立約，把油送到埃及。</li>
     <li>耶和華與猶大爭辯，必照雅各所行的懲罰他，按他所做的報應他。</li>
@@ -3583,7 +3583,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書14&qs_version=CUVMPT">何西阿書14</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day5-daily.html">得蒙憐憫</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書14&qs_version=CUVMPT">何西阿書14</a> - <a href="https://bibleplan.github.io/daily/2022/wk75-day5-daily.html">得蒙憐憫</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>先知勸以色列歸向耶和華你的神，求神除淨罪孽，悅納善行。</li>
     <li>神必醫治他們背道的病，甘心愛他們，因為我的怒氣向他們轉消。</li>
@@ -3593,7 +3593,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約珥書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書1-2&qs_version=CUVMPT">約珥書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day3-daily.html">蝗蟲大軍</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書1-2&qs_version=CUVMPT">約珥書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day3-daily.html">蝗蟲大軍</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約珥預言蝗蟲又強盛又無數，侵犯猶大，蝗蟲過去以後，地成了荒涼的曠野。</li>
     <li>猶大眾民哀號，田荒涼，地悲哀，因為五穀毀壞，新酒乾竭，油也缺乏。</li>
@@ -3606,7 +3606,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書3&qs_version=CUVMPT">約珥書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day4-daily.html">施行審判</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書3&qs_version=CUVMPT">約珥書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day4-daily.html">施行審判</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神要聚集列國，帶他們下到約沙法谷，在那裡施行審判。</li>
     <li>到那日，猶大溪河都有水流，泉源從耶和華的殿中流出來，滋潤什亭谷。</li>
@@ -3617,7 +3617,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">阿摩司書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書1-2&qs_version=CUVMPT">阿摩司書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day4-daily.html">三番四次</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書1-2&qs_version=CUVMPT">阿摩司書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day4-daily.html">三番四次</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>當耶羅波安在位的時候，阿摩司得默示論以色列。</li>
     <li>耶和華必從錫安吼叫，牧人的草場要悲哀，迦密的山頂要枯乾。</li>
@@ -3633,7 +3633,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書3-4&qs_version=CUVMPT">阿摩司書3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day5-daily.html">追討罪孽</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書3-4&qs_version=CUVMPT">阿摩司書3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day5-daily.html">追討罪孽</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華在地上萬族中只認識以色列，因此，祂必追討他們的一切罪孽。</li>
     <li>主耶和華發命，誰能不說預言呢？</li>
@@ -3644,7 +3644,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書5-6&qs_version=CUVMPT">阿摩司書5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day6-daily.html">荒宴之樂</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書5-6&qs_version=CUVMPT">阿摩司書5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day6-daily.html">荒宴之樂</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列民跌倒，不得再起;躺在地上，無人攙扶。</li>
     <li>耶和華向以色列家如此說：你們要尋求我，就必存活。</li>
@@ -3656,7 +3656,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書7&qs_version=CUVMPT">阿摩司書7</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day1-daily.html">求主赦免</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書7&qs_version=CUVMPT">阿摩司書7</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day1-daily.html">求主赦免</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華造蝗蟲，吃盡那地的青物，阿摩司求主赦免，耶和華就後悔。</li>
     <li>耶和華命火來懲罰以色列，阿摩司求耶和華止息！耶和華就後悔。</li>
@@ -3667,7 +3667,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書8-9&qs_version=CUVMPT">阿摩司書8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day2-daily.html">結局到了</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書8-9&qs_version=CUVMPT">阿摩司書8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day2-daily.html">結局到了</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>先知看見一筐夏天的果子，預言以色列的結局到了，神必不再寬恕他們。</li>
     <li>你們這些要吞吃窮乏人，使困苦人衰敗的，當聽神的話。</li>
@@ -3680,7 +3680,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">俄巴底亞書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書1&qs_version=CUVMPT">俄巴底亞書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day2-daily.html">降罰以東</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書1&qs_version=CUVMPT">俄巴底亞書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day2-daily.html">降罰以東</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>俄巴底亞得了耶和華的默示，對以東發預言。神使以東在列國中為最小的，被人大大藐視。</li>
     <li>因以東向兄弟雅各行強暴，羞愧必遮蓋他，他也必永遠斷絕。</li>
@@ -3691,7 +3691,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約拿書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約拿書1-4&qs_version=CUVMPT">約拿書1-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day4-daily.html">先知約拿</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約拿書1-4&qs_version=CUVMPT">約拿書1-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day4-daily.html">先知約拿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華命令約拿往尼尼微大城去，向居民預言。</li>
     <li>約拿卻起來，逃往他施去躲避耶和華。</li>
@@ -3707,7 +3707,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">彌迦書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書1-3&qs_version=CUVMPT">彌迦書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day5-daily.html">警告南北</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書1-3&qs_version=CUVMPT">彌迦書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day5-daily.html">警告南北</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彌迦得耶和華的默示，論撒馬利亞和耶路撒冷。神從聖殿要見證他們的不是。</li>
     <li>先知大聲哀號，赤腳露體，撒馬利亞的傷痕無法醫治，延及猶大和耶路撒冷的城門。</li>
@@ -3719,7 +3719,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書4-5&qs_version=CUVMPT">彌迦書4-5</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day6-daily.html">超乎諸山</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書4-5&qs_version=CUVMPT">彌迦書4-5</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day6-daily.html">超乎諸山</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>末後的日子，耶和華殿的山必堅立超乎諸山。</li>
     <li>他必在多國的民中施行審判。他們要將刀打成犁頭，把槍打成鐮刀。</li>
@@ -3731,7 +3731,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書6-7&qs_version=CUVMPT">彌迦書6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day1-daily.html">赦免罪孽</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書6-7&qs_version=CUVMPT">彌迦書6-7</a> - <a href="https://bibleplan.github.io/daily/2022/wk73-day1-daily.html">赦免罪孽</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華要與他的百姓爭辯：我的百姓啊，我向你做了什麼呢？</li>
     <li>耶和華已指示世人何為善，只要行公義，好憐憫，存謙卑的心，與神同行。</li>
@@ -3745,7 +3745,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">那鴻書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=那鴻書1-3&qs_version=CUVMPT">那鴻書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day1-daily.html">忌邪施報</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=那鴻書1-3&qs_version=CUVMPT">那鴻書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day1-daily.html">忌邪施報</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>那鴻書是那鴻得到的論尼尼微的默示。</li>
     <li>耶和華是忌邪施報的神，不輕易發怒，大有能力，萬不以有罪的為無罪。</li>
@@ -3757,7 +3757,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">哈巴谷書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈巴谷書1-3&qs_version=CUVMPT">哈巴谷書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day2-daily.html">與神問答</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈巴谷書1-3&qs_version=CUVMPT">哈巴谷書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day2-daily.html">與神問答</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>先知哈巴谷呼求耶和華卻沒有聽到應允，因強暴哀求卻沒有得到拯救。</li>
     <li>耶和華說祂興起迦勒底人作為審判。</li>
@@ -3769,7 +3769,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">西番雅書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書1&qs_version=CUVMPT">西番雅書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day3-daily.html">憤怒之日</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書1&qs_version=CUVMPT">西番雅書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day3-daily.html">憤怒之日</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>當猶大王約西亞在位的時候，耶和華的話臨到西番雅。</li>
     <li>耶和華要伸手攻擊猶大和耶路撒冷的一切居民，從這地方剪除所剩下的巴力。</li>
@@ -3778,7 +3778,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書2-3&qs_version=CUVMPT">西番雅書2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day4-daily.html">苦盡甘來</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書2-3&qs_version=CUVMPT">西番雅書2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day4-daily.html">苦盡甘來</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>勸世上遵守耶和華典章的謙卑人尋求耶和華！當尋求公義、謙卑，或者在耶和華發怒的日子，可以隱藏起來。</li>
     <li>迦南，非利士人之地必被毀滅，以致無人居住。</li>
@@ -3793,7 +3793,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">哈該書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈該書1-2&qs_version=CUVMPT">哈該書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day1-daily.html">延不建殿</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈該書1-2&qs_version=CUVMPT">哈該書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day1-daily.html">延不建殿</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>先知哈該責備百姓遲延，不願意建造耶和華的殿。殿仍然荒涼，你們自己卻住天花板的房屋。</li>
     <li>耶和華要他們省察自己的行為，上山取木料，建造這殿，神就因此喜樂，且得榮耀。</li>
@@ -3806,7 +3806,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">撒迦利亞書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書1-2&qs_version=CUVMPT">撒迦利亞書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day2-daily.html">威嚇列國</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書1-2&qs_version=CUVMPT">撒迦利亞書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day2-daily.html">威嚇列國</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華藉先知撒迦利亞要以色列人轉向耶和華。</li>
     <li>撒迦利亞見一人騎著紅馬，是遍行全地的耶和華的使者。</li>
@@ -3819,7 +3819,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書3-6&qs_version=CUVMPT">撒迦利亞書3-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day3-daily.html">純金燈臺</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書3-6&qs_version=CUVMPT">撒迦利亞書3-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day3-daily.html">純金燈臺</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>大祭司約書亞站在耶和華的使者面前，撒旦也站在約書亞的右邊，與他作對。</li>
     <li>耶和華必使僕人大衛的苗裔發出。</li>
@@ -3832,7 +3832,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書7-8&qs_version=CUVMPT">撒迦利亞書7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day4-daily.html">定意施恩</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書7-8&qs_version=CUVMPT">撒迦利亞書7-8</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day4-daily.html">定意施恩</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>伯特利人懇求耶和華的恩，並問耶和華歷年以來五月間哭泣齋戒還當這樣行嗎？</li>
     <li>耶和華宣告他不喜悅五月、七月禁食悲哀，因為他們不是向祂禁食。</li>
@@ -3844,7 +3844,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書9-11&qs_version=CUVMPT">撒迦利亞書9-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day5-daily.html">公義拯救</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書9-11&qs_version=CUVMPT">撒迦利亞書9-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day5-daily.html">公義拯救</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華必懲罰哈得拉與大馬士革。</li>
     <li>錫安應當大大喜樂，因為王來到這裡，他是公義的，並且施行拯救。</li>
@@ -3857,7 +3857,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書12-14&qs_version=CUVMPT">撒迦利亞書 12-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day6-daily.html">全地的王</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書12-14&qs_version=CUVMPT">撒迦利亞書 12-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day6-daily.html">全地的王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華必使耶路撒冷被圍困的時候，向四圍列國的民成為令人昏醉的杯。</li>
     <li>耶和華必使耶路撒冷向聚集攻擊她的萬民當做一塊重石頭，凡舉起的必受重傷。</li>
@@ -3875,7 +3875,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">瑪拉基書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書1.1-3.5&qs_version=CUVMPT">瑪拉基書1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day4-daily.html">褻瀆之罪</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書1.1-3.5&qs_version=CUVMPT">瑪拉基書1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day4-daily.html">褻瀆之罪</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>瑪拉基責備以色列忘記神的恩典。</li>
     <li>耶和華責備祭司藐視耶和華的名。</li>
@@ -3889,7 +3889,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書3.6-4.6&qs_version=CUVMPT">瑪拉基書3.6-4.6</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day5-daily.html">狂傲頂撞</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書3.6-4.6&qs_version=CUVMPT">瑪拉基書3.6-4.6</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day5-daily.html">狂傲頂撞</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶和華要轉向以色列，他們卻說：『我們如何才是轉向呢？』</li>
     <li>以色列在當納稅的十分之一和當獻的供物上奪取神的供物。</li>
@@ -3902,7 +3902,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">馬太福音</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day1-daily.html">耶穌是王</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day1-daily.html">耶穌是王</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>馬太記錄的耶穌基督的家譜，他是亞伯拉罕的後裔，大衛的子孫，是君王的身份（1：1-18）。</li>
     <li>耶穌基督由童貞女瑪利亞因聖靈感孕而生，是按神的應許成就（1:22-23）。</li>
@@ -3911,28 +3911,28 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音3:1-4:11&qs_version=CUVMPT">馬太福音3:1-4:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day2-daily.html">勝過試探</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音3:1-4:11&qs_version=CUVMPT">馬太福音3:1-4:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day2-daily.html">勝過試探</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌基督在施洗約翰那裡接受洗禮，開始進入以色列人的視野。</li>
     <li>耶穌基督從水裡經過洗禮，然後40天在曠野，接受撒旦的試探；正如當初以色列人在紅海里經過，進入曠野四十年。但是以色列人在試探中一次次跌倒，主耶穌卻勝過所有撒旦的試探。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音4:12-6:18&qs_version=CUVMPT">馬太福音4:12-6:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day3-daily.html">登山寶訓</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音4:12-6:18&qs_version=CUVMPT">馬太福音4:12-6:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day3-daily.html">登山寶訓</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>主耶穌呼召第一批門徒，“來跟從我，我要叫你們得人如得魚一樣”。耶穌走遍加利利，宣講福音，醫病趕鬼。眾人都跟隨他。</li>
     <li>主耶穌接著對跟隨他的人宣講天國的福音，即登山寶訓（5:1-7:29）。今天閱讀的部分是5:1-6:18，包括天國八福（5:3-11），神的子民鹽和光的身份和職責（5:12-16）神的子民應有的生活樣式（5:17-48），真正敬虔的屬靈生活（6:1-18）。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音6:19-7:29&qs_version=CUVMPT">馬太福音6:19-7:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day4-daily.html">登山寶訓2</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音6:19-7:29&qs_version=CUVMPT">馬太福音6:19-7:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day4-daily.html">登山寶訓2</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>登山寶訓的這一部分，包括要單單事奉主（6:19-34）、合神心意的待人方式（7:112）和信靠順服扎根于神的生命（7:13-27）。</li>
     <li>主耶穌的話里帶著權柄，讓眾人稀奇。</li>
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音8-9&qs_version=CUVMPT">馬太福音8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day5-daily.html">耶穌大能</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音8-9&qs_version=CUVMPT">馬太福音8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day5-daily.html">耶穌大能</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在馬太福音8-9章，記錄了主耶穌所行的神跡，顯示神的大能大力，戰勝撒旦的權勢。</li>
     <li>在耶穌所行的神跡當中，穿插了兩段內容。8:18-22是跟隨耶穌的代價；9:9-17，對耶穌的反對和逼迫開始。</li>
@@ -3940,27 +3940,27 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音10&qs_version=CUVMPT">馬太福音10</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day6-daily.html">天國使命</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音10&qs_version=CUVMPT">馬太福音10</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day6-daily.html">天國使命</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌基督派十二個門徒出去傳天國的福音，並提醒他們將要面對的艱難和要付上的代價，並神同在、賜能力的應許，和美好的賞賜。</li>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音11-12&qs_version=CUVMPT">馬太福音11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day1-daily.html">安息之主</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音11-12&qs_version=CUVMPT">馬太福音11-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day1-daily.html">安息之主</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>主耶穌回答施洗約翰在苦難軟弱中的疑問，並且通過解釋施洗約翰的身份向門徒和眾人顯示神的計劃，從此天國不再是靠著努力進的，而是靠跟隨主耶穌。耶穌責備人的不信，邀請人到他這裡來得享安息。</li>
     <li>耶穌在安息日所行的神跡奇事，表明他是安息日的主。他是真正成全了安息日的律法。主耶穌反駁法利賽人關於他的能力來自鬼王的言論。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:1-52&qs_version=CUVMPT">馬太福音13:1-52</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day2-daily.html">天國奧秘</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:1-52&qs_version=CUVMPT">馬太福音13:1-52</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day2-daily.html">天國奧秘</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>主耶穌用七個比喻來解釋天國的奧秘：撒種的比喻、稗子的比喻、芥菜種的比喻、面酵的比喻、藏寶的比喻、尋珠的比喻和撒網的比喻。</li>
     <li>主耶穌向門徒解釋他使用比喻向眾人說話的原因和目的。</li>
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:53-15:39&qs_version=CUVMPT">馬太福音13:53-15:39</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day3-daily.html">神的兒子</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:53-15:39&qs_version=CUVMPT">馬太福音13:53-15:39</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day3-daily.html">神的兒子</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>對主耶穌的身份的猜測，和對他的智慧與異能的來源的討論，越來越激烈。</li>
     <li>主耶穌餵飽5000人，又顯出在水面上行走的神跡，船上的人看見就拜他，說祂是神的兒子。</li>
@@ -3969,20 +3969,20 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音16-17&qs_version=CUVMPT">馬太福音16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day4-daily.html">神的形象</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音16-17&qs_version=CUVMPT">馬太福音16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day4-daily.html">神的形象</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彼得在神的帶領下認識到主耶穌的身份。但是當主耶穌預言自己的受死與復活的時候，他其實並不明白主的使命。主耶穌在彼得、約翰和雅各的面前改變形象，並有摩西和以利亞在他身側顯現，有光明的雲彩遮蓋，並有神親口見證耶穌的身份，彼得對主耶穌的身份有了更多更深的認識。</li>
     <li>主耶穌兩次預言自己的受難與復活。</li>
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音18&qs_version=CUVMPT">馬太福音18</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day5-daily.html">天國子民</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音18&qs_version=CUVMPT">馬太福音18</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day5-daily.html">天國子民</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>門徒爭論誰是天國里最大的。主耶穌回答他們天國里最大的應該謙卑如孩子的樣式。天國的子民對弟兄姐妹有極大的責任，不可絆倒別人，不可輕看別人，謙卑溫柔指出犯錯的弟兄的錯，彼此同心合意奉主的名聚會，完全、無條件地寬恕得罪自己的弟兄。</li>
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音19-20&qs_version=CUVMPT">馬太福音19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day6-daily.html">誰大誰小</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音19-20&qs_version=CUVMPT">馬太福音19-20</a> - <a href="https://bibleplan.github.io/daily/2022/wk2-day6-daily.html">誰大誰小</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌和門徒現在開始去往耶路撒冷的重要旅程，這個旅程將以受難、埋葬和復活為高潮。</li>
     <li>繼續被宗教領袖反對和什麼是門徒的主題。</li>
@@ -3990,7 +3990,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音21-22&qs_version=CUVMPT">馬太福音21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day1-daily.html">耶路撒冷</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音21-22&qs_version=CUVMPT">馬太福音21-22</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day1-daily.html">耶路撒冷</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌稱自己為君王，並潔淨自己的聖殿。</li>
     <li>大部分的敘事是一系列的「衝突故事」穿插比喻。</li>
@@ -3998,14 +3998,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音23-24&qs_version=CUVMPT">馬太福音23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day2-daily.html">末世將近</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音23-24&qs_version=CUVMPT">馬太福音23-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day2-daily.html">末世將近</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌宣佈對假冒為善的律法師和法利賽人的審判。</li>
     <li>耶穌離開聖殿並且宣告對耶路撒冷的判斷，和對末世的預言。</li>
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音25&qs_version=CUVMPT">馬太福音25</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day3-daily.html">警醒等候</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音25&qs_version=CUVMPT">馬太福音25</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day3-daily.html">警醒等候</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>因著末世將到，要警醒和服事。十個童女的比喻特別教導我們要警醒準備的工作，因為耶穌的再來是在一個沒有人知道的時間。</li>
     <li>才幹的比喻教導我們在等待耶穌再來的過程中，伴隨著警醒的是忠心服事。</li>
@@ -4013,7 +4013,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音26&qs_version=CUVMPT">馬太福音26</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day4-daily.html">耶穌被賣</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音26&qs_version=CUVMPT">馬太福音26</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day4-daily.html">耶穌被賣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌在祂的塵世生活和使命的最後時刻對門徒說:「你們知道，過兩天是逾越節，人子將要被交給人，釘在十字架上。」(26:2)。</li>
     <li>逾越節的宴席上設立聖餐。</li>
@@ -4021,14 +4021,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音27&qs_version=CUVMPT">馬太福音27</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day5-daily.html">被釘十架</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音27&qs_version=CUVMPT">馬太福音27</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day5-daily.html">被釘十架</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在彼拉多面前受審，猶太人寧願釋放巴拉巴，不願意釋放耶穌。</li>
     <li>耶穌被釘十字架，並死在十字架上。殿裡的幔子從上到下裂為兩半。</li>
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音28&qs_version=CUVMPT">馬太福音28</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day6-daily.html">死裡復活</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音28&qs_version=CUVMPT">馬太福音28</a> - <a href="https://bibleplan.github.io/daily/2022/wk3-day6-daily.html">死裡復活</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>馬太福音的高潮，基督的復活和升天是基督信仰的中心事件。</li>
     <li>十字架上死亡的逆轉，顯明耶穌的拯救大能。</li>
@@ -4038,7 +4038,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">馬可福音</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音1&qs_version=CUVMPT">馬可福音1</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day1-daily.html">福音起頭</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音1&qs_version=CUVMPT">馬可福音1</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day1-daily.html">福音起頭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>馬可介紹耶穌的身份和祂開始傳道時的事跡。</li>
     <li>施洗約翰宣稱耶穌的使命在聖經中預言。</li>
@@ -4047,14 +4047,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音2:1-3:6&qs_version=CUVMPT">馬可福音2:1-3:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day2-daily.html">初現大能</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音2:1-3:6&qs_version=CUVMPT">馬可福音2:1-3:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day2-daily.html">初現大能</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>這部分講述了五個衝突事件來介紹耶穌，以及文士和法利賽人對耶穌的敵意。</li>
     <li>這種安排不是按時間排列的，每個事件包含耶穌的一個重要聲明(2:10,17,19,28;3:4)。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音3:7-4:34&qs_version=CUVMPT">馬可福音3:7-4:34</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day3-daily.html">聽道行道</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音3:7-4:34&qs_version=CUVMPT">馬可福音3:7-4:34</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day3-daily.html">聽道行道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌設立十二門徒，使他們常與祂同在，也差他們出去傳道。</li>
     <li>凡遵行神旨意的人，就是祂的弟兄、姐妹。</li>
@@ -4062,7 +4062,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音4:35-6:6a&qs_version=CUVMPT">馬可福音4:35-6:6a</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day4-daily.html">天地主宰</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音4:35-6:6a&qs_version=CUVMPT">馬可福音4:35-6:6a</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day4-daily.html">天地主宰</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌是天地的主。</li>
     <li>祂有平靜風和海的能力，也掌管靈界的鬼。</li>
@@ -4070,14 +4070,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音6:6b-8:21&qs_version=CUVMPT">馬可福音6:6b-8:21</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day5-daily.html">不解不信</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音6:6b-8:21&qs_version=CUVMPT">馬可福音6:6b-8:21</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day5-daily.html">不解不信</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌差遣十二門徒出去傳道。耶穌憐憫世人，因為他們如同羊沒有牧人。</li>
     <li>門徒對耶穌的身份和神跡仍然有很多誤解和不信。</li>
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音8:22-9:29&qs_version=CUVMPT">馬可福音8:22-9:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day6-daily.html">你是基督</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音8:22-9:29&qs_version=CUVMPT">馬可福音8:22-9:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day6-daily.html">你是基督</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在愷撒利亞-腓立比，彼得承認耶穌是基督。耶穌第一次預言祂的受死和復活。</li>
     <li>做門徒的代價，就是捨己，天天背起十字架來跟從耶穌。</li>
@@ -4086,7 +4086,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音9:30-10:45&qs_version=CUVMPT">馬可福音9:30-10:45</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day1-daily.html">積財在天</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音9:30-10:45&qs_version=CUVMPT">馬可福音9:30-10:45</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day1-daily.html">積財在天</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌再次預言自己被殺、復活。</li>
     <li>門徒爭論誰為大。耶穌在前往耶穌撒冷的路上的講論跟從祂的人應有的態度。</li>
@@ -4094,28 +4094,28 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音10:46-11:26&qs_version=CUVMPT">馬可福音10:46-11:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day2-daily.html">騎驢進城</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音10:46-11:26&qs_version=CUVMPT">馬可福音10:46-11:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day2-daily.html">騎驢進城</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌光榮進入聖城耶路撒冷，在聖殿中趕出做買賣和兌換銀錢的人。</li>
     <li>對無花果樹的咒詛與潔淨聖殿的三明治結構，顯示這些記敘的關聯，或許表明耶穌對聖殿和以色列的命運的預言。</li>
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音11:27-12:40&qs_version=CUVMPT">馬可福音11:27-12:40</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day3-daily.html">聖殿辯論</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音11:27-12:40&qs_version=CUVMPT">馬可福音11:27-12:40</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day3-daily.html">聖殿辯論</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌在聖殿中的講論：耶穌的權柄和以色列的拒絕；納稅的問題；婚姻和復活的問題。</li>
     <li>愛人愛神的大誡命；文士的虛偽。</li>
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音12:41-13:37&qs_version=CUVMPT">馬可福音12:41-13:37</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day4-daily.html">末日預兆</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音12:41-13:37&qs_version=CUVMPT">馬可福音12:41-13:37</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day4-daily.html">末日預兆</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>寡婦的捐資表明神對人的奉獻的態度。</li>
     <li>耶穌講論末日的預兆，教導我們要常常警醒。</li>
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音14&qs_version=CUVMPT">馬可福音14</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day5-daily.html">耶穌被賣</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音14&qs_version=CUVMPT">馬可福音14</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day5-daily.html">耶穌被賣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>玉瓶的真哪噠香膏澆在耶穌頭上，為耶穌的死預備。</li>
     <li>逾越節的宴席，客西馬尼園的禱告。</li>
@@ -4123,7 +4123,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音15&qs_version=CUVMPT">馬可福音15</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day6-daily.html">救主之死</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音15&qs_version=CUVMPT">馬可福音15</a> - <a href="https://bibleplan.github.io/daily/2022/wk5-day6-daily.html">救主之死</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彼拉多審問耶穌卻找不到耶穌的罪狀。</li>
     <li>猶太人寧願釋放巴拉巴也不願意釋放耶穌。</li>
@@ -4131,7 +4131,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音16&qs_version=CUVMPT">馬可福音16</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day1-daily.html">死裡復活</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音16&qs_version=CUVMPT">馬可福音16</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day1-daily.html">死裡復活</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>兩位婦女在耶穌的墳墓看見白衣少年告訴他們耶穌已經復活。</li>
     <li>耶穌向多人顯現，並責備門徒的不信。</li>
@@ -4141,7 +4141,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">路加福音</summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day2-daily.html">施洗約翰</a> (展開)</summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day2-daily.html">施洗約翰</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>路加講述寫作這本福音書的原因。</li>
      <li>天使向撒迦利亞顯現，告訴他施洗約翰即將誕生。</li>
@@ -4150,7 +4150,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音2&qs_version=CUVMPT">路加福音 2</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day3-daily.html">耶穌降生</a> (展開)</summary>
+   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音2&qs_version=CUVMPT">路加福音 2</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day3-daily.html">耶穌降生</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌出生在伯利恆的馬槽中。天使向牧羊人報喜信。</li>
      <li>西面和女先知亞拿見證耶穌的身份，歸榮耀與神。</li>
@@ -4158,7 +4158,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音3.1-4.13&qs_version=CUVMPT">路加福音 3.1-4.13</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day4-daily.html">耶穌家譜</a> (展開)</summary>
+   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音3.1-4.13&qs_version=CUVMPT">路加福音 3.1-4.13</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day4-daily.html">耶穌家譜</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>施洗約翰在曠野傳道，施行洗禮，被希律監禁。</li>
      <li>從亞當以下，耶穌的家譜。</li>
@@ -4166,14 +4166,14 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音4.14-44&qs_version=CUVMPT">路加福音 4.14-44</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day5-daily.html">開始傳道</a> (展開)</summary>
+   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音4.14-44&qs_version=CUVMPT">路加福音 4.14-44</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day5-daily.html">開始傳道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌在自己的家鄉拿撒勒傳道卻被拒絕。</li>
      <li>耶穌在迦百農驅除污鬼、治病，在加利利傳道。</li>
    </ul>
  </details>
  <details>
-   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音5.1-6.11&qs_version=CUVMPT">路加福音 5.1-6:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day6-daily.html">赦免醫治</a> (展開)</summary>
+   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音5.1-6.11&qs_version=CUVMPT">路加福音 5.1-6:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day6-daily.html">赦免醫治</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌呼召第一批門徒。</li>
      <li>潔淨長大麻風的,醫治癱子。</li>
@@ -4181,7 +4181,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音6.12-49&qs_version=CUVMPT">路加福音 6.12-49</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day1-daily.html">平原講道</a> (展開)</summary>
+   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音6.12-49&qs_version=CUVMPT">路加福音 6.12-49</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day1-daily.html">平原講道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌揀選十二人，並稱他們為使徒。</li>
      <li>耶穌在平原講道，論禍福、愛仇敵。</li>
@@ -4190,7 +4190,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音7&qs_version=CUVMPT">路加福音 7</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day2-daily.html">何為信心</a> (展開)</summary>
+   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音7&qs_version=CUVMPT">路加福音 7</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day2-daily.html">何為信心</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>百夫長的信心讓耶穌稀奇，治好百夫長的僕人。</li>
      <li>耶穌叫拿因城寡婦之子從死裡復活。</li>
@@ -4199,7 +4199,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音8&qs_version=CUVMPT">路加福音 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day3-daily.html">聽道行道</a> (展開)</summary>
+   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音8&qs_version=CUVMPT">路加福音 8</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day3-daily.html">聽道行道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌用撒種的比喻來說明人對神的真理的不同回應。</li>
      <li>耶穌回答說:「聽了神之道而遵行的人，就是我的母親、我的弟兄了。」</li>
@@ -4208,7 +4208,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.1-50&qs_version=CUVMPT">路加福音 9.1-50</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day4-daily.html">門徒之道</a> (展開)</summary>
+   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.1-50&qs_version=CUVMPT">路加福音 9.1-50</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day4-daily.html">門徒之道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌差遣十二門徒出去傳道。</li>
      <li>耶穌用五餅二魚餵飽五千人。</li>
@@ -4218,7 +4218,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.51-11.13&qs_version=CUVMPT">路加福音 9.51-11.13</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day5-daily.html">各城傳道</a> (展開)</summary>
+   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.51-11.13&qs_version=CUVMPT">路加福音 9.51-11.13</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day5-daily.html">各城傳道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌說「人子來不是要滅人的性命，是要救人的性命」。</li>
      <li>耶穌差遣七十個門徒出去傳道，他們歡歡喜喜地回來，耶穌為他們感恩。</li>
@@ -4227,7 +4227,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音11.14-54&qs_version=CUVMPT">路加福音 11.14-54</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day6-daily.html">真正敬虔</a> (展開)</summary>
+   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音11.14-54&qs_version=CUVMPT">路加福音 11.14-54</a> - <a href="https://bibleplan.github.io/daily/2022/wk7-day6-daily.html">真正敬虔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌是靠著神的能力趕鬼。</li>
      <li>聽上帝之道而遵守的人有福了。</li>
@@ -4236,7 +4236,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音12.1-13.9&qs_version=CUVMPT">路加福音 12.1-13.9</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day1-daily.html">天國價值</a> (展開)</summary>
+   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音12.1-13.9&qs_version=CUVMPT">路加福音 12.1-13.9</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day1-daily.html">天國價值</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌講論天國的價值觀。要提防法利賽人的酵。不要懼怕世界，要敬畏神。</li>
      <li>不要為自己積財，而要追求在神裡面的富足。</li>
@@ -4245,7 +4245,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音13.10-35&qs_version=CUVMPT">路加福音 13.10-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day2-daily.html">當進窄門</a> (展開)</summary>
+   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音13.10-35&qs_version=CUVMPT">路加福音 13.10-35</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day2-daily.html">當進窄門</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌講論安息日的意義。</li>
      <li>天國的比喻。跟隨主的人當努力進窄門。</li>
@@ -4253,7 +4253,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音14-15&qs_version=CUVMPT">路加福音 14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day3-daily.html">浪子回頭</a> (展開)</summary>
+   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音14-15&qs_version=CUVMPT">路加福音 14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day3-daily.html">浪子回頭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>應當謙卑，不要坐宴席的首位。</li>
      <li>有很多人拒絕了天國的宴席。</li>
@@ -4262,7 +4262,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音16.1-17.10&qs_version=CUVMPT">路加福音 16.1-17.10</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day4-daily.html">對誰忠心</a> (展開)</summary>
+   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音16.1-17.10&qs_version=CUVMPT">路加福音 16.1-17.10</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day4-daily.html">對誰忠心</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌教導我們在最小的事上忠心，在大事上也忠心。</li>
      <li>在世上享福的財主和貧窮的拉撒路的不同結局。</li>
@@ -4270,7 +4270,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音17.11-18.30&qs_version=CUVMPT">路加福音 17.11-18.30</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day5-daily.html">持守到底</a> (展開)</summary>
+   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音17.11-18.30&qs_version=CUVMPT">路加福音 17.11-18.30</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day5-daily.html">持守到底</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌治好十個長大麻風的。</li>
      <li>耶穌教導神的國來到的時候的情形。</li>
@@ -4279,7 +4279,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音18.31-19.44&qs_version=CUVMPT">路加福音 18.31-19.44</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day6-daily.html">預言受難</a> (展開)</summary>
+   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音18.31-19.44&qs_version=CUVMPT">路加福音 18.31-19.44</a> - <a href="https://bibleplan.github.io/daily/2022/wk8-day6-daily.html">預言受難</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌預言祂的受難；使瞎子看見。</li>
      <li>藉著稅吏撒該的故事說明人子來，為要尋找、拯救失喪的人。</li>
@@ -4288,7 +4288,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音19.45-21.38&qs_version=CUVMPT">路加福音 19.45-21.38</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day1-daily.html">聖殿衝突</a> (展開)</summary>
+   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音19.45-21.38&qs_version=CUVMPT">路加福音 19.45-21.38</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day1-daily.html">聖殿衝突</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌潔淨聖殿 </li>
      <li>耶穌以凶惡園戶的比喻來說明以色列的祝福的失去。 </li>
@@ -4297,7 +4297,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音22&qs_version=CUVMPT">路加福音 22</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day2-daily.html">最後晚餐</a> (展開)</summary>
+   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音22&qs_version=CUVMPT">路加福音 22</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day2-daily.html">最後晚餐</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌與門徒共享逾越節的宴席； </li>
      <li>門徒爭論誰為大，但耶穌預言彼得將三次不認主； </li>
@@ -4305,7 +4305,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音23&qs_version=CUVMPT">路加福音 23</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day3-daily.html">十架流血</a> (展開)</summary>
+   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音23&qs_version=CUVMPT">路加福音 23</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day3-daily.html">十架流血</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌被帶到彼拉多面前受審； </li>
      <li>眾人願意除掉耶穌而釋放巴拉巴；耶穌被釘十字架； </li>
@@ -4313,7 +4313,7 @@ layout: post
    </ul>
  </details>
  <details>
-   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音24&qs_version=CUVMPT">路加福音 24</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day4-daily.html">死裡復活</a> (展開)</summary>
+   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音24&qs_version=CUVMPT">路加福音 24</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day4-daily.html">死裡復活</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
    <ul>
      <li>耶穌從死裡復活，在路上向兩個門徒顯現； </li>
      <li>顯現在以馬忤斯、耶路撒冷； </li>
@@ -4323,7 +4323,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約翰福音</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day5-daily.html">道成肉身</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day5-daily.html">道成肉身</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>太初有道，道與神同在，道就是神。</li>
     <li>神差約翰來為光作見證，叫眾人因他可以信。</li>
@@ -4334,7 +4334,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.19-2.12&qs_version=CUVMPT">約翰福音1.19-2.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day6-daily.html">神的兒子</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.19-2.12&qs_version=CUVMPT">約翰福音1.19-2.12</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day6-daily.html">神的兒子</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約翰說自己不是基督。</li>
     <li>他就是那在曠野有人聲喊著說：『修直主的道路』，正如先知以賽亞所說的。</li>
@@ -4347,7 +4347,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音2.13-3.36&qs_version=CUVMPT">約翰福音2.13-3.36</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day1-daily.html">如何得救</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音2.13-3.36&qs_version=CUVMPT">約翰福音2.13-3.36</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day1-daily.html">如何得救</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌看見殿裡有做買賣的，就拿繩子做成鞭子，把他們趕出殿去。</li>
     <li>猶太人要耶穌顯神蹟，耶穌說：你們拆毀這殿，我三日內要再建立起來。</li>
@@ -4359,7 +4359,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音4&qs_version=CUVMPT">約翰福音4</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day2-daily.html">心靈誠實</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音4&qs_version=CUVMPT">約翰福音4</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day2-daily.html">心靈誠實</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌對撒馬利亞的婦人說：「請你給我水喝。」</li>
     <li>「凡喝這水的，還要再渴，人若喝我所賜的水，就永遠不渴。我所賜的水要在他裡頭成為泉源，直湧到永生。」</li>
@@ -4371,7 +4371,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音5&qs_version=CUVMPT">約翰福音5</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day3-daily.html">出死入生</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音5&qs_version=CUVMPT">約翰福音5</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day3-daily.html">出死入生</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在耶路撒冷畢士大池，耶穌治好病了三十八年的人。</li>
     <li>那天是安息日，猶太人說那醫好的人拿褥子是不可的，並指責耶穌乾犯安息日。</li>
@@ -4382,7 +4382,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音6&qs_version=CUVMPT">約翰福音6</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day4-daily.html">天上的糧</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音6&qs_version=CUVMPT">約翰福音6</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day4-daily.html">天上的糧</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌以五餅二魚給五千人吃飽，剩下的裝滿了十二個籃子。</li>
     <li>耶穌在海面上走。</li>
@@ -4394,7 +4394,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音7&qs_version=CUVMPT">約翰福音7</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day5-daily.html">活水江河</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音7&qs_version=CUVMPT">約翰福音7</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day5-daily.html">活水江河</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌說：我的時候還沒有到。</li>
     <li>到了節期，耶穌上殿裡去教訓人，說：我的教訓不是我自己的，乃是那差我來者的。</li>
@@ -4406,7 +4406,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音8&qs_version=CUVMPT">約翰福音8</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day6-daily.html">生命的光</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音8&qs_version=CUVMPT">約翰福音8</a> - <a href="https://bibleplan.github.io/daily/2022/wk10-day6-daily.html">生命的光</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>文士和法利賽人帶著行淫的婦人來試探耶穌，要得著告他的把柄。耶穌說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」</li>
     <li>耶穌不定婦人的罪，讓她從此不要再犯罪。</li>
@@ -4419,7 +4419,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音9-10&qs_version=CUVMPT">約翰福音9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day1-daily.html">迷羊牧人</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音9-10&qs_version=CUVMPT">約翰福音9-10</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day1-daily.html">迷羊牧人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌用唾沫和泥抹在瞎子的眼睛上，治好了瞎子。這天是安息日。</li>
     <li>法利賽人因耶穌在安息日治好瞎子，就起了紛爭。</li>
@@ -4430,7 +4430,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音11&qs_version=CUVMPT">約翰福音11</a> - <a href="https://bibleplan.github.io/daily/wk97-day1-daily.html">復活在主</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音11&qs_version=CUVMPT">約翰福音11</a> - <a href="https://bibleplan.github.io/daily/wk97-day1-daily.html">復活在主</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>拉撒路患病，住在伯大尼。</li>
     <li>耶穌聽見就說：「這病不至於死，乃是為神的榮耀，叫神的兒子因此得榮耀。」</li>
@@ -4443,7 +4443,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音12&qs_version=CUVMPT">約翰福音12</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day2-daily.html">進入聖城</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音12&qs_version=CUVMPT">約翰福音12</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day2-daily.html">進入聖城</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>逾越節前六日，馬利亞拿著一斤極貴的真哪噠香膏，抹耶穌的腳，又用自己的頭髮去擦。</li>
     <li>第二天，有許多人聽見耶穌將到耶路撒冷，就拿著棕樹枝出去迎接他，喊著說：「和散那！奉主名來的以色列王是應當稱頌的！」</li>
@@ -4454,7 +4454,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音13&qs_version=CUVMPT">約翰福音13</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day3-daily.html">彼此洗腳</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音13&qs_version=CUVMPT">約翰福音13</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day3-daily.html">彼此洗腳</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌離席站起來，拿手巾束腰，把水倒在盆裡，就洗門徒的腳，並用自己所束的手巾擦乾。</li>
     <li>耶穌說：「我實實在在地告訴你們：你們中間有一個人要賣我了。」</li>
@@ -4464,7 +4464,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音14-15&qs_version=CUVMPT">約翰福音14-15</a> - <a href="https://bibleplan.github.io/daily/wk97-day4-daily.html">真理生命</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音14-15&qs_version=CUVMPT">約翰福音14-15</a> - <a href="https://bibleplan.github.io/daily/wk97-day4-daily.html">真理生命</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌說父的家裡有許多住處，祂去原是為門徒預備地方去。</li>
     <li>耶穌說：「我就是道路、真理、生命。若不藉著我，沒有人能到父那裡去。」</li>
@@ -4477,7 +4477,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音16-17&qs_version=CUVMPT">約翰福音16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day4-daily.html">真理聖靈</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音16-17&qs_version=CUVMPT">約翰福音16-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day4-daily.html">真理聖靈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>聖靈既來了，就要叫世人為罪、為義、為審判，自己責備自己。</li>
     <li>等真理的聖靈來了，他要引導你們明白一切的真理。</li>
@@ -4487,7 +4487,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音18&qs_version=CUVMPT">約翰福音18</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day5-daily.html">捉拿耶穌</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音18&qs_version=CUVMPT">約翰福音18</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day5-daily.html">捉拿耶穌</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌同門徒出去，過了汲淪溪。進去了一個園子。</li>
     <li>猶大領了一隊兵，來到園裡，拿住耶穌，把他捆綁了。</li>
@@ -4498,7 +4498,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音19&qs_version=CUVMPT">約翰福音19</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day6-daily.html">被釘十架</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音19&qs_version=CUVMPT">約翰福音19</a> - <a href="https://bibleplan.github.io/daily/2022/wk11-day6-daily.html">被釘十架</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彼拉多將耶穌鞭打了。兵丁用荊棘編做冠冕，戴在他頭上。用手掌打他。</li>
     <li>猶太人喊著要除掉耶穌，釘他在十字架上。</li>
@@ -4509,7 +4509,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音20&qs_version=CUVMPT">約翰福音20</a> - <a href="https://bibleplan.github.io/daily/wk98-day2-daily.html">死裡復活</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音20&qs_version=CUVMPT">約翰福音20</a> - <a href="https://bibleplan.github.io/daily/wk98-day2-daily.html">死裡復活</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>清早，馬利亞來到墳墓，看見石頭從墳墓挪開了，以為有人把主從墳墓裡挪了去。</li>
     <li>馬利亞在墳墓裡看見耶穌。</li>
@@ -4518,7 +4518,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音21&qs_version=CUVMPT">約翰福音21</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day1-daily.html">三問彼得</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音21&qs_version=CUVMPT">約翰福音21</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day1-daily.html">三問彼得</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌在提比哩亞海邊又向門徒顯現。</li>
     <li>耶穌要門徒把網撒在船的右邊，撈到很多魚。</li>
@@ -4531,14 +4531,14 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">使徒行傳</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳1&qs_version=CUVMPT">使徒行傳1</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day5-daily.html">等候聖靈</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳1&qs_version=CUVMPT">使徒行傳1</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day5-daily.html">等候聖靈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌囑咐門徒，要在耶路撒冷等候聖靈的洗。</li>
     <li>門徒補選使徒。</li>
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳2&qs_version=CUVMPT">使徒行傳2</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day6-daily.html">聖靈大能</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳2&qs_version=CUVMPT">使徒行傳2</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day6-daily.html">聖靈大能</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>聖靈降臨在門徒身上，門徒得著能力，用各種語言向眾人傳講神的大作為。</li>
     <li>彼得向困惑的眾人講解，耶穌就是神所立的基督。</li>
@@ -4546,7 +4546,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳3-4&qs_version=CUVMPT">使徒行傳3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day1-daily.html">放膽傳講</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳3-4&qs_version=CUVMPT">使徒行傳3-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day1-daily.html">放膽傳講</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彼得第二次講道，五千男丁信道。</li>
     <li>面對大祭司的審訊，彼得大膽宣告耶穌是唯一拯救。</li>
@@ -4555,7 +4555,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳5:1-6:7&qs_version=CUVMPT">使徒行傳5:1-6:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day2-daily.html">不可阻擋</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳5:1-6:7&qs_version=CUVMPT">使徒行傳5:1-6:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day2-daily.html">不可阻擋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>欺哄聖靈之人的結局，讓人對聖靈心生敬畏。</li>
     <li>主藉使徒的手行神跡奇事，信而歸主的人越發增添，眾人病得醫治。</li>
@@ -4565,7 +4565,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳6:8-7:60&qs_version=CUVMPT">使徒行傳6:8-7:60</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day3-daily.html">天使面貌</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳6:8-7:60&qs_version=CUVMPT">使徒行傳6:8-7:60</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day3-daily.html">天使面貌</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>司提反靠主行奇事神蹟，受人誣告。</li>
     <li>聖靈充滿的司提反宣告，正像他們的祖宗，他們活在罪中，常常抗拒聖靈，殺先知，現在又殺了那義者。</li>
@@ -4573,7 +4573,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳8:1-9:31&qs_version=CUVMPT">使徒行傳8:1-9:31</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day4-daily.html">分散傳道</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳8:1-9:31&qs_version=CUVMPT">使徒行傳8:1-9:31</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day4-daily.html">分散傳道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>使徒以外的門徒，從耶路撒冷分散開來。</li>
     <li>腓利在撒瑪利亞宣講基督，在曠野為歸主的埃塞俄比亞太監施洗。</li>
@@ -4583,14 +4583,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳9:32-10:48&qs_version=CUVMPT">使徒行傳9:32-10:48</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day5-daily.html">臨到外邦</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳9:32-10:48&qs_version=CUVMPT">使徒行傳9:32-10:48</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day5-daily.html">臨到外邦</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彼得奉耶穌的名使癱子行走，讓死人復活。</li>
     <li>聖靈引導彼得向外邦人哥尼流傳講福音，聖靈首次降臨在外邦人身上。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳11:1-12:24&qs_version=CUVMPT">使徒行傳11:1-12:24</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day6-daily.html">真道興旺</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳11:1-12:24&qs_version=CUVMPT">使徒行傳11:1-12:24</a> - <a href="https://bibleplan.github.io/daily/2022/wk36-day6-daily.html">真道興旺</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>彼得講解聖靈降臨在外邦人身上的由來，使人明白神的救恩不分猶太、外邦。</li>
     <li>福音傳到安提阿，許多外邦人信而歸主；巴拿巴和保羅一年之久教導、建立門徒。</li>
@@ -4599,7 +4599,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳12:25-13:52&qs_version=CUVMPT">使徒行傳12:25-13:52</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day1-daily.html">宣教啟程</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳12:25-13:52&qs_version=CUVMPT">使徒行傳12:25-13:52</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day1-daily.html">宣教啟程</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>聖靈呼召巴拿巴和保羅出去宣教。</li>
     <li>保羅勝過假先知的抵擋，見證神的大能，方伯見而信道。</li>
@@ -4608,7 +4608,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳14:1-16:5&qs_version=CUVMPT">使徒行傳14:1-16:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day2-daily.html">得救在恩</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳14:1-16:5&qs_version=CUVMPT">使徒行傳14:1-16:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day2-daily.html">得救在恩</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>使徒大難不死後，繼續傳福音、堅固門徒。</li>
     <li>首次佈道旅行结束；使徒述說神藉他們所行的事，外邦人怎樣信道。</li>
@@ -4617,7 +4617,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳16:6-17:34&qs_version=CUVMPT">使徒行傳16:6-17:34</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day3-daily.html">傳向歐洲</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳16:6-17:34&qs_version=CUVMPT">使徒行傳16:6-17:34</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day3-daily.html">傳向歐洲</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>聖靈指引使徒轉向歐洲傳道。</li>
     <li>腓利比，呂底亞河邊信主，使徒監獄讚美神，獄卒蒙救恩。</li>
@@ -4627,7 +4627,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳18:1-19:20&qs_version=CUVMPT">使徒行傳18:1-19:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day4-daily.html">許多百姓</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳18:1-19:20&qs_version=CUVMPT">使徒行傳18:1-19:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day4-daily.html">許多百姓</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在哥林多建立教會一年半；主說，「這城裡我有許多的百姓。」</li>
     <li>經過以弗所，結束第二次佈道旅行，隨即開始第三次佈道旅行。</li>
@@ -4635,14 +4635,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳19:21-20:38&qs_version=CUVMPT">使徒行傳19:21-20:38</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day5-daily.html">不顧性命</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳19:21-20:38&qs_version=CUVMPT">使徒行傳19:21-20:38</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day5-daily.html">不顧性命</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神的道改變人心，偶像生意一落千丈。</li>
     <li>不以性命爲念，一心成就主託付的使命。</li>
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳21:1-22:29&qs_version=CUVMPT">使徒行傳21:1-22:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day6-daily.html">耶城陳情</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳21:1-22:29&qs_version=CUVMPT">使徒行傳21:1-22:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk37-day6-daily.html">耶城陳情</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>不顧險阻，前往耶路撒冷。</li>
     <li>陳明悔改、蒙召經過。</li>
@@ -4650,21 +4650,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳22:30-24:27&qs_version=CUVMPT">使徒行傳22:30-24:27</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day1-daily.html">據理力爭</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳22:30-24:27&qs_version=CUVMPT">使徒行傳22:30-24:27</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day1-daily.html">據理力爭</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>撒都該人關於死人復活的盲點，讓人看到人智慧的有限。</li>
     <li>主的保守的啟示再次臨到；雖有人謀害，保羅被轉到愷撒利亞看守。</li>
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳25-26&qs_version=CUVMPT">使徒行傳25-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day2-daily.html">講解真道</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳25-26&qs_version=CUVMPT">使徒行傳25-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day2-daily.html">講解真道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>獲准上告於愷撒。</li>
     <li>亞基帕王確認保羅無罪。</li>
   </ul>
  </details>
  <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳27:1-28:16&qs_version=CUVMPT">使徒行傳27:1-28:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day3-daily.html">遭遇海難</a> (展開)</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳27:1-28:16&qs_version=CUVMPT">使徒行傳27:1-28:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day3-daily.html">遭遇海難</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神在海難當中啟示平安，全船的人因使徒不致喪命。</li>
     <li>保羅有神的保守，雖被毒蛇咬，安然無恙。</li>
@@ -4672,7 +4672,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳28:17-30&qs_version=CUVMPT">使徒行傳28:17-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day4-daily.html">放膽傳講</a> (展開)</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳28:17-30&qs_version=CUVMPT">使徒行傳28:17-30</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day4-daily.html">放膽傳講</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>羅馬的猶太人曉得基督信仰到處被譭謗，但仍然願意聽講解。</li>
     <li>猶太人有信的，也有油蒙了心而不信的；救達到外邦人。</li>
@@ -4682,7 +4682,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">羅馬書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:1-17&qs_version=CUVMPT">羅馬書1:1-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day5-daily.html">神的福音</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:1-17&qs_version=CUVMPT">羅馬書1:1-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day5-daily.html">神的福音</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>福音的源頭是神</li>
     <li>福音的內容是主耶穌基督</li>
@@ -4691,7 +4691,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:18-2:29&qs_version=CUVMPT">羅馬書1:18-2:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day6-daily.html">罪惡與審判</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:18-2:29&qs_version=CUVMPT">羅馬書1:18-2:29</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day6-daily.html">罪惡與審判</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>人的敗壞在於明明知道神，卻不敬拜他，明知自己的惡要受審判，不但自己行，還喜歡別人去行。</li>
     <li>沒有人是義的，唯有神是公義的審判者。</li>
@@ -4699,7 +4699,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書3&qs_version=CUVMPT">羅馬書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day1-daily.html">定罪與稱義</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書3&qs_version=CUVMPT">羅馬書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day1-daily.html">定罪與稱義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>人的不信不能廢去神的信實，人的不義倒顯出神的義。</li>
     <li>沒有一個義人，普世之人都在神的審判之下。</li>
@@ -4707,7 +4707,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書4:1-5:11&qs_version=CUVMPT">羅馬書4:1-5:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day2-daily.html">信心與行為</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書4:1-5:11&qs_version=CUVMPT">羅馬書4:1-5:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day2-daily.html">信心與行為</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>稱義不是因著行為。</li>
     <li>稱義不是因著宗教儀文。</li>
@@ -4716,7 +4716,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書5:12-21&qs_version=CUVMPT">羅馬書5:12-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day3-daily.html">亞當與基督</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書5:12-21&qs_version=CUVMPT">羅馬書5:12-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day3-daily.html">亞當與基督</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>罪與死因亞當一人進入世界，因一次的過犯眾人都被定了罪。</li>
     <li>生命與恩典也是藉著耶穌基督一人而來，因他一次的義行，眾人都被稱義得了生命。</li>
@@ -4724,21 +4724,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書6:1-7:6&qs_version=CUVMPT">羅馬書6:1-7:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day4-daily.html">同死與同活</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書6:1-7:6&qs_version=CUVMPT">羅馬書6:1-7:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day4-daily.html">同死與同活</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>藉著洗禮，我們歸入基督的死，與他一同埋葬；又因著他的複活，聯合於他復活的形狀，叫我們一舉一動有新生的樣式。</li>
     <li>要看自己向罪是死的，向神是活的，將肢體獻上，作義的器皿、義的奴僕。</li>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書7:7-8:39&qs_version=CUVMPT">羅馬書7:7-8:39</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day5-daily.html">捆綁與釋放</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書7:7-8:39&qs_version=CUVMPT">羅馬書7:7-8:39</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day5-daily.html">捆綁與釋放</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>罪的律藉著良善公義聖潔的律叫我們死；但是生命聖靈的律，在耶穌基督裡釋放我們，使我們脫離罪與死的律。</li>
     <li>我們是榮耀的後裔，有聖靈與我們同證兒子的身份；有聖靈為我們代求，有神幫助我們，又因在基督耶穌裡，什麼都不能讓我們與神的愛隔絕！</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書9:1-29&qs_version=CUVMPT">羅馬書9:1-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day6-daily.html">揀選的主權</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書9:1-29&qs_version=CUVMPT">羅馬書9:1-29</a> - <a href="https://bibleplan.github.io/daily/2022/wk39-day6-daily.html">揀選的主權</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神的揀選是按神的應許，從不落空。</li>
     <li>神的揀選在乎召人的主，而不在乎行為。</li>
@@ -4747,7 +4747,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書9:30-10:21&qs_version=CUVMPT">羅馬書9:30-10:21</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day1-daily.html">揀選的憑藉</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書9:30-10:21&qs_version=CUVMPT">羅馬書9:30-10:21</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day1-daily.html">揀選的憑藉</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神的揀選是藉著因信稱義。</li>
     <li>神的揀選是藉著主耶穌基督。基督是律法的總結，為我們死而復活。因信主名而呼求的就必得救。</li>
@@ -4755,7 +4755,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書11&qs_version=CUVMPT">羅馬書11</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day2-daily.html">揀選的智慧</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書11&qs_version=CUVMPT">羅馬書11</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day2-daily.html">揀選的智慧</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>照神的揀選的恩典，他為以色列人存留餘數。</li>
     <li>神藉著以色列人的頑梗，使救恩臨到外邦人，又藉著外邦人蒙恩，激發以色列人得救。</li>
@@ -4763,21 +4763,21 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書12-13&qs_version=CUVMPT">羅馬書12-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day3-daily.html">揀選的生命(一)</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書12-13&qs_version=CUVMPT">羅馬書12-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day3-daily.html">揀選的生命(一)</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>在主耶穌基督里，將身體獻上當做活祭，事奉神，不要效法這世界，只要心意更新而變化，活出新生命。</li>
     <li>信徒的生命應該是：按著所得的恩賜忠心服事，對他人以愛相待，對惡人以善勝惡，對掌權者要順服，披戴基督，不要為肉體安排。</li>
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書14-15&qs_version=CUVMPT">羅馬書14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day4-daily.html">揀選的生命(二)</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書14-15&qs_version=CUVMPT">羅馬書14-15</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day4-daily.html">揀選的生命(二)</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>要接納信心軟弱的。不可彼此論斷。按愛人的道理行，不可絆倒人。要彼此擔當軟弱，彼此接納。</li>
     <li>在公義、和平、並聖靈中喜樂這幾樣上服事基督。</li>
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書16&qs_version=CUVMPT">羅馬書16</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day5-daily.html">生命的榜樣</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書16&qs_version=CUVMPT">羅馬書16</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day5-daily.html">生命的榜樣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>除了主耶穌基督藉著保羅所做的傳福音的事，保羅什麼其他的都不敢提。</li>
     <li>保羅立志將福音傳到更遠更廣的地方去。</li>
@@ -4788,7 +4788,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">哥林多前書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書1:1-3:4&qs_version=CUVMPT">哥林多前書1:1-3:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day6-daily.html">神的智慧</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書1:1-3:4&qs_version=CUVMPT">哥林多前書1:1-3:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day6-daily.html">神的智慧</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅提醒哥林多教會不可結黨紛爭。</li>
     <li>神願全教會一心一意彼此相合。</li>
@@ -4798,7 +4798,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書3:5-4:21&qs_version=CUVMPT">哥林多前書3:5-4:21</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day1-daily.html">教會根基</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書3:5-4:21&qs_version=CUVMPT">哥林多前書3:5-4:21</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day1-daily.html">教會根基</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅提醒哥林多教會不要論斷，只等主來。</li>
     <li>保羅責備自高自大、輕看他人的人。</li>
@@ -4806,14 +4806,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書5-6&qs_version=CUVMPT">哥林多前書5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day2-daily.html">避免淫行</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書5-6&qs_version=CUVMPT">哥林多前書5-6</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day2-daily.html">避免淫行</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅警戒教會裡的弟兄應當避免淫行，因不義的人不能承受神的國。</li>
     <li>從前的罪已經奉主耶穌基督的名並藉著神的靈洗淨了。神已經叫主復活，也要用自己的能力叫我們復活。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書7&qs_version=CUVMPT">哥林多前書7</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day3-daily.html">嫁娶之事</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書7&qs_version=CUVMPT">哥林多前書7</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day3-daily.html">嫁娶之事</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神所設立的婚約，要人忠於配偶。</li>
     <li>結婚也好，獨身也好，都可以忠心侍奉神。</li>
@@ -4821,7 +4821,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書8-9&qs_version=CUVMPT">哥林多前書8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day4-daily.html">真的自由</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書8-9&qs_version=CUVMPT">哥林多前書8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day4-daily.html">真的自由</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>自以為有知識的人容易自高自大目中無人，不顧及他人的軟弱。</li>
     <li>廟堂的祭物本身對神不重要，我們不吃也無損，吃也無益。</li>
@@ -4830,7 +4830,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書10:1-11:1&qs_version=CUVMPT">哥林多前書10:1-11:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day5-daily.html">逃避偶像</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書10:1-11:1&qs_version=CUVMPT">哥林多前書10:1-11:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day5-daily.html">逃避偶像</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以色列人在試探面前大敗，應該作為我們的警戒。</li>
     <li>神是信實的，必不叫人受試探過於所能受的。</li>
@@ -4839,7 +4839,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書11:2-34&qs_version=CUVMPT">哥林多前書11:2-34</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day6-daily.html">蒙頭與聖餐</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書11:2-34&qs_version=CUVMPT">哥林多前書11:2-34</a> - <a href="https://bibleplan.github.io/daily/2022/wk41-day6-daily.html">蒙頭與聖餐</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>蒙頭在當時的傳統中表示莊重。保羅建議當時的婦女應該蒙頭。</li>
     <li>借著聖餐常常提醒紀念主，吃聖餐前自己省察自己，然後吃這餅、喝這杯。</li>
@@ -4847,7 +4847,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書12-14&qs_version=CUVMPT">哥林多前書12-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day1-daily.html">屬靈的恩賜</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書12-14&qs_version=CUVMPT">哥林多前書12-14</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day1-daily.html">屬靈的恩賜</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>屬靈的恩賜是聖靈隨己意分給各人的。</li>
     <li>肢體都從一位聖靈受洗，成了一個身體，飲於一位聖靈。</li>
@@ -4857,7 +4857,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書15&qs_version=CUVMPT">哥林多前書15</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day2-daily.html">得救的憑據</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書15&qs_version=CUVMPT">哥林多前書15</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day2-daily.html">得救的憑據</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅重申福音，糾正那些不相信基督從死裡復活的錯誤觀念。</li>
     <li>基督的復活彰顯神的大能。</li>
@@ -4865,7 +4865,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書16&qs_version=CUVMPT">哥林多前書16</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day3-daily.html">捐項與勸勉</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書16&qs_version=CUVMPT">哥林多前書16</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day3-daily.html">捐項與勸勉</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅提醒哥林多教會用捐項幫助耶路撒冷窮困的教會。</li>
     <li>哥林多教會可能輕看保羅差遣來的提摩太，保羅告誡他們不要看重這個輕看那個。</li>
@@ -4874,14 +4874,14 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">哥林多後書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書1:1-2:13&qs_version=CUVMPT">哥林多後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day4-daily.html">患難與憂愁</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書1:1-2:13&qs_version=CUVMPT">哥林多後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day4-daily.html">患難與憂愁</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神是發慈悲的父，賜各樣安慰的神。多受基督的苦楚的，就靠基督多得安慰；並用這苦楚與安慰，成為同在基督裡受苦的肢體的安慰。</li>
     <li>信徒彼此相待，不是為了讓彼此憂愁，而是因著堅定不移的愛心，讓彼此在主裡真正快樂。</li>
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書2:14-4:6&qs_version=CUVMPT">哥林多後書2:14-4:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day5-daily.html">香氣與榮光</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書2:14-4:6&qs_version=CUVMPT">哥林多後書2:14-4:6</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day5-daily.html">香氣與榮光</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅與同工「由於誠實，由於神，在神面前憑著基督講道」；也是神，率領他們在基督裡誇勝，並藉著他們在各處顯揚因認識基督而有的香氣。</li>
     <li>保羅與同工是新約的執事，是屬靈的執事，是稱義的執事，有極大的長存的榮光。主的靈使人變成主的形狀，榮上加榮。</li>
@@ -4889,14 +4889,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書4:7-5:1&qs_version=CUVMPT">哥林多後書4:7-5:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day6-daily.html">暫時與永恆</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書4:7-5:1&qs_version=CUVMPT">哥林多後書4:7-5:1</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day6-daily.html">暫時與永恆</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅的生命的榜樣是這樣的：身上常帶著基督的死，卻顯明基督復活的生命；外體雖然毀壞，內心卻一天新似一天；顧念看不見的永遠的榮耀，輕看所能看見的暫時的苦楚，因為這地上的帳篷雖然拆毀，卻得以穿上屬天的房屋。</li>
     <li>基督的門徒要立定心志、為主而活、討主喜悅，將榮耀歸給神。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書5:11-7:4&qs_version=CUVMPT">哥林多後書5:11-7:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day1-daily.html">和好與悅納</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書5:11-7:4&qs_version=CUVMPT">哥林多後書5:11-7:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day1-daily.html">和好與悅納</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>基督的使者的職分，是替基督求眾人與神和好;</li>
     <li>基督的使者的榜樣，是在各樣的事情上表明自己是神的用人;</li>
@@ -4905,7 +4905,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書7:5-16&qs_version=CUVMPT">哥林多後書7:5-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day2-daily.html">依神的意思</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書7:5-16&qs_version=CUVMPT">哥林多後書7:5-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day2-daily.html">依神的意思</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>依著神的意思憂愁，就凡事不受虧損；</li>
     <li>依著神的意思憂愁，就生出沒有後悔的悔改，以致於得救；</li>
@@ -4914,7 +4914,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書8-9&qs_version=CUVMPT">哥林多後書8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day3-daily.html">甘心的捐助</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書8-9&qs_version=CUVMPT">哥林多後書8-9</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day3-daily.html">甘心的捐助</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>捐助要甘心樂意，按照神給的力量而行；</li>
     <li>捐助是效法主耶穌，祂本來富足，卻為我們成為貧窮，叫我們因祂的貧窮，可以成為富足；</li>
@@ -4922,7 +4922,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書10-11&qs_version=CUVMPT">哥林多後書10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day4-daily.html">使徒的權柄</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書10-11&qs_version=CUVMPT">哥林多後書10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day4-daily.html">使徒的權柄</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>真使徒不是靠血氣爭戰，而是靠神的能力；</li>
     <li>真使徒是要造就人，而不是為了敗壞人；</li>
@@ -4933,7 +4933,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書12-13&qs_version=CUVMPT">哥林多後書12-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day5-daily.html">保羅的自誇</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書12-13&qs_version=CUVMPT">哥林多後書12-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day5-daily.html">保羅的自誇</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>倚仗著經歷自誇是愚妄的，保羅本不願意自誇，他「自誇」是為了向人證明自己使徒的憑據和呼召。他更願意誇自己的軟弱，好叫基督的能力覆蔽他。保羅經歷患難(11:23-33)；得到主的顯現和啟示(12:1-10)；用百般的忍耐，藉著神蹟奇事異能顯出使徒的憑據來(12:12)；愛哥林多教會如同自己的孩子(11:7-11，12:14-18)；一切都是為了造就人(12:19-21)。</li>
     <li>保羅提醒眾人，使徒的權柄不會寬容犯罪。</li>
@@ -4942,7 +4942,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">加拉太書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書1-2&qs_version=CUVMPT">加拉太書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day6-daily.html">福音真源</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書1-2&qs_version=CUVMPT">加拉太書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day6-daily.html">福音真源</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅的使徒職分和權柄是從神藉著耶穌基督來的。</li>
     <li>假福音是不同的、更改了的「福音」，來源是人而不是神。傳假福音的人是當咒詛的。</li>
@@ -4950,7 +4950,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書3:1-4:20&qs_version=CUVMPT">加拉太書3:1-4:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day1-daily.html">因信稱義</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書3:1-4:20&qs_version=CUVMPT">加拉太書3:1-4:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day1-daily.html">因信稱義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>加拉太教會的信徒得救的起始，是源於信，而非律法；</li>
     <li>因信稱義的應許，早於律法之約。人不是藉著行律法蒙恩；</li>
@@ -4959,7 +4959,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書4:21-5:12&qs_version=CUVMPT">加拉太書4:21-5:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day2-daily.html">珍惜自由</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書4:21-5:12&qs_version=CUVMPT">加拉太書4:21-5:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day2-daily.html">珍惜自由</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>我們是憑著應許做了自主的兒女，而非憑著律法之約作了律法下的奴僕；</li>
     <li>耶穌基督釋放了我們，叫我們得自由，不要再回到律法之下去受奴僕之軛的轄制，那樣基督就與我們無益了。</li>
@@ -4968,7 +4968,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書5:13-6:18&qs_version=CUVMPT">加拉太書5:13-6:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day3-daily.html">不要放縱</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書5:13-6:18&qs_version=CUVMPT">加拉太書5:13-6:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day3-daily.html">不要放縱</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>要杜絕放縱情慾，就當順著聖靈而行，靠聖靈行事，結聖靈的果子。</li>
     <li>順從聖靈向人行善，互相擔當重擔、愛人如己，就完全了基督的律法。</li>
@@ -4978,7 +4978,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">以弗所書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書1&qs_version=CUVMPT">以弗所書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day4-daily.html">屬靈基業</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書1&qs_version=CUVMPT">以弗所書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day4-daily.html">屬靈基業</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神憑著祂豐盛的恩典在耶穌基督裡揀選我們，因耶穌基督的血赦免我們的過犯，又賜給我們兒女的名分，這是我們屬靈的基業，神賜給我們這樣基業的憑證就是聖靈。</li>
     <li>神所賜給我們的基業，讓我們與神的能力連接，這能力就是使耶穌基督從死裡復活的能力，只有神開啟我們屬靈的眼睛的時候我們才能真正的認識並倚靠祂的能力。</li>
@@ -4986,14 +4986,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書2&qs_version=CUVMPT">以弗所書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day5-daily.html">主里合一</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書2&qs_version=CUVMPT">以弗所書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day5-daily.html">主里合一</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌基督藉著十字架上的工作，將猶太人和外邦人在他裡面合為一體，造成一個新的族類。這讓原來與神國無份的外邦人進入到神的國度，可以繼承神的基業，這完全是主耶穌的工作。</li>
     <li>耶穌基督在十字架上的工作，拆毀了猶太人與外邦人之間隔斷的墻，從此以後種族、宗教、行為不再成為他們身份的標誌，以這些作為標誌使他們隔絕;取而代之的是因同在主裡所帶來的合一。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書3:1-4:16&qs_version=CUVMPT">以弗所書3:1-4:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day6-daily.html">各盡其職</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書3:1-4:16&qs_version=CUVMPT">以弗所書3:1-4:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day6-daily.html">各盡其職</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>神給保羅的呼召是成為外邦人的使徒，將神藉著耶穌基督使猶太人和外邦人與神和好的奧秘託付給他。因此，保羅雖然身陷囹圄也并不懼怕，反而鼓勵因此灰心喪氣的以弗所信徒。因為他知道「這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀」。</li>
     <li>按照神的設計，祂的大能大力是顯在眾聖徒的群體裡面。一個方式是神給不同的人不同的屬靈恩賜，讓眾聖徒「照着各體的功用彼此相助」;同时又是一個身體，一個聖靈，一主，一信，一洗，一神成为眾聖徒合而為一的基础。</li>
@@ -5001,14 +5001,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書4:17-6:9&qs_version=CUVMPT">以弗所書4:17-6:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day1-daily.html">生活更新</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書4:17-6:9&qs_version=CUVMPT">以弗所書4:17-6:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day1-daily.html">生活更新</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>與神重新連接的人，會在生活中有與過去不一樣的行為。這是因為從前我們的舊人因私慾迷惑，而神賜給的新生命卻是照著神的形象活出來的。</li>
     <li>在主裡面的人是光明之子，行事為人自當有光明之子的樣式：良善、公義、誠實并時時察驗何為主所喜悅的事。</li>
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書6:10-24&qs_version=CUVMPT">以弗所書6:10-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day2-daily.html">爭戰得勝</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書6:10-24&qs_version=CUVMPT">以弗所書6:10-24</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day2-daily.html">爭戰得勝</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>基督徒的一生會也會面臨各樣的爭戰，既有來自世界執政掌權者，也有來自靈界的魔鬼，還有來自自己的私慾。</li>
     <li>神賜給了每個基督徒爭戰中足以得勝的全幅軍裝，讓信徒在爭戰中站立得住，同時讓神的旨意在爭戰中成就。</li>
@@ -5018,7 +5018,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">腓立比書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:1-26&qs_version=CUVMPT">腓立比書1:1-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day3-daily.html">興旺福音</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:1-26&qs_version=CUVMPT">腓立比書1:1-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day3-daily.html">興旺福音</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅為同心合意興旺福音的基督徒向神祈求和感恩。</li>
     <li>保羅的捆鎖在外邦人中顯明為基督的緣故，反而讓福音興旺。</li>
@@ -5026,7 +5026,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:27-2:30&qs_version=CUVMPT">腓立比書1:27-2:30</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day4-daily.html">行事為人</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:27-2:30&qs_version=CUVMPT">腓立比書1:27-2:30</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day4-daily.html">行事為人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>信徒的行事為人當與基督的福音相稱，同有一個心志，站立得穩，為所信的福音齊心努力。</li>
     <li>凡事不可結黨，不可貪圖虛浮的榮耀，只要存心謙卑，各人看別人比自己強。</li>
@@ -5035,7 +5035,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書3:1-4:3&qs_version=CUVMPT">腓立比書3:1-4:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day5-daily.html">耶穌至寶</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書3:1-4:3&qs_version=CUVMPT">腓立比書3:1-4:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day5-daily.html">耶穌至寶</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>要靠主喜樂，常常禱告。</li>
     <li>將萬事當做有損的，因我以認識我主基督耶穌為至寶。</li>
@@ -5044,7 +5044,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書4:4-23&qs_version=CUVMPT">腓立比書4:4-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day6-daily.html">常常喜樂</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書4:4-23&qs_version=CUVMPT">腓立比書4:4-23</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day6-daily.html">常常喜樂</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>我們要靠主常常喜樂。</li>
     <li>應當一無掛慮，只要凡事藉著禱告、祈求和感謝，將我們所要的告訴神。</li>
@@ -5054,7 +5054,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">歌羅西書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書1:1-2:5&qs_version=CUVMPT">歌羅西書1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day1-daily.html">神的奥秘</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書1:1-2:5&qs_version=CUVMPT">歌羅西書1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day1-daily.html">神的奥秘</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>認識神，知道神的旨意，是每一個重生得救的基督徒一生的功課。這不是一蹴而就的訓練，而是一生遵循神的旨意之善果的積累。</li>
     <li>耶穌基督是神的奧秘的完全體現，神一切的豐富，一切的知識和智慧都是在耶穌基督裡面的。</li>
@@ -5062,7 +5062,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書2:6-3:11&qs_version=CUVMPT">歌羅西書2:6-3:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day2-daily.html">提防小学</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書2:6-3:11&qs_version=CUVMPT">歌羅西書2:6-3:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day2-daily.html">提防小学</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>摩西律法，是耶穌到來之前對耶穌的預表，是耶穌的「影兒」，它所能啟示的神的知識是不完全的，是「小學」；而耶穌卻是神本體的真相在這個世界上完全的體現，神一切的豐富都是在耶穌基督裡面的。</li>
     <li>猶太人想要通過行律法稱義反而容易落入假冒偽善的陷阱，表面上謙卑實際上自高自大，隨從己心，對克制肉體的情欲毫無功效。</li>
@@ -5070,7 +5070,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書3:12-4:18&qs_version=CUVMPT">歌羅西書3:12-4:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day3-daily.html">愛心聯絡</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書3:12-4:18&qs_version=CUVMPT">歌羅西書3:12-4:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day3-daily.html">愛心聯絡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>被神揀選的子民因神的愛而罪得赦免，照樣，作為耶穌基督身體的教會，肢體之間應該有愛心聯絡，彼此饒恕嫌隙，在真道上追求合一。</li>
     <li>保羅與當時很多的主內肢體之間有美好的同工關係，這中間包括他以前非常有意見的馬可。</li>
@@ -5081,7 +5081,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">帖撒羅尼迦前書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書1&qs_version=CUVMPT">帖撒羅尼迦前書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day4-daily.html">信心根基</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書1&qs_version=CUVMPT">帖撒羅尼迦前書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day4-daily.html">信心根基</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>耶穌基督的福音，不僅是通過言語教導，更是通過神的大能和聖靈的工作，將充足的信心賜給人。</li>
     <li>美好的屬靈生命讓人看到因信所做的工夫、因愛所受的勞苦、和因盼望所存的忍耐。</li>
@@ -5089,7 +5089,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:1-16&qs_version=CUVMPT">帖撒羅尼迦前書2:1-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day5-daily.html">信心榜樣</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:1-16&qs_version=CUVMPT">帖撒羅尼迦前書2:1-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day5-daily.html">信心榜樣</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅的信心，幫助他立定心志要討神的喜悅，靠神傳他所託付的福音；</li>
     <li>保羅的盼望，幫助他在被害受辱的大爭戰中，依然靠神放膽做工；</li>
@@ -5097,14 +5097,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:17-3:13&qs_version=CUVMPT">帖撒羅尼迦前書2:17-3:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day6-daily.html">榮耀冠冕</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:17-3:13&qs_version=CUVMPT">帖撒羅尼迦前書2:17-3:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day6-daily.html">榮耀冠冕</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>信徒在信心上堅固，在主再來的時候站立得住，是保羅的榮耀、喜樂、盼望和所誇的冠冕，也是他在患難中的安慰。</li>
     <li>堅固、補滿信徒的信心，是保羅派提摩太去帖撒羅尼迦教會的目的，也是他急切想去見他們的原因。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:1-12&qs_version=CUVMPT">帖撒羅尼迦前書4:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day1-daily.html">義的行為</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:1-12&qs_version=CUVMPT">帖撒羅尼迦前書4:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day1-daily.html">義的行為</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>保羅勸勉帖撒羅尼迦的信徒，要按照他們現在所行的，有信心有愛心有盼望的樣式，更加勉勵更加努力。</li>
     <li>保羅用主耶穌的命令勸戒帖撒羅尼迦的信徒，要聖潔，遠離淫行。</li>
@@ -5112,7 +5112,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:13-5:11&qs_version=CUVMPT">帖撒羅尼迦前書4:13-5:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day2-daily.html">驚醒謹守</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:13-5:11&qs_version=CUVMPT">帖撒羅尼迦前書4:13-5:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day2-daily.html">驚醒謹守</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>主再來的日子，已死去的信徒先復活，而後還活著的信徒加入他們，一同被提到雲裡，在空中與主相遇，從此與主永遠同在。</li>
     <li>主再來的日子，好像夜間的賊來到，沒有人知道他來的時間。</li>
@@ -5120,7 +5120,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書5:12-28&qs_version=CUVMPT">帖撒羅尼迦前書5:12-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day3-daily.html">全然成聖</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書5:12-28&qs_version=CUVMPT">帖撒羅尼迦前書5:12-28</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day3-daily.html">全然成聖</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>信徒要敬重勞苦服事的神的僕人。</li>
     <li>信徒要彼此和睦，警戒不守規矩的，勉勵灰心的，扶助軟弱的，總要追求良善。</li>
@@ -5131,7 +5131,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">帖撒羅尼迦後書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書1&qs_version=CUVMPT">帖撒羅尼迦後書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day4-daily.html">公義審判</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書1&qs_version=CUVMPT">帖撒羅尼迦後書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day4-daily.html">公義審判</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>信徒要敬重勞苦服事的神的僕人。</li>
     <li>信徒要彼此和睦，警戒不守規矩的，勉勵灰心的，扶助軟弱的，總要追求良善。</li>
@@ -5140,7 +5140,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:1-12&qs_version=CUVMPT">帖撒羅尼迦後書2:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day5-daily.html">滅絕不法</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:1-12&qs_version=CUVMPT">帖撒羅尼迦後書2:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day5-daily.html">滅絕不法</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>信徒在患難中，仍有忍耐和信心，就是神公義判斷的明證，也是信徒配得神的國的證據。</li>
     <li>神是公義的，必將患難報應那加患難給信徒的人，並使受患難的信徒同得平安。</li>
@@ -5148,7 +5148,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:13-3:18&qs_version=CUVMPT">帖撒羅尼迦後書2:13-3:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day6-daily.html">安靜做工</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:13-3:18&qs_version=CUVMPT">帖撒羅尼迦後書2:13-3:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day6-daily.html">安靜做工</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>認識自己的身分和依靠，才能在真道上站立得穩，在善言善行上得以堅固。</li>
    <li>要遠離不按規矩而行、不遵守教訓的人，使他們羞愧就迴轉，要勸他們如弟兄。</li>
@@ -5158,7 +5158,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">提摩太前書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書1&qs_version=CUVMPT">提摩太前書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day1-daily.html">命令總歸</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書1&qs_version=CUVMPT">提摩太前書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day1-daily.html">命令總歸</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在教會的事奉當中，要警惕，不可傳異教，不可聽從荒謬無憑的話語和無窮的家譜，這些不能幫助人的信心成長。</li>
    <li>在教會裡勸戒人的命令是因著愛，這愛是從清潔的心和無虧的良心、無偽的信心來的。</li>
@@ -5167,7 +5167,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書2&qs_version=CUVMPT">提摩太前書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day2-daily.html">為人禱告</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書2&qs_version=CUVMPT">提摩太前書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day2-daily.html">為人禱告</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>為主打美好的仗，第一重要的是為所有世人禱告代求，包括君王和一切在位的，這樣我們就可以敬虔、端正、平安無事地度日，也在神的面前蒙悅納；因為神願意萬人得救，明白真道。</li>
    <li>男人要無忿怒，無爭論，舉起聖潔的手，隨處禱告；</li>
@@ -5175,7 +5175,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:1-13&qs_version=CUVMPT">提摩太前書3:1-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day3-daily.html">監督執事</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:1-13&qs_version=CUVMPT">提摩太前書3:1-13</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day3-daily.html">監督執事</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>有感動做教會的監督執事的，需是出於羨慕善工的熱心。</li>
    <li>做監督的，需要在家庭婚姻上有好的見證；有好的生命品格，在愛神愛人、教內教外都無可指責；必須是在信仰上日子夠長久，生命經歷足夠操練的。</li>
@@ -5184,7 +5184,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:14-4:16&qs_version=CUVMPT">提摩太前書3:14-4:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day4-daily.html">操練敬虔</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:14-4:16&qs_version=CUVMPT">提摩太前書3:14-4:16</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day4-daily.html">操練敬虔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>敬虔的奧秘就是福音。</li>
    <li>必然有人離棄真道，用表面的敬虔來轄制人對神的真道的領受。</li>
@@ -5193,7 +5193,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書5:1-6:2b&qs_version=CUVMPT">提摩太前書5:1-6:2b</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day5-daily.html">敬虔度日</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書5:1-6:2b&qs_version=CUVMPT">提摩太前書5:1-6:2b</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day5-daily.html">敬虔度日</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>對待教會的肢體，要存著清清潔潔的心；</li>
    <li>尊敬真正敬虔的寡婦，對寡婦的供應的責任應從她的親人擔負起，讓教會可以救濟真無依靠的寡婦。</li>
@@ -5204,7 +5204,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書6:2c-21&qs_version=CUVMPT">提摩太前書6:2c-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day6-daily.html">敬虔知足</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書6:2c-21&qs_version=CUVMPT">提摩太前書6:2c-21</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day6-daily.html">敬虔知足</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>以敬虔為得利的門路的人，在信徒中帶來破壞和紛爭；</li>
    <li>貪財是萬惡之根，貪戀錢財導致人被引誘離了真道，被許多愁苦刺透；</li>
@@ -5216,7 +5216,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">提摩太後書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書1:1-2:13&qs_version=CUVMPT">提摩太後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day1-daily.html">恩賜的火</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書1:1-2:13&qs_version=CUVMPT">提摩太後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day1-daily.html">恩賜的火</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>要將神的恩賜如火挑旺，「因為神賜給我們，不是膽怯的心，乃是剛強、仁愛、謹守的心。」</li>
    <li>要知道自己所信的是誰，知道主所交付的祂必保全到底。要用在基督裡的愛心和信心，靠著住在我們心裡的聖靈，常常地、牢牢地守著真道。</li>
@@ -5224,7 +5224,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書2:14-3:9&qs_version=CUVMPT">提摩太後書2:14-3:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day2-daily.html">無愧工人</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書2:14-3:9&qs_version=CUVMPT">提摩太後書2:14-3:9</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day2-daily.html">無愧工人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>竭力在神面前得蒙喜悅的無愧工人，按照正意分解真理的道,而不是在言語上爭辯；</li>
    <li>他們逃避那將人引導更不敬虔之處的世俗的虛談；他們逃避少年人的私慾，同屬靈的敬虔夥伴一起清心追求主；</li>
@@ -5234,7 +5234,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書3:10-4:22&qs_version=CUVMPT">提摩太後書3:10-4:22</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day3-daily.html">務要傳道</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書3:10-4:22&qs_version=CUVMPT">提摩太後書3:10-4:22</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day3-daily.html">務要傳道</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>凡立志在基督耶穌裡敬虔度日的人都要受逼迫，但是主的拯救不離開他們；</li>
    <li>務要努力學道，聖經叫信基督的人有得救的智慧。聖經都是神所默示的，於教訓、督責、使人歸正、教導人學義都是有益的，叫屬神的人得以完全，預備行各樣的善事。</li>
@@ -5245,7 +5245,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">提多書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書1-2&qs_version=CUVMPT">提多書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day4-daily.html">敬虔真理</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書1-2&qs_version=CUVMPT">提多書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day4-daily.html">敬虔真理</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>長老、監督要有敬虔、無可指責的生命樣式，並在真理上堅守，不僅能教導信徒，並能駁斥異端邪說。</li>
    <li>要講純正的真理，用講明、勸戒、責備，幫助信徒操練敬虔榮耀神的生命。</li>
@@ -5253,7 +5253,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書3&qs_version=CUVMPT">提多書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day5-daily.html">預備行善</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書3&qs_version=CUVMPT">提多書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day5-daily.html">預備行善</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>行善的根基是主的恩慈和憐憫，而不是我們的義；</li>
    <li>我們要留心，時刻預備行善，對掌權者順服遵命，對眾人溫柔和平；這對人是有益的。不要做引起爭競的虛妄無益的事。</li>
@@ -5262,7 +5262,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">腓利門書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓利門書1&qs_version=CUVMPT">腓利門書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day6-daily.html">面對過去</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓利門書1&qs_version=CUVMPT">腓利門書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day6-daily.html">面對過去</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>阿尼西謀是腓利門的逃奴，曾對腓利門有很多虧欠。他在保羅的帶領下信主，身分和生命都因救恩而改變和更新。腓利門也受福音的恩惠，是歌羅西教會的重要同工，在信心和愛心上都有美好的見證。 </li>
    <li>保羅派遣阿尼西謀回歌羅西去面對過去的錯失。同時他讓阿尼西謀帶上他寫給腓利門的書信，用愛心求腓利門合宜地對待阿尼西謀，並不使用自己的權柄和權威命令他。保羅願意親自為阿尼西謀償還所虧欠的，並表示會因他們的和好和彼此相愛而在主裡歡暢。 </li>
@@ -5271,7 +5271,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">希伯來書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書1&qs_version=CUVMPT">希伯來書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day1-daily.html">遠超天使</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書1&qs_version=CUVMPT">希伯來書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day1-daily.html">遠超天使</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>基督是先知，是祭司，祂也是君王，神一切的奧秘都在祂裡面。</li>
    <li>基督是神的兒子，是神榮耀所發的光輝，是神本體的真像，祂的尊名遠勝天使。</li>
@@ -5280,7 +5280,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書2&qs_version=CUVMPT">希伯來書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day2-daily.html">偉大救恩</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書2&qs_version=CUVMPT">希伯來書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day2-daily.html">偉大救恩</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>要鄭重所聽見的神的道，這關係到我們永遠的生死與得失。</li>
    <li>神的救恩起先是主親自講的，再經聽見的人證實，神又用神蹟、奇事、異能、並聖靈的恩賜同做見證。</li>
@@ -5291,7 +5291,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書3:1-4:13&qs_version=CUVMPT">希伯來書3:1-4:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day3-daily.html">進入安息</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書3:1-4:13&qs_version=CUVMPT">希伯來書3:1-4:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day3-daily.html">進入安息</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>摩西是在舊約中神重用的僕人，但是他遠不及基督為神的兒子。</li>
    <li>基督要建造神真正的永遠的家和居所。</li>
@@ -5300,7 +5300,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書4:14-6:20&qs_version=CUVMPT">希伯來書4:14-6:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day4-daily.html">祭司耶穌</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書4:14-6:20&qs_version=CUVMPT">希伯來書4:14-6:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day4-daily.html">祭司耶穌</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>主是屬靈生命長進的起頭，祂應當是我們注目的目標和唯一的依靠。</li>
    <li>耶稣是慈悲忠信的大祭司，是按照麦基洗德的等次成为永远的祭司。</li>
@@ -5309,7 +5309,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書7&qs_version=CUVMPT">希伯來書7</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day5-daily.html">耶稣中保</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書7&qs_version=CUVMPT">希伯來書7</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day5-daily.html">耶稣中保</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶穌基督是按照麥基洗德的等次成為祭司，不是按照亞倫的等次。</li>
    <li>基督是永存的，祂祭司的任职就是长久不变的，所以凡靠着祂进到神面前的他都能拯救到底。</li>
@@ -5317,7 +5317,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書8&qs_version=CUVMPT">希伯來書8</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day6-daily.html">更美之約</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書8&qs_version=CUVMPT">希伯來書8</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day6-daily.html">更美之約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>基督所得的職任是更美的，正如他做更美之約的中保。</li>
    <li>基督作為中保的新約是可信賴的，只有通過基督才能與神和好。</li>
@@ -5325,7 +5325,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書9:1-10:18&qs_version=CUVMPT">希伯來書9:1-10:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day1-daily.html">信實守約</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書9:1-10:18&qs_version=CUVMPT">希伯來書9:1-10:18</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day1-daily.html">信實守約</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>舊約的獻祭不能叫人得以完全，耶穌獻上自己是成就永遠贖罪的祭。</li>
    <li>唯有靠著基督完全的贖罪，我們才能從律法的刑罰中得釋放。</li>
@@ -5334,7 +5334,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書10:19-39&qs_version=CUVMPT">希伯來書10:19-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day2-daily.html">新的生命</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書10:19-39&qs_version=CUVMPT">希伯來書10:19-39</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day2-daily.html">新的生命</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>耶穌的獻祭除去了至聖所的幔子，讓我們可以隨時來到神的面前。</li>
    <li>藉著耶穌基督我們信心得以增長，戰勝困惑疑慮；藉著耶穌基督我們能互相勸勉；藉著耶穌基督，我們可以一同敬拜。</li>
@@ -5344,7 +5344,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書11&qs_version=CUVMPT">希伯來書11</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day3-daily.html">信心偉人</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書11&qs_version=CUVMPT">希伯來書11</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day3-daily.html">信心偉人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>信就是所望之事的實底，是未見之事的確據。</li>
    <li>人非有信就不能得神的喜悅，因為到神面前來的人必須信有神，且信他賞賜那尋求他的人。</li>
@@ -5353,7 +5353,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書12&qs_version=CUVMPT">希伯來書12</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day4-daily.html">神的管教</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書12&qs_version=CUVMPT">希伯來書12</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day4-daily.html">神的管教</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神對所有兒女都有管教。</li>
    <li>地上的父親隨己意管教我們，但是天父管教我們是為了讓我們得益處，使我們在祂的聖潔上有份。</li>
@@ -5362,7 +5362,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書13&qs_version=CUVMPT">希伯來書13</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day5-daily.html">弟兄相愛</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書13&qs_version=CUVMPT">希伯來書13</a> - <a href="https://bibleplan.github.io/daily/2022/wk51-day5-daily.html">弟兄相愛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>基督徒要存弟兄相愛的心，不可忘記用愛心接待客旅，存心不可貪愛錢財。</li>
    <li>我們要主動幫助被捆綁的人，看顧被囚的人。</li>
@@ -5374,7 +5374,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">雅各書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:1-18&qs_version=CUVMPT">雅各書1:1-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day6-daily.html">信心試煉</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:1-18&qs_version=CUVMPT">雅各書1:1-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day6-daily.html">信心試煉</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在百般試煉中要有大喜樂，因為信心經歷試煉就生出忍耐。</li>
    <li>在試煉中憑信心向神求智慧，那厚賜與眾人，也不斥責人的神，必賜給我們。</li>
@@ -5386,7 +5386,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:19-2:26&qs_version=CUVMPT">雅各書1:19-2:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day1-daily.html">信心行為</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:19-2:26&qs_version=CUVMPT">雅各書1:19-2:26</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day1-daily.html">信心行為</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>不要單單聽道，還要將聽的道實在行出來，就必然在所行的事上得福。</li>
    <li>要看顧弱小的孤兒寡婦，並且不要沾染世俗，不要偏心待人，用惡意斷定人；以外貌待人是違背了愛人如己的命令。</li>
@@ -5394,14 +5394,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書3:1-4:12&qs_version=CUVMPT">雅各書3:1-4:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day2-daily.html">智慧敬虔</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書3:1-4:12&qs_version=CUVMPT">雅各書3:1-4:12</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day2-daily.html">智慧敬虔</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>要尋求上面的智慧，掌控自己的舌頭；不可以又頌讚神，又咒詛人。</li>
    <li>敬畏神的人不放縱私慾，不與世俗為友；敬畏神的人順服神、潔淨手和心、悔改自卑、親近神、不論斷他人。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書4:13-5:20&qs_version=CUVMPT">雅各書4:13-5:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day3-daily.html">忍耐等候</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書4:13-5:20&qs_version=CUVMPT">雅各書4:13-5:20</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day3-daily.html">忍耐等候</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>我們為生活籌劃，應當是以神的旨意為第一重要的。</li>
    <li>我們追求的，應當是屬靈的寶貴出產，而不是屬世的富足；當忍耐等候主的時間，不用起誓的方式幫助自己脫離忍耐。</li>
@@ -5412,7 +5412,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">彼得前書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:1-12&qs_version=CUVMPT">彼得前書1:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day4-daily.html">靈魂救恩</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:1-12&qs_version=CUVMPT">彼得前書1:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day4-daily.html">靈魂救恩</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>我們是三一真神按著他的恩典揀選的；</li>
    <li>這救恩給我們新的生命和活潑的盼望，並在天上的基業；</li>
@@ -5421,7 +5421,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:13-2:10&qs_version=CUVMPT">彼得前書1:13-2:10</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day5-daily.html">得救生命</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:13-2:10&qs_version=CUVMPT">彼得前書1:13-2:10</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day5-daily.html">得救生命</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>重生得救的新生命，是順命的、聖潔的、存敬畏的心度日的；</li>
    <li>重生得救的新生命，依靠的不是金銀，而是主耶穌的寶血，信心和盼望都在於神；</li>
@@ -5432,7 +5432,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書2:11-3:7&qs_version=CUVMPT">彼得前書2:11-3:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day6-daily.html">為主順服</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書2:11-3:7&qs_version=CUVMPT">彼得前書2:11-3:7</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day6-daily.html">為主順服</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>我們在這世界是寄居的客旅，要禁戒肉體的私慾，品行端正，讓人看見我們的好行為，就在監察的日子歸榮耀與神。</li>
    <li>為主的緣故，要順服人制度，並在上的君王臣宰；為主的緣故，僕人要順服主人，不管他是善良溫和的，還是乖僻的；</li>
@@ -5441,7 +5441,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書3:8-4:11&qs_version=CUVMPT">彼得前書3:8-4:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day1-daily.html">為義受苦</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書3:8-4:11&qs_version=CUVMPT">彼得前書3:8-4:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day1-daily.html">為義受苦</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>弟兄姊妹間要同心，彼此相愛，存慈憐謙卑的心。要謹慎自守，警醒禱告，互相款待，不發怨言；</li>
    <li>要照所得的恩賜、按神所賜的力量彼此服事，叫神在凡事上因耶穌基督得榮耀。不要以惡報惡，以辱罵還辱罵，倒要祝福。</li>
@@ -5451,7 +5451,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書4:12-5:14&qs_version=CUVMPT">彼得前書4:12-5:14</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day2-daily.html">為信受苦</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書4:12-5:14&qs_version=CUVMPT">彼得前書4:12-5:14</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day2-daily.html">為信受苦</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>若是因基督徒的身分而受苦，就是與基督一同受苦，也必在祂榮耀顯現的時候同得榮耀，因此要在受苦的時候歡喜快樂。</li>
    <li>做長老的，要出於甘心樂意、按照神的旨意照管牧養群羊，不是轄制，而是做群羊的榜樣；</li>
@@ -5462,7 +5462,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">彼得後書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書1&qs_version=CUVMPT">彼得後書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day3-daily.html">分外殷勤</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書1&qs_version=CUVMPT">彼得後書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day3-daily.html">分外殷勤</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神已賜下一切關乎生命和敬虔的事，並又寶貴又極大的應許，叫我們的生命得以脫離敗壞，得與神的性情有分。</li>
    <li>我們要分外殷勤，要充充足足地加</li>
@@ -5472,7 +5472,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書2&qs_version=CUVMPT">彼得後書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day4-daily.html">虛假師傅</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書2&qs_version=CUVMPT">彼得後書2</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day4-daily.html">虛假師傅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>假師傅是必然會出現的，他們引入陷害人的異端，不認主耶穌基督，有許多人隨從他們邪淫的行為，叫真道因為他們的原因而被毀謗；</li>
    <li>神對不法之人和事的反應從古至今、從天使到世人,都是一致的。假師傅必然逃不脫他們的刑罰，必速速滅亡；</li>
@@ -5481,7 +5481,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書3&qs_version=CUVMPT">彼得後書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day5-daily.html">主必再來</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書3&qs_version=CUVMPT">彼得後書3</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day5-daily.html">主必再來</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>末世必有人譏誚說，主再來的應許是虛假的。</li>
    <li>主應許的尚未成就，並非是主耽延，而是寬容，祂不願有一人沈淪，乃願人人悔改；</li>
@@ -5493,14 +5493,14 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約翰一書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1:1-2:2&qs_version=CUVMPT">約翰一書1:1-2:2</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day6-daily.html">神就是光</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1:1-2:2&qs_version=CUVMPT">約翰一書1:1-2:2</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day6-daily.html">神就是光</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>在神那裡有永恆的生命，藉著主耶穌基督向我們顯現過，也讓使徒聽過、看過、親手摸過。因此，我們應當喜樂充足。</li>
    <li>神就是光，在祂毫無黑暗。我們與神相交，就是在光明中行，當認自己的罪，求神赦免。</li>
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:3-27&qs_version=CUVMPT">約翰一書2:3-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day1-daily.html">新的命令</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:3-27&qs_version=CUVMPT">約翰一書2:3-27</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day1-daily.html">新的命令</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>凡遵守主道的，愛神的心在他裡面實在是完全的；從此，我們知道我們是在主裡面。</li>
    <li>黑暗漸漸過去，真光已經照耀。人若說自己在光明中，卻恨他的弟兄，他到如今還是在黑暗裡。</li>
@@ -5510,14 +5510,14 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:28-3:24&qs_version=CUVMPT">約翰一書2:28-3:24</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day2-daily.html">神的兒女</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:28-3:24&qs_version=CUVMPT">約翰一書2:28-3:24</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day2-daily.html">神的兒女</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>父賜給我們是何等的慈愛，使我們得稱為神的兒女；我們也真是他的兒女。</li>
    <li>神的命令就是叫我們信他兒子耶穌基督的名，且照他所賜給我們的命令彼此相愛。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書4&qs_version=CUVMPT">約翰一書4</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day3-daily.html">彼此相愛</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書4&qs_version=CUVMPT">約翰一書4</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day3-daily.html">彼此相愛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>愛是從神來的。凡有愛心的，都是由神而生，並且認識神。</li>
    <li>神差他的兒子為我們的罪作了挽回祭，這就是愛了。</li>
@@ -5526,7 +5526,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書5&qs_version=CUVMPT">約翰一書5</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day4-daily.html">虛假師傅</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書5&qs_version=CUVMPT">約翰一書5</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day4-daily.html">虛假師傅</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>作見證的原來有三：就是聖靈、水、與血。這三樣也都在主耶稣基督里歸於一。</li>
    <li>凡從神生的，必不犯罪，從神生的，必保守自己，那惡者也就無法害他。</li>
@@ -5536,7 +5536,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約翰二書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day5-daily.html">愛與真理</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day5-daily.html">愛與真理</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>真理與愛心須是並行的，愛是為著真理的緣故。</li>
    <li>遵行神的命令，彼此相愛，就是愛神。</li>
@@ -5545,7 +5545,7 @@ layout: post
  </details></details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約翰三書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day6-daily.html">真理與愛</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day6-daily.html">真理與愛</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>神的兒女應當心中存著真理，按真理而行。</li>
    <li>當愛心接待為主名外出做工的弟兄，這樣就是與他們一同為真理做工。</li>
@@ -5554,7 +5554,7 @@ layout: post
  </details></details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">猶大書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=猶大書1&qs_version=CUVMPT">猶大書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day1-daily.html">竭力爭辯</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=猶大書1&qs_version=CUVMPT">猶大書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day1-daily.html">竭力爭辯</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
    <li>因著教會有異端假教師的出現，要為真理竭力爭辯；</li>
    <li>三個審判是假教師的結局的鑒戒；</li>
@@ -5567,7 +5567,7 @@ layout: post
 </details>
 <details><summary style="text-decoration: underline; color: #1E6BB8;">啟示錄</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄1&qs_version=CUVMPT">啟示錄1</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day4-daily.html">駕雲降臨</a> (展開)</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄1&qs_version=CUVMPT">啟示錄1</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day4-daily.html">駕雲降臨</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約翰將神的道和耶穌基督的見證，凡自己所看見的都證明出來。</li>
     <li>約翰寫信給亞細亞的七個教會。</li>
@@ -5578,7 +5578,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄2-3&qs_version=CUVMPT">啟示錄2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day5-daily.html">七個教會</a> (展開)</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄2-3&qs_version=CUVMPT">啟示錄2-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day5-daily.html">七個教會</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>以弗所教會把起初的愛心離棄了。</li>
     <li>士每拿教會務要至死忠心，我就賜給你那生命的冠冕。</li>
@@ -5590,7 +5590,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄4-5&qs_version=CUVMPT">啟示錄4-5</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day6-daily.html">晝夜敬拜</a> (展開)</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄4-5&qs_version=CUVMPT">啟示錄4-5</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day6-daily.html">晝夜敬拜</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>天上有門開了，約翰被聖靈感動，見有寶座安置在天上，又有一位坐在寶座上。</li>
     <li>四活物各有六個翅膀，遍體內外都滿了眼睛。他們晝夜不住地說：「聖哉，聖哉，聖哉，主神是昔在、今在、以後永在的全能者！」</li>
@@ -5601,7 +5601,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄6&qs_version=CUVMPT">啟示錄6</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day1-daily.html">揭開六印</a> (展開)</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄6&qs_version=CUVMPT">啟示錄6</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day1-daily.html">揭開六印</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>羔羊揭開七印中第一印的時候，約翰看見有一匹白馬，騎在馬上的拿著弓，並有冠冕賜給他。</li>
     <li>揭開第二印的時候，另有一匹馬出來，是紅的，有權柄給了那騎馬的，可以從地上奪去太平。</li>
@@ -5613,7 +5613,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄7.1-8.5&qs_version=CUVMPT">啟示錄7.1-8.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day2-daily.html">開第七印</a> (展開)</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄7.1-8.5&qs_version=CUVMPT">啟示錄7.1-8.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day2-daily.html">開第七印</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>另有一位天使拿著永生神的印。</li>
     <li>以色列人各支派中受印的數目有十四萬四千。</li>
@@ -5625,7 +5625,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄8.6-9.21&qs_version=CUVMPT">啟示錄8.6-9.21</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day3-daily.html">吹響六號</a> (展開)</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄8.6-9.21&qs_version=CUVMPT">啟示錄8.6-9.21</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day3-daily.html">吹響六號</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>拿著七支號的七位天使就預備要吹。</li>
     <li>第一位天使吹號，就有雹子與火摻著血丟在地上。</li>
@@ -5638,7 +5638,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄10-11&qs_version=CUVMPT">啟示錄10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day4-daily.html">吹第七號</a> (展開)</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄10-11&qs_version=CUVMPT">啟示錄10-11</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day4-daily.html">吹第七號</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>另有一位天使從天降下，手裡拿著小書卷。有七雷發聲，但神命令約翰不可寫出來。</li>
     <li>神要約翰吃盡小書卷，肚子發苦，口中要甜如蜜。</li>
@@ -5648,7 +5648,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄12&qs_version=CUVMPT">啟示錄12</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day5-daily.html">善惡爭戰</a> (展開)</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄12&qs_version=CUVMPT">啟示錄12</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day5-daily.html">善惡爭戰</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>天上現出大異象：有一個婦人身披日頭，腳踏月亮，頭戴十二星的冠冕，她懷了孕，在生產的艱難中疼痛呼叫。</li>
     <li>天上又現出異象來：有一條大紅龍，七頭十角，七頭上戴著七個冠冕，牠的尾巴拖拉著天上星辰的三分之一，摔在地上。</li>
@@ -5660,7 +5660,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄13&qs_version=CUVMPT">啟示錄13</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day6-daily.html">褻瀆神名</a> (展開)</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄13&qs_version=CUVMPT">啟示錄13</a> - <a href="https://bibleplan.github.io/daily/2022/wk103-day6-daily.html">褻瀆神名</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>約翰又看見一個獸從海中上來，有十角七頭，全地的人都跟從那獸，又拜那龍，也拜獸。</li>
     <li>獸褻瀆神的名，與聖徒爭戰，並且得勝；制伏各族、各民、各方、各國。</li>
@@ -5669,7 +5669,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄14&qs_version=CUVMPT">啟示錄14</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day1-daily.html">天使福音</a> (展開)</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄14&qs_version=CUVMPT">啟示錄14</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day1-daily.html">天使福音</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>羔羊站在錫安山，同他又有十四萬四千人，有他的名和他父的名寫在額上</li>
     <li>他們在寶座前，並在四活物和眾長老前唱新歌。</li>
@@ -5679,7 +5679,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄15-16&qs_version=CUVMPT">啟示錄15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day2-daily.html">倒下七碗</a> (展開)</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄15-16&qs_version=CUVMPT">啟示錄15-16</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day2-daily.html">倒下七碗</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>天上有大而且奇的異象，就是七位天使掌管末了的七災，神的大怒在這七災中發盡了。</li>
     <li>玻璃海中有火摻雜，那些勝了獸的人，都站在玻璃海上唱神僕人摩西的歌和羔羊的歌。</li>
@@ -5694,7 +5694,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄17&qs_version=CUVMPT">啟示錄17</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day3-daily.html">羔羊得勝</a> (展開)</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄17&qs_version=CUVMPT">啟示錄17</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day3-daily.html">羔羊得勝</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>拿著七碗的七位天使中有一位將坐在眾水上的大淫婦所要受的刑罰指給約翰看。</li>
     <li>獸將要從無底坑裡上來，又要歸於沉淪。</li>
@@ -5703,7 +5703,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄18.1-19.10&qs_version=CUVMPT">啟示錄18.1-19.10</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day4-daily.html">大城傾倒</a> (展開)</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄18.1-19.10&qs_version=CUVMPT">啟示錄18.1-19.10</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day4-daily.html">大城傾倒</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>另一位有大權柄的天使從天降下，地就因他的榮耀發光。</li>
     <li>巴比倫大城傾倒，成了鬼魔的住處和各樣汙穢之靈的巢穴，並各樣汙穢可憎之雀鳥的巢穴。</li>
@@ -5715,7 +5715,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄19.11-20.15&qs_version=CUVMPT">啟示錄19.11-20.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day5-daily.html">末日爭戰</a> (展開)</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄19.11-20.15&qs_version=CUVMPT">啟示錄19.11-20.15</a> - <a href="https://bibleplan.github.io/daily/2022/wk104-day5-daily.html">末日爭戰</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>騎在白馬上的要審判、爭戰都按著公義。</li>
     <li>他頭上戴著許多冠冕，名稱為「神之道」。他衣服和大腿上有名寫著說：「萬王之王，萬主之主。」。</li>
@@ -5728,7 +5728,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄21.1-22.11&qs_version=CUVMPT">啟示錄21.1-22.11</a> - <a href="https://bibleplan.github.io/daily/wk102-day1-daily.html">新天新地</a> (展開)</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄21.1-22.11&qs_version=CUVMPT">啟示錄21.1-22.11</a> - <a href="https://bibleplan.github.io/daily/wk102-day1-daily.html">新天新地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>我又看見一個新天新地。聖城新耶路撒冷由神那裡從天而降。</li>
     <li>神的帳幕在人間！神要擦去他的子民一切的眼淚，不再有死亡。</li>
@@ -5742,7 +5742,7 @@ layout: post
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄22.12-21&qs_version=CUVMPT">啟示錄22.12-21</a> - <a href="https://bibleplan.github.io/daily/wk102-day2-daily.html">主必快來</a> (展開)</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄22.12-21&qs_version=CUVMPT">啟示錄22.12-21</a> - <a href="https://bibleplan.github.io/daily/wk102-day2-daily.html">主必快來</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
   <ul>
     <li>主必快來！賞罰在主，要照各人所行的報應。</li>
     <li>耶穌差遣使者為眾教會將這些事向你們證明。</li>
