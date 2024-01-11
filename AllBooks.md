@@ -4,7 +4,7 @@ layout: post
 <!--[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2020.html)-->
 
 # 聖經各書卷 (不含智慧書)
-<details><summary>創世記</summary>
+<details><summary style="text-decoration: underline; color: blue;">創世記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day4-daily.html">開天闢地</a></summary>
    <ul>
