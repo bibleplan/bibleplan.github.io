@@ -4,7 +4,7 @@ layout: post
 <!--[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2020.html)-->
 
 # 聖經各書卷 (不含智慧書)
-<details><summary style="text-decoration: underline; color: #1E6BB8;">創世記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">創世記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/2022/wk12-day4-daily.html">開天闢地</a> (展開)</summary>
    <ul>
@@ -238,7 +238,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">出埃及記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">出埃及記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk17-day3-daily.html">救贖預備</a> (展開)</summary>
    <ul>
@@ -437,7 +437,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">利未記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">利未記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記1-2&qs_version=CUVMPT">利未記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk21-day2-daily.html">燔祭素祭</a> (展開)</summary>
    <ul>
@@ -572,7 +572,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">民數記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">民數記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk24-day1-daily.html">數點安營</a> (展開)</summary>
    <ul>
@@ -733,7 +733,7 @@ layout: post
    </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">申命記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">申命記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記1&qs_version=CUVMPT">申命記1</a> - <a href="https://bibleplan.github.io/daily/2022/wk27-day3-daily.html">悖逆失敗</a> (展開)</summary>
   <ul>
@@ -888,7 +888,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約書亞記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約書亞記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記1&qs_version=CUVMPT">約書亞記1</a> - <a href="https://bibleplan.github.io/daily/2022/wk30-day5-daily.html">剛強壯膽</a> (展開)</summary>
   <ul>
@@ -994,7 +994,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">士師記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">士師記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記1:1-2:5&qs_version=CUVMPT">士師記1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk33-day1-daily.html">漸入網羅</a> (展開)</summary>
   <ul>
@@ -1106,7 +1106,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">路得記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">路得記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記1&qs_version=CUVMPT">路得記 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day1-daily.html">由甜至苦</a> (展開)</summary>
    <ul>
@@ -1136,7 +1136,7 @@ layout: post
    </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">撒母耳記上 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">撒母耳記上</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上1:1-2:11&qs_version=CUVMPT">撒母耳記上1:1-2:11</a> - <a href="https://bibleplan.github.io/daily/2022/wk54-day5-daily.html">哈拿禱告</a> (展開)</summary>
   <ul>
@@ -1273,7 +1273,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">撒母耳記下 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">撒母耳記下</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下1-2&qs_version=CUVMPT">撒母耳記下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk57-day3-daily.html">再次膏立</a> (展開)</summary>
   <ul>
@@ -1397,7 +1397,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">列王紀上 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">列王紀上</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上1-2&qs_version=CUVMPT">列王紀上1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk59-day5-daily.html">繼承王位</a> (展開)</summary>
   <ul>
@@ -1527,7 +1527,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">列王紀下 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">列王紀下</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下1-2&qs_version=CUVMPT">列王紀下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk61-day6-daily.html">乘風升天</a> (展開)</summary>
   <ul>
@@ -1664,7 +1664,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">歷代志上 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">歷代志上</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上1-2&qs_version=CUVMPT">歷代志上1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk64-day2-daily.html">家譜族系</a> (展開)</summary>
   <ul>
@@ -1833,7 +1833,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">歷代志下 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">歷代志下</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk67-day1-daily.html">所羅門王</a> (展開)</summary>
   <ul>
@@ -2048,7 +2048,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">以斯拉記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">以斯拉記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記1-2&qs_version=CUVMPT">以斯拉記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk94-day2-daily.html">被擄回歸</a> (展開)</summary>
   <ul>
@@ -2096,7 +2096,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">尼希米記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">尼希米記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk97-day1-daily.html">重建城墻</a> (展開)</summary>
   <ul>
@@ -2181,7 +2181,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">以斯帖記 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">以斯帖記</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記1.1-2.18&qs_version=CUVMPT">以斯帖記 1.1-2.18</a> - <a href="https://bibleplan.github.io/daily/2022/wk96-day1-daily.html">被選為后</a> (展開)</summary>
   <ul>
@@ -2238,7 +2238,7 @@ layout: post
  </details>
 </details>
 
-<details><summary style="text-decoration: underline; color: #1E6BB8;">以賽亞書 (展開)</summary>  
+<details><summary style="text-decoration: underline; color: #1E6BB8;">以賽亞書</summary>  
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day5-daily.html">先知預言</a> (展開)</summary>
   <ul>
@@ -2619,7 +2619,7 @@ layout: post
  </details>
 </details>
 
-<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米書 (展開)</summary>  
+<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米書</summary>  
  <details>
   <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day6-daily.html">蒙神差遣</a> (展開)</summary>
   <ul>
@@ -3014,8 +3014,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details>
- <summary>耶利米哀歌 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米哀歌 (展開)</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day3-daily.html">無人安慰</a>
  (展開)</summary>
@@ -3064,7 +3063,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">以西結書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">以西結書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書1&qs_version=CUVMPT">以西結書 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day3-daily.html">得見榮耀</a>
  (展開)</summary>
@@ -3399,7 +3398,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">但以理書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">但以理書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day5-daily.html">異邦成長</a> (展開)</summary>
   <ul>
@@ -3508,7 +3507,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">何西阿書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">何西阿書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書1-2&qs_version=CUVMPT">何西阿書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk74-day4-daily.html">淫婦歌篾</a> (展開)</summary>
   <ul>
@@ -3592,7 +3591,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約珥書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約珥書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書1-2&qs_version=CUVMPT">約珥書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk92-day3-daily.html">蝗蟲大軍</a> (展開)</summary>
   <ul>
@@ -3616,7 +3615,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">阿摩司書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">阿摩司書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書1-2&qs_version=CUVMPT">阿摩司書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk71-day4-daily.html">三番四次</a> (展開)</summary>
   <ul>
@@ -3679,7 +3678,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">俄巴底亞書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">俄巴底亞書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書1&qs_version=CUVMPT">俄巴底亞書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day2-daily.html">降罰以東</a> (展開)</summary>
   <ul>
@@ -3690,7 +3689,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約拿書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約拿書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約拿書1-4&qs_version=CUVMPT">約拿書1-4</a> - <a href="https://bibleplan.github.io/daily/2022/wk70-day4-daily.html">先知約拿</a> (展開)</summary>
   <ul>
@@ -3706,7 +3705,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">彌迦書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">彌迦書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書1-3&qs_version=CUVMPT">彌迦書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk72-day5-daily.html">警告南北</a> (展開)</summary>
   <ul>
@@ -3744,7 +3743,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">那鴻書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">那鴻書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=那鴻書1-3&qs_version=CUVMPT">那鴻書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day1-daily.html">忌邪施報</a> (展開)</summary>
   <ul>
@@ -3756,7 +3755,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">哈巴谷書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">哈巴谷書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈巴谷書1-3&qs_version=CUVMPT">哈巴谷書1-3</a> - <a href="https://bibleplan.github.io/daily/2022/wk87-day2-daily.html">與神問答</a> (展開)</summary>
   <ul>
@@ -3768,7 +3767,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">西番雅書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">西番雅書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書1&qs_version=CUVMPT">西番雅書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk80-day3-daily.html">憤怒之日</a> (展開)</summary>
   <ul>
@@ -3792,7 +3791,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">哈該書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">哈該書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈該書1-2&qs_version=CUVMPT">哈該書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day1-daily.html">延不建殿</a> (展開)</summary>
   <ul>
@@ -3805,7 +3804,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">撒迦利亞書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">撒迦利亞書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書1-2&qs_version=CUVMPT">撒迦利亞書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk95-day2-daily.html">威嚇列國</a> (展開)</summary>
   <ul>
@@ -3874,7 +3873,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">瑪拉基書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">瑪拉基書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書1.1-3.5&qs_version=CUVMPT">瑪拉基書1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day4-daily.html">褻瀆之罪</a> (展開)</summary>
   <ul>
@@ -3901,7 +3900,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">馬太福音 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">馬太福音</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk1-day1-daily.html">耶穌是王</a> (展開)</summary>
   <ul>
@@ -4037,7 +4036,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">馬可福音 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">馬可福音</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音1&qs_version=CUVMPT">馬可福音1</a> - <a href="https://bibleplan.github.io/daily/2022/wk4-day1-daily.html">福音起頭</a> (展開)</summary>
   <ul>
@@ -4140,7 +4139,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">路加福音 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">路加福音</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk6-day2-daily.html">施洗約翰</a> (展開)</summary>
    <ul>
@@ -4322,7 +4321,7 @@ layout: post
    </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰福音 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰福音</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk9-day5-daily.html">道成肉身</a> (展開)</summary>
   <ul>
@@ -4530,7 +4529,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">使徒行傳 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">使徒行傳</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳1&qs_version=CUVMPT">使徒行傳1</a> - <a href="https://bibleplan.github.io/daily/2022/wk35-day5-daily.html">等候聖靈</a> (展開)</summary>
   <ul>
@@ -4681,7 +4680,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">羅馬書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">羅馬書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:1-17&qs_version=CUVMPT">羅馬書1:1-17</a> - <a href="https://bibleplan.github.io/daily/2022/wk38-day5-daily.html">神的福音</a> (展開)</summary>
   <ul>
@@ -4787,7 +4786,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">哥林多前書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">哥林多前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書1:1-3:4&qs_version=CUVMPT">哥林多前書1:1-3:4</a> - <a href="https://bibleplan.github.io/daily/2022/wk40-day6-daily.html">神的智慧</a> (展開)</summary>
   <ul>
@@ -4873,7 +4872,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">哥林多後書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">哥林多後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書1:1-2:13&qs_version=CUVMPT">哥林多後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk42-day4-daily.html">患難與憂愁</a> (展開)</summary>
   <ul>
@@ -4941,7 +4940,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">加拉太書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">加拉太書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書1-2&qs_version=CUVMPT">加拉太書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk43-day6-daily.html">福音真源</a> (展開)</summary>
   <ul>
@@ -4977,7 +4976,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">以弗所書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">以弗所書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書1&qs_version=CUVMPT">以弗所書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk44-day4-daily.html">屬靈基業</a> (展開)</summary>
   <ul>
@@ -5017,7 +5016,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">腓立比書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">腓立比書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:1-26&qs_version=CUVMPT">腓立比書1:1-26</a> - <a href="https://bibleplan.github.io/daily/2022/wk45-day3-daily.html">興旺福音</a> (展開)</summary>
   <ul>
@@ -5053,7 +5052,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">歌羅西書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">歌羅西書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書1:1-2:5&qs_version=CUVMPT">歌羅西書1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day1-daily.html">神的奥秘</a> (展開)</summary>
   <ul>
@@ -5080,7 +5079,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">帖撒羅尼迦前書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">帖撒羅尼迦前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書1&qs_version=CUVMPT">帖撒羅尼迦前書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk46-day4-daily.html">信心根基</a> (展開)</summary>
   <ul>
@@ -5130,7 +5129,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">帖撒羅尼迦後書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">帖撒羅尼迦後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書1&qs_version=CUVMPT">帖撒羅尼迦後書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk47-day4-daily.html">公義審判</a> (展開)</summary>
   <ul>
@@ -5157,7 +5156,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">提摩太前書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">提摩太前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書1&qs_version=CUVMPT">提摩太前書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk48-day1-daily.html">命令總歸</a> (展開)</summary>
   <ul>
@@ -5215,7 +5214,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">提摩太後書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">提摩太後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書1:1-2:13&qs_version=CUVMPT">提摩太後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day1-daily.html">恩賜的火</a> (展開)</summary>
   <ul>
@@ -5244,7 +5243,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">提多書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">提多書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書1-2&qs_version=CUVMPT">提多書1-2</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day4-daily.html">敬虔真理</a> (展開)</summary>
   <ul>
@@ -5261,7 +5260,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">腓利門書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">腓利門書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓利門書1&qs_version=CUVMPT">腓利門書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk49-day6-daily.html">面對過去</a> (展開)</summary>
   <ul>
@@ -5270,7 +5269,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">希伯來書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">希伯來書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書1&qs_version=CUVMPT">希伯來書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk50-day1-daily.html">遠超天使</a> (展開)</summary>
   <ul>
@@ -5373,7 +5372,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">雅各書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">雅各書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:1-18&qs_version=CUVMPT">雅各書1:1-18</a> - <a href="https://bibleplan.github.io/daily/2022/wk98-day6-daily.html">信心試煉</a> (展開)</summary>
   <ul>
@@ -5411,7 +5410,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">彼得前書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">彼得前書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:1-12&qs_version=CUVMPT">彼得前書1:1-12</a> - <a href="https://bibleplan.github.io/daily/2022/wk99-day4-daily.html">靈魂救恩</a> (展開)</summary>
   <ul>
@@ -5461,7 +5460,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">彼得後書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">彼得後書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書1&qs_version=CUVMPT">彼得後書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day3-daily.html">分外殷勤</a> (展開)</summary>
   <ul>
@@ -5492,7 +5491,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰一書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰一書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1:1-2:2&qs_version=CUVMPT">約翰一書1:1-2:2</a> - <a href="https://bibleplan.github.io/daily/2022/wk100-day6-daily.html">神就是光</a> (展開)</summary>
   <ul>
@@ -5535,7 +5534,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰二書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰二書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day5-daily.html">愛與真理</a> (展開)</summary>
   <ul>
@@ -5544,7 +5543,7 @@ layout: post
    <li>彼此相愛要以遵行真理為前提，不遵循基督的教訓的，不要接待。</li>
   </ul>
  </details></details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰三書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約翰三書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk101-day6-daily.html">真理與愛</a> (展開)</summary>
   <ul>
@@ -5553,7 +5552,7 @@ layout: post
    <li>不要效法那些好為首、拒絕接待主的工人的惡，要效法有真理有愛心的善。</li>
   </ul>
  </details></details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">猶大書 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">猶大書</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=猶大書1&qs_version=CUVMPT">猶大書1</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day1-daily.html">竭力爭辯</a> (展開)</summary>
   <ul>
@@ -5566,7 +5565,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">啟示錄 (展開)</summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">啟示錄</summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=啟示錄1&qs_version=CUVMPT">啟示錄1</a> - <a href="https://bibleplan.github.io/daily/2022/wk102-day4-daily.html">駕雲降臨</a> (展開)</summary>
   <ul>
