@@ -26,7 +26,8 @@ jobs:
           cat temp.md
           var3=$(python scripts/check_time.py) 
           echo "python script loaded $var3"
-          if ! cmp -s xiv.md temp.md; then
+          # if ! cmp -s xiv.md temp.md; then
+          if 1==2; then
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
             var1=${var1%.m4a}  # trim the .m4a in the filename
