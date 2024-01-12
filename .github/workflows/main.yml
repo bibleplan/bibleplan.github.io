@@ -24,27 +24,21 @@ jobs:
         run: |
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
           cat temp.md
-          var3=$(python scripts/check_time.py) 
-          echo "python script loaded $var3"
           # if ! cmp -s xiv.md temp.md; then
           if 1==2; then
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
-            var1=${var1%.m4a}  # trim the .m4a in the filename
-            for ii in {1..15}
-            do
-                var1=${var1#*[0-9]}
-            done
-            var1=${var1// /}
+            var1=${var1%.txt}  # trim the .m4a in the filename
+            var1=${var1:4}  # trim the .m4a in the filename
             var2=$(sed "s/.*,//g" temp.md)
-            echo "$var1 is title"
+            var3=$(python scripts/check_time.py) 
+            echo "$var1 is week"
             echo "$var2 is url"
-            echo "$var3 is partial path"
+            wget $var2
+            
             mv temp.md xiv.md     
             echo "replaced xiv.md with temp.md"
-            sed -i "s/\".*\"/\"神學梳理：$var1\"/g" "_posts/$var3.md"
-            sed -i "s/\[.*\]/\[$var1\]/g" "_posts/$var3.md" # replace title to filename
-            sed -i "s/(.*)/(https:\/\/eccseattle\.github\.io\/media\/${var3//\//\\\/}\.m4a)/g" "_posts/$var3.md" # replace hyperlink
+
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
