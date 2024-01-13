@@ -11,49 +11,68 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'  # Replace '3.x' with your desired Python version
-          
-      - name: Install Dependencies
-        run: |
-          pip install pandas
-          
       - name: Commit and Push Changes
         run: |
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
           cat temp.md
-          # if ! cmp -s xiv.md temp.md; then
-          if 1==2; then
-            echo "temp.md is new"
+          if ! cmp -s xiv.md temp.md; then
+            #load the new temp.md 
+			echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
             var1=${var1%.txt}  # trim the .txt in the filename
             var1=${var1:4}  # trim the week in the filename
+			var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
             var2=$(sed "s/.*,//g" temp.md)
-            var3=$(python scripts/check_time.py) 
             echo "$var1 is week"
             echo "$var2 is url"
-            echo "$var3 is partial path"            
-            wget $var2
-            
+			
+			#load the weekly summary content
+			filename="contentfile.txt"
+            wget -O $filename $var2
+			total_lines=$(wc -l < "$filename")
+			
+			# Loop over each line and update 
+			for (( row_number=1; row_number<=total_lines; row_number++ )); do
+				# Skip every 4th row
+				if [ $((row_number % 4)) -eq 0 ]; then
+					continue
+				fi
+				
+				weeks_to_add=$var1
+				week_with_zeros=$(printf "%03d" "$var1")
+				days_to_add=$((row_number/4+1))
+
+				m_date=$(date -d "2024-01-01 + $((weeks_to_add week-1)) + $((days_to_add days-1))" +"%Y-%m-%d")
+				echo $m_date
+				
+				row=$(sed -n "${row_number}p" "$filename")
+				echo $row
+				
+				if [ $((row_number % 4)) -eq 1 ]; then
+					sed -i "s/QLTITLE/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
+				fi
+				if [ $((row_number % 4)) -eq 2 ]; then
+					sed -i "s/QLLINK/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
+				fi		
+				if [ $((row_number % 4)) -eq 3 ]; then
+					sed -i "s/QLVERSE/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
+				    git push
+					echo "push xiv.md change"
+					git add "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"  # Stage the changes
+					git commit -m "Update $m_date-quanli.md"  # Use -m to provide a commit message    
+					echo "commit post"
+					git push
+					echo "pushed post"					
+				fi
+			done
+
             mv temp.md xiv.md     
             echo "replaced xiv.md with temp.md"
-            sed -i "s/\".*\"/\"神學梳理：$var1\"/g" "_posts/$var3.md"
-            sed -i "s/\[.*\]/\[$var1\]/g" "_posts/$var3.md" # replace title to filename
-            sed -i "s/(.*)/(https:\/\/eccseattle\.github\.io\/media\/${var3//\//\\\/}\.m4a)/g" "_posts/$var3.md" # replace hyperlink
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
             git commit -m "Update xiv.md"  # Use -m to provide a commit message
             echo "commit xiv.md"
-            git push
-            echo "push xiv.md change"
-            git add "_posts/$var3.md"  # Stage the changes
-            git commit -m "Update _posts/$var3.md"  # Use -m to provide a commit message    
-            echo "commit post"
-            git push
-            echo "pushed post"
           else
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
