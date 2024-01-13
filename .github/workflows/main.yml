@@ -42,27 +42,47 @@ jobs:
 				week_with_zeros=$(printf "%03d" "$var1")
 				days_to_add=$((row_number/4+1))
 
-				m_date=$(date -d "2024-01-01 + $((weeks_to_add week-1)) + $((days_to_add days-1))" +"%Y-%m-%d")
+				m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
+				wkly_date=$(date -d "2023-12-31 + $((weeks_to_add)) week" +"%Y-%m-%d")
 				echo $m_date
 				
 				row=$(sed -n "${row_number}p" "$filename")
 				echo $row
-				
-				if [ $((row_number % 4)) -eq 1 ]; then
-					sed -i "s/QLTITLE/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
-				fi
-				if [ $((row_number % 4)) -eq 2 ]; then
-					sed -i "s/QLLINK/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
-				fi		
-				if [ $((row_number % 4)) -eq 3 ]; then
-					sed -i "s/QLVERSE/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
-				    git push
-					echo "push xiv.md change"
-					git add "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"  # Stage the changes
-					git commit -m "Update $m_date-quanli.md"  # Use -m to provide a commit message    
-					echo "commit post"
-					git push
-					echo "pushed post"					
+				if [days_to_add -lt 7]; then
+					if [ $((row_number % 4)) -eq 1 ]; then
+						sed -i "s/QLTITLE/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
+					fi
+					if [ $((row_number % 4)) -eq 2 ]; then
+						sed -i "s/QLLINK/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
+					fi		
+					if [ $((row_number % 4)) -eq 3 ]; then
+						sed -i "s/QLVERSE/$row/g" "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"
+						git push
+						echo "push xiv.md change"
+						git add "_posts\sharing\2024\wk$week_with_zeros\$m_date-quanli.md"  # Stage the changes
+						git commit -m "Update $m_date-quanli.md"  # Use -m to provide a commit message    
+						echo "commit post"
+						git push
+						echo "pushed post"		
+						sed -i "s/QLD$days_to_addVERSE/$row/g" "_posts\weekly\2024\$wkly_date-wk$weeks_to_add.md"
+					fi
+				else
+					if [ $((row_number % 4)) -eq 1 ]; then
+						sed -i "s/QLREVIEWTITLE/$row/g" "_posts\weekly\2024\$wkly_date-wk$weeks_to_add.md"
+					fi
+					if [ $((row_number % 4)) -eq 2 ]; then
+						sed -i "s/QLREVIEWLINK/$row/g" "_posts\weekly\2024\$wkly_date-wk$weeks_to_add.md"
+					fi		
+					if [ $((row_number % 4)) -eq 3 ]; then
+						sed -i "s/QLTESTLINK/$row/g" "_posts\weekly\2024\$wkly_date-wk$weeks_to_add.md"
+						git push
+						echo "push xiv.md change"
+						git add "_posts\weekly\2024\$wkly_date-wk$weeks_to_add.md"  # Stage the changes
+						git commit -m "Update $wkly_date-wk$weeks_to_add.md"  # Use -m to provide a commit message    
+						echo "commit post"
+						git push
+						echo "pushed post"		
+					fi
 				fi
 			done
 
