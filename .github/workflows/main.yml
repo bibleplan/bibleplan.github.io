@@ -17,34 +17,30 @@ jobs:
           cat temp.md
           if ! cmp -s xiv.md temp.md; then
             #load the new temp.md 
-			echo "temp.md is new"
+            echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
             var1=${var1%.txt}  # trim the .txt in the filename
             var1=${var1:4}  # trim the week in the filename
-			var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
+            var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
             var2=$(sed "s/.*,//g" temp.md)
             echo "$var1 is week"
             echo "$var2 is url"
-			
-			#load the weekly summary content
-			filename="contentfile.txt"
+            #load the weekly summary content
+            filename="contentfile.txt"
             wget -O $filename $var2
-			total_lines=$(wc -l < "$filename")
-			
-			# Loop over each line and update 
-			for (( row_number=1; row_number<=total_lines; row_number++ )); do
-				# Skip every 4th row
-				if [ $((row_number % 4)) -eq 0 ]; then
-					continue
-				fi
-				
-				weeks_to_add=$var1
-				week_with_zeros=$(printf "%03d" "$var1")
-				days_to_add=$((row_number/4+1))
-
-				m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
-				wkly_date=$(date -d "2023-12-31 + $((weeks_to_add)) week" +"%Y-%m-%d")
-				echo $m_date
+            total_lines=$(wc -l < "$filename")
+            # Loop over each line and update 
+            for (( row_number=1; row_number<=total_lines; row_number++ )); do
+              # Skip every 4th row
+              if [ $((row_number % 4)) -eq 0 ]; then
+                continue
+              fi
+              weeks_to_add=$var1
+              week_with_zeros=$(printf "%03d" "$var1")
+              days_to_add=$((row_number/4+1))              
+	      m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
+              wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
+              echo $m_date
 				
 				row=$(sed -n "${row_number}p" "$filename")
 				echo $row
