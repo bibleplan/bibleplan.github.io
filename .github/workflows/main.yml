@@ -45,15 +45,15 @@ jobs:
               echo $row
               if [ "$days_to_add" -lt 7 ]; then
                 if [ $((row_number % 4)) -eq 1 ]; then
-                  sed -i "s/QLTITLE/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed -i "s|QLTITLE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   echo "sed QLTITLE done"
                 fi
                 if [ $((row_number % 4)) -eq 2 ]; then
-                  sed -i "s/QLLINK/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed -i "s|QLLINK|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   echo "sed QLLINK done"
                 fi
                 if [ $((row_number % 4)) -eq 3 ]; then
-                  sed -i "s/QLVERSE/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed -i "s|QLVERSE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   echo "sed QLVERSE done"
                   git push
                   echo "push xiv.md change"
@@ -62,17 +62,17 @@ jobs:
                   echo "commit post"
                   git push
                   echo "pushed post"
-                  sed -i "s/QLD$days_to_addVERSE/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  sed -i "s|QLD$days_to_addVERSE|$row|g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                 fi
               else
                 if [ $((row_number % 4)) -eq 1 ]; then
-                  sed -i "s/QLREVIEWTITLE/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  sed -i "s|QLREVIEWTITLE|$row|g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                 fi
                 if [ $((row_number % 4)) -eq 2 ]; then
-                  sed -i "s/QLREVIEWLINK/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  sed -i "s|QLREVIEWLINK|$row|g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                 fi
                 if [ $((row_number % 4)) -eq 3 ]; then
-                  sed -i "s/QLTESTLINK/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  sed -i "s|QLTESTLINK|$row|g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                   git push
                   echo "push xiv.md change"
                   git add "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"  # Stage the changes
