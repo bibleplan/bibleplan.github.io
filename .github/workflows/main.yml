@@ -61,7 +61,7 @@ jobs:
                   git commit -m "Update $m_date-qianli.md"  # Use -m to provide a commit message    
                   echo "commit post"
                   git push
-                  echo "pushed post"		
+                  echo "pushed post"
                   sed -i "s/QLD$days_to_addVERSE/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                 fi
               else
