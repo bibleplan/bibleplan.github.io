@@ -51,14 +51,14 @@ jobs:
                 if [ $((row_number % 4)) -eq 2 ]; then
                   sed -i "s/QLLINK/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   echo "sed QLLINK done"
-                fi		
+                fi
                 if [ $((row_number % 4)) -eq 3 ]; then
                   sed -i "s/QLVERSE/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   echo "sed QLVERSE done"
                   git push
                   echo "push xiv.md change"
                   git add "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"  # Stage the changes
-                  git commit -m "Update $m_date-qianli.md"  # Use -m to provide a commit message    
+                  git commit -m "Update $m_date-qianli.md"  # Use -m to provide a commit message
                   echo "commit post"
                   git push
                   echo "pushed post"
@@ -70,21 +70,21 @@ jobs:
                 fi
                 if [ $((row_number % 4)) -eq 2 ]; then
                   sed -i "s/QLREVIEWLINK/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
-                fi		
+                fi
                 if [ $((row_number % 4)) -eq 3 ]; then
                   sed -i "s/QLTESTLINK/$row/g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                   git push
                   echo "push xiv.md change"
                   git add "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"  # Stage the changes
-                  git commit -m "Update $wkly_date-wk$weeks_to_add.md"  # Use -m to provide a commit message    
+                  git commit -m "Update $wkly_date-wk$weeks_to_add.md"  # Use -m to provide a commit message
                   echo "commit post"
                   git push
-                  echo "pushed post"		
+                  echo "pushed post"
                 fi
               fi
             done
 
-            mv temp.md xiv.md     
+            mv temp.md xiv.md
             echo "replaced xiv.md with temp.md"
             git config user.name "ECCRedM-Media"
             git config user.email "ECCRedM-Media@gmail.com"
