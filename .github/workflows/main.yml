@@ -46,12 +46,15 @@ jobs:
               if [ "$days_to_add" -lt 7 ]; then
                 if [ $((row_number % 4)) -eq 1 ]; then
                   sed -i "s/QLTITLE/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  echo "sed QLTITLE done"
                 fi
                 if [ $((row_number % 4)) -eq 2 ]; then
                   sed -i "s/QLLINK/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  echo "sed QLLINK done"
                 fi		
                 if [ $((row_number % 4)) -eq 3 ]; then
                   sed -i "s/QLVERSE/$row/g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  echo "sed QLVERSE done"
                   git push
                   echo "push xiv.md change"
                   git add "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"  # Stage the changes
