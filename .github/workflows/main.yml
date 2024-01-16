@@ -34,6 +34,7 @@ jobs:
             # Loop over each line and update 
             for (( row_number=1; row_number<=total_lines; row_number++ )); do
               # Skip every 4th row
+              changeflag=0
               if [ $((row_number % 4)) -eq 0 ]; then
                 continue
               fi
@@ -47,21 +48,35 @@ jobs:
               echo $row
               if [ "$days_to_add" -lt 7 ]; then
                 if [ $((row_number % 4)) -eq 1 ]; then
-                  sed -i "s|QLTITLE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
-                  echo "sed QLTITLE done"
+                  if sed -i "s|QLTITLE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"; then
+                    echo "Title Replacement successful"
+                    changeflag=1
+                  else
+                    echo "Flag: Title is already there"
+                  fi
                 fi
                 if [ $((row_number % 4)) -eq 2 ]; then
-                  sed -i "s|QLLINK|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
-                  echo "sed QLLINK done"
+                  if sed -i "s|QLLINK|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"; then
+                    echo "Link Replacement successful"
+                    changeflag=1
+                  else
+                    echo "Flag: Link is already there"
+                  fi
                 fi
                 if [ $((row_number % 4)) -eq 3 ]; then
-                  sed -i "s|QLVERSE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
-                  echo "sed QLVERSE done"
-                  git add "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"  # Stage the changes
-                  git commit -m "Update $m_date-qianli.md"  # Use -m to provide a commit message
-                  echo "commit post"
-                  git push
-                  echo "pushed post"
+                  if sed -i "s|QLVERSE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"; then
+                    echo "Verse Replacement successful"
+                    changeflag=1
+                  else
+                    echo "Flag: Verse is already there"
+                  fi
+                  if [ "$changeflag" -eq 1 ]; then
+                    git add "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"  # Stage the changes
+                    git commit -m "Update $m_date-qianli.md"  # Use -m to provide a commit message
+                    echo "commit post"
+                    git push
+                    echo "pushed post"
+                  fi
                   sed -i "s|QLD$days_to_addVERSE|$row|g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                 fi
               else
