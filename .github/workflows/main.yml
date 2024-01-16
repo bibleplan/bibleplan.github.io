@@ -15,6 +15,8 @@ jobs:
         run: |
           wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
           cat temp.md
+          git config user.name "ECCRedM-Media"
+          git config user.email "ECCRedM-Media@gmail.com"          
           if ! cmp -s xiv.md temp.md; then
             #load the new temp.md 
             echo "temp.md is new"
@@ -55,8 +57,6 @@ jobs:
                 if [ $((row_number % 4)) -eq 3 ]; then
                   sed -i "s|QLVERSE|$row|g" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   echo "sed QLVERSE done"
-                  git push
-                  echo "push xiv.md change"
                   git add "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"  # Stage the changes
                   git commit -m "Update $m_date-qianli.md"  # Use -m to provide a commit message
                   echo "commit post"
@@ -73,7 +73,6 @@ jobs:
                 fi
                 if [ $((row_number % 4)) -eq 3 ]; then
                   sed -i "s|QLTESTLINK|$row|g" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
-                  git push
                   echo "push xiv.md change"
                   git add "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"  # Stage the changes
                   git commit -m "Update $wkly_date-wk$weeks_to_add.md"  # Use -m to provide a commit message
@@ -83,17 +82,14 @@ jobs:
                 fi
               fi
             done
-
             mv temp.md xiv.md
             echo "replaced xiv.md with temp.md"
-            git config user.name "ECCRedM-Media"
-            git config user.email "ECCRedM-Media@gmail.com"
             git add xiv.md
             git commit -m "Update xiv.md"  # Use -m to provide a commit message
             echo "commit xiv.md"
+            git push
+            echo "push pp1 change"            
           else
-            git config user.name "ECCRedM-Media"
-            git config user.email "ECCRedM-Media@gmail.com"
             TZ="America/Los_Angeles" date >> pp1
             echo "no update" >> pp1
             if [ -e "pp1" ] && [ "$(wc -l < "pp1")" -gt 1000 ]; then tail -n +501 "pp1" > "pp1.tmp" && mv "pp1.tmp" "pp1" && echo "Removed the first 500 rows from pp1."; else echo "pp1 does not exist or has 1000 or fewer rows. No changes needed."; fi
