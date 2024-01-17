@@ -885,4 +885,510 @@ plan:
       verseBG: Psalms.80
       verseYV: PSA.80
  
+  - index: 162
+    verses:
+    - titleCh: 民數記 1-2
+      titleEn: Numbers 1-2
+      verseBG: Numbers.1-2
+      verseYV: NUM.1
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
+
+  - index: 163
+    verses:
+    - titleCh: 民數記 3-4
+      titleEn: Numbers 3-4
+      verseBG: Numbers.3-4
+      verseYV: NUM.3
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
+
+  - index: 164
+    verses:
+    - titleCh: 民數記 5-6
+      titleEn: Numbers 5-6
+      verseBG: Numbers.5-6
+      verseYV: NUM.5
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
+
+  - index: 165
+    verses:
+    - titleCh: 民數記 7
+      titleEn: Numbers 7
+      verseBG: Numbers.7
+      verseYV: NUM.7
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+
+  - index: 166
+    verses:
+    - titleCh: 民數記 8.1-9.14
+      titleEn: Numbers 8.1-9.14
+      verseBG: Numbers.8.1-9.14
+      verseYV: NUM.8
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+
+  - index: 167
+    verses:
+    - titleCh: 民數記 9.15-10.36
+      titleEn: Numbers 9.15-10.36
+      verseBG: Numbers.9.15-10.36
+      verseYV: NUM.9
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+
+  - index: 168
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
+
+  - index: 169
+    verses:
+    - titleCh: 民數記 11-12
+      titleEn: Numbers 11-12
+      verseBG: Numbers.11-12
+      verseYV: NUM.11
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+
+  - index: 170
+    verses:
+    - titleCh: 民數記 13-14
+      titleEn: Numbers 13-14
+      verseBG: Numbers.13-14
+      verseYV: NUM.13
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+
+  - index: 171
+    verses:
+    - titleCh: 民數記 15
+      titleEn: Numbers 15
+      verseBG: Numbers.15
+      verseYV: NUM.15
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+
+  - index: 172
+    verses:
+    - titleCh: 民數記 16-17
+      titleEn: Numbers 16-17
+      verseBG: Numbers.16-17
+      verseYV: NUM.16
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+
+  - index: 173
+    verses:
+    - titleCh: 民數記 18-19
+      titleEn: Numbers 18-19195
+      verseBG: Numbers.18-19
+      verseYV: NUM.18
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
+
+  - index: 174
+    verses:
+    - titleCh: 民數記 20-21
+      titleEn: Numbers 20-21
+      verseBG: Numbers.20-21
+      verseYV: NUM.20
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
+
+  - index: 175
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
+
+  - index: 176
+    verses:
+    - titleCh: 民數記 22-24
+      titleEn: Numbers 22-24
+      verseBG: Numbers.22-24
+      verseYV: NUM.22
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+
+  - index: 177
+    verses:
+    - titleCh: 民數記 25
+      titleEn: Numbers 25
+      verseBG: Numbers.25
+      verseYV: NUM.25
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+
+  - index: 178
+    verses:
+    - titleCh: 民數記 26-27
+      titleEn: Numbers 26-27
+      verseBG: Numbers.26-27
+      verseYV: NUM.26
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
+
+  - index: 179
+    verses:
+    - titleCh: 民數記 28-29
+      titleEn: Numbers 28-29
+      verseBG: Numbers.28-29
+      verseYV: NUM.28
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
+
+  - index: 180
+    verses:
+    - titleCh: 民數記 30-31
+      titleEn: Numbers 30-31
+      verseBG: Numbers.30-31
+      verseYV: NUM.30
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
+
+  - index: 181
+    verses:
+    - titleCh: 民數記 32-33
+      titleEn: Numbers 32-33
+      verseBG: Numbers.32-33
+      verseYV: NUM.32
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
+
+  - index: 182
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
+
+  - index: 183
+    verses:
+    - titleCh: 民數記 34-35
+      titleEn: Numbers 34-35
+      verseBG: Numbers.34-35
+      verseYV: NUM.34
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
+
+  - index: 184
+    verses:
+    - titleCh: 民數記 36
+      titleEn: Numbers 36
+      verseBG: Numbers.36
+      verseYV: NUM.36
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
+
+  - index: 185
+    verses:
+    - titleCh: 申命記 1
+      titleEn: Deuteronomy 1
+      verseBG: Deuteronomy.1
+      verseYV: DEU.1
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
+
+  - index: 186
+    verses:
+    - titleCh: 申命記 2-3 
+      titleEn: Deuteronomy 2-3 
+      verseBG: Deuteronomy.2-3 
+      verseYV: DEU.2
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
+
+  - index: 187
+    verses:
+    - titleCh: 申命記 4:1-43
+      titleEn: Deuteronomy 4:1-43
+      verseBG: Deuteronomy.4:1-43
+      verseYV: DEU.4
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Proverbs.27
+      verseYV: PRO.27
+
+  - index: 188
+    verses:
+    - titleCh: 申命記 4:44-5:33
+      titleEn: Deuteronomy 4:44-5:33
+      verseBG: Deuteronomy.4:44-5:33
+      verseYV: DEU.4
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
+
+  - index: 189
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
+
+  - index: 190
+    verses:
+    - titleCh: 申命記 6-7
+      titleEn: Deuteronomy 6-7
+      verseBG: Deuteronomy.6-7
+      verseYV: DEU.6
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
+
+  - index: 191
+    verses:
+    - titleCh: 申命記 8-9
+      titleEn: Deuteronomy 8-9
+      verseBG: Deuteronomy.8-9
+      verseYV: DEU.8
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
+
+  - index: 192
+    verses:
+    - titleCh: 申命記 10-11
+      titleEn: Deuteronomy 10-11
+      verseBG: Deuteronomy.10-11
+      verseYV: DEU.10
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
+
+  - index: 193
+    verses:
+    - titleCh: 申命記 12:1-14:2
+      titleEn: Deuteronomy 12:1-14:2
+      verseBG: Deuteronomy.12:1-14:2
+      verseYV: DEU.12
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
+
+  - index: 194
+    verses:
+    - titleCh: 申命記 14.3-16.17
+      titleEn: Deuteronomy 14.3-16.17
+      verseBG: Deuteronomy.14.3-16.17
+      verseYV: DEU.14
+    - titleCh: 詩篇 3
+      titleEn: Psalms 3
+      verseBG: Psalms.3
+      verseYV: PSA.3
+
+  - index: 195
+    verses:
+    - titleCh: 申命記 16.18-18.22
+      titleEn: Deuteronomy 16.18-18.22
+      verseBG: Deuteronomy.16.18-18.22
+      verseYV: DEU.16
+    - titleCh: 詩篇 4
+      titleEn: Psalms 4
+      verseBG: Psalms.4
+      verseYV: PSA.4
+
+  - index: 196
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 5
+      titleEn: Psalms 5
+      verseBG: Psalms.5
+      verseYV: PSA.5
+
+  - index: 197
+    verses:
+    - titleCh: 申命記 19-20
+      titleEn: Deuteronomy 19-20
+      verseBG: Deuteronomy.19-20
+      verseYV: DEU.19
+    - titleCh: 詩篇 6
+      titleEn: Psalms 6
+      verseBG: Psalms.6
+      verseYV: PSA.6
+
+  - index: 198
+    verses:
+    - titleCh: 申命記 21-22
+      titleEn: Deuteronomy 21-22
+      verseBG: Deuteronomy.21-22
+      verseYV: DEU.21
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
+
+  - index: 199
+    verses:
+    - titleCh: 申命記 23
+      titleEn: Deuteronomy 23
+      verseBG: Deuteronomy.23
+      verseYV: DEU.23
+    - titleCh: 詩篇 8
+      titleEn: Psalms 8
+      verseBG: Psalms.8
+      verseYV: PSA.8
+
+  - index: 200
+    verses:
+    - titleCh: 申命記 24-25
+      titleEn: Deuteronomy 24-25
+      verseBG: Deuteronomy.24-25
+      verseYV: DEU.24
+    - titleCh: 詩篇 9
+      titleEn: Psalms 9
+      verseBG: Psalms.9
+      verseYV: PSA.9
+
+  - index: 201
+    verses:
+    - titleCh: 申命記 26
+      titleEn: Deuteronomy 26
+      verseBG: Deuteronomy.26
+      verseYV: DEU.26
+    - titleCh: 詩篇 10
+      titleEn: Psalms 10
+      verseBG: Psalms.10
+      verseYV: PSA.10
+
+  - index: 202
+    verses:
+    - titleCh: 申命記 27-28
+      titleEn: Deuteronomy 27-28
+      verseBG: Deuteronomy.27-28
+      verseYV: DEU.27
+    - titleCh: 詩篇 11
+      titleEn: Psalms 11
+      verseBG: Psalms.11
+      verseYV: PSA.11
+
+  - index: 203
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 12
+      titleEn: Psalms 12
+      verseBG: Psalms.12
+      verseYV: PSA.12
+
+  - index: 204
+    verses:
+    - titleCh: 申命記 29-30
+      titleEn: Deuteronomy 29-30
+      verseBG: Deuteronomy.29-30
+      verseYV: DEU.29
+    - titleCh: 詩篇 13
+      titleEn: Psalms 13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+
+  - index: 205
+    verses:
+    - titleCh: 申命記 31.1-29
+      titleEn: Deuteronomy 31.1-29
+      verseBG: Deuteronomy.31.1-29
+      verseYV: DEU.31
+    - titleCh: 詩篇 14
+      titleEn: Psalms 14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+
+  - index: 206
+    verses:
+    - titleCh: 申命記 31.30-33.29
+      titleEn: Deuteronomy 31.30-33.29
+      verseBG: Deuteronomy.31.30-33.29
+      verseYV: DEU.31
+    - titleCh: 詩篇 15
+      titleEn: Psalms 15
+      verseBG: Psalms.15
+      verseYV: PSA.15
+
+  - index: 207
+    verses:
+    - titleCh: 申命記 34
+      titleEn: Deuteronomy 34
+      verseBG: Deuteronomy.34
+      verseYV: DEU.34
+    - titleCh: 詩篇 16
+      titleEn: Psalms 16
+      verseBG: Psalms.16
+      verseYV: PSA.16
+
 ---
