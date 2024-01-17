@@ -885,269 +885,280 @@ plan:
       verseBG: Psalms.80
       verseYV: PSA.80
  
-  - index: 162
+  - index: 81
     verses:
     - titleCh: 民數記 1-2
       titleEn: Numbers 1-2
       verseBG: Numbers.1-2
       verseYV: NUM.1
-    - titleCh: 箴言 2
-      titleEn: Proverbs 2
-      verseBG: Proverbs.2
-      verseYV: PRO.2
+    - titleCh: 詩篇 81
+      titleEn: Psalms 81
+      verseBG: Psalms.81
+      verseYV: PSA.81
 
-  - index: 163
+  - index: 82
     verses:
     - titleCh: 民數記 3-4
       titleEn: Numbers 3-4
       verseBG: Numbers.3-4
       verseYV: NUM.3
-    - titleCh: 箴言 3
-      titleEn: Proverbs 3
-      verseBG: Proverbs.3
-      verseYV: PRO.3
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
 
-  - index: 164
+  - index: 83
     verses:
     - titleCh: 民數記 5-6
       titleEn: Numbers 5-6
       verseBG: Numbers.5-6
       verseYV: NUM.5
-    - titleCh: 箴言 4
-      titleEn: Proverbs 4
-      verseBG: Proverbs.4
-      verseYV: PRO.4
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
 
-  - index: 165
+  - index: 84
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 84
+      titleEn: Psalms 84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+
+  - index: 85
     verses:
     - titleCh: 民數記 7
       titleEn: Numbers 7
       verseBG: Numbers.7
       verseYV: NUM.7
-    - titleCh: 箴言 5
-      titleEn: Proverbs 5
-      verseBG: Proverbs.5
-      verseYV: PRO.5
+    - titleCh: 詩篇 85
+      titleEn: Psalms 85
+      verseBG: Psalms.85
+      verseYV: PSA.85
 
-  - index: 166
+  - index: 86
     verses:
     - titleCh: 民數記 8.1-9.14
       titleEn: Numbers 8.1-9.14
       verseBG: Numbers.8.1-9.14
       verseYV: NUM.8
-    - titleCh: 箴言 6
-      titleEn: Proverbs 6
-      verseBG: Proverbs.6
-      verseYV: PRO.6
+    - titleCh: 詩篇 86
+      titleEn: Psalms 86
+      verseBG: Psalms.86
+      verseYV: PSA.86
 
-  - index: 167
+  - index: 87
     verses:
     - titleCh: 民數記 9.15-10.36
       titleEn: Numbers 9.15-10.36
       verseBG: Numbers.9.15-10.36
       verseYV: NUM.9
-    - titleCh: 箴言 7
-      titleEn: Proverbs 7
-      verseBG: Proverbs.7
-      verseYV: PRO.7
+    - titleCh: 詩篇 87
+      titleEn: Psalms 87
+      verseBG: Psalms.87
+      verseYV: PSA.87
 
-  - index: 168
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 箴言 8
-      titleEn: Proverbs 8
-      verseBG: Proverbs.8
-      verseYV: PRO.8
-
-  - index: 169
+  - index: 88
     verses:
     - titleCh: 民數記 11-12
       titleEn: Numbers 11-12
       verseBG: Numbers.11-12
       verseYV: NUM.11
-    - titleCh: 箴言 9
-      titleEn: Proverbs 9
-      verseBG: Proverbs.9
-      verseYV: PRO.9
+    - titleCh: 詩篇 88
+      titleEn: Psalms 88
+      verseBG: Psalms.88
+      verseYV: PSA.88
 
-  - index: 170
+  - index: 89
     verses:
     - titleCh: 民數記 13-14
       titleEn: Numbers 13-14
       verseBG: Numbers.13-14
       verseYV: NUM.13
-    - titleCh: 箴言 10
-      titleEn: Proverbs 10
-      verseBG: Proverbs.10
-      verseYV: PRO.10
+    - titleCh: 詩篇 89
+      titleEn: Psalms 89
+      verseBG: Psalms.89
+      verseYV: PSA.89
 
-  - index: 171
+  - index: 90
     verses:
     - titleCh: 民數記 15
       titleEn: Numbers 15
       verseBG: Numbers.15
       verseYV: NUM.15
-    - titleCh: 箴言 11
-      titleEn: Proverbs 11
-      verseBG: Proverbs.11
-      verseYV: PRO.11
+    - titleCh: 詩篇 90
+      titleEn: Psalms 90
+      verseBG: Psalms.90
+      verseYV: PSA.90
 
-  - index: 172
+  - index: 91
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 91
+      titleEn: Psalms 91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+
+  - index: 92
     verses:
     - titleCh: 民數記 16-17
       titleEn: Numbers 16-17
       verseBG: Numbers.16-17
       verseYV: NUM.16
-    - titleCh: 箴言 12
-      titleEn: Proverbs 12
-      verseBG: Proverbs.12
-      verseYV: PRO.12
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
 
-  - index: 173
+  - index: 93
     verses:
     - titleCh: 民數記 18-19
       titleEn: Numbers 18-19195
       verseBG: Numbers.18-19
       verseYV: NUM.18
-    - titleCh: 箴言 13
-      titleEn: Proverbs 13
-      verseBG: Proverbs.13
-      verseYV: PRO.13
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93
 
-  - index: 174
+  - index: 94
     verses:
     - titleCh: 民數記 20-21
       titleEn: Numbers 20-21
       verseBG: Numbers.20-21
       verseYV: NUM.20
-    - titleCh: 箴言 14
-      titleEn: Proverbs 14
-      verseBG: Proverbs.14
-      verseYV: PRO.14
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94
 
-  - index: 175
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 箴言 15
-      titleEn: Proverbs 15
-      verseBG: Proverbs.15
-      verseYV: PRO.15
-
-  - index: 176
+  - index: 95
     verses:
     - titleCh: 民數記 22-24
       titleEn: Numbers 22-24
       verseBG: Numbers.22-24
       verseYV: NUM.22
-    - titleCh: 箴言 16
-      titleEn: Proverbs 16
-      verseBG: Proverbs.16
-      verseYV: PRO.16
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
 
-  - index: 177
+  - index: 96
     verses:
     - titleCh: 民數記 25
       titleEn: Numbers 25
       verseBG: Numbers.25
       verseYV: NUM.25
-    - titleCh: 箴言 17
-      titleEn: Proverbs 17
-      verseBG: Proverbs.17
-      verseYV: PRO.17
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96
 
-  - index: 178
+  - index: 97
     verses:
     - titleCh: 民數記 26-27
       titleEn: Numbers 26-27
       verseBG: Numbers.26-27
       verseYV: NUM.26
-    - titleCh: 箴言 18
-      titleEn: Proverbs 18
-      verseBG: Proverbs.18
-      verseYV: PRO.18
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97
 
-  - index: 179
+  - index: 98
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+
+  - index: 99
     verses:
     - titleCh: 民數記 28-29
       titleEn: Numbers 28-29
       verseBG: Numbers.28-29
       verseYV: NUM.28
-    - titleCh: 箴言 19
-      titleEn: Proverbs 19
-      verseBG: Proverbs.19
-      verseYV: PRO.19
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
 
-  - index: 180
+  - index: 100
     verses:
     - titleCh: 民數記 30-31
       titleEn: Numbers 30-31
       verseBG: Numbers.30-31
       verseYV: NUM.30
-    - titleCh: 箴言 20
-      titleEn: Proverbs 20
-      verseBG: Proverbs.20
-      verseYV: PRO.20
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
 
-  - index: 181
+  - index: 101
     verses:
     - titleCh: 民數記 32-33
       titleEn: Numbers 32-33
       verseBG: Numbers.32-33
       verseYV: NUM.32
-    - titleCh: 箴言 21
-      titleEn: Proverbs 21
-      verseBG: Proverbs.21
-      verseYV: PRO.21
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
 
-  - index: 182
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 箴言 22
-      titleEn: Proverbs 22
-      verseBG: Proverbs.22
-      verseYV: PRO.22
-
-  - index: 183
+  - index: 102
     verses:
     - titleCh: 民數記 34-35
       titleEn: Numbers 34-35
       verseBG: Numbers.34-35
       verseYV: NUM.34
-    - titleCh: 箴言 23
-      titleEn: Proverbs 23
-      verseBG: Proverbs.23
-      verseYV: PRO.23
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
 
-  - index: 184
+  - index: 103
     verses:
     - titleCh: 民數記 36
       titleEn: Numbers 36
       verseBG: Numbers.36
       verseYV: NUM.36
-    - titleCh: 箴言 24
-      titleEn: Proverbs 24
-      verseBG: Proverbs.24
-      verseYV: PRO.24
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
 
-  - index: 185
+  - index: 104
     verses:
     - titleCh: 申命記 1
       titleEn: Deuteronomy 1
       verseBG: Deuteronomy.1
       verseYV: DEU.1
-    - titleCh: 箴言 25
-      titleEn: Proverbs 25
-      verseBG: Proverbs.25
-      verseYV: PRO.25
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+
+  - index: 104
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
 
   - index: 186
     verses:
