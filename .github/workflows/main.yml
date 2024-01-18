@@ -17,7 +17,8 @@ jobs:
           cat temp.md
           git config user.name "ECCRedM-Media"
           git config user.email "ECCRedM-Media@gmail.com"          
-          if ! cmp -s xiv.md temp.md; then
+          # if ! cmp -s xiv.md temp.md; then
+          if [ 1 -eq 2 ]; then
             #load the new temp.md 
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
