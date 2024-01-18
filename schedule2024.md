@@ -1149,7 +1149,7 @@ plan:
       verseBG: Psalms.104
       verseYV: PSA.104
 
-  - index: 104
+  - index: 105
     verses:
     - titleCh:
       titleEn:
@@ -1160,82 +1160,82 @@ plan:
       verseBG: Psalms.105
       verseYV: PSA.105
 
-  - index: 186
+  - index: 106
     verses:
     - titleCh: 申命記 2-3 
       titleEn: Deuteronomy 2-3 
       verseBG: Deuteronomy.2-3 
       verseYV: DEU.2
-    - titleCh: 箴言 26
-      titleEn: Proverbs 26
-      verseBG: Proverbs.26
-      verseYV: PRO.26
+    - titleCh: 詩篇 106
+      titleEn: Psalms 106
+      verseBG: Psalms.106
+      verseYV: PSA.106
 
-  - index: 187
+  - index: 107
     verses:
     - titleCh: 申命記 4:1-43
       titleEn: Deuteronomy 4:1-43
       verseBG: Deuteronomy.4:1-43
       verseYV: DEU.4
-    - titleCh: 箴言 27
-      titleEn: Proverbs 27
-      verseBG: Proverbs.27
-      verseYV: PRO.27
+    - titleCh: 詩篇 107
+      titleEn: Psalms 107
+      verseBG: Psalms.107
+      verseYV: PSA.107
 
-  - index: 188
+  - index: 108
     verses:
     - titleCh: 申命記 4:44-5:33
       titleEn: Deuteronomy 4:44-5:33
       verseBG: Deuteronomy.4:44-5:33
       verseYV: DEU.4
-    - titleCh: 箴言 28
-      titleEn: Proverbs 28
-      verseBG: Proverbs.28
-      verseYV: PRO.28
+    - titleCh: 詩篇 108
+      titleEn: Psalms 108
+      verseBG: Psalms.108
+      verseYV: PSA.108
 
-  - index: 189
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 箴言 29
-      titleEn: Proverbs 29
-      verseBG: Proverbs.29
-      verseYV: PRO.29
-
-  - index: 190
+  - index: 109
     verses:
     - titleCh: 申命記 6-7
       titleEn: Deuteronomy 6-7
       verseBG: Deuteronomy.6-7
       verseYV: DEU.6
-    - titleCh: 箴言 30
-      titleEn: Proverbs 30
-      verseBG: Proverbs.30
-      verseYV: PRO.30
+    - titleCh: 詩篇 109
+      titleEn: Psalms 109
+      verseBG: Psalms.109
+      verseYV: PSA.109
 
-  - index: 191
+  - index: 110
     verses:
     - titleCh: 申命記 8-9
       titleEn: Deuteronomy 8-9
       verseBG: Deuteronomy.8-9
       verseYV: DEU.8
-    - titleCh: 箴言 31
-      titleEn: Proverbs 31
-      verseBG: Proverbs.31
-      verseYV: PRO.31
+    - titleCh: 詩篇 110
+      titleEn: Psalms 110
+      verseBG: Psalms.110
+      verseYV: PSA.110
 
-  - index: 192
+  - index: 111
     verses:
     - titleCh: 申命記 10-11
       titleEn: Deuteronomy 10-11
       verseBG: Deuteronomy.10-11
       verseYV: DEU.10
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 詩篇 111
+      titleEn: Psalms 111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+
+  - index: 112
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 112
+      titleEn: Psalms 112
+      verseBG: Psalms.112
+      verseYV: PSA.112
 
   - index: 193
     verses:
