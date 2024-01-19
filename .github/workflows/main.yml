@@ -20,13 +20,15 @@ jobs:
           if ! cmp -s xiv.md temp.md; then # if [ 1 -eq 2 ]; then
             #load the new temp.md 
             echo "temp.md is new"
-            var1=$(sed "s/,.*//g" temp.md)
+            input_string=$(cat temp.md)
+            formatted_string=$(echo "$input_string" | sed 's/,/ /g')
+            read -r var1 var2 var3 <<< "$formatted_string"
             var1=${var1%.txt}  # trim the .txt in the filename
             var1=${var1:4}  # trim the week in the filename
             var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
-            var2=$(sed "s/.*,//g" temp.md)
-            echo "$var1 is week"
-            echo "$var2 is url"
+            echo "week#: $var1"
+            echo "url: $var2"
+            echo "updated time: $var3"
             #load the weekly summary content
             filename="contentfile.txt"
             wget -O $filename $var2
