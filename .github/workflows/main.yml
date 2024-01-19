@@ -34,14 +34,8 @@ jobs:
             changeflag=0
             dumpflag=0            
             sed_cmp () {
-                  sed "s|$1|$2|g" "$3" > "sed_temp.md"
-                  cmp -s "$3" "sed_temp.md" && dumpflag=0 || changeflag=1
-                  if [ "$changeflag" -eq 1 ]; then
-                    echo "updated $2"
-                    sed -i "s|$1|$2|g" "$3"
-                  else
-                    echo "no update $2"
-                  fi
+                  sed -i "s|$1|$2|g" "$3"
+                  echo "sed $2"
             }            
             # Loop over each line and update 
             for (( row_number=1; row_number<=total_lines; row_number++ )); do
