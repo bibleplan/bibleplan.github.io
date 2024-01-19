@@ -63,7 +63,7 @@ jobs:
                   ;;
                 3)
                   trimmedlink="http${row##*http}"
-                  sed_cmp "QLLINK" "$trimmedlink" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "https://youtu.be/QLLINK" "$trimmedlink" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
                 esac
               else #Sunday contents
