@@ -1,0 +1,32 @@
+name: Trigger Daily Build
+
+on:
+  schedule:
+    - cron: '15 20 * * *'  # 8:15 PM UTC
+    - cron: '15 21 * * *'  # 9:15 PM UTC (adjusted for PDT during daylight saving time)
+
+jobs:
+  update_md_file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "ECCRedM-Media"
+          git config user.email "ECCRedM-Media@gmail.com"    
+
+          # In order to avoid daylight saving error, run this action twice daily but only push once after making sure PST is after 8PM.
+          
+          current_time=$(TZ="America/Los_Angeles" date "+%H:%M")
+          start_time="20:00"
+          end_time="21:00"
+
+          if [[ "$current_time" > "$start_time" && "$current_time" < "$end_time" ]]; then
+            echo "It's 8:15. Push pp1 to trigger build."
+            TZ="America/Los_Angeles" date > pp1
+            git add pp1
+            git commit -m "Update pp1"  # Use -m to provide a commit message
+            git push
+          fi
