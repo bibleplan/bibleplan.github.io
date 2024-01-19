@@ -2,8 +2,7 @@ name: Trigger Daily Build
 
 on:
   schedule:
-    - cron: '15 3 * * *'  # 3:15 AM UTC = 8:15 PM PST with daylight saving
-    - cron: '15 4 * * *'  # 4:15 AM UTC = 8:15 PM PST
+    - cron: '*/15 * * * *'  # run every 15 min, but will only push pp1 once daily between 8-9PM
 
 jobs:
   update_md_file:
@@ -20,13 +19,18 @@ jobs:
           # In order to avoid daylight saving error, run this action twice daily but only push once after making sure PST is after 8PM.
           
           current_time=$(TZ="America/Los_Angeles" date "+%H:%M")
-          start_time="20:00"
+          start_time="20:05"
           end_time="21:00"
 
           if [[ "$current_time" > "$start_time" && "$current_time" < "$end_time" ]]; then
             echo "It's 8:15. Push pp1 to trigger build."
-            TZ="America/Los_Angeles" date > pp1
-            git add pp1
-            git commit -m "Update pp1"  # Use -m to provide a commit message
-            git push
+            current_date=$(TZ="America/Los_Angeles" date +"%Y-%m-%d")
+            file_content=$(cat pp1)
+
+            if [ "$current_date" != "$file_content" ]; then
+               echo "$current_date" > pp1
+               git add -A
+               git commit -m "Update pp1"  # Use -m to provide a commit message
+               git push
+            fi
           fi
