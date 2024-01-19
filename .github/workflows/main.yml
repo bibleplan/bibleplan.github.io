@@ -39,6 +39,7 @@ jobs:
             }            
             # Loop over each line and update 
             for (( row_number=1; row_number<=total_lines; row_number++ )); do
+              echo "running $row_number"
               # Skip every 4th row
               if [ $((row_number % 4)) -eq 0 ]; then
                 continue
