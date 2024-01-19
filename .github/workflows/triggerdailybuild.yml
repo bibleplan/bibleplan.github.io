@@ -2,7 +2,7 @@ name: Trigger Daily Build
 
 on:
   schedule:
-    - cron: '15 3 * * *'  # 3:15 PM UTC = 8:15 PM PST with daylight saving
+    - cron: '15 3 * * *'  # 3:15 AM UTC = 8:15 PM PST with daylight saving
     - cron: '15 4 * * *'  # 4:15 AM UTC = 8:15 PM PST
 
 jobs:
