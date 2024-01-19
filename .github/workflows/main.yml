@@ -49,7 +49,7 @@ jobs:
               days_to_add=$((row_number/4+1))
               m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
-              row=$(sed -n "${row_number}p" "$filename")
+              row=$(awk "NR == $row_number" "$filename")
               
               if [ "$days_to_add" -lt 7 ]; then #Mon-Sat contents
                 case $((row_number % 4)) in
