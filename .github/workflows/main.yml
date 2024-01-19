@@ -17,8 +17,7 @@ jobs:
           cat temp.md
           git config user.name "ECCRedM-Media"
           git config user.email "ECCRedM-Media@gmail.com"          
-          # if ! cmp -s xiv.md temp.md; then
-          if [ 1 -eq 2 ]; then
+          if ! cmp -s xiv.md temp.md; then # if [ 1 -eq 2 ]; then
             #load the new temp.md 
             echo "temp.md is new"
             var1=$(sed "s/,.*//g" temp.md)
@@ -64,17 +63,12 @@ jobs:
                   sed_cmp "QLTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
                 2)
-                  sed_cmp "QLLINK" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "QLVERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "QLD$days_to_addVERSE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"                  
                   ;;
                 3)
-                  sed_cmp "QLVERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
-                  if [ "$changeflag" -eq 1 ]; then
-                    git add "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
-                    git commit -m "Update $m_date-qianli.md"
-                    git push
-                  fi
-                  sed_cmp "QLD$days_to_addVERSE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
-                  changeflag=0
+                  trimmedlink="http${row##*http}"
+                  sed_cmp "QLLINK" "$trimmedlink" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
                 esac
               else #Sunday contents
@@ -88,15 +82,12 @@ jobs:
                   ;;
                 3)
                   sed_cmp "QLTESTLINK" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
-                  git add "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
-                  git commit -m "Update $wkly_date-wk$weeks_to_add.md"
-                  git push
                   ;;
                 esac
               fi
             done
             mv temp.md xiv.md
-            git add xiv.md
-            git commit -m "Update xiv.md"
+            git add -A
+            git commit -m "Add untracked files"
             git push
           fi
