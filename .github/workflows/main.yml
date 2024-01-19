@@ -30,9 +30,7 @@ jobs:
             #load the weekly summary content
             filename="contentfile.txt"
             wget -O $filename $var2
-            total_lines=$(wc -l < "$filename")
-            changeflag=0
-            dumpflag=0            
+            total_lines=$(wc -l < "$filename")   
             sed_cmp () {
                   sed -i "s|$1|$2|g" "$3"
                   echo "sed $2"
