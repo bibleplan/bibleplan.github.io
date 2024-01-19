@@ -2,8 +2,8 @@ name: Trigger Daily Build
 
 on:
   schedule:
-    - cron: '15 20 * * *'  # 8:15 PM UTC
-    - cron: '15 21 * * *'  # 9:15 PM UTC (adjusted for PDT during daylight saving time)
+    - cron: '15 4 * * *'  # 4:15 AM UTC = 8:15 PM PST
+    - cron: '15 5 * * *'  # 5:15 PM UTC = 8:15 PM PST with daylight saving
 
 jobs:
   update_md_file:
