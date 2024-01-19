@@ -34,8 +34,12 @@ jobs:
             wget -O $filename $var2
             total_lines=$(wc -l < "$filename")   
             sed_cmp () {
-                  sed -i "s|$1|$2|g" "$3"
-                  echo "sed $2"
+              if [[ $2 -lt 2 ]]; then
+                echo "$2 is too short. Do nothing."
+              else
+                sed -i "s|$1|$2|g" "$3"
+                echo "sed $2"
+              fi
             }            
             # Loop over each line and update 
             for (( row_number=1; row_number<=total_lines; row_number++ )); do
