@@ -54,7 +54,7 @@ jobs:
               m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
               row=$(awk "NR == $row_number" "$filename")
-              
+              reciterow=$(grep "本週背經經文" "$filename")
               if [ "$days_to_add" -lt 7 ]; then #Mon-Sat contents
                 case $((row_number % 4)) in
                 1) 
@@ -62,6 +62,7 @@ jobs:
                   sed_cmp "QLTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
                 2)
+                  sed_cmp "QLRECITEVERSE" "$reciterow" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   sed_cmp "QLVERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
                   sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"                  
