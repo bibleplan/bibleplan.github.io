@@ -1237,169 +1237,169 @@ plan:
       verseBG: Psalms.112
       verseYV: PSA.112
 
-  - index: 193
+  - index: 113
     verses:
     - titleCh: 申命記 12:1-14:2
       titleEn: Deuteronomy 12:1-14:2
       verseBG: Deuteronomy.12:1-14:2
       verseYV: DEU.12
-    - titleCh: 詩篇 2
-      titleEn: Psalms 2
-      verseBG: Psalms.2
-      verseYV: PSA.2
+    - titleCh: 詩篇 113
+      titleEn: Psalms 113
+      verseBG: Psalms.113
+      verseYV: PSA.113
 
-  - index: 194
+  - index: 114
     verses:
     - titleCh: 申命記 14.3-16.17
       titleEn: Deuteronomy 14.3-16.17
       verseBG: Deuteronomy.14.3-16.17
       verseYV: DEU.14
-    - titleCh: 詩篇 3
-      titleEn: Psalms 3
-      verseBG: Psalms.3
-      verseYV: PSA.3
+    - titleCh: 詩篇 114
+      titleEn: Psalms 114
+      verseBG: Psalms.114
+      verseYV: PSA.114
 
-  - index: 195
+  - index: 115
     verses:
     - titleCh: 申命記 16.18-18.22
       titleEn: Deuteronomy 16.18-18.22
       verseBG: Deuteronomy.16.18-18.22
       verseYV: DEU.16
-    - titleCh: 詩篇 4
-      titleEn: Psalms 4
-      verseBG: Psalms.4
-      verseYV: PSA.4
+    - titleCh: 詩篇 115
+      titleEn: Psalms 115
+      verseBG: Psalms.115
+      verseYV: PSA.115
 
-  - index: 196
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 5
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
-
-  - index: 197
+  - index: 116
     verses:
     - titleCh: 申命記 19-20
       titleEn: Deuteronomy 19-20
       verseBG: Deuteronomy.19-20
       verseYV: DEU.19
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
+    - titleCh: 詩篇 116
+      titleEn: Psalms 116
+      verseBG: Psalms.116
+      verseYV: PSA.16
 
-  - index: 198
+  - index: 117
     verses:
     - titleCh: 申命記 21-22
       titleEn: Deuteronomy 21-22
       verseBG: Deuteronomy.21-22
       verseYV: DEU.21
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
+    - titleCh: 詩篇 117
+      titleEn: Psalms 117
+      verseBG: Psalms.117
+      verseYV: PSA.117
 
-  - index: 199
+  - index: 118
     verses:
     - titleCh: 申命記 23
       titleEn: Deuteronomy 23
       verseBG: Deuteronomy.23
       verseYV: DEU.23
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
+    - titleCh: 詩篇 118
+      titleEn: Psalms 118
+      verseBG: Psalms.118
+      verseYV: PSA.118
 
-  - index: 200
+  - index: 119
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 119.1-16
+      titleEn: Psalms 119.1-16
+      verseBG: Psalms.119.1-16
+      verseYV: PSA.119.1-16
+
+  - index: 120
     verses:
     - titleCh: 申命記 24-25
       titleEn: Deuteronomy 24-25
       verseBG: Deuteronomy.24-25
       verseYV: DEU.24
-    - titleCh: 詩篇 9
-      titleEn: Psalms 9
-      verseBG: Psalms.9
-      verseYV: PSA.9
+    - titleCh: 詩篇 119.17-32
+      titleEn: Psalms 119.17-32
+      verseBG: Psalms.119.17-32
+      verseYV: PSA.119.17-32
 
-  - index: 201
+  - index: 121
     verses:
     - titleCh: 申命記 26
       titleEn: Deuteronomy 26
       verseBG: Deuteronomy.26
       verseYV: DEU.26
-    - titleCh: 詩篇 10
-      titleEn: Psalms 10
-      verseBG: Psalms.10
-      verseYV: PSA.10
+    - titleCh: 詩篇 119.33-48
+      titleEn: Psalms 119.33-48
+      verseBG: Psalms.119.33-48
+      verseYV: PSA.119.33-48
 
-  - index: 202
+  - index: 122
     verses:
     - titleCh: 申命記 27-28
       titleEn: Deuteronomy 27-28
       verseBG: Deuteronomy.27-28
       verseYV: DEU.27
-    - titleCh: 詩篇 11
-      titleEn: Psalms 11
-      verseBG: Psalms.11
-      verseYV: PSA.11
+    - titleCh: 詩篇 119.49-64
+      titleEn: Psalms 119.49-64
+      verseBG: Psalms.119.49-64
+      verseYV: PSA.119.49-64
 
-  - index: 203
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 12
-      titleEn: Psalms 12
-      verseBG: Psalms.12
-      verseYV: PSA.12
-
-  - index: 204
+  - index: 123
     verses:
     - titleCh: 申命記 29-30
       titleEn: Deuteronomy 29-30
       verseBG: Deuteronomy.29-30
       verseYV: DEU.29
-    - titleCh: 詩篇 13
-      titleEn: Psalms 13
-      verseBG: Psalms.13
-      verseYV: PSA.13
+    - titleCh: 詩篇 119.65-80
+      titleEn: Psalms 119.65-80
+      verseBG: Psalms.119.65-80
+      verseYV: PSA.119.65-80
 
-  - index: 205
+  - index: 124
     verses:
     - titleCh: 申命記 31.1-29
       titleEn: Deuteronomy 31.1-29
       verseBG: Deuteronomy.31.1-29
       verseYV: DEU.31
-    - titleCh: 詩篇 14
-      titleEn: Psalms 14
-      verseBG: Psalms.14
-      verseYV: PSA.14
+    - titleCh: 詩篇 119.81-96
+      titleEn: Psalms 119.81-96
+      verseBG: Psalms.119.81-96
+      verseYV: PSA.119.81-96
 
-  - index: 206
+  - index: 125
     verses:
     - titleCh: 申命記 31.30-33.29
       titleEn: Deuteronomy 31.30-33.29
       verseBG: Deuteronomy.31.30-33.29
       verseYV: DEU.31
-    - titleCh: 詩篇 15
-      titleEn: Psalms 15
-      verseBG: Psalms.15
-      verseYV: PSA.15
+    - titleCh: 詩篇 119.97-112
+      titleEn: Psalms 119.97-112
+      verseBG: Psalms.119.97-112
+      verseYV: PSA.119.97-112
 
-  - index: 207
+  - index: 126
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 119.113-128
+      titleEn: Psalms 119.113-128
+      verseBG: Psalms.119.113-128
+      verseYV: PSA.119.113-128
+
+  - index: 127
     verses:
     - titleCh: 申命記 34
       titleEn: Deuteronomy 34
       verseBG: Deuteronomy.34
       verseYV: DEU.34
-    - titleCh: 詩篇 16
-      titleEn: Psalms 16
-      verseBG: Psalms.16
-      verseYV: PSA.16
+    - titleCh: 詩篇 119.129-144
+      titleEn: Psalms 119.129-144
+      verseBG: Psalms.119.129-144
+      verseYV: PSA.119.129-144
 
 ---
