@@ -34,7 +34,7 @@ jobs:
             wget -O $filename $var2
             total_lines=$(wc -l < "$filename")   
             sed_cmp () {
-              if [ "${#2}" -gt 2 ]; then
+              if [ "${#2}" -gt 5 ]; then
                 sed -i "s|$1|$2|g" "$3"
                 echo "sed $2"
               else
