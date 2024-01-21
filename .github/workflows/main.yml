@@ -36,6 +36,7 @@ jobs:
             total_lines=$(wc -l < "$filename")   
             sed_cmp () {
               if [ "${#2}" -gt 5 ]; then
+                $2="${2//$'\n'/}"
                 sed -i "s|$1|$2|g" "$3"
                 echo "sed $2"
               else
