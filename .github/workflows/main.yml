@@ -32,6 +32,7 @@ jobs:
             #load the weekly summary content
             filename="contentfile.txt"
             wget -O $filename $var2
+            sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
             total_lines=$(wc -l < "$filename")   
             sed_cmp () {
               if [ "${#2}" -gt 5 ]; then
