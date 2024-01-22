@@ -55,6 +55,7 @@ jobs:
               m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
               row=$(awk "NR == $row_number" "$filename")
+              row=$(echo "$row" | tr -d '\r') # remove carriage return symbol
               reciterow=$(grep "本週背經經文" "$filename")
               if [ "$days_to_add" -lt 7 ]; then #Mon-Sat contents
                 case $((row_number % 4)) in
