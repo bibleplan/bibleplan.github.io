@@ -57,6 +57,8 @@ jobs:
               row=$(awk "NR == $row_number" "$filename")
               row=$(echo "$row" | tr -d '\r') # remove carriage return symbol
               reciterow=$(grep "本週背經經文" "$filename")
+              reciterow=$(echo "$reciterow" | sed 's/（本週背經經文）//g')
+              reciterow=$(echo "$reciterow" | tr -d '\r')
               if [ "$days_to_add" -lt 7 ]; then #Mon-Sat contents
                 case $((row_number % 4)) in
                 1) 
