@@ -3014,7 +3014,7 @@ layout: post
   </ul>
  </details>
 </details>
-<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米哀歌 <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+<details><summary style="text-decoration: underline; color: #1E6BB8;">耶利米哀歌 <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/2022/wk86-day3-daily.html">無人安慰</a>
  <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
