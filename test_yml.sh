@@ -82,7 +82,7 @@
                 esac
               fi
             done
-            #mv temp.md xiv.md
+            mv temp.md xiv.md
             #git add -A
             #git commit -m "Add untracked and modified files"
             #git push
