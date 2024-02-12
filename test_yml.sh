@@ -1,8 +1,8 @@
-#          wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
-#          cat temp.md
-          git config user.name "ECCRedM-Media"
-          git config user.email "ECCRedM-Media@gmail.com"          
-#          if ! cmp -s xiv.md temp.md; then # if [ 1 -eq 2 ]; then
+          wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
+          cat temp.md
+          #git config user.name "ECCRedM-Media"
+          #git config user.email "ECCRedM-Media@gmail.com"          
+          if ! cmp -s xiv.md temp.md; then # if [ 1 -eq 2 ]; then
             #load the new temp.md 
             echo "temp.md is new"
             input_string=$(cat temp.md)
@@ -83,7 +83,7 @@
               fi
             done
             #mv temp.md xiv.md
-            git add -A
-            git commit -m "Add untracked and modified files"
-            git push
+            #git add -A
+            #git commit -m "Add untracked and modified files"
+            #git push
           fi
