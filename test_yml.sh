@@ -1,4 +1,4 @@
-          wget https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
+          wget -O https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
           cat temp.md
           #git config user.name "ECCRedM-Media"
           #git config user.email "ECCRedM-Media@gmail.com"          
