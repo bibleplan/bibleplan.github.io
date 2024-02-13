@@ -1,8 +1,8 @@
-          wget -O https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
+          wget -O temp.md https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp.md
           cat temp.md
           #git config user.name "ECCRedM-Media"
           #git config user.email "ECCRedM-Media@gmail.com"          
-          if ! cmp -s xiv.md temp.md; then # if [ 1 -eq 2 ]; then
+          #if ! cmp -s xiv.md temp.md; then # if [ 1 -eq 2 ]; then
             #load the new temp.md 
             echo "temp.md is new"
             input_string=$(cat temp.md)
@@ -16,7 +16,7 @@
             echo "updated time: $var3"
             #load the weekly summary content
             filename="contentfile.txt"
-            wget -O $filename $var2
+            #wget -O $filename $var2
             sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
             total_lines=$(wc -l < "$filename")   
             sed_cmp () {
@@ -86,4 +86,4 @@
             #git add -A
             #git commit -m "Add untracked and modified files"
             #git push
-          fi
+          #fi
