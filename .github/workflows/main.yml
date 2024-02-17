@@ -32,7 +32,8 @@ jobs:
             #load the weekly summary content
             filename="contentfile.txt"
             wget -O $filename $var2
-            sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
+            recitekey="本$(grep -oP '(?<=本)[^文]+' contentfile.txt)文"
+            sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
             total_lines=$(wc -l < "$filename")   
             sed_cmp () {
               if [ "${#2}" -gt 5 ]; then
@@ -56,8 +57,8 @@ jobs:
               wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
               row=$(awk "NR == $row_number" "$filename")
               row=$(echo "$row" | tr -d '\r') # remove carriage return symbol
-              reciterow=$(grep "本週背經經文" "$filename")
-              reciterow=$(echo "$reciterow" | sed 's/（_\*\*本週背經經文\*\*_）//g')
+              reciterow=$(grep "$recitekey" "$filename")
+              reciterow=$(echo "$reciterow" | sed "s/（_\*\*${recitekey}\*\*_）//g")
               reciterow=$(echo "$reciterow" | tr -d '\r')
               if [ "$days_to_add" -lt 7 ]; then #Mon-Sat contents
                 case $((row_number % 4)) in
