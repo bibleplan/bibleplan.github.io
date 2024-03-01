@@ -19,8 +19,8 @@ jobs:
           # In order to avoid daylight saving error, run this action twice daily but only push once after making sure PST is after 8PM.
           
           current_time=$(TZ="America/Los_Angeles" date "+%H:%M")
-          start_time="20:05"
-          end_time="21:00"
+          start_time="18:25"
+          end_time="19:00"
 
           if [[ "$current_time" > "$start_time" && "$current_time" < "$end_time" ]]; then
             echo "It's 8:15. Push pp1 to trigger build."
