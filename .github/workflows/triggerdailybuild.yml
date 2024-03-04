@@ -2,7 +2,7 @@ name: Trigger Daily Build
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # run every 15 min, but will only push pp1 once to trigger build between start/end time
+    - cron: '0 */3 * * *'  # run every 15 min, but will only push pp1 once to trigger build between start/end time
 
 jobs:
   update_md_file:
