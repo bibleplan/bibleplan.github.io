@@ -2,7 +2,7 @@ name: Trigger Daily Build
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # run every 15 min, but will only push pp1 once to trigger build between start/end time
+    - cron: '0 1 * * *'  # run every 15 min, but will only push pp1 once to trigger build between start/end time
 
 jobs:
   update_md_file:
@@ -17,11 +17,24 @@ jobs:
           git config user.email "ECCRedM-Media@gmail.com"    
 
           # In order to avoid daylight saving error, we don't use cron to set build time directly
+
+          # Initialize a counter variable
+          counter=0
+          # Loop until counter reaches 5
+          while [ $counter -lt 25 ]; do
+            # Print the current value of counter
+            echo "Current count: $counter"
+  
+            # Wait for 10 minutes
+            sleep 600
+            # Increment the counter
+            ((counter++))
           
           current_time=$(TZ="America/Los_Angeles" date "+%H:%M")
           start_time="18:05" #try to build between 6-7pm so build will finish before 7pm release
           end_time="19:00"
-
+          echo "$current_date"
+          echo "$current_time"
           if [[ "$current_time" > "$start_time" && "$current_time" < "$end_time" ]]; then
             echo "Push pp1 to trigger build."
             current_date=$(TZ="America/Los_Angeles" date +"%Y-%m-%d")
@@ -34,3 +47,5 @@ jobs:
                git push
             fi
           fi
+          done
+          echo "Loop finished!"
