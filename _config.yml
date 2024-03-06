@@ -19,6 +19,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 timezone: Etc/UTC
+# this makes 4PM the daychange time for PST (no daylight saving)
 
 # regenerate only modified posts to improve performance
 # incremental: true
