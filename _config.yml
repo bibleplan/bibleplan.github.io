@@ -18,7 +18,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-timezone: America/Scoresbysund
+timezone: Factory
 
 # regenerate only modified posts to improve performance
 # incremental: true
