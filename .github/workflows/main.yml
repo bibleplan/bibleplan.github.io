@@ -32,9 +32,10 @@ jobs:
             #load the weekly summary content
             filename="contentfile.txt"
             wget -O $filename $var2
-            recitekey="本$(grep -oP '(?<=本)[^文]+' contentfile.txt)文"
-            echo "recitekey: $recitekey"
-            sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
+            # recitekey="本$(grep -oP '(?<=本)[^文]+' contentfile.txt)文"
+            # echo "recitekey: $recitekey"
+            # sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
+            sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
             echo "recite verse highlighted"
             total_lines=$(wc -l < "$filename") 
             echo "total lines: $total_lines"
