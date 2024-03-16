@@ -22,6 +22,11 @@ jobs:
           echo "Push pp1 to trigger build."
 
           echo "$current_date" > pp1
-          git add -A
-          git commit -m "Update pp1"  # Use -m to provide a commit message
-          git push
+
+          if [[ `git status --porcelain` ]]; then
+            git add -A
+            git commit -m "Update pp1"  # Use -m to provide a commit message
+            git push
+          fi
+
+
