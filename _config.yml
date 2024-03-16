@@ -31,6 +31,7 @@ timezone: Africa/Maputo
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - template/
   - .github/workflows/*.yml
   - Gemfile
   - Gemfile.lock
