@@ -33,8 +33,11 @@ jobs:
             filename="contentfile.txt"
             wget -O $filename $var2
             recitekey="本$(grep -oP '(?<=本)[^文]+' contentfile.txt)文"
+            echo "recitekey: $recitekey"
             sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
-            total_lines=$(wc -l < "$filename")   
+            echo "recite verse highlighted"
+            total_lines=$(wc -l < "$filename") 
+            echo "total lines: $total_lines"
             sed_cmp () {
               if [ "${#2}" -gt 5 ]; then
                 sed -i "s|$1|$2|g" "$3"
