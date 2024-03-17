@@ -34,6 +34,8 @@ jobs:
             wget -O $filename $var2
             # recitekey="本$(grep -oP '(?<=本)[^文]+' contentfile.txt)文"
             # echo "recitekey: $recitekey"
+            recitekey="本週背經經文"
+            echo "recitekey: $recitekey"
             # sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
             sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
             echo "recite verse highlighted"
