@@ -26,6 +26,7 @@ jobs:
             var1=${var1%.txt}  # trim the .txt in the filename
             var1=${var1:4}  # trim the week in the filename
             var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
+            
             echo "week#: $var1"
             echo "url: $var2"
             echo "updated time: $var3"
@@ -60,6 +61,8 @@ jobs:
               weeks_to_add=$var1
               week_with_zeros=$(printf "%03d" "$var1")
               days_to_add=$((row_number/4+1))
+              DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
+              DAY_OF_YEAR=${DAY_OF_YEAR#"${DAY_OF_YEAR%%[!0]*}"}
               m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
               row=$(awk "NR == $row_number" "$filename")
@@ -71,6 +74,11 @@ jobs:
                 case $((row_number % 4)) in
                 1) 
                   echo $m_date
+                  cp template/quanli_template _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp "DAYNUMPLACEHOLDER" "$days_to_add" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp "QLDAY" "$DAY_OF_YEAR" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp "DATEPLACEHOLDER" "$m_date" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
                   sed_cmp "QLTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
                 2)
