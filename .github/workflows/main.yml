@@ -51,6 +51,14 @@ jobs:
                 echo "$2 is too short. Do nothing."
               fi
             }            
+            sed_cmp_s () {
+              if [ "${#2}" -gt 0 ]; then
+                sed -i "s|$1|$2|g" "$3"
+                echo "sed $2"
+              else
+                echo "$2 is too short. Do nothing."
+              fi
+            }                      
             # Loop over each line and update 
             for (( row_number=1; row_number<=total_lines+1; row_number++ )); do
               echo "running ${row_number} out of ${total_lines}"
@@ -75,10 +83,10 @@ jobs:
                 1) 
                   echo $m_date
                   cp template/quanli_template _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
-                  sed_cmp "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
-                  sed_cmp "DAYNUMPLACEHOLDER" "$days_to_add" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
-                  sed_cmp "QLDAY" "$DAY_OF_YEAR" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
-                  sed_cmp "DATEPLACEHOLDER" "$m_date" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "DAYNUMPLACEHOLDER" "$days_to_add" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
                   sed_cmp "QLTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
                 2)
