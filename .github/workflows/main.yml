@@ -26,7 +26,8 @@ jobs:
             var1=${var1%.txt}  # trim the .txt in the filename
             var1=${var1:4}  # trim the week in the filename
             var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
-            
+            weeks_to_add=$var1
+            wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
             echo "week#: $var1"
             echo "url: $var2"
             echo "updated time: $var3"
@@ -60,19 +61,27 @@ jobs:
               fi
             }                      
             # Loop over each line and update 
+
+            cp template/Sunday_daily_template _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            cp template/weekly_template _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+            sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+            sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+                  
             for (( row_number=1; row_number<=total_lines+1; row_number++ )); do
               echo "running ${row_number} out of ${total_lines}"
               # Skip every 4th row
               if [ $((row_number % 4)) -eq 0 ]; then
                 continue
               fi
-              weeks_to_add=$var1
+              
               week_with_zeros=$(printf "%03d" "$var1")
               days_to_add=$((row_number/4+1))
               DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
               DAY_OF_YEAR=${DAY_OF_YEAR#"${DAY_OF_YEAR%%[!0]*}"}
               m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
-              wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
+              
               row=$(awk "NR == $row_number" "$filename")
               row=$(echo "$row" | tr -d '\r') # remove carriage return symbol
               reciterow=$(grep "$recitekey" "$filename")
@@ -103,7 +112,7 @@ jobs:
               else #Sunday contents
                 case $((row_number % 4)) in
                 1) 
-                  echo $m_date
+                  echo $m_date                                
                   sed_cmp "QLREVIEWTITLE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
                   sed_cmp "QLREVIEWTITLE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
                   ;;
