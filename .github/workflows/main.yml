@@ -61,7 +61,7 @@ jobs:
               fi
             }                      
             # Loop over each line and update 
-
+            week_with_zeros=$(printf "%03d" "$var1")
             cp template/Sunday_daily_template _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
             cp template/weekly_template _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
             sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
@@ -76,7 +76,7 @@ jobs:
                 continue
               fi
               
-              week_with_zeros=$(printf "%03d" "$var1")
+              
               days_to_add=$((row_number/4+1))
               DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
               DAY_OF_YEAR=${DAY_OF_YEAR#"${DAY_OF_YEAR%%[!0]*}"}
