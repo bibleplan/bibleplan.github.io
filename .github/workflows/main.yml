@@ -65,9 +65,9 @@ jobs:
             cp template/Sunday_daily_template _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
             cp template/weekly_template _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
             sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
-            sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
             sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
-            sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+            sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
                   
             for (( row_number=1; row_number<=total_lines+1; row_number++ )); do
               echo "running ${row_number} out of ${total_lines}"
