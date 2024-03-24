@@ -34,11 +34,11 @@ jobs:
             #load the weekly summary content
             filename="contentfile.txt"
             wget -O $filename $var2
-            recitekey="$(grep -o "（本.*文）" contentfile.txt)"
-            recitekey="${recitekey%）}"
-            recitekey="${recitekey#（}"            
+            # recitekey="$(grep -o "（本.*文）" contentfile.txt)"
+            # recitekey="${recitekey%）}"
+            # recitekey="${recitekey#（}"    
+            recitekey="本週背經經文"
             echo "recitekey: $recitekey"
-            # recitekey="本週背經經文"
             sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
             # sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
             echo "recite verse highlighted"
