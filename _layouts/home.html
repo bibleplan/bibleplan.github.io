@@ -13,7 +13,7 @@ language: "Chinese"
 
     {%- assign today = site.time | date: "%Y-%m-%d"  -%}
     {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-    {%- assign chnPosts = chnPosts | sort_natural: "categories" -%}
+    {%- assign chnPosts = chnPosts | sort_natural: "categories" | reverse -%}
     {%- assign chnPosts = chnPosts | sort_natural: "date" | reverse -%}
     {%- assign showPosts = 0 -%}
    
