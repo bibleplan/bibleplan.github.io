@@ -31,7 +31,7 @@ language: "Chinese"
               {%- if post.categories contains "daily" -%}
                 <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
               {%- else -%}
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
               {%- endif -%}
             {%- assign showPosts = showPosts | plus: 1 -%}
  
