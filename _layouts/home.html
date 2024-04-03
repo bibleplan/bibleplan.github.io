@@ -25,13 +25,13 @@ language: "Chinese"
          <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
    
       {%- else -%}
-         {%- if today >= postDate and showPosts <= 10 -%}
+         {%- if today >= postDate and showPosts <= 9 -%}
             {%- assign isTemp = post.title | slice: -4,3 -%}
             {%- unless isTemp == "待更新" -%}
               {%- if post.categories contains "daily" -%}
                 <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
               {%- else -%}
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
               {%- endif -%}
             {%- assign showPosts = showPosts | plus: 1 -%}
  
