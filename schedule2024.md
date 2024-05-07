@@ -1401,5 +1401,34 @@ plan:
       titleEn: Psalms 119.129-144
       verseBG: Psalms.119.129-144
       verseYV: PSA.119.129-144
-
+  - index: 128
+    verses:
+    - titleCh: 約書亞記 1
+      titleEn: Joshua 1
+      verseBG: Joshua.1
+      verseYV: JOS.1
+    - titleCh: 詩篇 119.145-160
+      titleEn: Psalms 119.145-160
+      verseBG: Psalms.119.145-160
+      verseYV: PSA.119.145-160
+  - index: 129
+    verses:
+    - titleCh: 約書亞記 2
+      titleEn: Joshua 2
+      verseBG: Joshua.2
+      verseYV: JOS.2
+    - titleCh: 詩篇 119.161-176
+      titleEn: Psalms 119.161-176
+      verseBG: Psalms.119.161-176
+      verseYV: PSA.119.161-176
+  - index: 130
+    verses:
+    - titleCh: 約書亞記 3.1-5.12
+      titleEn: Joshua 3.1-5.12
+      verseBG: Joshua.3.1-5.12
+      verseYV: JOS.3
+    - titleCh: 詩篇 120
+      titleEn: Psalms 120
+      verseBG: Psalms.120
+      verseYV: PSA.120
 ---
