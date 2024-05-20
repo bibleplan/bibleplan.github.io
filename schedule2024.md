@@ -1561,4 +1561,94 @@ plan:
       titleEn: Psalms 133
       verseBG: Psalms.133
       verseYV: PSA.133
+  - index: 144
+    verses:
+    - titleCh: 士師記 1.1-2.5
+      titleEn: Judges 1.1-2.5
+      verseBG: Judges.1.1-2.5
+      verseYV: JDG.1
+    - titleCh: 詩篇 134
+      titleEn: Psalms 134
+      verseBG: Psalms.134
+      verseYV: PSA.134
+  - index: 145
+    verses:
+    - titleCh: 士師記 2.6-3.6
+      titleEn: Judges 2.6-3.6
+      verseBG: Judges.2.6-3.6
+      verseYV: JDG.2
+    - titleCh: 詩篇 135
+      titleEn: Psalms 135
+      verseBG: Psalms.135
+      verseYV: PSA.135
+  - index: 146
+    verses:
+    - titleCh: 士師記 3.7-5.31
+      titleEn: Judges 3.7-5.31
+      verseBG: Judges.3.7-5.31
+      verseYV: JDG.3
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
+  - index: 147
+    verses:
+    - titleCh:
+      titleEn:
+      verseBG:
+      verseYV:
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
+  - index: 148
+    verses:
+    - titleCh: 士師記 6-7
+      titleEn: Judges 6-7
+      verseBG: Judges.6-7
+      verseYV: JDG.6
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
+  - index: 149
+    verses:
+    - titleCh: 士師記 8
+      titleEn: Judges 8
+      verseBG: Judges.8
+      verseYV: JDG.8
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
+  - index: 150
+    verses:
+    - titleCh: 士師記 9.1-10.5
+      titleEn: Judges 9.1-10.5
+      verseBG: Judges.9.1-10.5
+      verseYV: JDG.9
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
+  - index: 151
+    verses:
+    - titleCh: 士師記 10.6-12.15
+      titleEn: Judges 10.6-12.15
+      verseBG: Judges.10.6-12.15
+      verseYV: JDG.10
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+  - index: 152
+    verses:
+    - titleCh: 士師記 13-14
+      titleEn: Judges 13-14
+      verseBG: Judges.13-14
+      verseYV: JDG.13
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
 ---
