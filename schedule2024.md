@@ -1811,4 +1811,144 @@ plan:
       titleEn: Proverbs 8
       verseBG: Proverbs.8
       verseYV: PRO.8
+  - index: 169
+    verses:
+    - titleCh: 撒母耳記上 10-12
+      titleEn: 1 Samuel.10-12
+      verseBG: 1 Samuel.10-12
+      verseYV: 1SA.10
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+  - index: 170
+    verses:
+    - titleCh: 撒母耳記上 13.1-14.48
+      titleEn: 1 Samuel.13.1-14.48
+      verseBG: 1 Samuel.13.1-14.48
+      verseYV: 1SA.13
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+  - index: 171
+    verses:
+    - titleCh: 撒母耳記上 14.49-15.35
+      titleEn: 1 Samuel.14.49-15.35
+      verseBG: 1 Samuel.14.49-15.35
+      verseYV: 1SA.14
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+  - index: 172
+    verses:
+    - titleCh: 撒母耳記上 16-17
+      titleEn: 1 Samuel.16-17
+      verseBG: 1 Samuel.16-17
+      verseYV: 1SA.16
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+  - index: 173
+    verses:
+    - titleCh: 撒母耳記上 18-19
+      titleEn: 1 Samuel.18-19
+      verseBG: 1 Samuel.18-19
+      verseYV: 1SA.18
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
+  - index: 174
+    verses:
+    - titleCh: 撒母耳記上 20-21
+      titleEn: 1 Samuel.20-21
+      verseBG: 1 Samuel.20-21
+      verseYV: 1SA.20
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
+  - index: 175
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
+  - index: 176
+    verses:
+    - titleCh: 撒母耳記上 22-23
+      titleEn: 1 Samuel.22-23
+      verseBG: 1 Samuel.22-23
+      verseYV: 1SA.22
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+  - index: 177
+    verses:
+    - titleCh: 撒母耳記上 24-25
+      titleEn: 1 Samuel.24-25
+      verseBG: 1 Samuel.24-25
+      verseYV: 1SA.24
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+  - index: 178
+    verses:
+    - titleCh: 撒母耳記上 26-27
+      titleEn: 1 Samuel.26-27
+      verseBG: 1 Samuel.26-27
+      verseYV: 1SA.26
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
+  - index: 179
+    verses:
+    - titleCh: 撒母耳記上 28-29
+      titleEn: 1 Samuel.28-29
+      verseBG: 1 Samuel.28-29
+      verseYV: 1SA.28
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
+  - index: 180
+    verses:
+    - titleCh: 撒母耳記上 30-31
+      titleEn: 1 Samuel.30-31
+      verseBG: 1 Samuel.30-31
+      verseYV: 1SA.30
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
+  - index: 181
+    verses:
+    - titleCh: 撒母耳記下 1-2
+      titleEn: 2 Samuel.1-2
+      verseBG: 2 Samuel.1-2
+      verseYV: 2SA.1
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
+  - index: 182
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
 ---
