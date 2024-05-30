@@ -1651,4 +1651,164 @@ plan:
       titleEn: Psalms 142
       verseBG: Psalms.142
       verseYV: PSA.142
+  - index: 153
+    verses:
+    - titleCh: 士師記 15-16
+      titleEn: Judges 15-16
+      verseBG: Judges.15-16
+      verseYV: JDG.15
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
+  - index: 154
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+  - index: 155
+    verses:
+    - titleCh: 士師記 17-18
+      titleEn: Judges 17-18
+      verseBG: Judges.17-18
+      verseYV: JDG.17
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+  - index: 156
+    verses:
+    - titleCh: 士師記 19
+      titleEn: Judges 19
+      verseBG: Judges.19
+      verseYV: JDG.19
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+  - index: 157
+    verses:
+    - titleCh: 士師記 20-21
+      titleEn: Judges 20-21
+      verseBG: Judges.20-21
+      verseYV: JDG.20
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
+  - index: 158
+    verses:
+    - titleCh: 路得記 1
+      titleEn: Ruth 1
+      verseBG: Ruth.1
+      verseYV: RUT.1
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
+  - index: 159
+    verses:
+    - titleCh: 路得記 2
+      titleEn: Ruth 2
+      verseBG: Ruth.2
+      verseYV: RUT.2
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
+  - index: 160
+    verses:
+    - titleCh: 路得記 3
+      titleEn: Ruth 3
+      verseBG: Ruth.3
+      verseYV: RUT.3
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
+  - index: 161
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Proverbs.1
+      verseYV: PRO.1
+  - index: 162
+    verses:
+    - titleCh: 路得記 4
+      titleEn: Ruth 4
+      verseBG: Ruth.4
+      verseYV: RUT.4
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
+  - index: 163
+    verses:
+    - titleCh: 撒母耳記上 1.1-2.11
+      titleEn: 1 Samuel.1.1-2.11
+      verseBG: 1 Samuel.1.1-2.11
+      verseYV: 1SA.1
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
+  - index: 164
+    verses:
+    - titleCh: 撒母耳記上 2.12-4.1a
+      titleEn: 1 Samuel.2.12-4.1a
+      verseBG: 1 Samuel.2.12-4.1a
+      verseYV: 1SA.2
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
+  - index: 165
+    verses:
+    - titleCh: 撒母耳記上 4.1b-5.12
+      titleEn: 1 Samuel.4.1b-5.12
+      verseBG: 1 Samuel.4.1b-5.12
+      verseYV: 1SA.4
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+  - index: 166
+    verses:
+    - titleCh: 撒母耳記上 6-7
+      titleEn: 1 Samuel.6-7
+      verseBG: 1 Samuel.6-7
+      verseYV: 1SA.6
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+  - index: 167
+    verses:
+    - titleCh: 撒母耳記上 8-9
+      titleEn: 1 Samuel.8-9
+      verseBG: 1 Samuel.8-9
+      verseYV: 1SA.8
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+  - index: 168
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
 ---
