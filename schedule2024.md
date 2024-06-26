@@ -1951,4 +1951,314 @@ plan:
       titleEn: Proverbs 22
       verseBG: Proverbs.22
       verseYV: PRO.22
+  - index: 183
+    verses:
+    - titleCh: 撒母耳記下 3-4
+      titleEn: 2 Samuel.3-4
+      verseBG: 2 Samuel.3-4
+      verseYV: 2SA.3
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
+  - index: 184
+    verses:
+    - titleCh: 撒母耳記下 5-7
+      titleEn: 2 Samuel.5-7
+      verseBG: 2 Samuel.5-7
+      verseYV: 2SA.5
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
+  - index: 185
+    verses:
+    - titleCh: 撒母耳記下 8-9
+      titleEn: 2 Samuel.8-9
+      verseBG: 2 Samuel.8-9
+      verseYV: 2SA.8
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
+  - index: 186
+    verses:
+    - titleCh: 撒母耳記下 10-11
+      titleEn: 2 Samuel.10-11
+      verseBG: 2 Samuel.10-11
+      verseYV: 2SA.10
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
+  - index: 187
+    verses:
+    - titleCh: 撒母耳記下 12
+      titleEn: 2 Samuel.12
+      verseBG: 2 Samuel.12
+      verseYV: 2SA.12
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Proverbs.27
+      verseYV: PRO.27
+  - index: 188
+    verses:
+    - titleCh: 撒母耳記下 13-14
+      titleEn: 2 Samuel.13-14
+      verseBG: 2 Samuel.13-14
+      verseYV: 2SA.13
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
+  - index: 189
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
+  - index: 190
+    verses:
+    - titleCh: 撒母耳記下 15-16
+      titleEn: 2 Samuel.15-16
+      verseBG: 2 Samuel.15-16
+      verseYV: 2SA.15
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
+  - index: 191
+    verses:
+    - titleCh: 撒母耳記下 17-18
+      titleEn: 2 Samuel.17-18
+      verseBG: 2 Samuel.17-18
+      verseYV: 2SA.17
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
+  - index: 192
+    verses:
+    - titleCh: 撒母耳記下 19-20
+      titleEn: 2 Samuel.19-20
+      verseBG: 2 Samuel.19-20
+      verseYV: 2SA.19
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
+  - index: 193
+    verses:
+    - titleCh: 撒母耳記下 21
+      titleEn: 2 Samuel.21
+      verseBG: 2 Samuel.21
+      verseYV: 2SA.21
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
+  - index: 194
+    verses:
+    - titleCh: 撒母耳記下 22.1-23.7
+      titleEn: 2 Samuel.22.1-23.7
+      verseBG: 2 Samuel.22.1-23.7
+      verseYV: 2SA.22
+    - titleCh: 詩篇 3
+      titleEn: Psalms 3
+      verseBG: Psalms.3
+      verseYV: PSA.3
+  - index: 195
+    verses:
+    - titleCh: 撒母耳記下 23.8-39
+      titleEn: 2 Samuel.23.8-39
+      verseBG: 2 Samuel.23.8-39
+      verseYV: 2SA.23
+    - titleCh: 詩篇 4
+      titleEn: Psalms 4
+      verseBG: Psalms.4
+      verseYV: PSA.4
+  - index: 196
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 5
+      titleEn: Psalms 5
+      verseBG: Psalms.5
+      verseYV: PSA.5
+  - index: 197
+    verses:
+    - titleCh: 撒母耳記下 24
+      titleEn: 2 Samuel.24
+      verseBG: 2 Samuel.24
+      verseYV: 2SA.24
+    - titleCh: 詩篇 6
+      titleEn: Psalms 6
+      verseBG: Psalms.6
+      verseYV: PSA.6
+  - index: 198
+    verses:
+    - titleCh: 列王紀上 1-2
+      titleEn: 1 Kings.1-2
+      verseBG: 1 Kings.1-2
+      verseYV: 1KI.1
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
+  - index: 199
+    verses:
+    - titleCh: 列王紀上 3-4
+      titleEn: 1 Kings.3-4
+      verseBG: 1 Kings.3-4
+      verseYV: 1KI.3
+    - titleCh: 詩篇 8
+      titleEn: Psalms 8
+      verseBG: Psalms.8
+      verseYV: PSA.8
+  - index: 200
+    verses:
+    - titleCh: 列王紀上 5-6
+      titleEn: 1 Kings.5-6
+      verseBG: 1 Kings.5-6
+      verseYV: 1KI.5
+    - titleCh: 詩篇 9
+      titleEn: Psalms 9
+      verseBG: Psalms.9
+      verseYV: PSA.9
+  - index: 201
+    verses:
+    - titleCh: 列王紀上 7
+      titleEn: 1 Kings.7
+      verseBG: 1 Kings.7
+      verseYV: 1KI.7
+    - titleCh: 詩篇 10
+      titleEn: Psalms 10
+      verseBG: Psalms.10
+      verseYV: PSA.10
+  - index: 202
+    verses:
+    - titleCh: 列王紀上 8-9
+      titleEn: 1 Kings.8-9
+      verseBG: 1 Kings.8-9
+      verseYV: 1KI.8
+    - titleCh: 詩篇 11
+      titleEn: Psalms 11
+      verseBG: Psalms.11
+      verseYV: PSA.11
+  - index: 203
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 12
+      titleEn: Psalms 12
+      verseBG: Psalms.12
+      verseYV: PSA.12
+  - index: 204
+    verses:
+    - titleCh: 列王紀上 10-11
+      titleEn: 1 Kings.10-11
+      verseBG: 1 Kings.10-11
+      verseYV: 1KI.10
+    - titleCh: 詩篇 13
+      titleEn: Psalms 13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+  - index: 205
+    verses:
+    - titleCh: 列王紀上 12-13
+      titleEn: 1 Kings.12-13
+      verseBG: 1 Kings.12-13
+      verseYV: 1KI.12
+    - titleCh: 詩篇 14
+      titleEn: Psalms 14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+  - index: 206
+    verses:
+    - titleCh: 列王紀上 14
+      titleEn: 1 Kings.14
+      verseBG: 1 Kings.14
+      verseYV: 1KI.14
+    - titleCh: 詩篇 15
+      titleEn: Psalms 15
+      verseBG: Psalms.15
+      verseYV: PSA.15
+  - index: 207
+    verses:
+    - titleCh: 列王紀上 15.1-16.20
+      titleEn: 1 Kings.15.1-16.20
+      verseBG: 1 Kings.15.1-16.20
+      verseYV: 1KI.15
+    - titleCh: 詩篇 16
+      titleEn: Psalms 16
+      verseBG: Psalms.16
+      verseYV: PSA.16
+  - index: 208
+    verses:
+    - titleCh: 列王紀上 16.21-17.24
+      titleEn: 1 Kings.16.21-17.24
+      verseBG: 1 Kings.16.21-17.24
+      verseYV: 1KI.16
+    - titleCh: 詩篇 17
+      titleEn: Psalms 17
+      verseBG: Psalms.17
+      verseYV: PSA.17
+  - index: 209
+    verses:
+    - titleCh: 列王紀上 18-19
+      titleEn: 1 Kings.18-19
+      verseBG: 1 Kings.18-19
+      verseYV: 1KI.18
+    - titleCh: 詩篇 18
+      titleEn: Psalms 18
+      verseBG: Psalms.18
+      verseYV: PSA.18
+  - index: 210
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 19
+      titleEn: Psalms 19
+      verseBG: Psalms.19
+      verseYV: PSA.19
+  - index: 211
+    verses:
+    - titleCh: 列王紀上 20-21
+      titleEn: 1 Kings.20-21
+      verseBG: 1 Kings.20-21
+      verseYV: 1KI.20
+    - titleCh: 詩篇 20
+      titleEn: Psalms 20
+      verseBG: Psalms.20
+      verseYV: PSA.20
+  - index: 212
+    verses:
+    - titleCh: 列王紀上 22
+      titleEn: 1 Kings.22
+      verseBG: 1 Kings.22
+      verseYV: 1KI.22
+    - titleCh: 詩篇 21
+      titleEn: Psalms 21
+      verseBG: Psalms.21
+      verseYV: PSA.21
+  - index: 213
+    verses:
+    - titleCh: 列王紀下 1-2
+      titleEn: 2 Kings.1-2
+      verseBG: 2 Kings.1-2
+      verseYV: 2KI.1
+    - titleCh: 詩篇 22
+      titleEn: Psalms 22
+      verseBG: Psalms.22
+      verseYV: PSA.22
 ---
