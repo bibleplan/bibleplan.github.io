@@ -19,14 +19,17 @@ jobs:
           git config user.email "ECCRedM-Media@gmail.com"    
 
           current_date=$(TZ="America/Los_Angeles" date +"%Y-%m-%d")
-          echo "Push pp1 to trigger build."
-
-          echo "$current_date" > pp1
-
-          if [[ `git status --porcelain` ]]; then
+          pp1_content=$(<pp1)
+          
+          echo "$current_date"
+          echo "$pp1_content"
+          
+          if [ "$current_date" == "$pp1_content" ]; then
+            echo "The content of the variable and the file are the same. No action needed."
+          else
+            echo "Push pp1 to trigger build."
+            echo "$current_date" > pp1
             git add -A
             git commit -m "Update pp1"  # Use -m to provide a commit message
             git push
           fi
-
-
