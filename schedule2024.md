@@ -2571,4 +2571,304 @@ plan:
       titleEn: Psalms 53
       verseBG: Psalms.53
       verseYV: PSA.53
+  - index: 245
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 54
+      titleEn: Psalms 54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+  - index: 246
+    verses:
+    - titleCh: 歷代志上 25-26
+      titleEn: 1 Chronicles.25-26
+      verseBG: 1 Chronicles.25-26
+      verseYV: 1CH.25
+    - titleCh: 詩篇 55
+      titleEn: Psalms 55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+  - index: 247
+    verses:
+    - titleCh: 歷代志上 27-28
+      titleEn: 1 Chronicles.27-28
+      verseBG: 1 Chronicles.27-28
+      verseYV: 1CH.27
+    - titleCh: 詩篇 56
+      titleEn: Psalms 56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+  - index: 248
+    verses:
+    - titleCh: 歷代志上 29
+      titleEn: 1 Chronicles.29
+      verseBG: 1 Chronicles.29
+      verseYV: 1CH.29
+    - titleCh: 詩篇 57
+      titleEn: Psalms 57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+  - index: 249
+    verses:
+    - titleCh: 歷代志下 1-2
+      titleEn: 2 Chronicles.1-2
+      verseBG: 2 Chronicles.1-2
+      verseYV: 2CH.1
+    - titleCh: 詩篇 58
+      titleEn: Psalms 58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+  - index: 250
+    verses:
+    - titleCh: 歷代志下 3.1-5.1
+      titleEn: 2 Chronicles.3.1-5.1
+      verseBG: 2 Chronicles.3.1-5.1
+      verseYV: 2CH.3
+    - titleCh: 詩篇 59
+      titleEn: Psalms 59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+  - index: 251
+    verses:
+    - titleCh: 歷代志下 5.2-6.42
+      titleEn: 2 Chronicles.5.2-6.42
+      verseBG: 2 Chronicles.5.2-6.42
+      verseYV: 2CH.5
+    - titleCh: 詩篇 60
+      titleEn: Psalms 60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+  - index: 252
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 61
+      titleEn: Psalms 61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+  - index: 253
+    verses:
+    - titleCh: 歷代志下 7
+      titleEn: 2 Chronicles.7
+      verseBG: 2 Chronicles.7
+      verseYV: 2CH.7
+    - titleCh: 詩篇 62
+      titleEn: Psalms 62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+  - index: 254
+    verses:
+    - titleCh: 歷代志下 8
+      titleEn: 2 Chronicles.8
+      verseBG: 2 Chronicles.8
+      verseYV: 2CH.8
+    - titleCh: 詩篇 63
+      titleEn: Psalms 63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+  - index: 255
+    verses:
+    - titleCh: 歷代志下 9
+      titleEn: 2 Chronicles.9
+      verseBG: 2 Chronicles.9
+      verseYV: 2CH.9
+    - titleCh: 詩篇 64
+      titleEn: Psalms 64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+  - index: 256
+    verses:
+    - titleCh: 歷代志下 10-12
+      titleEn: 2 Chronicles.10-12
+      verseBG: 2 Chronicles.10-12
+      verseYV: 2CH.10
+    - titleCh: 詩篇 65
+      titleEn: Psalms 65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+  - index: 257
+    verses:
+    - titleCh: 歷代志下 13
+      titleEn: 2 Chronicles.13
+      verseBG: 2 Chronicles.13
+      verseYV: 2CH.13
+    - titleCh: 詩篇 66
+      titleEn: Psalms 66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+  - index: 258
+    verses:
+    - titleCh: 歷代志下 14-16
+      titleEn: 2 Chronicles.14-16
+      verseBG: 2 Chronicles.14-16
+      verseYV: 2CH.14
+    - titleCh: 詩篇 67
+      titleEn: Psalms 67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+  - index: 259
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 68
+      titleEn: Psalms 68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+  - index: 260
+    verses:
+    - titleCh: 歷代志下 17-18
+      titleEn: 2 Chronicles.17-18
+      verseBG: 2 Chronicles.17-18
+      verseYV: 2CH.17
+    - titleCh: 詩篇 69
+      titleEn: Psalms 69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+  - index: 261
+    verses:
+    - titleCh: 歷代志下 19-20
+      titleEn: 2 Chronicles.19-20
+      verseBG: 2 Chronicles.19-20
+      verseYV: 2CH.19
+    - titleCh: 詩篇 70
+      titleEn: Psalms 70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+  - index: 262
+    verses:
+    - titleCh: 歷代志下 21-22
+      titleEn: 2 Chronicles.21-22
+      verseBG: 2 Chronicles.21-22
+      verseYV: 2CH.21
+    - titleCh: 詩篇 71
+      titleEn: Psalms 71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+  - index: 263
+    verses:
+    - titleCh: 歷代志下 23-24
+      titleEn: 2 Chronicles.23-24
+      verseBG: 2 Chronicles.23-24
+      verseYV: 2CH.23
+    - titleCh: 詩篇 72
+      titleEn: Psalms 72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+  - index: 264
+    verses:
+    - titleCh: 歷代志下 25-26
+      titleEn: 2 Chronicles.25-26
+      verseBG: 2 Chronicles.25-26
+      verseYV: 2CH.25
+    - titleCh: 詩篇 73
+      titleEn: Psalms 73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+  - index: 265
+    verses:
+    - titleCh: 歷代志下 27-28
+      titleEn: 2 Chronicles.27-28
+      verseBG: 2 Chronicles.27-28
+      verseYV: 2CH.27
+    - titleCh: 詩篇 74
+      titleEn: Psalms 74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+  - index: 266
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 75
+      titleEn: Psalms 75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+  - index: 267
+    verses:
+    - titleCh: 歷代志下 29-30
+      titleEn: 2 Chronicles.29-30
+      verseBG: 2 Chronicles.29-30
+      verseYV: 2CH.29
+    - titleCh: 詩篇 76
+      titleEn: Psalms 76
+      verseBG: Psalms.76
+      verseYV: PSA.76
+  - index: 268
+    verses:
+    - titleCh: 歷代志下 31-32
+      titleEn: 2 Chronicles.31-32
+      verseBG: 2 Chronicles.31-32
+      verseYV: 2CH.31
+    - titleCh: 詩篇 77
+      titleEn: Psalms 77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+  - index: 269
+    verses:
+    - titleCh: 歷代志下 33-34
+      titleEn: 2 Chronicles.33-34
+      verseBG: 2 Chronicles.33-34
+      verseYV: 2CH.33
+    - titleCh: 詩篇 78
+      titleEn: Psalms 78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+  - index: 270
+    verses:
+    - titleCh: 歷代志下 35-36
+      titleEn: 2 Chronicles.35-36
+      verseBG: 2 Chronicles.35-36
+      verseYV: 2CH.35
+    - titleCh: 詩篇 79
+      titleEn: Psalms 79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+  - index: 271
+    verses:
+    - titleCh: 以斯拉記 1-2
+      titleEn: Ezra.1-2
+      verseBG: Ezra.1-2
+      verseYV: EZR.1
+    - titleCh: 詩篇 80
+      titleEn: Psalms 80
+      verseBG: Psalms.80
+      verseYV: PSA.80
+  - index: 272
+    verses:
+    - titleCh: 以斯拉記 3-4
+      titleEn: Ezra.3-4
+      verseBG: Ezra.3-4
+      verseYV: EZR.3
+    - titleCh: 詩篇 81
+      titleEn: Psalms 81
+      verseBG: Psalms.81
+      verseYV: PSA.81
+  - index: 273
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 82
+      titleEn: Psalms 82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+  - index: 274
+    verses:
+    - titleCh: 以斯拉記 5-6
+      titleEn: Ezra.5-6
+      verseBG: Ezra.5-6
+      verseYV: EZR.5
+    - titleCh: 詩篇 83
+      titleEn: Psalms 83
+      verseBG: Psalms.83
+      verseYV: PSA.83
 ---
