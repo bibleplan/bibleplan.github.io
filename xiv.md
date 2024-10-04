@@ -1,1 +1,1 @@
-week40.txt,https://drive.google.com/u/0/uc?id=1wGucnmD-TAZnwDYgnO03pSAUGdJG90qS&export=download,2024-10-02T18:08:58.095Z
+week41.txt,https://drive.google.com/u/0/uc?id=1K7380xw8EqIgBO0BYneSlgyGarbwBlTU&export=download,2024-10-04T19:10:06.000Z
