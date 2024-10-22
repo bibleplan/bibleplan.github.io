@@ -3,7 +3,7 @@ layout: post
 ---
 <!--[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule2024.html)-->
 
-# 聖經各書卷 (不含智慧書)
+# 聖經各書卷
 <details><summary style="text-decoration: underline; color: #1E6BB8;">創世記</summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/2024/wk1-day1-daily.html">開天闢地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
@@ -2235,6 +2235,84 @@ layout: post
    <li>末底改囑咐猶大人每年守亞達月十四、十五兩日，為脫離仇敵得平安，轉憂為喜，轉悲為樂的吉日。在這兩日設筵歡樂，彼此饋送禮物，賙濟窮人。</li>
    <li>猶大人末底改做亞哈隨魯王的宰相，在猶大人中為大，得他眾弟兄的喜悅，為本族的人求好處，向他們說和平的話。</li>
   </ul>
+ </details>
+</details>
+
+<details><summary style="text-decoration: underline; color: #1E6BB8;">約伯記</summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 1-2&qs_version=CUVMPT">約伯記 1-2</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day1-daily.html">善人約伯</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 3&qs_version=CUVMPT">約伯記 3</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day2-daily.html">生不如死</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 4-7&qs_version=CUVMPT">約伯記 4-7</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day3-daily.html">報應管教</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 8-10&qs_version=CUVMPT">約伯記 8-10</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day4-daily.html">善惡公正</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 11-12&qs_version=CUVMPT">約伯記 11-12</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day5-daily.html">責備罪惡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 13-14&qs_version=CUVMPT">約伯記 13-14</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day6-daily.html">無用醫生</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 15-17&qs_version=CUVMPT">約伯記 15-17</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day1-daily.html">約伯被責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 18-19&qs_version=CUVMPT">約伯記 18-19</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day2-daily.html">惡人禍患</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 20-21&qs_version=CUVMPT">約伯記 20-21</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day3-daily.html">報應遲到</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 22-24&qs_version=CUVMPT">約伯記 22-24</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day4-daily.html">申辯冤屈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 25-26&qs_version=CUVMPT">約伯記 25-26</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day5-daily.html">不能稱義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 27-28&qs_version=CUVMPT">約伯記 27-28</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day6-daily.html">智慧何尋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 29-31&qs_version=CUVMPT">約伯記 29-31</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day1-daily.html">約伯自述</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 32-34&qs_version=CUVMPT">約伯記 32-34</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day2-daily.html">懲治之因</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 35-37&qs_version=CUVMPT">約伯記 35-37</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day3-daily.html">榮耀歸神</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+   <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 38.1-40.5&qs_version=CUVMPT">約伯記 38.1-40.5</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day4-daily.html">誰造天地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 40.6-42.17&qs_version=CUVMPT">約伯記 40.6-42.17</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day5-daily.html">認罪自責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details> 
+</details>
+
+<details><summary style="text-decoration: underline; color: #1E6BB8;">傳道書</summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 1-4&qs_version=CUVMPT">傳道書 1-4</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day6-daily.html">都是虛空</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 5-8&qs_version=CUVMPT">傳道書 5-8</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day1-daily.html">智慧何尋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 9-12&qs_version=CUVMPT">傳道書 9-12</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day2-daily.html">敬畏謹守</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+</details>
+
+<details><summary style="text-decoration: underline; color: #1E6BB8;">雅歌</summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 1.1-3.5&qs_version=CUVMPT">雅歌 1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day3-daily.html">相愛相屬</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 3.6-6.3&qs_version=CUVMPT">雅歌 3.6-6.3</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day4-daily.html">佳偶良人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 6.4-8.14&qs_version=CUVMPT">雅歌 6.4-8.14</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day5-daily.html">愛之堅強</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
  </details>
 </details>
 
