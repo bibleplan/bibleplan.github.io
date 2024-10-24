@@ -2240,79 +2240,216 @@ layout: post
 
 <details><summary style="text-decoration: underline; color: #1E6BB8;">約伯記</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 1-2&qs_version=CUVMPT">約伯記 1-2</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day1-daily.html">善人約伯</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 1-2&qs_version=CUVMPT">約伯記 1-2</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day1-daily.html">善人約伯</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>本段經文為約伯記其後的對話說明場景。</li>
+   <li>烏斯人約伯完全、正直，敬畏神，遠離惡事。</li>
+   <li>約伯常常按著兒子的數目獻燔祭。</li>
+   <li>撒旦說約伯敬畏神是因為神的祝福。</li>
+   <li>約伯失去牲畜、群羊、駱駝、兒女，卻並不犯罪，也不以神為愚妄。</li>
+   <li>撒旦再次擊打約伯，使他從腳掌到頭頂長毒瘡。妻子勸他棄掉神，但約伯卻不犯罪。</li>
+   <li>約伯的三個朋友以利法、比勒達、瑣法，為約伯悲傷，安慰他。</li>
+  </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 3&qs_version=CUVMPT">約伯記 3</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day2-daily.html">生不如死</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 3&qs_version=CUVMPT">約伯記 3</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day2-daily.html">生不如死</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>約伯對他出生的白天和黑夜都進行了詛咒。</li>
+   <li>哀嘆生不如死，痛苦哎哼。</li>
+  </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 4-7&qs_version=CUVMPT">約伯記 4-7</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day3-daily.html">報應管教</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 4-7&qs_version=CUVMPT">約伯記 4-7</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day3-daily.html">報應管教</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>`4-14章`是第一段對話，三個朋友輪流發言，並依次聽取約伯的回應。</li>
+   <li>第一個朋友以利法的話最長，後面的朋友越來越短；而約伯的回答越來越長。</li>
+   <li>以利法說神的報應是肯定的，因爲在神面前沒有人是無辜的；約伯的苦難是神的管教，需要看到神的祝福。</li>
+   <li>約伯的回應是爲他開頭的哀歌辯護，指責他的朋友們沒有給他安慰，並辨明他的清白，最後直接向神呼求他的朋友們所不能給他的安慰。</li>
+  </ul>
  </details>
   <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 8-10&qs_version=CUVMPT">約伯記 8-10</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day4-daily.html">善惡公正</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 8-10&qs_version=CUVMPT">約伯記 8-10</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day4-daily.html">善惡公正</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+    <ul>
+   <li>比勒達繼續以利法的立場，認爲上帝是公正的，因此苦難是對錯誤行爲的懲罰。</li>
+   <li>比勒達依據傳統的教導和自然規律：神必不丟棄完全人，也不扶助邪惡人。</li>
+   <li>約伯認為沒有人在神面前可以稱為義，所有朋友們的話沒有幫助，</li>
+   <li>約伯以把自己的案子提交給神而苦惱，因爲他不確定結果，而大發悲嘆。</li>
+  </ul>
  </details>
   <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 11-12&qs_version=CUVMPT">約伯記 11-12</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day5-daily.html">責備罪惡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 11-12&qs_version=CUVMPT">約伯記 11-12</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day5-daily.html">責備罪惡</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>瑣法責備約伯自義，說明神的饒恕，勸約伯遠離罪惡。</li>
+   <li>約伯自言自己的智慧不亞於這些朋友，申言神的智慧能力。</li>
+  </ul>
  </details>
   <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 13-14&qs_version=CUVMPT">約伯記 13-14</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day6-daily.html">無用醫生</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 13-14&qs_version=CUVMPT">約伯記 13-14</a> - <a href="https://bibleplan.github.io/daily/2024/wk43-day6-daily.html">無用醫生</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>約伯責備朋友是編造謊言的，都是無用的醫生；</li>
+   <li>約伯寧願在上帝面前呈上自己的案子，因為這他唯一的希望。</li>
+  </ul>
  </details>
   <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 15-17&qs_version=CUVMPT">約伯記 15-17</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day1-daily.html">約伯被責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 15-17&qs_version=CUVMPT">約伯記 15-17</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day1-daily.html">約伯被責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>以利法責備約伯妄言自己的義，廢棄敬畏，在神面前阻止敬虔的心。</li>
+   <li>以利法說明惡人的痛苦，處世不離驚惶。</li>
+   <li>約伯反駁朋友，說他們的慰藉反增苦惱，安慰反叫人愁煩。</li>
+   <li>約伯的憂愁不得消解，向神哀訴。</li>
+  </ul>
  </details>
   <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 18-19&qs_version=CUVMPT">約伯記 18-19</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day2-daily.html">惡人禍患</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 18-19&qs_version=CUVMPT">約伯記 18-19</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day2-daily.html">惡人禍患</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>比勒達責備約伯尋索言語，並指出惡人之禍患。</li>
+   <li>約伯反駁他的朋友們攪擾他的心，用言語壓碎他。</li>
+   <li>約伯深信終得救恩，知道他的救贖主活著，末了必站立在地上。</li>
+  </ul>
  </details>
   <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 20-21&qs_version=CUVMPT">約伯記 20-21</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day3-daily.html">報應遲到</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 20-21&qs_version=CUVMPT">約伯記 20-21</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day3-daily.html">報應遲到</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>瑣法重複作惡者暫時興盛但終必滅亡的觀點。</li>
+   <li>約伯陳述惡人藐視神，反而得享安康的事實，質疑他的朋友們對神會迅速報應惡人的堅持。</li>
+  </ul>
  </details>
   <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 22-24&qs_version=CUVMPT">約伯記 22-24</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day4-daily.html">申辯冤屈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 22-24&qs_version=CUVMPT">約伯記 22-24</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day4-daily.html">申辯冤屈</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>以利法不容辯駁地歷指約伯的罪，並勸他悔改認識神而得平安。</li>
+   <li>約伯再次表明在神的面前申辯冤屈的願望，自言僅守主的道並不偏離。</li>
+   <li>約伯感歎善人與惡人死亡無異。</li>
+  </ul>
  </details>
   <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 25-26&qs_version=CUVMPT">約伯記 25-26</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day5-daily.html">不能稱義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 25-26&qs_version=CUVMPT">約伯記 25-26</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day5-daily.html">不能稱義</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>比勒達說在神面前人不能稱義。</li>
+   <li>約伯同意神的威嚴，但訕笑比勒達的結論。</li>
+  </ul>
  </details>
   <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 27-28&qs_version=CUVMPT">約伯記 27-28</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day6-daily.html">智慧何尋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 27-28&qs_version=CUVMPT">約伯記 27-28</a> - <a href="https://bibleplan.github.io/daily/2024/wk44-day6-daily.html">智慧何尋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>約伯不說非義之言，不說詭詐之語，至死必不以自己為不正，持定自己的義，必不放鬆。</li>
+   <li>約伯說他的朋友已經成爲他的敵人，並提醒他們惡人的命運。</li>
+   <li>提出一個問題：萬物可尋，然而，智慧有何處可尋？</li>
+   <li>神明白智慧的道路，曉得智慧的所在。</li>
+  </ul>
  </details>
   <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 29-31&qs_version=CUVMPT">約伯記 29-31</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day1-daily.html">約伯自述</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 29-31&qs_version=CUVMPT">約伯記 29-31</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day1-daily.html">約伯自述</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>約伯在神的面前自述過去的榮譽和祝福，然後指出現在的不幸和痛苦。</li>
+   <li>約伯也列出自己雖然遭受困苦，但在真理上的持守正直。</li>
+   <li>代表神關心的人--寡婦和孤兒--做了總結，和最後的呼籲。</li>
+  </ul>
  </details>
   <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 32-34&qs_version=CUVMPT">約伯記 32-34</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day2-daily.html">懲治之因</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 32-34&qs_version=CUVMPT">約伯記 32-34</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day2-daily.html">懲治之因</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>以利戶向約伯發怒，因為約伯自以為義，也向約伯的其他三個朋友發怒。</li>
+   <li>以利戶陳述自己的意思，因自己年輕，希望以誠實來折服約伯</li>
+   <li>以利戶認為約伯不應該抗議他的清白，因為神懲治人，是為了救他的生命。</li>
+   <li>以利戶責備約伯自義，向神煩言。</li>
+  </ul>
  </details>
   <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 35-37&qs_version=CUVMPT">約伯記 35-37</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day3-daily.html">榮耀歸神</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 35-37&qs_version=CUVMPT">約伯記 35-37</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day3-daily.html">榮耀歸神</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>以利戶指出約伯的無罪上訴是沒有用的。</li>
+   <li>以利戶述說神的威能奇妙，勸約伯歸榮耀給神。</li>
+  </ul>
  </details>
    <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 38.1-40.5&qs_version=CUVMPT">約伯記 38.1-40.5</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day4-daily.html">誰造天地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 38.1-40.5&qs_version=CUVMPT">約伯記 38.1-40.5</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day4-daily.html">誰造天地</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>耶和華詢問智慧的基本問題：誰用無知的言語，使我的旨意暗昧不明？</li>
+   <li>其餘的是一串關于創造的問題，旨在給約伯提供視角：這一切創造的時候你在哪裡？</li>
+   <li>最後，約伯以自卑和沉默作爲回應。</li>
+  </ul>
  </details>
   <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 40.6-42.17&qs_version=CUVMPT">約伯記 40.6-42.17</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day5-daily.html">認罪自責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約伯記 40.6-42.17&qs_version=CUVMPT">約伯記 40.6-42.17</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day5-daily.html">認罪自責</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>耶和華責問約伯不可廢棄他所擬定的，也說明他的萬能是人難仰望的。</li>
+   <li>約伯認罪自責。從前風聞有神，現在親眼看見神。所以在塵土和爐灰中懊悔。</li>
+   <li>耶和華的怒氣向約伯的三個朋友發作，因為他們議論神，不如約伯說的是。</li>
+   <li>約伯為他的朋友祈禱，耶和華就使約伯從苦境轉回，並且賜給他加倍。</li>
+  </ul>
  </details> 
 </details>
 
 <details><summary style="text-decoration: underline; color: #1E6BB8;">傳道書</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 1-4&qs_version=CUVMPT">傳道書 1-4</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day6-daily.html">都是虛空</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 1-4&qs_version=CUVMPT">傳道書 1-4</a> - <a href="https://bibleplan.github.io/daily/2024/wk45-day6-daily.html">都是虛空</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>傳道者說凡事都是虛空；人一切的勞碌都無益處，因為已有的事後必再有，已行的事後必再行，日光之下並無新事。日光之下的一切事都是虛空，都是捕風。</li>
+   <li>喜樂是虛空；人手所經營的一切事和勞碌所成的功也是虛空；智慧人和愚昧人一樣，享福和勞苦也是虛空。</li>
+   <li>凡事都有定期，天下萬務都有定時。然而神從始至終的作為，人不能參透。</li>
+   <li>世人都有一死，因此一切都是虛空。</li>
+   <li>一切欺壓、勞碌、靈巧、嫉妒、治理、國權，都是虛空。</li>
+  </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 5-8&qs_version=CUVMPT">傳道書 5-8</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day1-daily.html">智慧何尋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 5-8&qs_version=CUVMPT">傳道書 5-8</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day1-daily.html">智慧何尋</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>到神的殿要謹慎腳步，在神面前不可冒失開口。</li>
+   <li>人在神賜他一生的日子吃喝享受，這乃是神的恩賜。</li>
+   <li>人蒙神賜他資財、豐富、尊榮，是虛空，也是禍患。</li>
+   <li>聽智慧人的責備，強如聽愚昧人的歌唱。</li>
+   <li>事情的終局強如事情的起頭，存心忍耐的勝過居心驕傲的。</li>
+   <li>唯獨智慧能保全智慧人的生命，這就是知識的益處。</li>
+   <li>我說要得智慧，智慧卻離我遠。萬事之理離我甚遠，而且最深，誰能測透呢？</li>
+   <li>遵守王的命令，不要固執行惡。</li>
+   <li>敬畏神的終久必得福樂。惡人卻不得福樂，因他不敬畏神。</li>
+  </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 9-12&qs_version=CUVMPT">傳道書 9-12</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day2-daily.html">敬畏謹守</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=傳道書 9-12&qs_version=CUVMPT">傳道書 9-12</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day2-daily.html">敬畏謹守</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>義人和智慧人並他們的作為，都在神手中。</li>
+   <li>凡臨到眾人的死亡都是一樣：義人和惡人，潔淨人和不潔淨人。</li>
+   <li>快跑的未必能贏，力戰的未必得勝，智慧的未必得糧食，明哲的未必得資財，靈巧的未必得喜悅，所臨到眾人的，是在乎當時的機會。</li>
+   <li>智慧勝過勇力，但人的智慧被人藐視，無人聽從。</li>
+   <li>一點愚昧也能敗壞智慧和尊榮。</li>
+   <li>智慧人的口說出恩言，愚昧人的嘴吞滅自己。</li>
+   <li>趁著年幼，衰敗的日子尚未來到，記念造你的主。</li>
+   <li>敬畏神，謹守他的誡命，這是人所當盡的本分。</li>
+  </ul>
  </details>
 </details>
 
 <details><summary style="text-decoration: underline; color: #1E6BB8;">雅歌</summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 1.1-3.5&qs_version=CUVMPT">雅歌 1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day3-daily.html">相愛相屬</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 1.1-3.5&qs_version=CUVMPT">雅歌 1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day3-daily.html">相愛相屬</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>女子對愛人的渴望和喜悅，愛情比酒更美，佳偶甚美麗。</li>
+   <li>新郎新婦相愛，彼此交流，思愛成病，卻願意讓愛順其自然。</li>
+   <li>愛情的完全相屬和專一的忠貞，良人屬我，我也屬他；他在百合花中牧放群羊。</li>
+   <li>女子夜間躺臥在床上，可能是在夢中尋找她心所愛的人。尋找他，卻尋不見。</li>
+  </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 3.6-6.3&qs_version=CUVMPT">雅歌 3.6-6.3</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day4-daily.html">佳偶良人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 3.6-6.3&qs_version=CUVMPT">雅歌 3.6-6.3</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day4-daily.html">佳偶良人</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>所羅門王的財富、權力、富足的描寫仿佛是與純潔愛情的對照。</li>
+   <li>新郎讚美新婦，稱她為佳偶，且甚美麗！</li>
+   <li>新郎稱女子為妹子，比喻為關鎖的園，禁閉的井，封閉的泉源，園內種滿佳美果子。</li>
+   <li>新婦在睡夢中再次聽到良人的聲音，仿佛因思愛成病。</li>
+   <li>新婦稱譽新郎是我的良人，白而且紅，超乎萬人之上。</li>
+  </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 6.4-8.14&qs_version=CUVMPT">雅歌 6.4-8.14</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day5-daily.html">愛之堅強</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> </span></span></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅歌 6.4-8.14&qs_version=CUVMPT">雅歌 6.4-8.14</a> - <a href="https://bibleplan.github.io/daily/2024/wk46-day5-daily.html">愛之堅強</a> <span style="text-decoration: underline; color: #1E6BB8;"> <span style="text-decoration: underline; color: #1E6BB8;"> (展開)</span></span></summary>
+  <ul>
+   <li>新郎讚美佳偶美麗如得撒，秀美如耶路撒冷，威武如展開旌旗的軍隊。</li>
+   <li>新婦邀請新郎同往田間，在村莊住宿，同適葡萄園。</li>
+   <li>新婦切愛新郎，巴不得像自己的兄弟，可以彼此相近。</li>
+   <li>求你將我放在你心上如印記，戴在你臂上如戳記。</li>
+   <li>愛情如死之堅強，嫉恨如陰間之殘忍，所發的電光是火焰的電光，是耶和華的烈焰。</li>
+  </ul>
  </details>
 </details>
 
