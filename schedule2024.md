@@ -3791,4 +3791,314 @@ plan:
       titleEn: Proverbs 15
       verseBG: Proverbs.15
       verseYV: PRO.15
+  - index: 367
+    verses:
+    - titleCh: 耶利米書 3.6-4.4
+      titleEn: Jeremiah.3.6-4.4
+      verseBG: Jeremiah.3.6-4.4
+      verseYV: JER.3
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+  - index: 368
+    verses:
+    - titleCh: 耶利米書 4.5-5.31
+      titleEn: Jeremiah.4.5-5.31
+      verseBG: Jeremiah.4.5-5.31
+      verseYV: JER.4
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+  - index: 369
+    verses:
+    - titleCh: 耶利米書 6
+      titleEn: Jeremiah.6
+      verseBG: Jeremiah.6
+      verseYV: JER.6
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
+  - index: 370
+    verses:
+    - titleCh: 耶利米書 7.1-8.17
+      titleEn: Jeremiah.7.1-8.17
+      verseBG: Jeremiah.7.1-8.17
+      verseYV: JER.7
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
+  - index: 371
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
+  - index: 372
+    verses:
+    - titleCh: 耶利米書 8.18-10.25
+      titleEn: Jeremiah.8.18-10.25
+      verseBG: Jeremiah.8.18-10.25
+      verseYV: JER.8
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
+  - index: 373
+    verses:
+    - titleCh: 耶利米書 11-12
+      titleEn: Jeremiah.11-12
+      verseBG: Jeremiah.11-12
+      verseYV: JER.11
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
+  - index: 374
+    verses:
+    - titleCh: 耶利米書 13
+      titleEn: Jeremiah.13
+      verseBG: Jeremiah.13
+      verseYV: JER.13
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
+  - index: 375
+    verses:
+    - titleCh: 耶利米書 14-15
+      titleEn: Jeremiah.14-15
+      verseBG: Jeremiah.14-15
+      verseYV: JER.14
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
+  - index: 376
+    verses:
+    - titleCh: 耶利米書 16-17
+      titleEn: Jeremiah.16-17
+      verseBG: Jeremiah.16-17
+      verseYV: JER.16
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
+  - index: 377
+    verses:
+    - titleCh: 耶利米書 18-19
+      titleEn: Jeremiah.18-19
+      verseBG: Jeremiah.18-19
+      verseYV: JER.18
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
+  - index: 378
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Proverbs.27
+      verseYV: PRO.27
+  - index: 379
+    verses:
+    - titleCh: 耶利米書 20
+      titleEn: Jeremiah.20
+      verseBG: Jeremiah.20
+      verseYV: JER.20
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
+  - index: 380
+    verses:
+    - titleCh: 耶利米書 21-22
+      titleEn: Jeremiah.21-22
+      verseBG: Jeremiah.21-22
+      verseYV: JER.21
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
+  - index: 381
+    verses:
+    - titleCh: 耶利米書 23-24
+      titleEn: Jeremiah.23-24
+      verseBG: Jeremiah.23-24
+      verseYV: JER.23
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
+  - index: 382
+    verses:
+    - titleCh: 耶利米書 25
+      titleEn: Jeremiah.25
+      verseBG: Jeremiah.25
+      verseYV: JER.25
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
+  - index: 383
+    verses:
+    - titleCh: 耶利米書 26
+      titleEn: Jeremiah.26
+      verseBG: Jeremiah.26
+      verseYV: JER.26
+    - titleCh: 詩篇 1
+      titleEn: Psalms 1
+      verseBG: Psalms.1
+      verseYV: PSA.1
+  - index: 384
+    verses:
+    - titleCh: 耶利米書 27-28
+      titleEn: Jeremiah.27-28
+      verseBG: Jeremiah.27-28
+      verseYV: JER.27
+    - titleCh: 詩篇 2
+      titleEn: Psalms 2
+      verseBG: Psalms.2
+      verseYV: PSA.2
+  - index: 385
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 3
+      titleEn: Psalms 3
+      verseBG: Psalms.3
+      verseYV: PSA.3
+  - index: 386
+    verses:
+    - titleCh: 耶利米書 29
+      titleEn: Jeremiah.29
+      verseBG: Jeremiah.29
+      verseYV: JER.29
+    - titleCh: 詩篇 4
+      titleEn: Psalms 4
+      verseBG: Psalms.4
+      verseYV: PSA.4
+  - index: 387
+    verses:
+    - titleCh: 耶利米書 30-31
+      titleEn: Jeremiah.30-31
+      verseBG: Jeremiah.30-31
+      verseYV: JER.30
+    - titleCh: 詩篇 5
+      titleEn: Psalms 5
+      verseBG: Psalms.5
+      verseYV: PSA.5
+  - index: 388
+    verses:
+    - titleCh: 耶利米書 32-33
+      titleEn: Jeremiah.32-33
+      verseBG: Jeremiah.32-33
+      verseYV: JER.32
+    - titleCh: 詩篇 6
+      titleEn: Psalms 6
+      verseBG: Psalms.6
+      verseYV: PSA.6
+  - index: 389
+    verses:
+    - titleCh: 耶利米書 34-35
+      titleEn: Jeremiah.34-35
+      verseBG: Jeremiah.34-35
+      verseYV: JER.34
+    - titleCh: 詩篇 7
+      titleEn: Psalms 7
+      verseBG: Psalms.7
+      verseYV: PSA.7
+  - index: 390
+    verses:
+    - titleCh: 耶利米書 36
+      titleEn: Jeremiah.36
+      verseBG: Jeremiah.36
+      verseYV: JER.36
+    - titleCh: 詩篇 8
+      titleEn: Psalms 8
+      verseBG: Psalms.8
+      verseYV: PSA.8
+  - index: 391
+    verses:
+    - titleCh: 耶利米書 37-38
+      titleEn: Jeremiah.37-38
+      verseBG: Jeremiah.37-38
+      verseYV: JER.37
+    - titleCh: 詩篇 9
+      titleEn: Psalms 9
+      verseBG: Psalms.9
+      verseYV: PSA.9
+  - index: 392
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 10
+      titleEn: Psalms 10
+      verseBG: Psalms.10
+      verseYV: PSA.10
+  - index: 393
+    verses:
+    - titleCh: 耶利米書 39.1-41.15
+      titleEn: Jeremiah.39.1-41.15
+      verseBG: Jeremiah.39.1-41.15
+      verseYV: JER.39
+    - titleCh: 詩篇 11
+      titleEn: Psalms 11
+      verseBG: Psalms.11
+      verseYV: PSA.11
+  - index: 394
+    verses:
+    - titleCh: 耶利米書 41.16-43.13
+      titleEn: Jeremiah.41.16-43.13
+      verseBG: Jeremiah.41.16-43.13
+      verseYV: JER.41
+    - titleCh: 詩篇 12
+      titleEn: Psalms 12
+      verseBG: Psalms.12
+      verseYV: PSA.12
+  - index: 395
+    verses:
+    - titleCh: 耶利米書 44-45
+      titleEn: Jeremiah.44-45
+      verseBG: Jeremiah.44-45
+      verseYV: JER.44
+    - titleCh: 詩篇 13
+      titleEn: Psalms 13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+  - index: 396
+    verses:
+    - titleCh: 耶利米書 46
+      titleEn: Jeremiah.46
+      verseBG: Jeremiah.46
+      verseYV: JER.46
+    - titleCh: 詩篇 14
+      titleEn: Psalms 14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+  - index: 397
+    verses:
+    - titleCh: 耶利米書 47-48
+      titleEn: Jeremiah.47-48
+      verseBG: Jeremiah.47-48
+      verseYV: JER.47
+    - titleCh: 詩篇 15
+      titleEn: Psalms 15
+      verseBG: Psalms.15
+      verseYV: PSA.15
 ---
