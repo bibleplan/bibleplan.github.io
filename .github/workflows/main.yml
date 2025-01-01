@@ -80,6 +80,7 @@ jobs:
               days_to_add=$((row_number/4+1))
               DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
               DAY_OF_YEAR=${DAY_OF_YEAR#"${DAY_OF_YEAR%%[!0]*}"}
+              DAY_OF_YEAR25=$((DAY_OF_YEAR+366))
               m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               
               row=$(awk "NR == $row_number" "$filename")
@@ -94,7 +95,7 @@ jobs:
                   cp template/quanli_template _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
                   sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
                   sed_cmp_s "DAYNUMPLACEHOLDER" "$days_to_add" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
-                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR25" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
                   sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
                   sed_cmp "QLTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   ;;
