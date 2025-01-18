@@ -104,7 +104,7 @@ jobs:
                   sed_cmp "QLRECITEVERSE" "$reciterow" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   sed_cmp "QLVERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
 
-                  sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-qianli.md"
+                  sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md"
                   sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
                   sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"                  
                   ;;
