@@ -71,9 +71,7 @@ jobs:
             sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
             
             sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
-            sed_cmp_s "DAYNUMPLACEHOLDER" "$days_to_add" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
-            sed_cmp_s "QLDAY" "$DAY_OF_YEAR25" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
-            sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
+            sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
 
             for (( row_number=1; row_number<=total_lines+1; row_number++ )); do
               echo "running ${row_number} out of ${total_lines}"
@@ -81,7 +79,6 @@ jobs:
               if [ $((row_number % 4)) -eq 0 ]; then
                 continue
               fi
-              
               
               days_to_add=$((row_number/4+1))
               DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
@@ -121,7 +118,8 @@ jobs:
               else #Sunday contents
                 case $((row_number % 4)) in
                 1) 
-                  echo $m_date  
+                  echo $m_date
+                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR25" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
                   
                   sed_cmp "QLREVIEWTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
                   sed_cmp "QLREVIEWTITLE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
