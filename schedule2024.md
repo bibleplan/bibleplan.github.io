@@ -4381,4 +4381,3014 @@ plan:
       titleEn: Psalms 43
       verseBG: Psalms.43
       verseYV: PSA.43
+  - index: 426
+    verses:
+    - titleCh: 以西結書 25
+      titleEn: Ezekiel.25
+      verseBG: Ezekiel.25
+      verseYV: EZK.25
+    - titleCh: 詩篇 44
+      titleEn: Psalms.44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+  - index: 427
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 45
+      titleEn: Psalms.45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+  - index: 428
+    verses:
+    - titleCh: 以西結書 26-27
+      titleEn: Ezekiel.26-27
+      verseBG: Ezekiel.26-27
+      verseYV: EZK.26
+    - titleCh: 詩篇 46
+      titleEn: Psalms.46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+  - index: 429
+    verses:
+    - titleCh: 以西結書 28
+      titleEn: Ezekiel.28
+      verseBG: Ezekiel.28
+      verseYV: EZK.28
+    - titleCh: 詩篇 47
+      titleEn: Psalms.47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+  - index: 430
+    verses:
+    - titleCh: 以西結書 29-30
+      titleEn: Ezekiel.29-30
+      verseBG: Ezekiel.29-30
+      verseYV: EZK.29
+    - titleCh: 詩篇 48
+      titleEn: Psalms.48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+  - index: 431
+    verses:
+    - titleCh: 以西結書 31-32
+      titleEn: Ezekiel.31-32
+      verseBG: Ezekiel.31-32
+      verseYV: EZK.31
+    - titleCh: 詩篇 49
+      titleEn: Psalms.49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+  - index: 432
+    verses:
+    - titleCh: 以西結書 33
+      titleEn: Ezekiel.33
+      verseBG: Ezekiel.33
+      verseYV: EZK.33
+    - titleCh: 詩篇 50
+      titleEn: Psalms.50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+  - index: 433
+    verses:
+    - titleCh: 以西結書 34
+      titleEn: Ezekiel.34
+      verseBG: Ezekiel.34
+      verseYV: EZK.34
+    - titleCh: 詩篇 51
+      titleEn: Psalms.51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+  - index: 434
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 52
+      titleEn: Psalms.52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+  - index: 435
+    verses:
+    - titleCh: 以西結書 35.1-36.15
+      titleEn: Ezekiel.35.1-36.15
+      verseBG: Ezekiel.35.1-36.15
+      verseYV: EZK.35
+    - titleCh: 詩篇 53
+      titleEn: Psalms.53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+  - index: 436
+    verses:
+    - titleCh: 以西結書 36.16-37.28
+      titleEn: Ezekiel.36.16-37.28
+      verseBG: Ezekiel.36.16-37.28
+      verseYV: EZK.36
+    - titleCh: 詩篇 54
+      titleEn: Psalms.54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+  - index: 437
+    verses:
+    - titleCh: 以西結書 38-39
+      titleEn: Ezekiel.38-39
+      verseBG: Ezekiel.38-39
+      verseYV: EZK.38
+    - titleCh: 詩篇 55
+      titleEn: Psalms.55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+  - index: 438
+    verses:
+    - titleCh: 以西結書 40
+      titleEn: Ezekiel.40
+      verseBG: Ezekiel.40
+      verseYV: EZK.40
+    - titleCh: 詩篇 56
+      titleEn: Psalms.56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+  - index: 439
+    verses:
+    - titleCh: 以西結書 41-42
+      titleEn: Ezekiel.41-42
+      verseBG: Ezekiel.41-42
+      verseYV: EZK.41
+    - titleCh: 詩篇 57
+      titleEn: Psalms.57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+  - index: 440
+    verses:
+    - titleCh: 以西結書 43-44
+      titleEn: Ezekiel.43-44
+      verseBG: Ezekiel.43-44
+      verseYV: EZK.43
+    - titleCh: 詩篇 58
+      titleEn: Psalms.58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+  - index: 441
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 59
+      titleEn: Psalms.59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+  - index: 442
+    verses:
+    - titleCh: 以西結書 45-46
+      titleEn: Ezekiel.45-46
+      verseBG: Ezekiel.45-46
+      verseYV: EZK.45
+    - titleCh: 詩篇 60
+      titleEn: Psalms.60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+  - index: 443
+    verses:
+    - titleCh: 以西結書 47-48
+      titleEn: Ezekiel.47-48
+      verseBG: Ezekiel.47-48
+      verseYV: EZK.47
+    - titleCh: 詩篇 61
+      titleEn: Psalms.61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+  - index: 444
+    verses:
+    - titleCh: 但以理書 1
+      titleEn: Daniel.1
+      verseBG: Daniel.1
+      verseYV: DAN.1
+    - titleCh: 詩篇 62
+      titleEn: Psalms.62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+  - index: 445
+    verses:
+    - titleCh: 但以理書 2
+      titleEn: Daniel.2
+      verseBG: Daniel.2
+      verseYV: DAN.2
+    - titleCh: 詩篇 63
+      titleEn: Psalms.63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+  - index: 446
+    verses:
+    - titleCh: 但以理書 3
+      titleEn: Daniel.3
+      verseBG: Daniel.3
+      verseYV: DAN.3
+    - titleCh: 詩篇 64
+      titleEn: Psalms.64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+  - index: 447
+    verses:
+    - titleCh: 但以理書 4
+      titleEn: Daniel.4
+      verseBG: Daniel.4
+      verseYV: DAN.4
+    - titleCh: 詩篇 65
+      titleEn: Psalms.65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+  - index: 448
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 66
+      titleEn: Psalms.66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+  - index: 449
+    verses:
+    - titleCh: 但以理書 5
+      titleEn: Daniel.5
+      verseBG: Daniel.5
+      verseYV: DAN.5
+    - titleCh: 詩篇 67
+      titleEn: Psalms.67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+  - index: 450
+    verses:
+    - titleCh: 但以理書 6
+      titleEn: Daniel.6
+      verseBG: Daniel.6
+      verseYV: DAN.6
+    - titleCh: 詩篇 68
+      titleEn: Psalms.68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+  - index: 451
+    verses:
+    - titleCh: 但以理書 7-9
+      titleEn: Daniel.7-9
+      verseBG: Daniel.7-9
+      verseYV: DAN.7
+    - titleCh: 詩篇 69
+      titleEn: Psalms.69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+  - index: 452
+    verses:
+    - titleCh: 但以理書 10.1-12.4
+      titleEn: Daniel.10.1-12.4
+      verseBG: Daniel.10.1-12.4
+      verseYV: DAN.10
+    - titleCh: 詩篇 70
+      titleEn: Psalms.70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+  - index: 453
+    verses:
+    - titleCh: 但以理書 12.5-13
+      titleEn: Daniel.12.5-13
+      verseBG: Daniel.12.5-13
+      verseYV: DAN.12
+    - titleCh: 詩篇 71
+      titleEn: Psalms.71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+  - index: 454
+    verses:
+    - titleCh: 何西阿書 1-2
+      titleEn: Hosea.1-2
+      verseBG: Hosea.1-2
+      verseYV: HOS.1
+    - titleCh: 詩篇 72
+      titleEn: Psalms.72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+  - index: 455
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 73
+      titleEn: Psalms.73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+  - index: 456
+    verses:
+    - titleCh: 何西阿書 3.1-5.7
+      titleEn: Hosea.3.1-5.7
+      verseBG: Hosea.3.1-5.7
+      verseYV: HOS.3
+    - titleCh: 詩篇 74
+      titleEn: Psalms.74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+  - index: 457
+    verses:
+    - titleCh: 何西阿書 5.8-7.16
+      titleEn: Hosea.5.8-7.16
+      verseBG: Hosea.5.8-7.16
+      verseYV: HOS.5
+    - titleCh: 詩篇 75
+      titleEn: Psalms.75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+  - index: 458
+    verses:
+    - titleCh: 何西阿書 8.1-9.9
+      titleEn: Hosea.8.1-9.9
+      verseBG: Hosea.8.1-9.9
+      verseYV: HOS.8
+    - titleCh: 詩篇 76
+      titleEn: Psalms.76
+      verseBG: Psalms.76
+      verseYV: PSA.76
+  - index: 459
+    verses:
+    - titleCh: 何西阿書 9.10-10.15
+      titleEn: Hosea.9.10-10.15
+      verseBG: Hosea.9.10-10.15
+      verseYV: HOS.9
+    - titleCh: 詩篇 77
+      titleEn: Psalms.77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+  - index: 460
+    verses:
+    - titleCh: 何西阿書 11.1-11
+      titleEn: Hosea.11.1-11
+      verseBG: Hosea.11.1-11
+      verseYV: HOS.11
+    - titleCh: 詩篇 78
+      titleEn: Psalms.78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+  - index: 461
+    verses:
+    - titleCh: 何西阿書 11.12-13.16
+      titleEn: Hosea.11.12-13.16
+      verseBG: Hosea.11.12-13.16
+      verseYV: HOS.11
+    - titleCh: 詩篇 79
+      titleEn: Psalms.79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+  - index: 462
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 80
+      titleEn: Psalms.80
+      verseBG: Psalms.80
+      verseYV: PSA.80
+  - index: 463
+    verses:
+    - titleCh: 何西阿書 14
+      titleEn: Hosea.14
+      verseBG: Hosea.14
+      verseYV: HOS.14
+    - titleCh: 詩篇 81
+      titleEn: Psalms.81
+      verseBG: Psalms.81
+      verseYV: PSA.81
+  - index: 464
+    verses:
+    - titleCh: 約珥書 1-2
+      titleEn: Joel.1-2
+      verseBG: Joel.1-2
+      verseYV: JOL.1
+    - titleCh: 詩篇 82
+      titleEn: Psalms.82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+  - index: 465
+    verses:
+    - titleCh: 約珥書 3
+      titleEn: Joel.3
+      verseBG: Joel.3
+      verseYV: JOL.3
+    - titleCh: 詩篇 83
+      titleEn: Psalms.83
+      verseBG: Psalms.83
+      verseYV: PSA.83
+  - index: 466
+    verses:
+    - titleCh: 阿摩司書 1-2
+      titleEn: Amos.1-2
+      verseBG: Amos.1-2
+      verseYV: AMO.1
+    - titleCh: 詩篇 84
+      titleEn: Psalms.84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+  - index: 467
+    verses:
+    - titleCh: 阿摩司書 3-4
+      titleEn: Amos.3-4
+      verseBG: Amos.3-4
+      verseYV: AMO.3
+    - titleCh: 詩篇 85
+      titleEn: Psalms.85
+      verseBG: Psalms.85
+      verseYV: PSA.85
+  - index: 468
+    verses:
+    - titleCh: 阿摩司書 5-6
+      titleEn: Amos.5-6
+      verseBG: Amos.5-6
+      verseYV: AMO.5
+    - titleCh: 詩篇 86
+      titleEn: Psalms.86
+      verseBG: Psalms.86
+      verseYV: PSA.86
+  - index: 469
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 87
+      titleEn: Psalms.87
+      verseBG: Psalms.87
+      verseYV: PSA.87
+  - index: 470
+    verses:
+    - titleCh: 阿摩司書 7
+      titleEn: Amos.7
+      verseBG: Amos.7
+      verseYV: AMO.7
+    - titleCh: 詩篇 88
+      titleEn: Psalms.88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+  - index: 471
+    verses:
+    - titleCh: 阿摩司書 8-9
+      titleEn: Amos.8-9
+      verseBG: Amos.8-9
+      verseYV: AMO.8
+    - titleCh: 詩篇 89
+      titleEn: Psalms.89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+  - index: 472
+    verses:
+    - titleCh: 俄巴底亞書 1
+      titleEn: Obadiah.1
+      verseBG: Obadiah.1
+      verseYV: OBA.1
+    - titleCh: 詩篇 90
+      titleEn: Psalms.90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+  - index: 473
+    verses:
+    - titleCh: 約拿書 1-4
+      titleEn: Jonah.1-4
+      verseBG: Jonah.1-4
+      verseYV: JON.1
+    - titleCh: 詩篇 91
+      titleEn: Psalms.91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+  - index: 474
+    verses:
+    - titleCh: 彌迦書 1-3
+      titleEn: Micah.1-3
+      verseBG: Micah.1-3
+      verseYV: MIC.1
+    - titleCh: 詩篇 92
+      titleEn: Psalms.92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+  - index: 475
+    verses:
+    - titleCh: 彌迦書 4-5
+      titleEn: Micah.4-5
+      verseBG: Micah.4-5
+      verseYV: MIC.4
+    - titleCh: 詩篇 93
+      titleEn: Psalms.93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+  - index: 476
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 94
+      titleEn: Psalms.94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+  - index: 477
+    verses:
+    - titleCh: 彌迦書 6-7
+      titleEn: Micah.6-7
+      verseBG: Micah.6-7
+      verseYV: MIC.6
+    - titleCh: 詩篇 95
+      titleEn: Psalms.95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+  - index: 478
+    verses:
+    - titleCh: 那鴻書 1-3
+      titleEn: Nahum.1-3
+      verseBG: Nahum.1-3
+      verseYV: NAM.1
+    - titleCh: 詩篇 96
+      titleEn: Psalms.96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+  - index: 479
+    verses:
+    - titleCh: 哈巴古書 1-3
+      titleEn: 哈巴古書.1-3
+      verseBG: 哈巴古書.1-3
+      verseYV: 哈巴古書.1
+    - titleCh: 詩篇 97
+      titleEn: Psalms.97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+  - index: 480
+    verses:
+    - titleCh: 西番雅書 1
+      titleEn: Zephaniah.1
+      verseBG: Zephaniah.1
+      verseYV: ZEP.1
+    - titleCh: 詩篇 98
+      titleEn: Psalms.98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+  - index: 481
+    verses:
+    - titleCh: 西番雅書 2-3
+      titleEn: Zephaniah.2-3
+      verseBG: Zephaniah.2-3
+      verseYV: ZEP.2
+    - titleCh: 詩篇 99
+      titleEn: Psalms.99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+  - index: 482
+    verses:
+    - titleCh: 哈該書 1-2
+      titleEn: Haggai.1-2
+      verseBG: Haggai.1-2
+      verseYV: HAG.1
+    - titleCh: 詩篇 100
+      titleEn: Psalms.100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+  - index: 483
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 101
+      titleEn: Psalms.101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+  - index: 484
+    verses:
+    - titleCh: 撒加利亞書 1-2
+      titleEn: Zechariah.1-2
+      verseBG: Zechariah.1-2
+      verseYV: ZEC.1
+    - titleCh: 詩篇 102
+      titleEn: Psalms.102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+  - index: 485
+    verses:
+    - titleCh: 撒加利亞書 3-6
+      titleEn: Zechariah.3-6
+      verseBG: Zechariah.3-6
+      verseYV: ZEC.3
+    - titleCh: 詩篇 103
+      titleEn: Psalms.103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+  - index: 486
+    verses:
+    - titleCh: 撒加利亞書 7-8
+      titleEn: Zechariah.7-8
+      verseBG: Zechariah.7-8
+      verseYV: ZEC.7
+    - titleCh: 詩篇 104
+      titleEn: Psalms.104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+  - index: 487
+    verses:
+    - titleCh: 撒加利亞書 9-11
+      titleEn: Zechariah.9-11
+      verseBG: Zechariah.9-11
+      verseYV: ZEC.9
+    - titleCh: 詩篇 105
+      titleEn: Psalms.105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+  - index: 488
+    verses:
+    - titleCh: 撒加利亞書 12-14
+      titleEn: Zechariah.12-14
+      verseBG: Zechariah.12-14
+      verseYV: ZEC.12
+    - titleCh: 詩篇 106
+      titleEn: Psalms.106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+  - index: 489
+    verses:
+    - titleCh: 瑪拉基書 1.1-3.5
+      titleEn: Malachi.1.1-3.5
+      verseBG: Malachi.1.1-3.5
+      verseYV: MAL.1
+    - titleCh: 詩篇 107
+      titleEn: Psalms.107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+  - index: 490
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 108
+      titleEn: Psalms.108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+  - index: 491
+    verses:
+    - titleCh: 瑪拉基書 3.6-4.6
+      titleEn: Malachi.3.6-4.6
+      verseBG: Malachi.3.6-4.6
+      verseYV: MAL.3
+    - titleCh: 詩篇 109
+      titleEn: Psalms.109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+  - index: 492
+    verses:
+    - titleCh: 馬太福音 1-2
+      titleEn: Matthew.1-2
+      verseBG: Matthew.1-2
+      verseYV: MAT.1
+    - titleCh: 詩篇 110
+      titleEn: Psalms.110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+  - index: 493
+    verses:
+    - titleCh: 馬太福音 3.1-4.11
+      titleEn: Matthew.3.1-4.11
+      verseBG: Matthew.3.1-4.11
+      verseYV: MAT.3
+    - titleCh: 詩篇 111
+      titleEn: Psalms.111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+  - index: 494
+    verses:
+    - titleCh: 馬太福音 4.12-6.18
+      titleEn: Matthew.4.12-6.18
+      verseBG: Matthew.4.12-6.18
+      verseYV: MAT.4
+    - titleCh: 詩篇 112
+      titleEn: Psalms.112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+  - index: 495
+    verses:
+    - titleCh: 馬太福音 6.19-7.29
+      titleEn: Matthew.6.19-7.29
+      verseBG: Matthew.6.19-7.29
+      verseYV: MAT.6
+    - titleCh: 詩篇 113
+      titleEn: Psalms.113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+  - index: 496
+    verses:
+    - titleCh: 馬太福音 8-9
+      titleEn: Matthew.8-9
+      verseBG: Matthew.8-9
+      verseYV: MAT.8
+    - titleCh: 詩篇 114
+      titleEn: Psalms.114
+      verseBG: Psalms.114
+      verseYV: PSA.114
+  - index: 497
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 115
+      titleEn: Psalms.115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+  - index: 498
+    verses:
+    - titleCh: 馬太福音 10
+      titleEn: Matthew.10
+      verseBG: Matthew.10
+      verseYV: MAT.10
+    - titleCh: 詩篇 116
+      titleEn: Psalms.116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+  - index: 499
+    verses:
+    - titleCh: 馬太福音 11-12
+      titleEn: Matthew.11-12
+      verseBG: Matthew.11-12
+      verseYV: MAT.11
+    - titleCh: 詩篇 117
+      titleEn: Psalms.117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+  - index: 500
+    verses:
+    - titleCh: 馬太福音 13
+      titleEn: Matthew.13
+      verseBG: Matthew.13
+      verseYV: MAT.13
+    - titleCh: 詩篇 118
+      titleEn: Psalms.118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+  - index: 501
+    verses:
+    - titleCh: 馬太福音 14-15
+      titleEn: Matthew.14-15
+      verseBG: Matthew.14-15
+      verseYV: MAT.14
+    - titleCh: 詩篇 119.1-16
+      titleEn: Psalms.119.1-16
+      verseBG: Psalms.119.1-16
+      verseYV: PSA.119
+  - index: 502
+    verses:
+    - titleCh: 馬太福音 16-17
+      titleEn: Matthew.16-17
+      verseBG: Matthew.16-17
+      verseYV: MAT.16
+    - titleCh: 詩篇 119.17-32
+      titleEn: Psalms.119.17-32
+      verseBG: Psalms.119.17-32
+      verseYV: PSA.119
+  - index: 503
+    verses:
+    - titleCh: 馬太福音 18
+      titleEn: Matthew.18
+      verseBG: Matthew.18
+      verseYV: MAT.18
+    - titleCh: 詩篇 119.33-48
+      titleEn: Psalms.119.33-48
+      verseBG: Psalms.119.33-48
+      verseYV: PSA.119
+  - index: 504
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119.49-64
+      titleEn: Psalms.119.49-64
+      verseBG: Psalms.119.49-64
+      verseYV: PSA.119
+  - index: 505
+    verses:
+    - titleCh: 馬太福音 19-20
+      titleEn: Matthew.19-20
+      verseBG: Matthew.19-20
+      verseYV: MAT.19
+    - titleCh: 詩篇 119.65-80
+      titleEn: Psalms.119.65-80
+      verseBG: Psalms.119.65-80
+      verseYV: PSA.119
+  - index: 506
+    verses:
+    - titleCh: 馬太福音 21-22
+      titleEn: Matthew.21-22
+      verseBG: Matthew.21-22
+      verseYV: MAT.21
+    - titleCh: 詩篇 119.81-96
+      titleEn: Psalms.119.81-96
+      verseBG: Psalms.119.81-96
+      verseYV: PSA.119
+  - index: 507
+    verses:
+    - titleCh: 馬太福音 23-24
+      titleEn: Matthew.23-24
+      verseBG: Matthew.23-24
+      verseYV: MAT.23
+    - titleCh: 詩篇 119.97-112
+      titleEn: Psalms.119.97-112
+      verseBG: Psalms.119.97-112
+      verseYV: PSA.119
+  - index: 508
+    verses:
+    - titleCh: 馬太福音 25
+      titleEn: Matthew.25
+      verseBG: Matthew.25
+      verseYV: MAT.25
+    - titleCh: 詩篇 119.113-128
+      titleEn: Psalms.119.113-128
+      verseBG: Psalms.119.113-128
+      verseYV: PSA.119
+  - index: 509
+    verses:
+    - titleCh: 馬太福音 26
+      titleEn: Matthew.26
+      verseBG: Matthew.26
+      verseYV: MAT.26
+    - titleCh: 詩篇 119.129-144
+      titleEn: Psalms.119.129-144
+      verseBG: Psalms.119.129-144
+      verseYV: PSA.119
+  - index: 510
+    verses:
+    - titleCh: 馬太福音 27
+      titleEn: Matthew.27
+      verseBG: Matthew.27
+      verseYV: MAT.27
+    - titleCh: 詩篇 119.145-160
+      titleEn: Psalms.119.145-160
+      verseBG: Psalms.119.145-160
+      verseYV: PSA.119
+  - index: 511
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119.161-176
+      titleEn: Psalms.119.161-176
+      verseBG: Psalms.119.161-176
+      verseYV: PSA.119
+  - index: 512
+    verses:
+    - titleCh: 馬太福音 28
+      titleEn: Matthew.28
+      verseBG: Matthew.28
+      verseYV: MAT.28
+    - titleCh: 詩篇 120
+      titleEn: Psalms.120
+      verseBG: Psalms.120
+      verseYV: PSA.120
+  - index: 513
+    verses:
+    - titleCh: 馬可福音 1
+      titleEn: Mark.1
+      verseBG: Mark.1
+      verseYV: MRK.1
+    - titleCh: 詩篇 121
+      titleEn: Psalms.121
+      verseBG: Psalms.121
+      verseYV: PSA.121
+  - index: 514
+    verses:
+    - titleCh: 馬可福音 2.1-3.6
+      titleEn: Mark.2.1-3.6
+      verseBG: Mark.2.1-3.6
+      verseYV: MRK.2
+    - titleCh: 詩篇 122
+      titleEn: Psalms.122
+      verseBG: Psalms.122
+      verseYV: PSA.122
+  - index: 515
+    verses:
+    - titleCh: 馬可福音 3.7-4.34
+      titleEn: Mark.3.7-4.34
+      verseBG: Mark.3.7-4.34
+      verseYV: MRK.3
+    - titleCh: 詩篇 123
+      titleEn: Psalms.123
+      verseBG: Psalms.123
+      verseYV: PSA.123
+  - index: 516
+    verses:
+    - titleCh: 馬可福音 4.35-6.6a
+      titleEn: Mark.4.35-6.6a
+      verseBG: Mark.4.35-6.6a
+      verseYV: MRK.4
+    - titleCh: 詩篇 124
+      titleEn: Psalms.124
+      verseBG: Psalms.124
+      verseYV: PSA.124
+  - index: 517
+    verses:
+    - titleCh: 馬可福音 6.6b-8.21
+      titleEn: Mark.6.6b-8.21
+      verseBG: Mark.6.6b-8.21
+      verseYV: MRK.6
+    - titleCh: 詩篇 125
+      titleEn: Psalms.125
+      verseBG: Psalms.125
+      verseYV: PSA.125
+  - index: 518
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 126
+      titleEn: Psalms.126
+      verseBG: Psalms.126
+      verseYV: PSA.126
+  - index: 519
+    verses:
+    - titleCh: 馬可福音 8.22-9.29
+      titleEn: Mark.8.22-9.29
+      verseBG: Mark.8.22-9.29
+      verseYV: MRK.8
+    - titleCh: 詩篇 127
+      titleEn: Psalms.127
+      verseBG: Psalms.127
+      verseYV: PSA.127
+  - index: 520
+    verses:
+    - titleCh: 馬可福音 9.30-10.45
+      titleEn: Mark.9.30-10.45
+      verseBG: Mark.9.30-10.45
+      verseYV: MRK.9
+    - titleCh: 詩篇 128
+      titleEn: Psalms.128
+      verseBG: Psalms.128
+      verseYV: PSA.128
+  - index: 521
+    verses:
+    - titleCh: 馬可福音 10.46-11.26
+      titleEn: Mark.10.46-11.26
+      verseBG: Mark.10.46-11.26
+      verseYV: MRK.10
+    - titleCh: 詩篇 129
+      titleEn: Psalms.129
+      verseBG: Psalms.129
+      verseYV: PSA.129
+  - index: 522
+    verses:
+    - titleCh: 馬可福音 11.27-12.40
+      titleEn: Mark.11.27-12.40
+      verseBG: Mark.11.27-12.40
+      verseYV: MRK.11
+    - titleCh: 詩篇 130
+      titleEn: Psalms.130
+      verseBG: Psalms.130
+      verseYV: PSA.130
+  - index: 523
+    verses:
+    - titleCh: 馬可福音 12.41-13.37
+      titleEn: Mark.12.41-13.37
+      verseBG: Mark.12.41-13.37
+      verseYV: MRK.12
+    - titleCh: 詩篇 131
+      titleEn: Psalms.131
+      verseBG: Psalms.131
+      verseYV: PSA.131
+  - index: 524
+    verses:
+    - titleCh: 馬可福音 14
+      titleEn: Mark.14
+      verseBG: Mark.14
+      verseYV: MRK.14
+    - titleCh: 詩篇 132
+      titleEn: Psalms.132
+      verseBG: Psalms.132
+      verseYV: PSA.132
+  - index: 525
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 133
+      titleEn: Psalms.133
+      verseBG: Psalms.133
+      verseYV: PSA.133
+  - index: 526
+    verses:
+    - titleCh: 馬可福音 15
+      titleEn: Mark.15
+      verseBG: Mark.15
+      verseYV: MRK.15
+    - titleCh: 詩篇 134
+      titleEn: Psalms.134
+      verseBG: Psalms.134
+      verseYV: PSA.134
+  - index: 527
+    verses:
+    - titleCh: 馬可福音 16
+      titleEn: Mark.16
+      verseBG: Mark.16
+      verseYV: MRK.16
+    - titleCh: 詩篇 135
+      titleEn: Psalms.135
+      verseBG: Psalms.135
+      verseYV: PSA.135
+  - index: 528
+    verses:
+    - titleCh: 路加福音 1
+      titleEn: Luke.1
+      verseBG: Luke.1
+      verseYV: LUK.1
+    - titleCh: 詩篇 136
+      titleEn: Psalms.136
+      verseBG: Psalms.136
+      verseYV: PSA.136
+  - index: 529
+    verses:
+    - titleCh: 路加福音 2
+      titleEn: Luke.2
+      verseBG: Luke.2
+      verseYV: LUK.2
+    - titleCh: 詩篇 137
+      titleEn: Psalms.137
+      verseBG: Psalms.137
+      verseYV: PSA.137
+  - index: 530
+    verses:
+    - titleCh: 路加福音 3.1-4.13
+      titleEn: Luke.3.1-4.13
+      verseBG: Luke.3.1-4.13
+      verseYV: LUK.3
+    - titleCh: 詩篇 138
+      titleEn: Psalms.138
+      verseBG: Psalms.138
+      verseYV: PSA.138
+  - index: 531
+    verses:
+    - titleCh: 路加福音 4.14-44
+      titleEn: Luke.4.14-44
+      verseBG: Luke.4.14-44
+      verseYV: LUK.4
+    - titleCh: 詩篇 139
+      titleEn: Psalms.139
+      verseBG: Psalms.139
+      verseYV: PSA.139
+  - index: 532
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 140
+      titleEn: Psalms.140
+      verseBG: Psalms.140
+      verseYV: PSA.140
+  - index: 533
+    verses:
+    - titleCh: 路加福音 5.1-6.11
+      titleEn: Luke.5.1-6.11
+      verseBG: Luke.5.1-6.11
+      verseYV: LUK.5
+    - titleCh: 詩篇 141
+      titleEn: Psalms.141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+  - index: 534
+    verses:
+    - titleCh: 路加福音 6.12-49
+      titleEn: Luke.6.12-49
+      verseBG: Luke.6.12-49
+      verseYV: LUK.6
+    - titleCh: 詩篇 142
+      titleEn: Psalms.142
+      verseBG: Psalms.142
+      verseYV: PSA.142
+  - index: 535
+    verses:
+    - titleCh: 路加福音 7
+      titleEn: Luke.7
+      verseBG: Luke.7
+      verseYV: LUK.7
+    - titleCh: 詩篇 143
+      titleEn: Psalms.143
+      verseBG: Psalms.143
+      verseYV: PSA.143
+  - index: 536
+    verses:
+    - titleCh: 路加福音 8
+      titleEn: Luke.8
+      verseBG: Luke.8
+      verseYV: LUK.8
+    - titleCh: 詩篇 144
+      titleEn: Psalms.144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+  - index: 537
+    verses:
+    - titleCh: 路加福音 9
+      titleEn: Luke.9
+      verseBG: Luke.9
+      verseYV: LUK.9
+    - titleCh: 詩篇 145
+      titleEn: Psalms.145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+  - index: 538
+    verses:
+    - titleCh: 路加福音 10-11.13
+      titleEn: Luke.10-11.13
+      verseBG: Luke.10-11.13
+      verseYV: LUK.10
+    - titleCh: 詩篇 146
+      titleEn: Psalms.146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+  - index: 539
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 147
+      titleEn: Psalms.147
+      verseBG: Psalms.147
+      verseYV: PSA.147
+  - index: 540
+    verses:
+    - titleCh: 路加福音 11.14-54
+      titleEn: Luke.11.14-54
+      verseBG: Luke.11.14-54
+      verseYV: LUK.11
+    - titleCh: 詩篇 148
+      titleEn: Psalms.148
+      verseBG: Psalms.148
+      verseYV: PSA.148
+  - index: 541
+    verses:
+    - titleCh: 路加福音 12.1-13.9
+      titleEn: Luke.12.1-13.9
+      verseBG: Luke.12.1-13.9
+      verseYV: LUK.12
+    - titleCh: 詩篇 149
+      titleEn: Psalms.149
+      verseBG: Psalms.149
+      verseYV: PSA.149
+  - index: 542
+    verses:
+    - titleCh: 路加福音 13.10-35
+      titleEn: Luke.13.10-35
+      verseBG: Luke.13.10-35
+      verseYV: LUK.13
+    - titleCh: 詩篇 150
+      titleEn: Psalms.150
+      verseBG: Psalms.150
+      verseYV: PSA.150
+  - index: 543
+    verses:
+    - titleCh: 路加福音 14-15
+      titleEn: Luke.14-15
+      verseBG: Luke.14-15
+      verseYV: LUK.14
+    - titleCh: 箴言 1
+      titleEn: Provebs.1
+      verseBG: Provebs.1
+      verseYV: PRO.1
+  - index: 544
+    verses:
+    - titleCh: 路加福音 16.1-17.10
+      titleEn: Luke.16.1-17.10
+      verseBG: Luke.16.1-17.10
+      verseYV: LUK.16
+    - titleCh: 箴言 2
+      titleEn: Provebs.2
+      verseBG: Provebs.2
+      verseYV: PRO.2
+  - index: 545
+    verses:
+    - titleCh: 路加福音 17.11-18.30
+      titleEn: Luke.17.11-18.30
+      verseBG: Luke.17.11-18.30
+      verseYV: LUK.17
+    - titleCh: 箴言 3
+      titleEn: Provebs.3
+      verseBG: Provebs.3
+      verseYV: PRO.3
+  - index: 546
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 4
+      titleEn: Provebs.4
+      verseBG: Provebs.4
+      verseYV: PRO.4
+  - index: 547
+    verses:
+    - titleCh: 路加福音 18.31-19.44
+      titleEn: Luke.18.31-19.44
+      verseBG: Luke.18.31-19.44
+      verseYV: LUK.18
+    - titleCh: 箴言 5
+      titleEn: Provebs.5
+      verseBG: Provebs.5
+      verseYV: PRO.5
+  - index: 548
+    verses:
+    - titleCh: 路加福音 19.45-21.38
+      titleEn: Luke.19.45-21.38
+      verseBG: Luke.19.45-21.38
+      verseYV: LUK.19
+    - titleCh: 箴言 6
+      titleEn: Provebs.6
+      verseBG: Provebs.6
+      verseYV: PRO.6
+  - index: 549
+    verses:
+    - titleCh: 路加福音 22
+      titleEn: Luke.22
+      verseBG: Luke.22
+      verseYV: LUK.22
+    - titleCh: 箴言 7
+      titleEn: Provebs.7
+      verseBG: Provebs.7
+      verseYV: PRO.7
+  - index: 550
+    verses:
+    - titleCh: 路加福音 23
+      titleEn: Luke.23
+      verseBG: Luke.23
+      verseYV: LUK.23
+    - titleCh: 箴言 8
+      titleEn: Provebs.8
+      verseBG: Provebs.8
+      verseYV: PRO.8
+  - index: 551
+    verses:
+    - titleCh: 路加福音 24
+      titleEn: Luke.24
+      verseBG: Luke.24
+      verseYV: LUK.24
+    - titleCh: 箴言 9
+      titleEn: Provebs.9
+      verseBG: Provebs.9
+      verseYV: PRO.9
+  - index: 552
+    verses:
+    - titleCh: 約翰福音 1.1-18
+      titleEn: John.1.1-18
+      verseBG: John.1.1-18
+      verseYV: JHN.1
+    - titleCh: 箴言 10
+      titleEn: Provebs.10
+      verseBG: Provebs.10
+      verseYV: PRO.10
+  - index: 553
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 11
+      titleEn: Provebs.11
+      verseBG: Provebs.11
+      verseYV: PRO.11
+  - index: 554
+    verses:
+    - titleCh: 約翰福音 1.19-2.12
+      titleEn: John.1.19-2.12
+      verseBG: John.1.19-2.12
+      verseYV: JHN.1
+    - titleCh: 箴言 12
+      titleEn: Provebs.12
+      verseBG: Provebs.12
+      verseYV: PRO.12
+  - index: 555
+    verses:
+    - titleCh: 約翰福音 2.13-3.36
+      titleEn: John.2.13-3.36
+      verseBG: John.2.13-3.36
+      verseYV: JHN.2
+    - titleCh: 箴言 13
+      titleEn: Provebs.13
+      verseBG: Provebs.13
+      verseYV: PRO.13
+  - index: 556
+    verses:
+    - titleCh: 約翰福音 4
+      titleEn: John.4
+      verseBG: John.4
+      verseYV: JHN.4
+    - titleCh: 箴言 14
+      titleEn: Provebs.14
+      verseBG: Provebs.14
+      verseYV: PRO.14
+  - index: 557
+    verses:
+    - titleCh: 約翰福音 5
+      titleEn: John.5
+      verseBG: John.5
+      verseYV: JHN.5
+    - titleCh: 箴言 15
+      titleEn: Provebs.15
+      verseBG: Provebs.15
+      verseYV: PRO.15
+  - index: 558
+    verses:
+    - titleCh: 約翰福音 6
+      titleEn: John.6
+      verseBG: John.6
+      verseYV: JHN.6
+    - titleCh: 箴言 16
+      titleEn: Provebs.16
+      verseBG: Provebs.16
+      verseYV: PRO.16
+  - index: 559
+    verses:
+    - titleCh: 約翰福音 7
+      titleEn: John.7
+      verseBG: John.7
+      verseYV: JHN.7
+    - titleCh: 箴言 17
+      titleEn: Provebs.17
+      verseBG: Provebs.17
+      verseYV: PRO.17
+  - index: 560
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 18
+      titleEn: Provebs.18
+      verseBG: Provebs.18
+      verseYV: PRO.18
+  - index: 561
+    verses:
+    - titleCh: 約翰福音 8
+      titleEn: John.8
+      verseBG: John.8
+      verseYV: JHN.8
+    - titleCh: 箴言 19
+      titleEn: Provebs.19
+      verseBG: Provebs.19
+      verseYV: PRO.19
+  - index: 562
+    verses:
+    - titleCh: 約翰福音 9-10
+      titleEn: John.9-10
+      verseBG: John.9-10
+      verseYV: JHN.9
+    - titleCh: 箴言 20
+      titleEn: Provebs.20
+      verseBG: Provebs.20
+      verseYV: PRO.20
+  - index: 563
+    verses:
+    - titleCh: 約翰福音 11
+      titleEn: John.11
+      verseBG: John.11
+      verseYV: JHN.11
+    - titleCh: 箴言 21
+      titleEn: Provebs.21
+      verseBG: Provebs.21
+      verseYV: PRO.21
+  - index: 564
+    verses:
+    - titleCh: 約翰福音 12
+      titleEn: John.12
+      verseBG: John.12
+      verseYV: JHN.12
+    - titleCh: 箴言 22
+      titleEn: Provebs.22
+      verseBG: Provebs.22
+      verseYV: PRO.22
+  - index: 565
+    verses:
+    - titleCh: 約翰福音 13
+      titleEn: John.13
+      verseBG: John.13
+      verseYV: JHN.13
+    - titleCh: 箴言 23
+      titleEn: Provebs.23
+      verseBG: Provebs.23
+      verseYV: PRO.23
+  - index: 566
+    verses:
+    - titleCh: 約翰福音 14-15
+      titleEn: John.14-15
+      verseBG: John.14-15
+      verseYV: JHN.14
+    - titleCh: 箴言 24
+      titleEn: Provebs.24
+      verseBG: Provebs.24
+      verseYV: PRO.24
+  - index: 567
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 25
+      titleEn: Provebs.25
+      verseBG: Provebs.25
+      verseYV: PRO.25
+  - index: 568
+    verses:
+    - titleCh: 約翰福音 16-17
+      titleEn: John.16-17
+      verseBG: John.16-17
+      verseYV: JHN.16
+    - titleCh: 箴言 26
+      titleEn: Provebs.26
+      verseBG: Provebs.26
+      verseYV: PRO.26
+  - index: 569
+    verses:
+    - titleCh: 約翰福音 18
+      titleEn: John.18
+      verseBG: John.18
+      verseYV: JHN.18
+    - titleCh: 箴言 27
+      titleEn: Provebs.27
+      verseBG: Provebs.27
+      verseYV: PRO.27
+  - index: 570
+    verses:
+    - titleCh: 約翰福音 19
+      titleEn: John.19
+      verseBG: John.19
+      verseYV: JHN.19
+    - titleCh: 箴言 28
+      titleEn: Provebs.28
+      verseBG: Provebs.28
+      verseYV: PRO.28
+  - index: 571
+    verses:
+    - titleCh: 約翰福音 20
+      titleEn: John.20
+      verseBG: John.20
+      verseYV: JHN.20
+    - titleCh: 箴言 29
+      titleEn: Provebs.29
+      verseBG: Provebs.29
+      verseYV: PRO.29
+  - index: 572
+    verses:
+    - titleCh: 使徒行傳 1
+      titleEn: Acts.1
+      verseBG: Acts.1
+      verseYV: ACT.1
+    - titleCh: 箴言 30
+      titleEn: Provebs.30
+      verseBG: Provebs.30
+      verseYV: PRO.30
+  - index: 573
+    verses:
+    - titleCh: 使徒行傳 2
+      titleEn: Acts.2
+      verseBG: Acts.2
+      verseYV: ACT.2
+    - titleCh: 箴言 31
+      titleEn: Provebs.31
+      verseBG: Provebs.31
+      verseYV: PRO.31
+  - index: 574
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 1
+      titleEn: Psalms.1
+      verseBG: Psalms.1
+      verseYV: PSA.1
+  - index: 575
+    verses:
+    - titleCh: 使徒行傳 3-4
+      titleEn: Acts.3-4
+      verseBG: Acts.3-4
+      verseYV: ACT.3
+    - titleCh: 詩篇 2
+      titleEn: Psalms.2
+      verseBG: Psalms.2
+      verseYV: PSA.2
+  - index: 576
+    verses:
+    - titleCh: 使徒行傳 5.1-6.7
+      titleEn: Acts.5.1-6.7
+      verseBG: Acts.5.1-6.7
+      verseYV: ACT.5
+    - titleCh: 詩篇 3
+      titleEn: Psalms.3
+      verseBG: Psalms.3
+      verseYV: PSA.3
+  - index: 577
+    verses:
+    - titleCh: 使徒行傳 6.8-7.60
+      titleEn: Acts.6.8-7.60
+      verseBG: Acts.6.8-7.60
+      verseYV: ACT.6
+    - titleCh: 詩篇 4
+      titleEn: Psalms.4
+      verseBG: Psalms.4
+      verseYV: PSA.4
+  - index: 578
+    verses:
+    - titleCh: 使徒行傳 8.1-9.31
+      titleEn: Acts.8.1-9.31
+      verseBG: Acts.8.1-9.31
+      verseYV: ACT.8
+    - titleCh: 詩篇 5
+      titleEn: Psalms.5
+      verseBG: Psalms.5
+      verseYV: PSA.5
+  - index: 579
+    verses:
+    - titleCh: 使徒行傳 9.32-10.48
+      titleEn: Acts.9.32-10.48
+      verseBG: Acts.9.32-10.48
+      verseYV: ACT.9
+    - titleCh: 詩篇 6
+      titleEn: Psalms.6
+      verseBG: Psalms.6
+      verseYV: PSA.6
+  - index: 580
+    verses:
+    - titleCh: 使徒行傳 11-12
+      titleEn: Acts.11-12
+      verseBG: Acts.11-12
+      verseYV: ACT.11
+    - titleCh: 詩篇 7
+      titleEn: Psalms.7
+      verseBG: Psalms.7
+      verseYV: PSA.7
+  - index: 581
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 8
+      titleEn: Psalms.8
+      verseBG: Psalms.8
+      verseYV: PSA.8
+  - index: 582
+    verses:
+    - titleCh: 使徒行傳 13
+      titleEn: Acts.13
+      verseBG: Acts.13
+      verseYV: ACT.13
+    - titleCh: 詩篇 9
+      titleEn: Psalms.9
+      verseBG: Psalms.9
+      verseYV: PSA.9
+  - index: 583
+    verses:
+    - titleCh: 使徒行傳 14.1-16.5
+      titleEn: Acts.14.1-16.5
+      verseBG: Acts.14.1-16.5
+      verseYV: ACT.14
+    - titleCh: 詩篇 10
+      titleEn: Psalms.10
+      verseBG: Psalms.10
+      verseYV: PSA.10
+  - index: 584
+    verses:
+    - titleCh: 使徒行傳 16.6-17.34
+      titleEn: Acts.16.6-17.34
+      verseBG: Acts.16.6-17.34
+      verseYV: ACT.16
+    - titleCh: 詩篇 11
+      titleEn: Psalms.11
+      verseBG: Psalms.11
+      verseYV: PSA.11
+  - index: 585
+    verses:
+    - titleCh: 使徒行傳 18.1-19.20
+      titleEn: Acts.18.1-19.20
+      verseBG: Acts.18.1-19.20
+      verseYV: ACT.18
+    - titleCh: 詩篇 12
+      titleEn: Psalms.12
+      verseBG: Psalms.12
+      verseYV: PSA.12
+  - index: 586
+    verses:
+    - titleCh: 使徒行傳 19.21-20.38
+      titleEn: Acts.19.21-20.38
+      verseBG: Acts.19.21-20.38
+      verseYV: ACT.19
+    - titleCh: 詩篇 13
+      titleEn: Psalms.13
+      verseBG: Psalms.13
+      verseYV: PSA.13
+  - index: 587
+    verses:
+    - titleCh: 使徒行傳 21.1-22.29
+      titleEn: Acts.21.1-22.29
+      verseBG: Acts.21.1-22.29
+      verseYV: ACT.21
+    - titleCh: 詩篇 14
+      titleEn: Psalms.14
+      verseBG: Psalms.14
+      verseYV: PSA.14
+  - index: 588
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 15
+      titleEn: Psalms.15
+      verseBG: Psalms.15
+      verseYV: PSA.15
+  - index: 589
+    verses:
+    - titleCh: 使徒行傳 22.30-24.27
+      titleEn: Acts.22.30-24.27
+      verseBG: Acts.22.30-24.27
+      verseYV: ACT.22
+    - titleCh: 詩篇 16
+      titleEn: Psalms.16
+      verseBG: Psalms.16
+      verseYV: PSA.16
+  - index: 590
+    verses:
+    - titleCh: 使徒行傳 25-26
+      titleEn: Acts.25-26
+      verseBG: Acts.25-26
+      verseYV: ACT.25
+    - titleCh: 詩篇 17
+      titleEn: Psalms.17
+      verseBG: Psalms.17
+      verseYV: PSA.17
+  - index: 591
+    verses:
+    - titleCh: 使徒行傳 27.1-28.16
+      titleEn: Acts.27.1-28.16
+      verseBG: Acts.27.1-28.16
+      verseYV: ACT.27
+    - titleCh: 詩篇 18
+      titleEn: Psalms.18
+      verseBG: Psalms.18
+      verseYV: PSA.18
+  - index: 592
+    verses:
+    - titleCh: 使徒行傳 28.17-30
+      titleEn: Acts.28.17-30
+      verseBG: Acts.28.17-30
+      verseYV: ACT.28
+    - titleCh: 詩篇 19
+      titleEn: Psalms.19
+      verseBG: Psalms.19
+      verseYV: PSA.19
+  - index: 593
+    verses:
+    - titleCh: 羅馬書 1.1-17
+      titleEn: Romans.1.1-17
+      verseBG: Romans.1.1-17
+      verseYV: ROM.1
+    - titleCh: 詩篇 20
+      titleEn: Psalms.20
+      verseBG: Psalms.20
+      verseYV: PSA.20
+  - index: 594
+    verses:
+    - titleCh: 羅馬書 1.18-2.29
+      titleEn: Romans.1.18-2.29
+      verseBG: Romans.1.18-2.29
+      verseYV: ROM.1
+    - titleCh: 詩篇 21
+      titleEn: Psalms.21
+      verseBG: Psalms.21
+      verseYV: PSA.21
+  - index: 595
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 22
+      titleEn: Psalms.22
+      verseBG: Psalms.22
+      verseYV: PSA.22
+  - index: 596
+    verses:
+    - titleCh: 羅馬書 3
+      titleEn: Romans.3
+      verseBG: Romans.3
+      verseYV: ROM.3
+    - titleCh: 詩篇 23
+      titleEn: Psalms.23
+      verseBG: Psalms.23
+      verseYV: PSA.23
+  - index: 597
+    verses:
+    - titleCh: 羅馬書 4
+      titleEn: Romans.4
+      verseBG: Romans.4
+      verseYV: ROM.4
+    - titleCh: 詩篇 24
+      titleEn: Psalms.24
+      verseBG: Psalms.24
+      verseYV: PSA.24
+  - index: 598
+    verses:
+    - titleCh: 羅馬書 5
+      titleEn: Romans.5
+      verseBG: Romans.5
+      verseYV: ROM.5
+    - titleCh: 詩篇 25
+      titleEn: Psalms.25
+      verseBG: Psalms.25
+      verseYV: PSA.25
+  - index: 599
+    verses:
+    - titleCh: 羅馬書 6.1-7.6
+      titleEn: Romans.6.1-7.6
+      verseBG: Romans.6.1-7.6
+      verseYV: ROM.6
+    - titleCh: 詩篇 26
+      titleEn: Psalms.26
+      verseBG: Psalms.26
+      verseYV: PSA.26
+  - index: 600
+    verses:
+    - titleCh: 羅馬書 7.7-8.39
+      titleEn: Romans.7.7-8.39
+      verseBG: Romans.7.7-8.39
+      verseYV: ROM.7
+    - titleCh: 詩篇 27
+      titleEn: Psalms.27
+      verseBG: Psalms.27
+      verseYV: PSA.27
+  - index: 601
+    verses:
+    - titleCh: 羅馬書 9.1-29
+      titleEn: Romans.9.1-29
+      verseBG: Romans.9.1-29
+      verseYV: ROM.9
+    - titleCh: 詩篇 28
+      titleEn: Psalms.28
+      verseBG: Psalms.28
+      verseYV: PSA.28
+  - index: 602
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 29
+      titleEn: Psalms.29
+      verseBG: Psalms.29
+      verseYV: PSA.29
+  - index: 603
+    verses:
+    - titleCh: 羅馬書 9.30-10.21
+      titleEn: Romans.9.30-10.21
+      verseBG: Romans.9.30-10.21
+      verseYV: ROM.9
+    - titleCh: 詩篇 30
+      titleEn: Psalms.30
+      verseBG: Psalms.30
+      verseYV: PSA.30
+  - index: 604
+    verses:
+    - titleCh: 羅馬書 11
+      titleEn: Romans.11
+      verseBG: Romans.11
+      verseYV: ROM.11
+    - titleCh: 詩篇 31
+      titleEn: Psalms.31
+      verseBG: Psalms.31
+      verseYV: PSA.31
+  - index: 605
+    verses:
+    - titleCh: 羅馬書 12-13
+      titleEn: Romans.12-13
+      verseBG: Romans.12-13
+      verseYV: ROM.12
+    - titleCh: 詩篇 32
+      titleEn: Psalms.32
+      verseBG: Psalms.32
+      verseYV: PSA.32
+  - index: 606
+    verses:
+    - titleCh: 羅馬書 14-15
+      titleEn: Romans.14-15
+      verseBG: Romans.14-15
+      verseYV: ROM.14
+    - titleCh: 詩篇 33
+      titleEn: Psalms.33
+      verseBG: Psalms.33
+      verseYV: PSA.33
+  - index: 607
+    verses:
+    - titleCh: 羅馬書 16
+      titleEn: Romans.16
+      verseBG: Romans.16
+      verseYV: ROM.16
+    - titleCh: 詩篇 34
+      titleEn: Psalms.34
+      verseBG: Psalms.34
+      verseYV: PSA.34
+  - index: 608
+    verses:
+    - titleCh: 哥林多前書 1.1-3.4
+      titleEn: 1 Corinthians.1.1-3.4
+      verseBG: 1 Corinthians.1.1-3.4
+      verseYV: 1CO.1
+    - titleCh: 詩篇 35
+      titleEn: Psalms.35
+      verseBG: Psalms.35
+      verseYV: PSA.35
+  - index: 609
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 36
+      titleEn: Psalms.36
+      verseBG: Psalms.36
+      verseYV: PSA.36
+  - index: 610
+    verses:
+    - titleCh: 哥林多前書 3.5-4.21
+      titleEn: 1 Corinthians.3.5-4.21
+      verseBG: 1 Corinthians.3.5-4.21
+      verseYV: 1CO.3
+    - titleCh: 詩篇 37
+      titleEn: Psalms.37
+      verseBG: Psalms.37
+      verseYV: PSA.37
+  - index: 611
+    verses:
+    - titleCh: 哥林多前書 5-6
+      titleEn: 1 Corinthians.5-6
+      verseBG: 1 Corinthians.5-6
+      verseYV: 1CO.5
+    - titleCh: 詩篇 38
+      titleEn: Psalms.38
+      verseBG: Psalms.38
+      verseYV: PSA.38
+  - index: 612
+    verses:
+    - titleCh: 哥林多前書 7
+      titleEn: 1 Corinthians.7
+      verseBG: 1 Corinthians.7
+      verseYV: 1CO.7
+    - titleCh: 詩篇 39
+      titleEn: Psalms.39
+      verseBG: Psalms.39
+      verseYV: PSA.39
+  - index: 613
+    verses:
+    - titleCh: 哥林多前書 8-9
+      titleEn: 1 Corinthians.8-9
+      verseBG: 1 Corinthians.8-9
+      verseYV: 1CO.8
+    - titleCh: 詩篇 40
+      titleEn: Psalms.40
+      verseBG: Psalms.40
+      verseYV: PSA.40
+  - index: 614
+    verses:
+    - titleCh: 哥林多前書 10.1-11.1
+      titleEn: 1 Corinthians.10.1-11.1
+      verseBG: 1 Corinthians.10.1-11.1
+      verseYV: 1CO.10
+    - titleCh: 詩篇 41
+      titleEn: Psalms.41
+      verseBG: Psalms.41
+      verseYV: PSA.41
+  - index: 615
+    verses:
+    - titleCh: 哥林多前書 11.2-34
+      titleEn: 1 Corinthians.11.2-34
+      verseBG: 1 Corinthians.11.2-34
+      verseYV: 1CO.11
+    - titleCh: 詩篇 42
+      titleEn: Psalms.42
+      verseBG: Psalms.42
+      verseYV: PSA.42
+  - index: 616
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 43
+      titleEn: Psalms.43
+      verseBG: Psalms.43
+      verseYV: PSA.43
+  - index: 617
+    verses:
+    - titleCh: 哥林多前書 12-14
+      titleEn: 1 Corinthians.12-14
+      verseBG: 1 Corinthians.12-14
+      verseYV: 1CO.12
+    - titleCh: 詩篇 44
+      titleEn: Psalms.44
+      verseBG: Psalms.44
+      verseYV: PSA.44
+  - index: 618
+    verses:
+    - titleCh: 哥林多前書 15
+      titleEn: 1 Corinthians.15
+      verseBG: 1 Corinthians.15
+      verseYV: 1CO.15
+    - titleCh: 詩篇 45
+      titleEn: Psalms.45
+      verseBG: Psalms.45
+      verseYV: PSA.45
+  - index: 619
+    verses:
+    - titleCh: 哥林多前書 16
+      titleEn: 1 Corinthians.16
+      verseBG: 1 Corinthians.16
+      verseYV: 1CO.16
+    - titleCh: 詩篇 46
+      titleEn: Psalms.46
+      verseBG: Psalms.46
+      verseYV: PSA.46
+  - index: 620
+    verses:
+    - titleCh: 哥林多後書 1.1-2.13
+      titleEn: 2 Corinthians.1.1-2.13
+      verseBG: 2 Corinthians.1.1-2.13
+      verseYV: 2CO.1
+    - titleCh: 詩篇 47
+      titleEn: Psalms.47
+      verseBG: Psalms.47
+      verseYV: PSA.47
+  - index: 621
+    verses:
+    - titleCh: 哥林多後書 2.14-4.6
+      titleEn: 2 Corinthians.2.14-4.6
+      verseBG: 2 Corinthians.2.14-4.6
+      verseYV: 2CO.2
+    - titleCh: 詩篇 48
+      titleEn: Psalms.48
+      verseBG: Psalms.48
+      verseYV: PSA.48
+  - index: 622
+    verses:
+    - titleCh: 哥林多後書 4.7-5.1
+      titleEn: 2 Corinthians.4.7-5.1
+      verseBG: 2 Corinthians.4.7-5.1
+      verseYV: 2CO.4
+    - titleCh: 詩篇 49
+      titleEn: Psalms.49
+      verseBG: Psalms.49
+      verseYV: PSA.49
+  - index: 623
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 50
+      titleEn: Psalms.50
+      verseBG: Psalms.50
+      verseYV: PSA.50
+  - index: 624
+    verses:
+    - titleCh: 哥林多後書 5.11-7.4
+      titleEn: 2 Corinthians.5.11-7.4
+      verseBG: 2 Corinthians.5.11-7.4
+      verseYV: 2CO.5
+    - titleCh: 詩篇 51
+      titleEn: Psalms.51
+      verseBG: Psalms.51
+      verseYV: PSA.51
+  - index: 625
+    verses:
+    - titleCh: 哥林多後書 7.5-16
+      titleEn: 2 Corinthians.7.5-16
+      verseBG: 2 Corinthians.7.5-16
+      verseYV: 2CO.7
+    - titleCh: 詩篇 52
+      titleEn: Psalms.52
+      verseBG: Psalms.52
+      verseYV: PSA.52
+  - index: 626
+    verses:
+    - titleCh: 哥林多後書 8-9
+      titleEn: 2 Corinthians.8-9
+      verseBG: 2 Corinthians.8-9
+      verseYV: 2CO.8
+    - titleCh: 詩篇 53
+      titleEn: Psalms.53
+      verseBG: Psalms.53
+      verseYV: PSA.53
+  - index: 627
+    verses:
+    - titleCh: 哥林多後書 10-11
+      titleEn: 2 Corinthians.10-11
+      verseBG: 2 Corinthians.10-11
+      verseYV: 2CO.10
+    - titleCh: 詩篇 54
+      titleEn: Psalms.54
+      verseBG: Psalms.54
+      verseYV: PSA.54
+  - index: 628
+    verses:
+    - titleCh: 哥林多後書 12-13
+      titleEn: 2 Corinthians.12-13
+      verseBG: 2 Corinthians.12-13
+      verseYV: 2CO.12
+    - titleCh: 詩篇 55
+      titleEn: Psalms.55
+      verseBG: Psalms.55
+      verseYV: PSA.55
+  - index: 629
+    verses:
+    - titleCh: 加拉太書 1-2
+      titleEn: Galatians.1-2
+      verseBG: Galatians.1-2
+      verseYV: GAL.1
+    - titleCh: 詩篇 56
+      titleEn: Psalms.56
+      verseBG: Psalms.56
+      verseYV: PSA.56
+  - index: 630
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 57
+      titleEn: Psalms.57
+      verseBG: Psalms.57
+      verseYV: PSA.57
+  - index: 631
+    verses:
+    - titleCh: 加拉太書 3.1-4.20
+      titleEn: Galatians.3.1-4.20
+      verseBG: Galatians.3.1-4.20
+      verseYV: GAL.3
+    - titleCh: 詩篇 58
+      titleEn: Psalms.58
+      verseBG: Psalms.58
+      verseYV: PSA.58
+  - index: 632
+    verses:
+    - titleCh: 加拉太書 4.21-5.12
+      titleEn: Galatians.4.21-5.12
+      verseBG: Galatians.4.21-5.12
+      verseYV: GAL.4
+    - titleCh: 詩篇 59
+      titleEn: Psalms.59
+      verseBG: Psalms.59
+      verseYV: PSA.59
+  - index: 633
+    verses:
+    - titleCh: 加拉太書 5.13-6.18
+      titleEn: Galatians.5.13-6.18
+      verseBG: Galatians.5.13-6.18
+      verseYV: GAL.5
+    - titleCh: 詩篇 60
+      titleEn: Psalms.60
+      verseBG: Psalms.60
+      verseYV: PSA.60
+  - index: 634
+    verses:
+    - titleCh: 以弗所書 1
+      titleEn: Ephesians.1
+      verseBG: Ephesians.1
+      verseYV: EPH.1
+    - titleCh: 詩篇 61
+      titleEn: Psalms.61
+      verseBG: Psalms.61
+      verseYV: PSA.61
+  - index: 635
+    verses:
+    - titleCh: 以弗所書 2
+      titleEn: Ephesians.2
+      verseBG: Ephesians.2
+      verseYV: EPH.2
+    - titleCh: 詩篇 62
+      titleEn: Psalms.62
+      verseBG: Psalms.62
+      verseYV: PSA.62
+  - index: 636
+    verses:
+    - titleCh: 以弗所書 3.1-4.16
+      titleEn: Ephesians.3.1-4.16
+      verseBG: Ephesians.3.1-4.16
+      verseYV: EPH.3
+    - titleCh: 詩篇 63
+      titleEn: Psalms.63
+      verseBG: Psalms.63
+      verseYV: PSA.63
+  - index: 637
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 64
+      titleEn: Psalms.64
+      verseBG: Psalms.64
+      verseYV: PSA.64
+  - index: 638
+    verses:
+    - titleCh: 以弗所書 4.17-6.9
+      titleEn: Ephesians.4.17-6.9
+      verseBG: Ephesians.4.17-6.9
+      verseYV: EPH.4
+    - titleCh: 詩篇 65
+      titleEn: Psalms.65
+      verseBG: Psalms.65
+      verseYV: PSA.65
+  - index: 639
+    verses:
+    - titleCh: 以弗所書 6.10-24
+      titleEn: Ephesians.6.10-24
+      verseBG: Ephesians.6.10-24
+      verseYV: EPH.6
+    - titleCh: 詩篇 66
+      titleEn: Psalms.66
+      verseBG: Psalms.66
+      verseYV: PSA.66
+  - index: 640
+    verses:
+    - titleCh: 腓利比書 1.1-26
+      titleEn: Philippians.1.1-26
+      verseBG: Philippians.1.1-26
+      verseYV: PHP.1
+    - titleCh: 詩篇 67
+      titleEn: Psalms.67
+      verseBG: Psalms.67
+      verseYV: PSA.67
+  - index: 641
+    verses:
+    - titleCh: 腓利比書 1.27-2.30
+      titleEn: Philippians.1.27-2.30
+      verseBG: Philippians.1.27-2.30
+      verseYV: PHP.1
+    - titleCh: 詩篇 68
+      titleEn: Psalms.68
+      verseBG: Psalms.68
+      verseYV: PSA.68
+  - index: 642
+    verses:
+    - titleCh: 腓利比書 3.1-4.3
+      titleEn: Philippians.3.1-4.3
+      verseBG: Philippians.3.1-4.3
+      verseYV: PHP.3
+    - titleCh: 詩篇 69
+      titleEn: Psalms.69
+      verseBG: Psalms.69
+      verseYV: PSA.69
+  - index: 643
+    verses:
+    - titleCh: 腓利比書 4.4-23
+      titleEn: Philippians.4.4-23
+      verseBG: Philippians.4.4-23
+      verseYV: PHP.4
+    - titleCh: 詩篇 70
+      titleEn: Psalms.70
+      verseBG: Psalms.70
+      verseYV: PSA.70
+  - index: 644
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 71
+      titleEn: Psalms.71
+      verseBG: Psalms.71
+      verseYV: PSA.71
+  - index: 645
+    verses:
+    - titleCh: 歌羅西書 1.1-2.5
+      titleEn: Colossians.1.1-2.5
+      verseBG: Colossians.1.1-2.5
+      verseYV: COL.1
+    - titleCh: 詩篇 72
+      titleEn: Psalms.72
+      verseBG: Psalms.72
+      verseYV: PSA.72
+  - index: 646
+    verses:
+    - titleCh: 歌羅西書 2.6-3.11
+      titleEn: Colossians.2.6-3.11
+      verseBG: Colossians.2.6-3.11
+      verseYV: COL.2
+    - titleCh: 詩篇 73
+      titleEn: Psalms.73
+      verseBG: Psalms.73
+      verseYV: PSA.73
+  - index: 647
+    verses:
+    - titleCh: 歌羅西書 3.12-4.18
+      titleEn: Colossians.3.12-4.18
+      verseBG: Colossians.3.12-4.18
+      verseYV: COL.3
+    - titleCh: 詩篇 74
+      titleEn: Psalms.74
+      verseBG: Psalms.74
+      verseYV: PSA.74
+  - index: 648
+    verses:
+    - titleCh: 帖撒羅尼迦前書 1
+      titleEn: 1 Thessalonians.1
+      verseBG: 1 Thessalonians.1
+      verseYV: 1TH.1
+    - titleCh: 詩篇 75
+      titleEn: Psalms.75
+      verseBG: Psalms.75
+      verseYV: PSA.75
+  - index: 649
+    verses:
+    - titleCh: 帖撒羅尼迦前書 2.1-16
+      titleEn: 1 Thessalonians.2.1-16
+      verseBG: 1 Thessalonians.2.1-16
+      verseYV: 1TH.2
+    - titleCh: 詩篇 76
+      titleEn: Psalms.76
+      verseBG: Psalms.76
+      verseYV: PSA.76
+  - index: 650
+    verses:
+    - titleCh: 帖撒羅尼迦前書 2.17-3.13
+      titleEn: 1 Thessalonians.2.17-3.13
+      verseBG: 1 Thessalonians.2.17-3.13
+      verseYV: 1TH.2
+    - titleCh: 詩篇 77
+      titleEn: Psalms.77
+      verseBG: Psalms.77
+      verseYV: PSA.77
+  - index: 651
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 78
+      titleEn: Psalms.78
+      verseBG: Psalms.78
+      verseYV: PSA.78
+  - index: 652
+    verses:
+    - titleCh: 帖撒羅尼迦前書 4.1-12
+      titleEn: 1 Thessalonians.4.1-12
+      verseBG: 1 Thessalonians.4.1-12
+      verseYV: 1TH.4
+    - titleCh: 詩篇 79
+      titleEn: Psalms.79
+      verseBG: Psalms.79
+      verseYV: PSA.79
+  - index: 653
+    verses:
+    - titleCh: 帖撒羅尼迦前書 4.13-5.11
+      titleEn: 1 Thessalonians.4.13-5.11
+      verseBG: 1 Thessalonians.4.13-5.11
+      verseYV: 1TH.4
+    - titleCh: 詩篇 80
+      titleEn: Psalms.80
+      verseBG: Psalms.80
+      verseYV: PSA.80
+  - index: 654
+    verses:
+    - titleCh: 帖撒羅尼迦前書 5.12-28
+      titleEn: 1 Thessalonians.5.12-28
+      verseBG: 1 Thessalonians.5.12-28
+      verseYV: 1TH.5
+    - titleCh: 詩篇 81
+      titleEn: Psalms.81
+      verseBG: Psalms.81
+      verseYV: PSA.81
+  - index: 655
+    verses:
+    - titleCh: 帖撒羅尼迦後書 1
+      titleEn: 2 Thessalonians.1
+      verseBG: 2 Thessalonians.1
+      verseYV: 2TH.1
+    - titleCh: 詩篇 82
+      titleEn: Psalms.82
+      verseBG: Psalms.82
+      verseYV: PSA.82
+  - index: 656
+    verses:
+    - titleCh: 帖撒羅尼迦後書 2.1-12
+      titleEn: 2 Thessalonians.2.1-12
+      verseBG: 2 Thessalonians.2.1-12
+      verseYV: 2TH.2
+    - titleCh: 詩篇 83
+      titleEn: Psalms.83
+      verseBG: Psalms.83
+      verseYV: PSA.83
+  - index: 657
+    verses:
+    - titleCh: 帖撒羅尼迦後書 2.13-3.18
+      titleEn: 2 Thessalonians.2.13-3.18
+      verseBG: 2 Thessalonians.2.13-3.18
+      verseYV: 2TH.2
+    - titleCh: 詩篇 84
+      titleEn: Psalms.84
+      verseBG: Psalms.84
+      verseYV: PSA.84
+  - index: 658
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 85
+      titleEn: Psalms.85
+      verseBG: Psalms.85
+      verseYV: PSA.85
+  - index: 659
+    verses:
+    - titleCh: 提摩太前書 1
+      titleEn: 1 Timothy.1
+      verseBG: 1 Timothy.1
+      verseYV: 1TI.1
+    - titleCh: 詩篇 86
+      titleEn: Psalms.86
+      verseBG: Psalms.86
+      verseYV: PSA.86
+  - index: 660
+    verses:
+    - titleCh: 提摩太前書 2
+      titleEn: 1 Timothy.2
+      verseBG: 1 Timothy.2
+      verseYV: 1TI.2
+    - titleCh: 詩篇 87
+      titleEn: Psalms.87
+      verseBG: Psalms.87
+      verseYV: PSA.87
+  - index: 661
+    verses:
+    - titleCh: 提摩太前書 3.1-13
+      titleEn: 1 Timothy.3.1-13
+      verseBG: 1 Timothy.3.1-13
+      verseYV: 1TI.3
+    - titleCh: 詩篇 88
+      titleEn: Psalms.88
+      verseBG: Psalms.88
+      verseYV: PSA.88
+  - index: 662
+    verses:
+    - titleCh: 提摩太前書 3.14-4.16
+      titleEn: 1 Timothy.3.14-4.16
+      verseBG: 1 Timothy.3.14-4.16
+      verseYV: 1TI.3
+    - titleCh: 詩篇 89
+      titleEn: Psalms.89
+      verseBG: Psalms.89
+      verseYV: PSA.89
+  - index: 663
+    verses:
+    - titleCh: 提摩太前書 5.1-6.2b
+      titleEn: 1 Timothy.5.1-6.2b
+      verseBG: 1 Timothy.5.1-6.2b
+      verseYV: 1TI.5
+    - titleCh: 詩篇 90
+      titleEn: Psalms.90
+      verseBG: Psalms.90
+      verseYV: PSA.90
+  - index: 664
+    verses:
+    - titleCh: 提摩太前書 6.2c-21
+      titleEn: 1 Timothy.6.2c-21
+      verseBG: 1 Timothy.6.2c-21
+      verseYV: 1TI.6
+    - titleCh: 詩篇 91
+      titleEn: Psalms.91
+      verseBG: Psalms.91
+      verseYV: PSA.91
+  - index: 665
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 92
+      titleEn: Psalms.92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+  - index: 666
+    verses:
+    - titleCh: 提摩太後書 1.1-2.13
+      titleEn: 2 Timothy.1.1-2.13
+      verseBG: 2 Timothy.1.1-2.13
+      verseYV: 2TI.1
+    - titleCh: 詩篇 93
+      titleEn: Psalms.93
+      verseBG: Psalms.93
+      verseYV: PSA.93
+  - index: 667
+    verses:
+    - titleCh: 提摩太後書 2.14-3.9
+      titleEn: 2 Timothy.2.14-3.9
+      verseBG: 2 Timothy.2.14-3.9
+      verseYV: 2TI.2
+    - titleCh: 詩篇 94
+      titleEn: Psalms.94
+      verseBG: Psalms.94
+      verseYV: PSA.94
+  - index: 668
+    verses:
+    - titleCh: 提摩太後書 3.10-4.22
+      titleEn: 2 Timothy.3.10-4.22
+      verseBG: 2 Timothy.3.10-4.22
+      verseYV: 2TI.3
+    - titleCh: 詩篇 95
+      titleEn: Psalms.95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+  - index: 669
+    verses:
+    - titleCh: 提多書 1-2
+      titleEn: Titus.1-2
+      verseBG: Titus.1-2
+      verseYV: TIT.1
+    - titleCh: 詩篇 96
+      titleEn: Psalms.96
+      verseBG: Psalms.96
+      verseYV: PSA.96
+  - index: 670
+    verses:
+    - titleCh: 提多書 3
+      titleEn: Titus.3
+      verseBG: Titus.3
+      verseYV: TIT.3
+    - titleCh: 詩篇 97
+      titleEn: Psalms.97
+      verseBG: Psalms.97
+      verseYV: PSA.97
+  - index: 671
+    verses:
+    - titleCh: 腓利門書 1
+      titleEn: Philemon.1
+      verseBG: Philemon.1
+      verseYV: PHM.1
+    - titleCh: 詩篇 98
+      titleEn: Psalms.98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+  - index: 672
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 99
+      titleEn: Psalms.99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+  - index: 673
+    verses:
+    - titleCh: 希伯來書 1
+      titleEn: Hebrews.1
+      verseBG: Hebrews.1
+      verseYV: HEB.1
+    - titleCh: 詩篇 100
+      titleEn: Psalms.100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+  - index: 674
+    verses:
+    - titleCh: 希伯來書 2
+      titleEn: Hebrews.2
+      verseBG: Hebrews.2
+      verseYV: HEB.2
+    - titleCh: 詩篇 101
+      titleEn: Psalms.101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+  - index: 675
+    verses:
+    - titleCh: 希伯來書 3.1-4.13
+      titleEn: Hebrews.3.1-4.13
+      verseBG: Hebrews.3.1-4.13
+      verseYV: HEB.3
+    - titleCh: 詩篇 102
+      titleEn: Psalms.102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+  - index: 676
+    verses:
+    - titleCh: 希伯來書 4.14-6.20
+      titleEn: Hebrews.4.14-6.20
+      verseBG: Hebrews.4.14-6.20
+      verseYV: HEB.4
+    - titleCh: 詩篇 103
+      titleEn: Psalms.103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+  - index: 677
+    verses:
+    - titleCh: 希伯來書 7
+      titleEn: Hebrews.7
+      verseBG: Hebrews.7
+      verseYV: HEB.7
+    - titleCh: 詩篇 104
+      titleEn: Psalms.104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+  - index: 678
+    verses:
+    - titleCh: 希伯來書 8
+      titleEn: Hebrews.8
+      verseBG: Hebrews.8
+      verseYV: HEB.8
+    - titleCh: 詩篇 105
+      titleEn: Psalms.105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+  - index: 679
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 106
+      titleEn: Psalms.106
+      verseBG: Psalms.106
+      verseYV: PSA.106
+  - index: 680
+    verses:
+    - titleCh: 希伯來書 9.1-10.18
+      titleEn: Hebrews.9.1-10.18
+      verseBG: Hebrews.9.1-10.18
+      verseYV: HEB.9
+    - titleCh: 詩篇 107
+      titleEn: Psalms.107
+      verseBG: Psalms.107
+      verseYV: PSA.107
+  - index: 681
+    verses:
+    - titleCh: 希伯來書 10.19-39
+      titleEn: Hebrews.10.19-39
+      verseBG: Hebrews.10.19-39
+      verseYV: HEB.10
+    - titleCh: 詩篇 108
+      titleEn: Psalms.108
+      verseBG: Psalms.108
+      verseYV: PSA.108
+  - index: 682
+    verses:
+    - titleCh: 希伯來書 11
+      titleEn: Hebrews.11
+      verseBG: Hebrews.11
+      verseYV: HEB.11
+    - titleCh: 詩篇 109
+      titleEn: Psalms.109
+      verseBG: Psalms.109
+      verseYV: PSA.109
+  - index: 683
+    verses:
+    - titleCh: 希伯來書 12
+      titleEn: Hebrews.12
+      verseBG: Hebrews.12
+      verseYV: HEB.12
+    - titleCh: 詩篇 110
+      titleEn: Psalms.110
+      verseBG: Psalms.110
+      verseYV: PSA.110
+  - index: 684
+    verses:
+    - titleCh: 希伯來書 13
+      titleEn: Hebrews.13
+      verseBG: Hebrews.13
+      verseYV: HEB.13
+    - titleCh: 詩篇 111
+      titleEn: Psalms.111
+      verseBG: Psalms.111
+      verseYV: PSA.111
+  - index: 685
+    verses:
+    - titleCh: 雅各書 1.1-18
+      titleEn: James.1.1-18
+      verseBG: James.1.1-18
+      verseYV: JAS.1
+    - titleCh: 詩篇 112
+      titleEn: Psalms.112
+      verseBG: Psalms.112
+      verseYV: PSA.112
+  - index: 686
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 113
+      titleEn: Psalms.113
+      verseBG: Psalms.113
+      verseYV: PSA.113
+  - index: 687
+    verses:
+    - titleCh: 雅各書 1.19-2.26
+      titleEn: James.1.19-2.26
+      verseBG: James.1.19-2.26
+      verseYV: JAS.1
+    - titleCh: 詩篇 114
+      titleEn: Psalms.114
+      verseBG: Psalms.114
+      verseYV: PSA.114
+  - index: 688
+    verses:
+    - titleCh: 雅各書 3.1-4.12
+      titleEn: James.3.1-4.12
+      verseBG: James.3.1-4.12
+      verseYV: JAS.3
+    - titleCh: 詩篇 115
+      titleEn: Psalms.115
+      verseBG: Psalms.115
+      verseYV: PSA.115
+  - index: 689
+    verses:
+    - titleCh: 雅各書 4.13-5.20
+      titleEn: James.4.13-5.20
+      verseBG: James.4.13-5.20
+      verseYV: JAS.4
+    - titleCh: 詩篇 116
+      titleEn: Psalms.116
+      verseBG: Psalms.116
+      verseYV: PSA.116
+  - index: 690
+    verses:
+    - titleCh: 彼得前書 1.1-12
+      titleEn: 1 Peter.1.1-12
+      verseBG: 1 Peter.1.1-12
+      verseYV: 1PE.1
+    - titleCh: 詩篇 117
+      titleEn: Psalms.117
+      verseBG: Psalms.117
+      verseYV: PSA.117
+  - index: 691
+    verses:
+    - titleCh: 彼得前書 1.13-2.10
+      titleEn: 1 Peter.1.13-2.10
+      verseBG: 1 Peter.1.13-2.10
+      verseYV: 1PE.1
+    - titleCh: 詩篇 118
+      titleEn: Psalms.118
+      verseBG: Psalms.118
+      verseYV: PSA.118
+  - index: 692
+    verses:
+    - titleCh: 彼得前書 2.11-3.7
+      titleEn: 1 Peter.2.11-3.7
+      verseBG: 1 Peter.2.11-3.7
+      verseYV: 1PE.2
+    - titleCh: 詩篇 119.1-16
+      titleEn: Psalms.119.1-16
+      verseBG: Psalms.119.1-16
+      verseYV: PSA.119
+  - index: 693
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119.17-32
+      titleEn: Psalms.119.17-32
+      verseBG: Psalms.119.17-32
+      verseYV: PSA.119
+  - index: 694
+    verses:
+    - titleCh: 彼得前書 3.8-4.11
+      titleEn: 1 Peter.3.8-4.11
+      verseBG: 1 Peter.3.8-4.11
+      verseYV: 1PE.3
+    - titleCh: 詩篇 119.33-48
+      titleEn: Psalms.119.33-48
+      verseBG: Psalms.119.33-48
+      verseYV: PSA.119
+  - index: 695
+    verses:
+    - titleCh: 彼得前書 4.12-5.14
+      titleEn: 1 Peter.4.12-5.14
+      verseBG: 1 Peter.4.12-5.14
+      verseYV: 1PE.4
+    - titleCh: 詩篇 119.49-64
+      titleEn: Psalms.119.49-64
+      verseBG: Psalms.119.49-64
+      verseYV: PSA.119
+  - index: 696
+    verses:
+    - titleCh: 彼得後書 1
+      titleEn: 2 Peter.1
+      verseBG: 2 Peter.1
+      verseYV: 2PE.1
+    - titleCh: 詩篇 119.65-80
+      titleEn: Psalms.119.65-80
+      verseBG: Psalms.119.65-80
+      verseYV: PSA.119
+  - index: 697
+    verses:
+    - titleCh: 彼得後書 2
+      titleEn: 2 Peter.2
+      verseBG: 2 Peter.2
+      verseYV: 2PE.2
+    - titleCh: 詩篇 119.81-96
+      titleEn: Psalms.119.81-96
+      verseBG: Psalms.119.81-96
+      verseYV: PSA.119
+  - index: 698
+    verses:
+    - titleCh: 彼得後書 3
+      titleEn: 2 Peter.3
+      verseBG: 2 Peter.3
+      verseYV: 2PE.3
+    - titleCh: 詩篇 119.97-112
+      titleEn: Psalms.119.97-112
+      verseBG: Psalms.119.97-112
+      verseYV: PSA.119
+  - index: 699
+    verses:
+    - titleCh: 約翰一書 1.1-2.2
+      titleEn: 1 John.1.1-2.2
+      verseBG: 1 John.1.1-2.2
+      verseYV: 1JN.1
+    - titleCh: 詩篇 119.113-128
+      titleEn: Psalms.119.113-128
+      verseBG: Psalms.119.113-128
+      verseYV: PSA.119
+  - index: 700
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 119.129-144
+      titleEn: Psalms.119.129-144
+      verseBG: Psalms.119.129-144
+      verseYV: PSA.119
+  - index: 701
+    verses:
+    - titleCh: 約翰一書 2.3-27
+      titleEn: 1 John.2.3-27
+      verseBG: 1 John.2.3-27
+      verseYV: 1JN.2
+    - titleCh: 詩篇 119.145-160
+      titleEn: Psalms.119.145-160
+      verseBG: Psalms.119.145-160
+      verseYV: PSA.119
+  - index: 702
+    verses:
+    - titleCh: 約翰一書 2.28-3.24
+      titleEn: 1 John.2.28-3.24
+      verseBG: 1 John.2.28-3.24
+      verseYV: 1JN.2
+    - titleCh: 詩篇 119.161-176
+      titleEn: Psalms.119.161-176
+      verseBG: Psalms.119.161-176
+      verseYV: PSA.119
+  - index: 703
+    verses:
+    - titleCh: 約翰一書 4
+      titleEn: 1 John.4
+      verseBG: 1 John.4
+      verseYV: 1JN.4
+    - titleCh: 詩篇 120
+      titleEn: Psalms.120
+      verseBG: Psalms.120
+      verseYV: PSA.120
+  - index: 704
+    verses:
+    - titleCh: 約翰一書 5
+      titleEn: 1 John.5
+      verseBG: 1 John.5
+      verseYV: 1JN.5
+    - titleCh: 詩篇 121
+      titleEn: Psalms.121
+      verseBG: Psalms.121
+      verseYV: PSA.121
+  - index: 705
+    verses:
+    - titleCh: 約翰二書 1
+      titleEn: 2 John.1
+      verseBG: 2 John.1
+      verseYV: 2JN.1
+    - titleCh: 詩篇 122
+      titleEn: Psalms.122
+      verseBG: Psalms.122
+      verseYV: PSA.122
+  - index: 706
+    verses:
+    - titleCh: 約翰三書 1
+      titleEn: 3 John.1
+      verseBG: 3 John.1
+      verseYV: 3JN.1
+    - titleCh: 詩篇 123
+      titleEn: Psalms.123
+      verseBG: Psalms.123
+      verseYV: PSA.123
+  - index: 707
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 124
+      titleEn: Psalms.124
+      verseBG: Psalms.124
+      verseYV: PSA.124
+  - index: 708
+    verses:
+    - titleCh: 猶大書 1
+      titleEn: Jude.1
+      verseBG: Jude.1
+      verseYV: JUD.1
+    - titleCh: 詩篇 125
+      titleEn: Psalms.125
+      verseBG: Psalms.125
+      verseYV: PSA.125
+  - index: 709
+    verses:
+    - titleCh: 啟示錄 1
+      titleEn: Revelation.1
+      verseBG: Revelation.1
+      verseYV: REV.1
+    - titleCh: 詩篇 126
+      titleEn: Psalms.126
+      verseBG: Psalms.126
+      verseYV: PSA.126
+  - index: 710
+    verses:
+    - titleCh: 啟示錄 2-3
+      titleEn: Revelation.2-3
+      verseBG: Revelation.2-3
+      verseYV: REV.2
+    - titleCh: 詩篇 127
+      titleEn: Psalms.127
+      verseBG: Psalms.127
+      verseYV: PSA.127
+  - index: 711
+    verses:
+    - titleCh: 啟示錄 4-5
+      titleEn: Revelation.4-5
+      verseBG: Revelation.4-5
+      verseYV: REV.4
+    - titleCh: 詩篇 128
+      titleEn: Psalms.128
+      verseBG: Psalms.128
+      verseYV: PSA.128
+  - index: 712
+    verses:
+    - titleCh: 啟示錄 6
+      titleEn: Revelation.6
+      verseBG: Revelation.6
+      verseYV: REV.6
+    - titleCh: 詩篇 129
+      titleEn: Psalms.129
+      verseBG: Psalms.129
+      verseYV: PSA.129
+  - index: 713
+    verses:
+    - titleCh: 啟示錄 7.1-8.5
+      titleEn: Revelation.7.1-8.5
+      verseBG: Revelation.7.1-8.5
+      verseYV: REV.7
+    - titleCh: 詩篇 130
+      titleEn: Psalms.130
+      verseBG: Psalms.130
+      verseYV: PSA.130
+  - index: 714
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 131
+      titleEn: Psalms.131
+      verseBG: Psalms.131
+      verseYV: PSA.131
+  - index: 715
+    verses:
+    - titleCh: 啟示錄 8.6-9.21
+      titleEn: Revelation.8.6-9.21
+      verseBG: Revelation.8.6-9.21
+      verseYV: REV.8
+    - titleCh: 詩篇 132
+      titleEn: Psalms.132
+      verseBG: Psalms.132
+      verseYV: PSA.132
+  - index: 716
+    verses:
+    - titleCh: 啟示錄 10-11
+      titleEn: Revelation.10-11
+      verseBG: Revelation.10-11
+      verseYV: REV.10
+    - titleCh: 詩篇 133
+      titleEn: Psalms.133
+      verseBG: Psalms.133
+      verseYV: PSA.133
+  - index: 717
+    verses:
+    - titleCh: 啟示錄 12
+      titleEn: Revelation.12
+      verseBG: Revelation.12
+      verseYV: REV.12
+    - titleCh: 詩篇 134
+      titleEn: Psalms.134
+      verseBG: Psalms.134
+      verseYV: PSA.134
+  - index: 718
+    verses:
+    - titleCh: 啟示錄 13
+      titleEn: Revelation.13
+      verseBG: Revelation.13
+      verseYV: REV.13
+    - titleCh: 詩篇 135
+      titleEn: Psalms.135
+      verseBG: Psalms.135
+      verseYV: PSA.135
+  - index: 719
+    verses:
+    - titleCh: 啟示錄 14
+      titleEn: Revelation.14
+      verseBG: Revelation.14
+      verseYV: REV.14
+    - titleCh: 詩篇 136
+      titleEn: Psalms.136
+      verseBG: Psalms.136
+      verseYV: PSA.136
+  - index: 720
+    verses:
+    - titleCh: 啟示錄 15-16
+      titleEn: Revelation.15-16
+      verseBG: Revelation.15-16
+      verseYV: REV.15
+    - titleCh: 詩篇 137
+      titleEn: Psalms.137
+      verseBG: Psalms.137
+      verseYV: PSA.137
+  - index: 721
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 138
+      titleEn: Psalms.138
+      verseBG: Psalms.138
+      verseYV: PSA.138
+  - index: 722
+    verses:
+    - titleCh: 啟示錄 17
+      titleEn: Revelation.17
+      verseBG: Revelation.17
+      verseYV: REV.17
+    - titleCh: 詩篇 139
+      titleEn: Psalms.139
+      verseBG: Psalms.139
+      verseYV: PSA.139
+  - index: 723
+    verses:
+    - titleCh: 啟示錄 18.1-19.10
+      titleEn: Revelation.18.1-19.10
+      verseBG: Revelation.18.1-19.10
+      verseYV: REV.18
+    - titleCh: 詩篇 140
+      titleEn: Psalms.140
+      verseBG: Psalms.140
+      verseYV: PSA.140
+  - index: 724
+    verses:
+    - titleCh: 啟示錄 19.11-20.15
+      titleEn: Revelation.19.11-20.15
+      verseBG: Revelation.19.11-20.15
+      verseYV: REV.19
+    - titleCh: 詩篇 141
+      titleEn: Psalms.141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+  - index: 725
+    verses:
+    - titleCh: 啟示錄 21.1-22.5
+      titleEn: Revelation.21.1-22.5
+      verseBG: Revelation.21.1-22.5
+      verseYV: REV.21
+    - titleCh: 詩篇 142
+      titleEn: Psalms.142
+      verseBG: Psalms.142
+      verseYV: PSA.142
+  - index: 726
+    verses:
+    - titleCh: 啟示錄 22.6-21
+      titleEn: Revelation.22.6-21
+      verseBG: Revelation.22.6-21
+      verseYV: REV.22
+    - titleCh: 詩篇 143
+      titleEn: Psalms.143
+      verseBG: Psalms.143
+      verseYV: PSA.143
 ---
