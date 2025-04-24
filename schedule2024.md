@@ -4913,10 +4913,10 @@ plan:
       verseYV: PSA.96
   - index: 479
     verses:
-    - titleCh: 哈巴古書 1-3
-      titleEn: 哈巴古書.1-3
-      verseBG: 哈巴古書.1-3
-      verseYV: 哈巴古書.1
+    - titleCh: 哈巴谷書 1-3
+      titleEn: 哈巴谷書.1-3
+      verseBG: 哈巴谷書.1-3
+      verseYV: 哈巴谷書.1
     - titleCh: 詩篇 97
       titleEn: Psalms.97
       verseBG: Psalms.97
