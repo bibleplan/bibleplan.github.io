@@ -5833,9 +5833,9 @@ plan:
       verseYV: PRO.28
   - index: 571
     verses:
-    - titleCh: 約翰福音 20
-      titleEn: John.20
-      verseBG: John.20
+    - titleCh: 約翰福音 20-21
+      titleEn: John.20-21
+      verseBG: John.20-21
       verseYV: JHN.20
     - titleCh: 箴言 29
       titleEn: Provebs.29
