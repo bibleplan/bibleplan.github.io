@@ -1,1 +1,1 @@
-week76.txt,https://drive.google.com/u/0/uc?id=13jiCHqMNp2UvnZyfplG87yiixFRJNB_P&export=download,2025-06-13T16:37:18.190Z
+week77.txt,https://drive.google.com/u/0/uc?id=1ua0lBdCyDQC-aiwrENEpa5RNgZGm2gU7&export=download,2025-06-17T17:35:12.482Z
