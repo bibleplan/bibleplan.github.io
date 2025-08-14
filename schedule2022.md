@@ -2889,9 +2889,9 @@ plan:
 
   - index: 263
     verses:
-    - titleCh: 使徒行傳  28.17-30
-      titleEn: Acts 28.17-30
-      verseBG: Acts.28.17-30
+    - titleCh: 使徒行傳  28.17-31
+      titleEn: Acts 28.17-31
+      verseBG: Acts.28.17-31
       verseYV: ACT.28
     - titleCh: 詩篇 72
       titleEn: Psalms 72
