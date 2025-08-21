@@ -1,0 +1,147 @@
+name: Check Google Drive File
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # Runs every hour on the hour, to disable, change to 1 1 *
+
+jobs:
+  update_md_file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Commit and Push Changes
+        run: |
+          wget -O temp2.md https://raw.githubusercontent.com/2010johnlee/2010johnlee.github.io/main/temp2.md
+          cat temp2.md
+          git config user.name "ECCRedM-Media"
+          git config user.email "ECCRedM-Media@gmail.com"          
+          if ! cmp -s xiv2.md temp2.md; then # if [ 1 -eq 2 ]; then
+            #load the new temp2.md 
+            echo "temp2.md is new"
+            input_string=$(cat temp2.md)
+            formatted_string=$(echo "$input_string" | sed 's/,/ /g')
+            read -r var1 var2 var3 <<< "$formatted_string"
+            var1=${var1%.txt}  # trim the .txt in the filename
+            var1=${var1:4}  # trim the week in the filename
+            var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
+            weeks_to_add=$var1
+            wkly_date=$(date -d "2023-12-31 + $weeks_to_add week" +"%Y-%m-%d")
+            echo "week#: $var1"
+            echo "url: $var2"
+            echo "updated time: $var3"
+            #load the weekly summary content
+            filename="contentfile.txt"
+            wget -O $filename $var2
+            # recitekey="$(grep -o "（本.*文）" contentfile.txt)"
+            # recitekey="${recitekey%）}"
+            # recitekey="${recitekey#（}"    
+            recitekey="本週背經經文"
+            echo "recitekey: $recitekey"
+            sed -i "s|${recitekey}|_**${recitekey}**_|g" contentfile.txt
+            # sed -i 's|本週背經經文|_**本週背經經文**_|g' contentfile.txt
+            echo "recite verse highlighted"
+            total_lines=$(wc -l < "$filename") 
+            echo "total lines: $total_lines"
+            sed_cmp () {
+              if [ "${#2}" -gt 5 ]; then
+                sed -i "s|$1|$2|g" "$3"
+                echo "sed $2"
+              else
+                echo "$2 is too short. Do nothing."
+              fi
+            }            
+            sed_cmp_s () {
+              if [ "${#2}" -gt 0 ]; then
+                sed -i "s|$1|$2|g" "$3"
+                echo "sed $2"
+              else
+                echo "$2 is too short. Do nothing."
+              fi
+            }                      
+            # Loop over each line and update 
+            week_with_zeros=$(printf "%03d" "$var1")
+            cp template/Sunday_daily_template _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            cp template/quanli_Sunday_template _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
+            cp template/weekly_template _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+            sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md
+            sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+            sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/weekly/2024/$wkly_date-wk$weeks_to_add.md
+            
+            sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
+            sed_cmp_s "DATEPLACEHOLDER" "$wkly_date" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
+
+            for (( row_number=1; row_number<=total_lines+1; row_number++ )); do
+              echo "running ${row_number} out of ${total_lines}"
+              # Skip every 4th row
+              if [ $((row_number % 4)) -eq 0 ]; then
+                continue
+              fi
+              
+              days_to_add=$((row_number/4+1))
+              DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
+              DAY_OF_YEAR=${DAY_OF_YEAR#"${DAY_OF_YEAR%%[!0]*}"}
+              DAY_OF_YEAR25=$((DAY_OF_YEAR+366))
+              m_date=$(date -d "2024-01-01 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
+              
+              row=$(awk "NR == $row_number" "$filename")
+              row=$(echo "$row" | tr -d '\r') # remove carriage return symbol
+              reciterow=$(grep "$recitekey" "$filename")
+              reciterow=$(echo "$reciterow" | sed "s/（_\*\*${recitekey}\*\*_）//g")
+              reciterow=$(echo "$reciterow" | tr -d '\r')
+              if [ "$days_to_add" -lt 7 ]; then #Mon-Sat contents
+                case $((row_number % 4)) in
+                1) 
+                  echo $m_date
+                  cp template/quanli_template _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "WEEKPLACEHOLDER" "$var1" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "DAYNUMPLACEHOLDER" "$days_to_add" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR25" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp_s "DATEPLACEHOLDER" "$m_date" _posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md
+                  sed_cmp "QLTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  ;;
+                2)
+                  sed_cmp "QLRECITEVERSE" "$reciterow" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "QLVERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+
+                  sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md"
+                  sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
+                  sed_cmp "QLD${days_to_add}VERSE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"                  
+                  ;;
+                3)
+                  trimmedlink="http$( [[ $row == *http* ]] && echo ${row##*http} || echo "" )"
+                  sed_cmp "QLLINK" "$trimmedlink" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  ;;
+                esac
+              else #Sunday contents
+                case $((row_number % 4)) in
+                1) 
+                  echo $m_date
+                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR25" _posts/sharing/2024/wk$week_with_zeros/$wkly_date-qianli.md
+                  
+                  sed_cmp "QLREVIEWTITLE" "$row" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "QLREVIEWTITLE" "$row" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
+                  sed_cmp "QLREVIEWTITLE" "$row" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  ;;
+                2)
+                  trimmedQLRlink="http$( [[ $row == *http* ]] && echo ${row##*http} || echo "" )"
+                  sed_cmp "QLREVIEWLINK" "$trimmedQLRlink" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "QLREVIEWLINK" "$trimmedQLRlink" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
+                  sed_cmp "QLREVIEWLINK" "$trimmedQLRlink" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  ;;
+                3)
+                  trimmedQLTlink="http$( [[ $row == *http* ]] && echo ${row##*http} || echo "" )"
+                  sed_cmp "QLTESTLINK" "$trimmedQLTlink" "_posts/sharing/2024/wk$week_with_zeros/$m_date-qianli.md"
+                  sed_cmp "QLTESTLINK" "$trimmedQLTlink" "_posts/daily/2024/wk$week_with_zeros/$wkly_date-daily.md"
+                  sed_cmp "QLTESTLINK" "$trimmedQLTlink" "_posts/weekly/2024/$wkly_date-wk$weeks_to_add.md"
+                  ;;
+                esac
+              fi
+            done
+            mv temp2.md xiv2.md
+            git add -A
+            git commit -m "Add untracked and modified files"
+            git push
+          fi
