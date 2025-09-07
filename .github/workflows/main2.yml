@@ -142,6 +142,6 @@ jobs:
             done
             mv temp2.md xiv2.md
             git add -A
-            git commit -m "Add untracked and modified files"
+            git commit -m "Add untracked and modified files s2"
             git push
           fi
