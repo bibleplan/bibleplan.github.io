@@ -1,1 +1,1 @@
-week95.txt,https://drive.google.com/u/0/uc?id=1JjBJZe_Lfov5pjgpr6rddvPUwUIzvkjS&export=download,2025-10-24T15:47:49.661Z
+week96.txt,https://drive.google.com/u/0/uc?id=1akDOPXLqxrBhobxSERrybo1h0XBcuWHF&export=download,2025-10-24T19:40:23.000Z
