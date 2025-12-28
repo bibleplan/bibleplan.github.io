@@ -3,7 +3,7 @@ layout: schedule2024
 plan:
   name: "「每日讀經 與主同行」"
   startDate: "01-01-2024"
-  totalDays: 700
+  totalDays: 731
   days: 
   - index: 1
     verses:
@@ -7391,4 +7391,54 @@ plan:
       titleEn: Psalms.143
       verseBG: Psalms.143
       verseYV: PSA.143
+  - index: 727
+    verses:
+    - titleCh: 腓利比書 1.1-26
+      titleEn: Philippians.1.1-26
+      verseBG: Philippians.1.1-26
+      verseYV: PHP.1
+    - titleCh: 詩篇 143
+      titleEn: Psalms.143
+      verseBG: Psalms.143
+      verseYV: PSA.143
+  - index: 728
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 144
+      titleEn: Psalms.144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+  - index: 729
+    verses:
+    - titleCh: 腓利比書 1.27-2.30
+      titleEn: Philippians.1.27-2.30
+      verseBG: Philippians.1.27-2.30
+      verseYV: PHP.1
+    - titleCh: 詩篇 145
+      titleEn: Psalms.145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+  - index: 730
+    verses:
+    - titleCh: 腓利比書 3.1-4.3
+      titleEn: Philippians.3.1-4.3
+      verseBG: Philippians.3.1-4.3
+      verseYV: PHP.3
+    - titleCh: 詩篇 146
+      titleEn: Psalms.146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+  - index: 731
+    verses:
+    - titleCh: 腓利比書 4.4-23
+      titleEn: Philippians.4.4-23
+      verseBG: Philippians.4.4-23
+      verseYV: PHP.4
+    - titleCh: 詩篇 147
+      titleEn: Psalms.147
+      verseBG: Psalms.147
+      verseYV: PSA.147
 ---
