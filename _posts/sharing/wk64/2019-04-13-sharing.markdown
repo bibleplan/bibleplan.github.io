@@ -1,9 +1,0 @@
----
-layout: sharing
-date: 2019-04-13
-title: "讀經分享：【待更新】"
-categories: sharing
-weekNum: 64
-dayNum: 6
-permalink: /sharing/day6-wk64-sharing.html
----
