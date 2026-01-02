@@ -40,10 +40,10 @@ plan:
 
   - index: 4
     verses:
-    - titleCh: 創世記 6.9-9.29
-      titleEn: Genesis 6.9-9.29
-      verseBG: Genesis.6.9-9.29
-      verseYV: GEN.6
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
     - titleCh: 詩篇 4
       titleEn: Psalms 4
       verseBG: Psalms.4
@@ -51,10 +51,10 @@ plan:
 
   - index: 5
     verses:
-    - titleCh: 創世記 10.1-11.9
-      titleEn: Genesis 10.1-11.9
-      verseBG: Genesis.10.1-11.9
-      verseYV: GEN.10
+    - titleCh: 創世記 6.9-9.29
+      titleEn: Genesis 6.9-9.29
+      verseBG: Genesis.6.9-9.29
+      verseYV: GEN.6
     - titleCh: 詩篇 5
       titleEn: Psalms 5
       verseBG: Psalms.5
@@ -62,10 +62,10 @@ plan:
 
   - index: 6
     verses:
-    - titleCh: 創世記 11.10-32
-      titleEn: Genesis 11.10-32
-      verseBG: Genesis.11.10-32
-      verseYV: GEN.11.10-32
+    - titleCh: 創世記 10.1-11.9
+      titleEn: Genesis 10.1-11.9
+      verseBG: Genesis.10.1-11.9
+      verseYV: GEN.10
     - titleCh: 詩篇 6
       titleEn: Psalms 6
       verseBG: Psalms.6
@@ -73,10 +73,10 @@ plan:
 
   - index: 7
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 創世記 11.10-32
+      titleEn: Genesis 11.10-32
+      verseBG: Genesis.11.10-32
+      verseYV: GEN.11.10-32
     - titleCh: 詩篇 7
       titleEn: Psalms 7
       verseBG: Psalms.7
