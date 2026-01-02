@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 21"
-date:   2018-06-17
-categories: weekly guide
-permalink: "/en/guide/wk21.html"
-weekNum: 21
-language: English
----

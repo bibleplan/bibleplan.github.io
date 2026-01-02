@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 26"
-date:   2018-07-22
-categories: weekly guide
-permalink: "/en/guide/wk26.html"
-weekNum: 26
-language: English
----

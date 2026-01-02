@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 78"
-date: 2019-07-21
-categories: weekly guide
-permalink: "/en/guide/wk78.html"
-weekNum: 78
-language: English
----

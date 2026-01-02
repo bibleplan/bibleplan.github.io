@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 27"
-date:   2018-07-29
-categories: weekly guide
-permalink: "/en/guide/wk27.html"
-weekNum: 27
-language: English
----

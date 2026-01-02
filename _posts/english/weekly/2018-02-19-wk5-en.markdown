@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide ：Week 5"
-date:   2018-02-25
-language: English
-categories: weekly guide
-permalink: "/en/guide/wk5.html"
-weekNum: 5
----

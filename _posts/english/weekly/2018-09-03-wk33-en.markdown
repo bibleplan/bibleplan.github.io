@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 33"
-date:   2018-09-09
-categories: weekly guide
-permalink: "/en/guide/wk33.html"
-weekNum: 33
-language: English
----

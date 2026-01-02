@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 66"
-date: 2019-04-28
-categories: weekly guide
-permalink: "/en/guide/wk66.html"
-weekNum: 66
-language: English
----

@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 29"
-date:   2018-08-12
-categories: weekly guide
-permalink: "/en/guide/wk29.html"
-weekNum: 29
-language: English
----

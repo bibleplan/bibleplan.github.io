@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 42"
-date:   2018-11-11
-categories: weekly guide
-permalink: "/en/guide/wk42.html"
-weekNum: 42
-language: English
----

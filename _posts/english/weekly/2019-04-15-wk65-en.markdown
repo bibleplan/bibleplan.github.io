@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 65"
-date: 2019-04-21
-categories: weekly guide
-permalink: "/en/guide/wk65.html"
-weekNum: 65
-language: English
----

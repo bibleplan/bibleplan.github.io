@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 67"
-date: 2019-05-05
-categories: weekly guide
-permalink: "/en/guide/wk67.html"
-weekNum: 67
-language: English
----

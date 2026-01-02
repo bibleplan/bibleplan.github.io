@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 93"
-date: 2019-11-03
-categories: weekly guide
-permalink: "/en/guide/wk93.html"
-weekNum: 93
-language: English
----

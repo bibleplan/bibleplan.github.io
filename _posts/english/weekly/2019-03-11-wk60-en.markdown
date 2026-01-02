@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 60"
-date: 2019-03-17
-categories: weekly guide
-permalink: "/en/guide/wk60.html"
-weekNum: 60
-language: English
----

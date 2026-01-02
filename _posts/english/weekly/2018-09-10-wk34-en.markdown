@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 34"
-date:   2018-09-16
-categories: weekly guide
-permalink: "/en/guide/wk34.html"
-weekNum: 34
-language: English
----

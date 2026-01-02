@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 41"
-date:   2018-11-04
-categories: weekly guide
-permalink: "/en/guide/wk41.html"
-weekNum: 41
-language: English
----

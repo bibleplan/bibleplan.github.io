@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 23"
-date:   2018-07-01
-categories: weekly guide
-permalink: "/en/guide/wk23.html"
-weekNum: 23
-language: English
----

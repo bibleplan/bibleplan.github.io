@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 92"
-date: 2019-10-27
-categories: weekly guide
-permalink: "/en/guide/wk92.html"
-weekNum: 92
-language: English
----

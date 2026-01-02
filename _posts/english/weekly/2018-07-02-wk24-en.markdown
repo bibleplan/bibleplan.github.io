@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 24"
-date:   2018-07-08
-categories: weekly guide
-permalink: "/en/guide/wk24.html"
-weekNum: 24
-language: English
----

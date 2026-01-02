@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 49"
-date: 2018-12-30
-categories: weekly guide
-permalink: "/en/guide/wk49.html"
-weekNum: 49
-language: English
----

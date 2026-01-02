@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 35"
-date:   2018-09-23
-categories: weekly guide
-permalink: "/en/guide/wk35.html"
-weekNum: 35
-language: English
----

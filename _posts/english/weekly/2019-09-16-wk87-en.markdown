@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 87"
-date: 2019-09-22
-categories: weekly guide
-permalink: "/en/guide/wk87.html"
-weekNum: 87
-language: English
----

@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 72"
-date: 2019-06-09
-categories: weekly guide
-permalink: "/en/guide/wk72.html"
-weekNum: 72
-language: English
----

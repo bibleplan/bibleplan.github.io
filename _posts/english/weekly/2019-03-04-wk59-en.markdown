@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 59"
-date: 2019-03-10
-categories: weekly guide
-permalink: "/en/guide/wk59.html"
-weekNum: 59
-language: English
----

@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 73"
-date: 2019-06-16
-categories: weekly guide
-permalink: "/en/guide/wk73.html"
-weekNum: 73
-language: English
----

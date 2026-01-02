@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 102"
-date: 2020-01-05
-categories: weekly guide
-permalink: "/en/guide/wk102.html"
-weekNum: 102
-language: English
----

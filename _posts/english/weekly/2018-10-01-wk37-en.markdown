@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 37"
-date:   2018-10-07
-categories: weekly guide
-permalink: "/en/guide/wk37.html"
-weekNum: 37
-language: English
----

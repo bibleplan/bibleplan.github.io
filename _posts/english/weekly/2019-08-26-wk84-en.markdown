@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 84"
-date: 2019-09-01
-categories: weekly guide
-permalink: "/en/guide/wk84.html"
-weekNum: 84
-language: English
----

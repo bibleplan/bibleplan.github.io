@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 39"
-date:   2018-10-21
-categories: weekly guide
-permalink: "/en/guide/wk39.html"
-weekNum: 39
-language: English
----

@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 36"
-date:   2018-09-30
-categories: weekly guide
-permalink: "/en/guide/wk36.html"
-weekNum: 36
-language: English
----

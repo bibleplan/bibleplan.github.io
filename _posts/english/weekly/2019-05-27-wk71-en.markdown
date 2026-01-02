@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 71"
-date: 2019-06-02
-categories: weekly guide
-permalink: "/en/guide/wk71.html"
-weekNum: 71
-language: English
----

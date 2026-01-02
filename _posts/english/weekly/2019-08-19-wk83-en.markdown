@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 83"
-date: 2019-08-25
-categories: weekly guide
-permalink: "/en/guide/wk83.html"
-weekNum: 83
-language: English
----

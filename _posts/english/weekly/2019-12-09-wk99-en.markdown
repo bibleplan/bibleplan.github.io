@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 99"
-date: 2019-12-15
-categories: weekly guide
-permalink: "/en/guide/wk99.html"
-weekNum: 99
-language: English
----

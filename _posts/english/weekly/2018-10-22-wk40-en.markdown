@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 40"
-date:   2018-10-28
-categories: weekly guide
-permalink: "/en/guide/wk40.html"
-weekNum: 40
-language: English
----

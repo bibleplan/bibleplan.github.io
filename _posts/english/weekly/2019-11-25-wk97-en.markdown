@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 97"
-date: 2019-12-01
-categories: weekly guide
-permalink: "/en/guide/wk97.html"
-weekNum: 97
-language: English
----

@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 68"
-date: 2019-05-12
-categories: weekly guide
-permalink: "/en/guide/wk68.html"
-weekNum: 68
-language: English
----

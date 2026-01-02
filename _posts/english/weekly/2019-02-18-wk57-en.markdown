@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 57"
-date: 2019-02-24
-categories: weekly guide
-permalink: "/en/guide/wk57.html"
-weekNum: 57
-language: English
----

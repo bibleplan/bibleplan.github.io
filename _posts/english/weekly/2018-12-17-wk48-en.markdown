@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 48"
-date: 2018-12-23
-categories: weekly guide
-permalink: "/en/guide/wk48.html"
-weekNum: 48
-language: English
----

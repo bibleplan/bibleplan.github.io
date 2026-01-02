@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 30"
-date:   2018-08-19
-categories: weekly guide
-permalink: "/en/guide/wk30.html"
-weekNum: 30
-language: English
----

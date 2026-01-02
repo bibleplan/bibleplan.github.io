@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 86"
-date: 2019-09-15
-categories: weekly guide
-permalink: "/en/guide/wk86.html"
-weekNum: 86
-language: English
----

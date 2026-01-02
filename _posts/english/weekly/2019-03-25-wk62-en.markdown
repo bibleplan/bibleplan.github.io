@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 62"
-date: 2019-03-31
-categories: weekly guide
-permalink: "/en/guide/wk62.html"
-weekNum: 62
-language: English
----

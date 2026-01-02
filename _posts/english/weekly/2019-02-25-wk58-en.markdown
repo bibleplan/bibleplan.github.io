@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 58"
-date: 2019-03-03
-categories: weekly guide
-permalink: "/en/guide/wk58.html"
-weekNum: 58
-language: English
----

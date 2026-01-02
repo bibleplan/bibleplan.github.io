@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 63"
-date: 2019-04-07
-categories: weekly guide
-permalink: "/en/guide/wk63.html"
-weekNum: 63
-language: English
----

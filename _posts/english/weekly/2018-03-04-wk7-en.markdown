@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide ：Week 7"
-date:   2018-03-11
-language: English
-categories: weekly guide
-permalink: "/en/guide/wk7.html"
-weekNum: 7
----

@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title:  "Weekly Guide：Week 28"
-date:   2018-08-05
-categories: weekly guide
-permalink: "/en/guide/wk28.html"
-weekNum: 28
-language: English
----

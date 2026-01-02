@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 75"
-date: 2019-06-30
-categories: weekly guide
-permalink: "/en/guide/wk75.html"
-weekNum: 75
-language: English
----

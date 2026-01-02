@@ -1,9 +1,0 @@
----
-layout: weekly-en
-title: "Weekly Guide：Week 46"
-date: 2018-12-09
-categories: weekly guide
-permalink: "/en/guide/wk46.html"
-weekNum: 46
-language: English
----
