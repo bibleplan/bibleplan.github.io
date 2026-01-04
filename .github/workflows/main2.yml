@@ -27,7 +27,7 @@ jobs:
             var1=${var1:4}  # trim the week in the filename
             var1=${var1#"${var1%%[!0]*}"} # trim the leading zeros, if any
             weeks_to_add=$var1
-            wkly_date=$(date -d "2025-12-31 + $weeks_to_add week" +"%Y-%m-%d")
+            wkly_date=$(date -d "2025-12-28 + $weeks_to_add week" +"%Y-%m-%d")
             echo "week#: $var1"
             echo "url: $var2"
             echo "updated time: $var3"
