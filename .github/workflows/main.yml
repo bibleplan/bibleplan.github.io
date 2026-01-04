@@ -83,7 +83,12 @@ jobs:
               days_to_add=$((row_number/4+1))
               DAY_OF_YEAR=$(date -d "$(date +%Y)-01-01 +$((var1-1)) weeks +$((days_to_add-1)) days" +%j)
               DAY_OF_YEAR=${DAY_OF_YEAR#"${DAY_OF_YEAR%%[!0]*}"}
-              DAY_OF_YEAR27=$((DAY_OF_YEAR+366))
+
+              YEARCHECK=$(date +%Y)
+              if (( YEARCHECK % 2 == 1 )); then
+                DAY_OF_YEAR=$((DAY_OF_YEAR+366))
+              fi
+              
               m_date=$(date -d "2025-12-29 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               
               row=$(awk "NR == $row_number" "$filename")
