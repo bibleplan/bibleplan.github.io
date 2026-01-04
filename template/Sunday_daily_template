@@ -1,15 +1,15 @@
 ---
-layout: daily2024
+layout: daily2026
 title:  "第WEEKPLACEHOLDER週 第7天 補漏拾遺"
 date: DATEPLACEHOLDER
 categories: daily
-permalink: /daily/2024/wkWEEKPLACEHOLDER-day7-daily.html
+permalink: /daily/2026/wkWEEKPLACEHOLDER-day7-daily.html
 weekNum: WEEKPLACEHOLDER
 dayNum: 7
-cycle: 2024
+cycle: 2026
 ---
 
-{% include BibleLinks2024.html %}
+{% include BibleLinks2026.html %}
 
 【<a href="QLREVIEWLINK" target="_blank">QLREVIEWTITLE</a>】
 
