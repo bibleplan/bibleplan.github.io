@@ -86,7 +86,11 @@ jobs:
               
               YEARCHECK=$(date +%Y)
               if (( YEARCHECK % 2 == 1 )); then
-                DAY_OF_YEAR=$((DAY_OF_YEAR+366))
+                if (( YEARCHECK % 4 == 1 )); then
+                  DAY_OF_YEAR=$((DAY_OF_YEAR+366))
+                else
+                  DAY_OF_YEAR=$((DAY_OF_YEAR+365))
+                fi
               fi
               
               m_date=$(date -d "2025-12-29 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
