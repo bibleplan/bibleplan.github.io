@@ -5,9 +5,9 @@ title: {{ site.name }}
 
 {%- if page.weekNum == 1 and page.dayNum < 4 -%}
   {%- assign prevWeekNum = page.weekNum | minus:"1" -%}
-  {%- assign prevDayNum = 7 -%}
+  {%- assign prevDayNum = page.dayNum | plus:"2" -%}
   {%- assign nextWeekNum = page.weekNum -%}
-  {%- assign nextDayNum = page.dayNum | plus:"3" -%}
+  {%- assign nextDayNum = page.dayNum | plus:"4" -%}
 {%- elsif page.weekNum == 1 and page.dayNum == 4 -%}
   {%- assign nextWeekNum = page.weekNum | plus:"1" -%}
   {%- assign nextDayNum = 1 -%}
