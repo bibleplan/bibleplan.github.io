@@ -7,7 +7,7 @@
 
 {%- assign schedulePage = site.pages | where: "layout", "schedule2026" -%}
 {%- assign index = page.weekNum | times:7 -%}
-{%- assign index = index | minus:8 | plus: page.dayNum -%}
+{%- assign index = index | minus:11 | plus: page.dayNum -%}
 
 {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
 {%- if dailySchedule -%}
