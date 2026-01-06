@@ -92,7 +92,7 @@ jobs:
                   DAY_OF_YEAR=$((DAY_OF_YEAR+365))
                 fi
               fi
-              
+              DAY_OF_YEAR=$((DAY_OF_YEAR-3)) # start day offset
               m_date=$(date -d "2025-12-29 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               
               row=$(awk "NR == $row_number" "$filename")
