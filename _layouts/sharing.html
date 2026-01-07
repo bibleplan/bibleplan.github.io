@@ -30,7 +30,7 @@ title: {{ site.name }}
 
 <h3>{{ page.title }}</h3>
 
-{%- assign weekday = page.date | date: "%w" -%}
+{%- assign weekday = page.date | date: "%w" | plus: 0 -%}
 {%- assign weekdays_zh = "星期日,星期一,星期二,星期三,星期四,星期五,星期六" | split: "," -%}
 
 <p class="meta">
