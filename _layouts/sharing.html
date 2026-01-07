@@ -29,6 +29,12 @@ title: {{ site.name }}
 {%- endif -%}
 
 <h3>{{ page.title }}</h3>
-<p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
+
+{%- assign weekday = page.date | date: "%w" -%}
+{%- assign weekdays_zh = "星期日,星期一,星期二,星期三,星期四,星期五,星期六" | split: "," -%}
+
+<p class="meta">
+  {{ weekdays_zh[weekday] }}，{{ page.date | date: "%Y年%m月%d日" }}
+</p>
 
 {{ page.content }}
