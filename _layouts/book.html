@@ -3,28 +3,11 @@ layout: post
 title: {{ site.name }}
 ---
 
-
-{%- if page.dayNum == 1 -%}
-  {%- assign prevWeekNum = page.weekNum | minus:"1" -%}
-  {%- assign prevDayNum = 7 -%}
-  {%- assign nextWeekNum = page.weekNum -%}
-  {%- assign nextDayNum = page.dayNum | plus:"1" -%}
-{%- elsif page.dayNum == 7 -%}
-  {%- assign nextWeekNum = page.weekNum | plus:"1" -%}
-  {%- assign nextDayNum = 1 -%}
-  {%- assign prevWeekNum = page.weekNum -%}
-  {%- assign prevDayNum = page.dayNum | minus:"1" -%}
-{%- else -%}
-  {%- assign prevWeekNum = page.weekNum -%}
-  {%- assign prevDayNum = page.dayNum | minus:"1" -%}
-  {%- assign nextWeekNum = page.weekNum -%}
-  {%- assign nextDayNum = page.dayNum | plus:"1" -%}
-{%- endif -%}
+{%- assign prevDayNum = page.dayNum | minus:"1" -%}
+{%- assign nextDayNum = page.dayNum | plus:"1" -%}
 
 {%- assign prevDay = "/genesis/day" | append:prevDayNum | append:".html" -%}
 {%- assign prevDay = "/genesis/day" | append:nextDayNum | append:".html" -%}
-{%- assign weekly = "/guide/2024/wk" | append:page.weekNum | append:".html" -%}
-{%- assign enUrl = "/en/2024" | append : page.permalink -%}
 
 {%- capture linksTable -%}
 <table style="width:100%; display: table;">
@@ -53,7 +36,6 @@ title: {{ site.name }}
 
 <div id="dailyContent">
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
 
 {{ content }}
 
