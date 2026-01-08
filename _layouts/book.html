@@ -7,7 +7,7 @@ title: {{ site.name }}
 {%- assign nextDayNum = page.dayNum | plus:"1" -%}
 
 {%- assign prevDay = "/genesis/day" | append:prevDayNum | append:".html" -%}
-{%- assign prevDay = "/genesis/day" | append:nextDayNum | append:".html" -%}
+{%- assign nextDay = "/genesis/day" | append:nextDayNum | append:".html" -%}
 
 {%- capture linksTable -%}
 <table style="width:100%; display: table;">
