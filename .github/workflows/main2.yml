@@ -2,8 +2,7 @@ name: Check Google Drive File2
 
 on:
   schedule:
-    #- cron: '*/20 * * * *' # Runs every hour on the hour, to disable, change to 1 1 *
-    - cron: '0 0 1 12 *'
+    - cron: '*/20 * * * *' # Runs every hour on the hour, to disable, change to 1 1 *
 jobs:
   update_md_file:
     runs-on: ubuntu-latest
@@ -92,7 +91,7 @@ jobs:
                   DAY_OF_YEAR=$((DAY_OF_YEAR+365))
                 fi
               fi
-              
+              DAY_OF_YEAR=$((DAY_OF_YEAR-3)) # start day offset
               m_date=$(date -d "2025-12-29 + $((weeks_to_add-1)) week + $((days_to_add-1)) days" +"%Y-%m-%d")
               
               row=$(awk "NR == $row_number" "$filename")
