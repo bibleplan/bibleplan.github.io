@@ -1,10 +1,10 @@
 ---
-cycle: 2018
+cycle: 2024
 layout: sharing
 categories: sharing Zhuolin
 language: Chinese
 title: 每日靈修：從創世到啓示
-date: 2018-01-01
+date: 2024-01-01
 weekNum: 1
 dayNum: 1
 permalink: /genesis/day1-zhuolin.html
