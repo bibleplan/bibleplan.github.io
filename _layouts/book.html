@@ -8,6 +8,9 @@ title: {{ site.name }}
 
 {%- assign prevDay = "/genesis/day" | append:prevDayNum | append:".html" -%}
 {%- assign nextDay = "/genesis/day" | append:nextDayNum | append:".html" -%}
+{%- assign sharing1 = "/genesis/day" | append:nextDayNum | append:"-zhuolin.html" -%}
+{%- assign sharing2 = "/genesis/day" | append:nextDayNum | append:"-zhuolin2.html" -%}
+{%- assign sharing3 = "/genesis/day" | append:nextDayNum | append:"-zhuolin3.html" -%}
 
 {%- capture linksTable -%}
 <table style="width:100%; display: table;">
@@ -44,8 +47,22 @@ title: {{ site.name }}
 {%- assign sharingsThisWeek = sharings | where: "weekNum", page.weekNum -%} 
 {%- assign sharingsThisWeek = sharingsThisWeek | where: "cycle", page.cycle -%} 
   
-  <ul>
-{%- for post in sharingsThisWeek -%}
+<ul>
+  {%- assign pageExists = site.posts | where: "url", sharing1 | size -%}
+  {%- if pageExists > 0 -%}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {%- endif -%}
+  {%- assign pageExists = site.posts | where: "url", sharing2 | size -%}
+  {%- if pageExists > 0 -%}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {%- endif -%}
+  {%- assign pageExists = site.posts | where: "url", sharing3 | size -%}
+  {%- if pageExists > 0 -%}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {%- endif -%}
+
+  
+  {%- for post in sharingsThisWeek -%}
   {%- assign isTemp = post.title | slice: -4,3 -%}
   {%- if post.date == pageDate and isTemp != "待更新" -%}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
