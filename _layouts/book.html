@@ -51,14 +51,20 @@ title: {{ site.name }}
   {%- assign pageExists = site.posts | where: "url", sharing1 | size -%}
   {%- if pageExists > 0 -%}
     <li><a href="{{ sharing1 }}">{{ post.title }}</a></li>
+  {%- else %}
+    <li>{{ sharing1 }}">{{ post.title }}</li>
   {%- endif -%}
   {%- assign pageExists = site.posts | where: "url", sharing2 | size -%}
   {%- if pageExists > 0 -%}
     <li><a href="{{ sharing2 }}">{{ post.title }}</a></li>
+  {%- else %}
+    <li>{{ sharing2 }}">{{ post.title }}</li>
   {%- endif -%}
   {%- assign pageExists = site.posts | where: "url", sharing3 | size -%}
   {%- if pageExists > 0 -%}
     <li><a href="{{ sharing3 }}">{{ post.title }}</a></li>
+  {%- else %}
+    <li>{{ sharing3 }}">{{ post.title }}</li>
   {%- endif -%}
 
   
