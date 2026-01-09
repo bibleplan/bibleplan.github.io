@@ -12,6 +12,10 @@ title: {{ site.name }}
 {%- assign sharing2 = "/genesis/day" | append:page.dayNum | append:"-zhuolin2.html" -%}
 {%- assign sharing3 = "/genesis/day" | append:page.dayNum | append:"-zhuolin3.html" -%}
 
+{{ site.baseurl }}{{ sharing1 }}
+{{ site.baseurl }}{{ sharing2 }}
+{{ site.baseurl }}{{ sharing3 }}
+
 {%- capture linksTable -%}
 <table style="width:100%; display: table;">
   <thead>
@@ -50,7 +54,7 @@ title: {{ site.name }}
 <ul>
   {%- assign pageExists = site.posts | where: "url", sharing1 | size -%}
   {%- if pageExists > 0 -%}
-    <li><a href="{{ sharing1 }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ sharing1 }}">{{ post.title }}</a></li>
   {%- else %}
     <li>{{ sharing1 }}">{{ post.title }}</li>
   {%- endif -%}
