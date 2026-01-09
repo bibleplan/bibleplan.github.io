@@ -12,9 +12,11 @@ title: {{ site.name }}
 {%- assign sharing2 = "/genesis/day" | append:page.dayNum | append:"-zhuolin2.html" -%}
 {%- assign sharing3 = "/genesis/day" | append:page.dayNum | append:"-zhuolin3.html" -%}
 
-{{ site.baseurl }}{{ sharing1 }}
-{{ site.baseurl }}{{ sharing2 }}
-{{ site.baseurl }}{{ sharing3 }}
+{{ site.baseurl }}{{ sharing1 }}  
+{{ site.baseurl }}{{ sharing2 }}  
+{{ site.baseurl }}{{ sharing3 }}  
+{{ site.posts }}
+
 
 {%- capture linksTable -%}
 <table style="width:100%; display: table;">
@@ -41,10 +43,13 @@ title: {{ site.name }}
     {{ linksTable }}
 <p>
 
+  
 <div id="dailyContent">
 <h2>{{ page.title }}</h2>
 
 {{ content }}
+
+  
 
 {%- assign pageDate = page.date | "%Y-%m-%d" -%}
 {%- assign sharings = site.posts | where: "categories", "sharing" -%}
