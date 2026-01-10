@@ -1,5 +1,5 @@
 ---
-cycle: 2024
+cycle: book
 layout: sharing
 categories: sharing Zhuolin
 language: Chinese
