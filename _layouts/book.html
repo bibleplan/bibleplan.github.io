@@ -57,36 +57,15 @@ title: {{ site.name }}
 {%- assign sharingsThisWeek = sharingsThisWeek | where: "cycle", page.cycle -%} 
   
 <ul>
-  {%- assign pageExists = site.posts | where: "url", sharing1 | size -%}
-  {%- if pageExists > 0 -%}
-    <li><a href="{{ site.baseurl }}{{ sharing1 }}">{{ post.title }}</a></li>
-  {%- else %}
-    <li>{{ sharing1 }}">{{ post.title }}</li>
-  {%- endif -%}
-  {%- assign pageExists = site.posts | where: "url", sharing2 | size -%}
-  {%- if pageExists > 0 -%}
-    <li><a href="{{ sharing2 }}">{{ post.title }}</a></li>
-  {%- else %}
-    <li>{{ sharing2 }}">{{ post.title }}</li>
-  {%- endif -%}
-  {%- assign pageExists = site.posts | where: "url", sharing3 | size -%}
-  {%- if pageExists > 0 -%}
-    <li><a href="{{ sharing3 }}">{{ post.title }}</a></li>
-  {%- else %}
-    <li>{{ sharing3 }}">{{ post.title }}</li>
-  {%- endif -%}
-
-  
   {%- for post in sharingsThisWeek -%}
-  {%- assign isTemp = post.title | slice: -4,3 -%}
-  {%- if post.date == pageDate and isTemp != "待更新" -%}
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {%- if post.categories contains "Zhuolin" -%}
-      {%- assign showWordPress = 1 -%}
+    {%- assign isTemp = post.title | slice: -4,3 -%}
+    {%- if post.date == pageDate and isTemp != "待更新" -%}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {%- if post.categories contains "Zhuolin" -%}
+        {%- assign showWordPress = 1 -%}
+      {%- endif -%}
     {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
-  
+  {%- endfor -%}
 </ul>
 </div>
 
