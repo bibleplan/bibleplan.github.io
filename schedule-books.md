@@ -11,10 +11,6 @@ plan:
       titleEn: Genesis 1.1-2.3
       verseBG: Genesis.1.1-2.3
       verseYV: GEN.1
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
 
   - index: 2
     verses:
@@ -22,21 +18,13 @@ plan:
       titleEn: Genesis 2.4-4.26
       verseBG: Genesis.2.4-4.26
       verseYV: GEN.2
-    - titleCh: 詩篇 2
-      titleEn: Psalms 2
-      verseBG: Psalms.2
-      verseYV: PSA.2
-
+    
   - index: 3
     verses:
     - titleCh: 創世記 5.1-6.8
       titleEn: Genesis 5.1-6.8
       verseBG: Genesis.5.1-6.8
       verseYV: GEN.5
-    - titleCh: 詩篇 3
-      titleEn: Psalms 3
-      verseBG: Psalms.3
-      verseYV: PSA.3
 
   - index: 4
     verses:
@@ -73,17 +61,6 @@ plan:
 
   - index: 7
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
-
-  - index: 8
-    verses:
     - titleCh: 創世記 12
       titleEn: Genesis 12
       verseBG: Genesis.12
@@ -93,7 +70,7 @@ plan:
       verseBG: Psalms.8
       verseYV: PSA.8
 
-  - index: 9
+  - index: 8
     verses:
     - titleCh: 創世記 13-14
       titleEn: Genesis 13-14
@@ -104,7 +81,7 @@ plan:
       verseBG: Psalms.9
       verseYV: PSA.9
 
-  - index: 10
+  - index: 9
     verses:
     - titleCh: 創世記 15-16
       titleEn: Genesis 15-16
@@ -115,7 +92,7 @@ plan:
       verseBG: Psalms.10
       verseYV: PSA.10
 
-  - index: 11
+  - index: 10
     verses:
     - titleCh: 創世記 17
       titleEn: Genesis 17
@@ -126,7 +103,7 @@ plan:
       verseBG: Psalms.11
       verseYV: PSA.11
 
-  - index: 12
+  - index: 11
     verses:
     - titleCh: 創世記 18.1-15
       titleEn: Genesis 18.1-15
@@ -137,7 +114,7 @@ plan:
       verseBG: Psalms.12
       verseYV: PSA.12
 
-  - index: 13
+  - index: 12
     verses:
     - titleCh: 創世記 18.16-19.38
       titleEn: Genesis 18.16-19.38
@@ -148,18 +125,7 @@ plan:
       verseBG: Psalms.13
       verseYV: PSA.13
 
-  - index: 14
-    verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 14
-      titleEn: Psalms 14
-      verseBG: Psalms.14
-      verseYV: PSA.14
-
-  - index: 15
+  - index: 13
     verses:
     - titleCh: 創世記 20-21
       titleEn: Genesis 20-21
@@ -170,7 +136,7 @@ plan:
       verseBG: Psalms.15
       verseYV: PSA.15
 
-  - index: 16
+  - index: 14
     verses:
     - titleCh: 創世記 22-23
       titleEn: Genesis 22-23
@@ -181,7 +147,7 @@ plan:
       verseBG: Psalms.16
       verseYV: PSA.16
 
-  - index: 17
+  - index: 15
     verses:
     - titleCh: 創世記 24-25.11
       titleEn: Genesis 24-25.11
@@ -192,7 +158,7 @@ plan:
       verseBG: Psalms.17
       verseYV: PSA.17
 
-  - index: 18
+  - index: 16
     verses:
     - titleCh: 創世記 25.12-18
       titleEn: Genesis 25.12-18
@@ -203,7 +169,7 @@ plan:
       verseBG: Psalms.18
       verseYV: PSA.18
 
-  - index: 19
+  - index: 17
     verses:
     - titleCh: 創世記 25.19-26.35
       titleEn: Genesis 25.19-26.35
@@ -214,7 +180,7 @@ plan:
       verseBG: Psalms.19
       verseYV: PSA.19
 
-  - index: 20
+  - index: 18
     verses:
     - titleCh: 創世記 27-28
       titleEn: Genesis 27-28
@@ -225,18 +191,7 @@ plan:
       verseBG: Psalms.20
       verseYV: PSA.20
 
-  - index: 21
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 21
-      titleEn: Psalms 21
-      verseBG: Psalms.21
-      verseYV: PSA.21
-
-  - index: 22
+  - index: 19
     verses:
     - titleCh: 創世記 29-31
       titleEn: Genesis 29-31
@@ -247,7 +202,7 @@ plan:
       verseBG: Psalms.22
       verseYV: PSA.22
 
-  - index: 23
+  - index: 20
     verses:
     - titleCh: 創世記 32-33
       titleEn: Genesis 32-33
@@ -258,7 +213,7 @@ plan:
       verseBG: Psalms.23
       verseYV: PSA.23
 
-  - index: 24
+  - index: 21
     verses:
     - titleCh: 創世記 34-35
       titleEn: Genesis 34-35
@@ -269,7 +224,7 @@ plan:
       verseBG: Psalms.24
       verseYV: PSA.24
 
-  - index: 25
+  - index: 22
     verses:
     - titleCh: 創世記 36.1-37.1
       titleEn: Genesis 36.1-37.1
@@ -280,7 +235,7 @@ plan:
       verseBG: Psalms.25
       verseYV: PSA.25
 
-  - index: 26
+  - index: 23
     verses:
     - titleCh: 創世記 37.2-38.30
       titleEn: Genesis 37.2-38.30
@@ -291,7 +246,7 @@ plan:
       verseBG: Psalms.26
       verseYV: PSA.26
 
-  - index: 27
+  - index: 24
     verses:
     - titleCh: 創世記 39-40
       titleEn: Genesis 39-40
@@ -302,18 +257,7 @@ plan:
       verseBG: Psalms.27
       verseYV: PSA.27
 
-  - index: 28
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 28
-      titleEn: Psalms 28
-      verseBG: Psalms.28
-      verseYV: PSA.28
-
-  - index: 29
+  - index: 25
     verses:
     - titleCh: 創世記 41-42
       titleEn: Genesis 41-42
@@ -324,7 +268,7 @@ plan:
       verseBG: Psalms.29
       verseYV: PSA.29
 
-  - index: 30
+  - index: 26
     verses:
     - titleCh: 創世記 43-44
       titleEn: Genesis 43-44
@@ -335,7 +279,7 @@ plan:
       verseBG: Psalms.30
       verseYV: PSA.30
 
-  - index: 31
+  - index: 27
     verses:
     - titleCh: 創世記 45-46
       titleEn: Genesis 45-46
@@ -346,7 +290,7 @@ plan:
       verseBG: Psalms.31
       verseYV: PSA.31
 
-  - index: 32
+  - index: 28
     verses:
     - titleCh: 創世記 47-48
       titleEn: Genesis 47-48
@@ -357,7 +301,7 @@ plan:
       verseBG: Psalms.32
       verseYV: PSA.32
 
-  - index: 33
+  - index: 29
     verses:
     - titleCh: 創世記 49-50
       titleEn: Genesis 49-50
@@ -368,7 +312,7 @@ plan:
       verseBG: Psalms.33
       verseYV: PSA.33
 
-  - index: 34
+  - index: 30
     verses:
     - titleCh: 出埃及記  1-2
       titleEn: Exodus 1-2
@@ -379,18 +323,7 @@ plan:
       verseBG: Psalms.34
       verseYV: PSA.34
 
-  - index: 35
-    verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
-    - titleCh: 詩篇 35
-      titleEn: Psalms 35
-      verseBG: Psalms.35
-      verseYV: PSA.35
-
-  - index: 36
+  - index: 31
     verses:
     - titleCh: 出埃及記   3-4
       titleEn: Exodus  3-4
