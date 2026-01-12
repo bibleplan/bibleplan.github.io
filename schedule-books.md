@@ -32,10 +32,6 @@ plan:
       titleEn: Genesis 6.9-9.29
       verseBG: Genesis.6.9-9.29
       verseYV: GEN.6
-    - titleCh: 詩篇 4
-      titleEn: Psalms 4
-      verseBG: Psalms.4
-      verseYV: PSA.4
 
   - index: 5
     verses:
@@ -43,10 +39,6 @@ plan:
       titleEn: Genesis 10.1-11.9
       verseBG: Genesis.10.1-11.9
       verseYV: GEN.10
-    - titleCh: 詩篇 5
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
 
   - index: 6
     verses:
@@ -54,10 +46,6 @@ plan:
       titleEn: Genesis 11.10-32
       verseBG: Genesis.11.10-32
       verseYV: GEN.11.10-32
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
 
   - index: 7
     verses:
@@ -65,10 +53,6 @@ plan:
       titleEn: Genesis 12
       verseBG: Genesis.12
       verseYV: GEN.12
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
 
   - index: 8
     verses:
@@ -76,10 +60,6 @@ plan:
       titleEn: Genesis 13-14
       verseBG: Genesis.13-14
       verseYV: GEN.13
-    - titleCh: 詩篇 9
-      titleEn: Psalms 9
-      verseBG: Psalms.9
-      verseYV: PSA.9
 
   - index: 9
     verses:
@@ -87,10 +67,6 @@ plan:
       titleEn: Genesis 15-16
       verseBG: Genesis.15-16
       verseYV: GEN.15
-    - titleCh: 詩篇 10
-      titleEn: Psalms 10
-      verseBG: Psalms.10
-      verseYV: PSA.10
 
   - index: 10
     verses:
@@ -98,10 +74,6 @@ plan:
       titleEn: Genesis 17
       verseBG: Genesis.17
       verseYV: GEN.17
-    - titleCh: 詩篇 11
-      titleEn: Psalms 11
-      verseBG: Psalms.11
-      verseYV: PSA.11
 
   - index: 11
     verses:
@@ -109,10 +81,6 @@ plan:
       titleEn: Genesis 18.1-15
       verseBG: Genesis.18.1-15
       verseYV: GEN.18
-    - titleCh: 詩篇 12
-      titleEn: Psalms 12
-      verseBG: Psalms.12
-      verseYV: PSA.12
 
   - index: 12
     verses:
@@ -120,10 +88,6 @@ plan:
       titleEn: Genesis 18.16-19.38
       verseBG: Genesis.18.16-19.38
       verseYV: GEN.18
-    - titleCh: 詩篇 13
-      titleEn: Psalms 13
-      verseBG: Psalms.13
-      verseYV: PSA.13
 
   - index: 13
     verses:
@@ -131,10 +95,6 @@ plan:
       titleEn: Genesis 20-21
       verseBG: Genesis.20-21
       verseYV: GEN.20
-    - titleCh: 詩篇 15
-      titleEn: Psalms 15
-      verseBG: Psalms.15
-      verseYV: PSA.15
 
   - index: 14
     verses:
@@ -142,10 +102,6 @@ plan:
       titleEn: Genesis 22-23
       verseBG: Genesis.22-23
       verseYV: GEN.22
-    - titleCh: 詩篇 16
-      titleEn: Psalms 16
-      verseBG: Psalms.16
-      verseYV: PSA.16
 
   - index: 15
     verses:
@@ -153,10 +109,6 @@ plan:
       titleEn: Genesis 24-25.11
       verseBG: Genesis.24-25.11
       verseYV: GEN.24
-    - titleCh: 詩篇 17
-      titleEn: Psalms 17
-      verseBG: Psalms.17
-      verseYV: PSA.17
 
   - index: 16
     verses:
