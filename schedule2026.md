@@ -117,10 +117,10 @@ plan:
 
   - index: 11
     verses:
-    - titleCh: 創世記 17
-      titleEn: Genesis 17
-      verseBG: Genesis.17
-      verseYV: GEN.17
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
     - titleCh: 詩篇 11
       titleEn: Psalms 11
       verseBG: Psalms.11
@@ -128,20 +128,20 @@ plan:
 
   - index: 12
     verses:
-    - titleCh: 創世記 18.1-15
-      titleEn: Genesis 18.1-15
-      verseBG: Genesis.18.1-15
-      verseYV: GEN.18
+    - titleCh: 創世記 17
+      titleEn: Genesis 17
+      verseBG: Genesis.17
+      verseYV: GEN.17
     - titleCh: 詩篇 12
       titleEn: Psalms 12
       verseBG: Psalms.12
       verseYV: PSA.12
 
   - index: 13
-    verses:
-    - titleCh: 創世記 18.16-19.38
-      titleEn: Genesis 18.16-19.38
-      verseBG: Genesis.18.16-19.38
+    verses:	
+    - titleCh: 創世記 18.1-15
+      titleEn: Genesis 18.1-15
+      verseBG: Genesis.18.1-15
       verseYV: GEN.18
     - titleCh: 詩篇 13
       titleEn: Psalms 13
@@ -150,10 +150,10 @@ plan:
 
   - index: 14
     verses:
-    - titleCh: 
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 創世記 18.16-19.38
+      titleEn: Genesis 18.16-19.38
+      verseBG: Genesis.18.16-19.38
+      verseYV: GEN.18
     - titleCh: 詩篇 14
       titleEn: Psalms 14
       verseBG: Psalms.14
@@ -194,20 +194,20 @@ plan:
 
   - index: 18
     verses:
-    - titleCh: 創世記 25.12-18
-      titleEn: Genesis 25.12-18
-      verseBG: Genesis.25.12-18
-      verseYV: GEN.25
-    - titleCh: 詩篇 18
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+	- titleCh: 詩篇 18
       titleEn: Psalms 18
       verseBG: Psalms.18
       verseYV: PSA.18
 
   - index: 19
     verses:
-    - titleCh: 創世記 25.19-26.35
-      titleEn: Genesis 25.19-26.35
-      verseBG: Genesis.25.19-26.35
+    - titleCh: 創世記 25.12-18
+      titleEn: Genesis 25.12-18
+      verseBG: Genesis.25.12-18
       verseYV: GEN.25
     - titleCh: 詩篇 19
       titleEn: Psalms 19
@@ -216,10 +216,10 @@ plan:
 
   - index: 20
     verses:
-    - titleCh: 創世記 27-28
-      titleEn: Genesis 27-28
-      verseBG: Genesis.27-28
-      verseYV: GEN.27
+    - titleCh: 創世記 25.19-26.35
+      titleEn: Genesis 25.19-26.35
+      verseBG: Genesis.25.19-26.35
+      verseYV: GEN.25
     - titleCh: 詩篇 20
       titleEn: Psalms 20
       verseBG: Psalms.20
@@ -227,10 +227,10 @@ plan:
 
   - index: 21
     verses:
-    - titleCh:  
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 創世記 27-28
+      titleEn: Genesis 27-28
+      verseBG: Genesis.27-28
+      verseYV: GEN.27
     - titleCh: 詩篇 21
       titleEn: Psalms 21
       verseBG: Psalms.21
