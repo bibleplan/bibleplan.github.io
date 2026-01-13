@@ -192,13 +192,13 @@ plan:
       verseBG: Psalms.17
       verseYV: PSA.17
 
-  - index: 18
+  - index: 11
     verses:
     - titleCh: 
       titleEn: 
       verseBG: 
       verseYV: 
-	- titleCh: 詩篇 18
+    - titleCh: 詩篇 18
       titleEn: Psalms 18
       verseBG: Psalms.18
       verseYV: PSA.18
