@@ -127,7 +127,7 @@ jobs:
                 case $((row_number % 4)) in
                 1) 
                   echo $m_date
-                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR25" _posts/sharing/2026/wk$week_with_zeros/$wkly_date-qianli.md
+                  sed_cmp_s "QLDAY" "$DAY_OF_YEAR" _posts/sharing/2026/wk$week_with_zeros/$wkly_date-qianli.md
                   
                   sed_cmp "QLREVIEWTITLE" "$row" "_posts/sharing/2026/wk$week_with_zeros/$m_date-qianli.md"
                   sed_cmp "QLREVIEWTITLE" "$row" "_posts/daily/2026/wk$week_with_zeros/$wkly_date-daily.md"
