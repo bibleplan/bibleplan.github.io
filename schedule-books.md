@@ -1,5 +1,5 @@
 ---
-layout: schedule2024
+layout: schedule-books
 plan:
   name: "「每日讀經 與主同行」"
   startDate: "01-01-2024"
