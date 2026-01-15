@@ -25,7 +25,7 @@ language: "Chinese"
          <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
    
       {%- else -%}
-         {%- if today >= postDate and showPosts <= 9 -%}
+         {%- if today >= postDate and showPosts <= 20 -%}
             {%- assign isTemp = post.title | slice: -4,3 -%}
             {%- unless isTemp == "待更新" -%}
               {%- if post.categories contains "daily" -%}
