@@ -20,7 +20,7 @@ title: {{ site.name }}
   {%- assign nextDayNum = page.dayNum | plus:"1" -%}
 {%- endif -%}
 
-{%- assign prevDayNum = page.weekNum | times:7 | plus: page.dayNum | minus:9 -%}
+{%- assign prevDayNum = page.weekNum | times:7 | plus: page.dayNum | minus:8 -%}
 {%- assign nextDayNum = prevDayNum| plus: 2 -%}
 
 {%- assign prevDay = "/genesis/day" | append:prevDayNum | append:".html" -%}
