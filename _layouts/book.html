@@ -19,8 +19,8 @@ title: {{ site.name }}
   {%- assign nextDayBookNum = page.bookDayNum | plus:"1" -%}
 {%- endif -%}
 
-{%- assign prevDay = "/" | append: prevDayBook | append | "/day" | append:prevDayBookNum | append:".html" -%}
-{%- assign nextDay = "/" | append: nextDayBook | append | "/day" | append:nextDayBookNum | append:".html" -%}
+{%- assign prevDay = "/" | append: prevDayBook | append | "/day" | append: prevDayBookNum | append:".html" -%}
+{%- assign nextDay = "/" | append: nextDayBook | append | "/day" | append: nextDayBookNum | append:".html" -%}
 
 {%- capture linksTable -%}
 <table style="width:100%; display: table;">
