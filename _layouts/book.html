@@ -13,7 +13,7 @@ title: {{ site.name }}
 
 {%- if page.bookDayNum == page.bookDayTotal -%}
   {%- assign nextDayBook = page.bookNext -%}
-  {%- assign nextDayBookNum = "1" -%}
+  {%- assign nextDayBookNum = 1 -%}
 {%- else -%}
   {%- assign nextDayBook = page.book -%}
   {%- assign nextDayBookNum = page.bookDayNum | plus:"1" -%}
