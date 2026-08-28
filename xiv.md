@@ -1,1 +1,1 @@
-week35.txt,https://drive.google.com/u/0/uc?id=1gb-IxRRd0lf1grtenUV8UqrPFXUSf3D-&export=download,2026-08-21T17:21:45.000Z
+week36.txt,https://drive.google.com/u/0/uc?id=1agVb6gR6rdKlEkSwRCNg56mTBEO4daFJ&export=download,2026-08-27T18:27:18.000Z
