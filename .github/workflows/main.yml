@@ -2,7 +2,7 @@ name: Check Google Drive File
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Runs every hour on the hour, to disable, change to 1 1 *
+    - cron: '*/25 * * * *' # Runs every hour on the hour, to disable, change to 1 1 *
 
 jobs:
   update_md_file:
